@@ -1,0 +1,48 @@
+schema_version: 1
+
+# Curated conference SERIES (not year-specific instances)
+# The scraper/exporter will later resolve each series to specific yearly instances and deadlines.
+series:
+
+  - id: ieee_icc
+    title: "IEEE International Conference on Communications"
+    acronyms: ["ICC"]
+    tracks: ["wireless_comm"]
+    priority: 5
+    match:
+      keywords:
+        - "IEEE ICC"
+        - "International Conference on Communications"
+      regex:
+        - "\\bICC\\b"
+    sources_hint:
+      - type: wikicfp
+        query: "IEEE ICC"
+      - type: official
+        website: ""
+
+  - id: ieee_globecom
+    title: "IEEE Global Communications Conference"
+    acronyms: ["GLOBECOM", "Globecom"]
+    tracks: ["wireless_comm"]
+    priority: 5
+    match:
+      keywords: ["IEEE GLOBECOM", "Global Communications Conference"]
+      regex: ["\\bGLOBECOM\\b"]
+    sources_hint:
+      - type: wikicfp
+        query: "GLOBECOM"
+
+  - id: ieee_pimrc
+    title: "IEEE International Symposium on Personal, Indoor and Mobile Radio Communications"
+    acronyms: ["PIMRC"]
+    tracks: ["wireless_comm"]
+    priority: 4
+    match:
+      keywords: ["PIMRC", "Mobile Radio Communications"]
+      regex: ["\\bPIMRC\\b"]
+
+# Optional: explicit excludes to keep noise down (very useful for WikiCFP long-tail)
+excludes:
+  - regex: "journal of"
+  - regex: "special issue"

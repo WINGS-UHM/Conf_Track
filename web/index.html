@@ -1,0 +1,811 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Conference Tracking</title>
+  <style>
+    /* ===== Design tokens ===== */
+    :root {
+      --bg: #f7f7fb;
+      --card: #ffffff;
+      --text: #2b2f36;
+      --muted: #6b7280;
+      --accent: #3a86ff;
+      --accent-2: #22c55e;
+      --red: #e11d48;
+      --orange: #f59e0b;
+      --green: #10b981;
+      --border: #e5e7eb;
+      --shadow: 0 6px 24px rgba(16, 24, 40, 0.06);
+      --radius: 14px;
+      --sticky-h: 112px; /* header + toolbar height */
+      --card-max: 920px;
+    }
+    [data-theme="dark"] {
+      --bg: #0b1220;
+      --card: #0f172a;
+      --text: #e5e7eb;
+      --muted: #94a3b8;
+      --accent: #60a5fa;
+      --accent-2: #34d399;
+      --border: #1f2937;
+      --shadow: 0 8px 28px rgba(0,0,0,0.4);
+    }
+
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body {
+      margin: 0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      color: var(--text);
+      background: radial-gradient(1200px 600px at 50% -100px, rgba(58,134,255,0.08), transparent 60%), var(--bg);
+      display: flex; flex-direction: column; overflow: hidden;
+    }
+
+    /* ===== Header + Toolbar ===== */
+    .header {
+      position: sticky; top: 0; z-index: 50; background: linear-gradient(#fff0, #fff0), var(--bg);
+      backdrop-filter: blur(6px);
+    }
+    .topbar {
+      max-width: 1600px; margin: 10px auto 0; padding: 10px 16px;
+      display: flex; align-items: center; justify-content: space-between; gap: 12px;
+    }
+    .brand { display: flex; align-items: center; gap: 10px; }
+    .brand h1 { font-size: 1.3rem; font-weight: 700; margin: 0; letter-spacing: 0.2px; }
+    .chip { font-size: 12px; padding: 4px 8px; border: 1px solid var(--border); border-radius: 999px; color: var(--muted); }
+
+    .toolbar {
+      max-width: 1600px; margin: 0 auto; padding: 8px 16px 12px; display: grid; gap: 8px; align-items: center;
+      grid-template-columns: 1fr repeat(6, max-content);
+    }
+    .toolbar .field { display: flex; align-items: center; gap: 6px; }
+    .toolbar input[type="search"], .toolbar select {
+      height: 36px; padding: 0 10px; border: 1px solid var(--border); border-radius: 10px; background: var(--card); color: var(--text);
+    }
+    .toolbar input[type="search"] { width: 100%; }
+    .toolbar .btn {
+      border: 1px solid var(--border); background: var(--card); color: var(--text); height: 36px; padding: 0 12px; border-radius: 10px; cursor: pointer;
+    }
+    .toolbar .btn[data-active="true"] { outline: 2px solid var(--accent); }
+    .toolbar .toggle { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); }
+
+    .divider { height: 1px; background: var(--border); }
+
+    /* ===== Table/Card area ===== */
+    .wrap { max-width: 1600px; margin: 0 auto; flex: 1; width: 100%; display: flex; flex-direction: column; overflow: hidden; }
+
+    .table-header { display: none; }
+    .th { display: flex; align-items: center; gap: 6px; justify-content: center; cursor: pointer; user-select: none; }
+    .th .sort { font-size: 11px; opacity: 0.8; }
+
+    .table-body { flex: 1; overflow: auto; padding: 16px; display: flex; flex-direction: column; align-items: center; gap: 0; }
+
+    .row { display: grid; grid-template-columns: 1fr; align-items: start; gap: 10px; padding: 14px; border: 1px solid var(--border); border-radius: 12px; background: var(--card); box-shadow: var(--shadow); margin-top: 12px; transition: transform .06s ease; width: min(var(--card-max), calc(100% - 32px)); }
+    .row:hover { transform: translateY(-1px); }
+
+    .cell { text-align: left; padding: 2px 4px; white-space: normal; overflow: visible; text-overflow: initial; }
+    .title { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 8px; }
+    .title a { color: var(--accent); text-decoration: none; font-weight: 600; }
+    .title .actions { display: inline-flex; gap: 6px; }
+    .icon-btn { border: 1px solid var(--border); background: transparent; color: var(--muted); padding: 6px 8px; border-radius: 10px; cursor: pointer; }
+    .icon-btn:hover { color: var(--accent); border-color: var(--accent); }
+
+    /* GitHub star fallback badge */
+    .gh-inline { display:inline-flex; align-items:center; }
+    .gh-inline .github-button, .gh-inline .gh-badge { margin-left: 8px; }
+    .gh-badge { display:inline-flex; align-items:center; gap:6px; font-size:12px; border:1px solid var(--border); border-radius:999px; padding:4px 8px; color:var(--muted); background:var(--card); }
+    .gh-badge .count { font-weight:600; color:var(--text); }
+    .details { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 8px; }
+    .detail { padding: 6px 8px; border: 1px dashed var(--border); border-radius: 10px; color: var(--muted); background: color-mix(in oklab, var(--card) 90%, transparent); }
+    .detail b { color: var(--text); font-weight: 600; margin-right: 6px; }
+
+    .badge { font-size: 12px; padding: 1px 7px; border-radius: 999px; border: 1px solid var(--border); color: var(--muted); }
+
+    .countdown { font-weight: 700; }
+    .countdown.green { color: var(--green); }
+    .countdown.orange { color: var(--orange); }
+    .countdown.red { color: var(--red); }
+
+    .actions { display: inline-flex; gap: 6px; }
+    .icon-btn { border: 1px solid var(--border); background: transparent; color: var(--muted); padding: 6px 8px; border-radius: 10px; cursor: pointer; }
+    .icon-btn:hover { color: var(--accent); border-color: var(--accent); }
+
+    .empty { text-align: center; color: var(--muted); margin: 16px auto; padding: 24px; border: 1px dashed var(--border); border-radius: 12px; background: color-mix(in oklab, var(--card) 86%, transparent); max-width: var(--card-max); }
+
+    .row.closed { background: #f3f4f6; border-color: #e5e7eb; opacity: 0.85; }
+    [data-theme="dark"] .row.closed { background: #111827; border-color: #1f2937; opacity: 0.8; }
+    .row.closed .title a { color: var(--muted) !important; }
+    .row.closed .detail { color: var(--muted); }
+    .row.closed .badge { color: var(--muted); border-color: var(--border); }
+    .row.closed .countdown { color: var(--muted) !important; }
+
+    /* ===== Responsive (cards on mobile) ===== */
+    @media (max-width: 980px) {
+      :root { --sticky-h: 160px; }
+      .toolbar { grid-template-columns: 1fr 1fr 1fr; grid-auto-rows: min-content; }
+      .table-header { display: none; }
+      .row { grid-template-columns: 1fr; gap: 8px; }
+      .cell { text-align: left; white-space: normal; }
+      .title { display: flex; justify-content: space-between; align-items: center; }
+      .grid-sm { display: grid; grid-template-columns: repeat(2, 1fr); gap: 6px; }
+      .countdown { justify-self: end; }
+    }
+  
+    /* ===== Lightweight UI variant ===== */
+    html[data-ui="lite"] body { background: var(--bg) !important; }
+    html[data-ui="lite"] .row { box-shadow: none; border-radius: 8px; border-color: var(--border); padding: 10px; margin-top: 8px; }
+    html[data-ui="lite"] .row:hover { transform: none; }
+    html[data-ui="lite"] .table-body { padding: 8px; }
+    html[data-ui="lite"] .detail { border-style: solid; background: transparent; padding: 4px 6px; border-radius: 8px; }
+    html[data-ui="lite"] .badge { border-color: var(--border); }
+    html[data-ui="lite"] .toolbar .btn, html[data-ui="lite"] .toolbar select, html[data-ui="lite"] .toolbar input[type="search"] { height: 32px; border-radius: 8px; }
+    html[data-ui="lite"] .brand h1 { font-weight: 600; }
+  </style>
+</head>
+<body>
+  <header class="header" role="banner">
+    <div class="topbar">
+      <div class="brand" aria-label="Site title">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12a8 8 0 1 1 16 0v6a2 2 0 0 1-2 2h-2v-8a4 4 0 1 0-8 0v8H6a2 2 0 0 1-2-2v-6Z" stroke="currentColor" stroke-width="1.5"/></svg>
+        <h1>Conference Tracking</h1>
+        <span id="ghStar" class="gh-inline"></span>
+        <span class="chip" title="Client‑side only">No‑backend</span>
+      </div>
+      <div class="field">
+        <button id="themeBtn" class="btn" aria-label="Toggle dark mode">🌗 Theme</button>
+        <button id="uiBtn" class="btn" aria-pressed="false" title="Toggle lightweight UI">🪶 Lite</button>
+      </div>
+    </div>
+    <div class="toolbar" role="region" aria-label="Filters and actions">
+      <input id="search" type="search" placeholder="Search conferences, venue, acronym… (⌘/Ctrl+K)" aria-label="Search" />
+      <select id="subject">
+        <option value="ALL">All Subjects</option>
+        <option>Wireless & Communication</option>
+        <option>Security & Privacy</option>
+        <option>Networking & Systems</option>
+      </select>
+      <select id="sort">
+        <option value="deadline-asc">Submission DDL ↑</option>
+        <option value="deadline-desc">Submission DDL ↓</option>
+        <option value="name-asc">Name A→Z</option>
+        <option value="name-desc">Name Z→A</option>
+      </select>
+      <label class="toggle"><input type="checkbox" id="onlyOpen" /> Only open</label>
+      <label class="toggle"><input type="checkbox" id="onlyFav" /> Only favorites</label>
+      <select id="tz">
+        <option value="auto">Timezone: Auto</option>
+        <option value="Pacific/Honolulu">Timezone: Pacific/Honolulu</option>
+        <option value="America/Los_Angeles">Timezone: America/Los_Angeles</option>
+        <option value="UTC">Timezone: UTC</option>
+      </select>
+      <button id="exportCsv" class="btn" title="Export current view">Export CSV</button>
+    </div>
+    <div class="divider"></div>
+  </header>
+
+  <main class="wrap" role="main">
+    <div id="cols" class="table-header" aria-hidden="true">
+      <div class="th" data-sort="name">Conference <span class="sort">⇅</span></div>
+      <div class="th" data-sort="host">Host Time <span class="sort">⇅</span></div>
+      <div class="th" data-sort="loc">Location <span class="sort">⇅</span></div>
+      <div class="th" data-sort="abs">Abstract DDL <span class="sort">⇅</span></div>
+      <div class="th" data-sort="sub">Submission DDL <span class="sort">⇅</span></div>
+      <div class="th" data-sort="noti">Notification <span class="sort">⇅</span></div>
+      <div class="th" data-sort="left">Time Left <span class="sort">⇅</span></div>
+    </div>
+    <section id="list" class="table-body" aria-live="polite"></section>
+  </main>
+
+  <!-- Template: Notification on first row; second row holds Location/Host/Submission/Note (Abstract info goes into Note) -->
+  <template id="row-tpl">
+    <article class="row" role="article">
+      <div class="cell title">
+        <div>
+          <a class="link" target="_blank" rel="noopener"></a>
+          <span class="meta"></span>
+        </div>
+        <div class="actions">
+          <span class="notif" title="Notification date">—</span>
+          <span class="countdown">—</span>
+          <button class="icon-btn fav" title="Toggle favorite" aria-label="Toggle favorite">☆</button>
+          <button class="icon-btn ics" title="Add DDL to Calendar" aria-label="Add deadline to calendar">📅</button>
+        </div>
+      </div>
+      <div class="details">
+        <div class="detail loc"><b>Location:</b> <span class="v"></span></div>
+        <div class="detail host"><b>Host:</b> <span class="v"></span></div>
+        <div class="detail sub"><b>Submission DDL:</b> <span class="v"></span></div>
+        <div class="detail note" hidden><b>Note:</b> <span class="v"></span></div>
+      </div>
+    </article>
+  </template>
+
+  <section id="empty" class="empty" hidden>
+    No conferences match your filters. Try clearing the search or toggles.
+  </section>
+
+  <script>
+    // ===== Utils =====
+    var $ = function(sel, el){ return (el||document).querySelector(sel); };
+    var $$ = function(sel, el){ return Array.from((el||document).querySelectorAll(sel)); };
+
+    var state = {
+      confs: [],
+      filtered: [],
+      subject: 'ALL',
+      sort: 'deadline-asc',
+      onlyOpen: false,
+      onlyFav: false,
+      search: '',
+      tz: 'auto',
+      favs: new Set(JSON.parse(localStorage.getItem('favConfs') || '[]')),
+    };
+
+    // ===== GitHub Star config (set your repo "owner/name") =====
+    var GH_REPO = ''; // e.g., "nexuseli18/conf-tracker"
+
+    function saveFavs(){ localStorage.setItem('favConfs', JSON.stringify(Array.from(state.favs))); }
+
+    // ===== Classification =====
+    var CATS = ['Wireless & Communication','Security & Privacy','Networking & Systems'];
+
+    // Acronym -> Category dictionary (extend freely)
+    var CAT_BY_ACRONYM = (function(){
+      var map = {};
+      function put(list, cat){ for(var i=0;i<list.length;i++){ map[list[i]] = cat; } }
+      // Wireless only
+      put(['ICC','GLOBECOM','WCNC','VTC','PIMRC','INFOCOM-WIRELESS','IPSN','WoWMoM','CROWNCOM','Globecom','ICC Workshops'], 'Wireless & Communication');
+      // Security only
+      put(['S&P','OAKLAND','NDSS','CCS','USENIX SECURITY','RAID','PETS','ACSAC','CSF','EuroS&P','ASIACCS'], 'Security & Privacy');
+      // Net/Sys only
+      put(['SIGCOMM','NSDI','CoNEXT','CONEXT','ICNP','ICDCS','IMC','HOTNETS','SOSP','OSDI','EUROSYS','FAST','Middleware','CLOUD','SOCC','LANMAN'], 'Networking & Systems');
+      // Dual-tag series (Net/Sys + Wireless)
+      map['INFOCOM'] = ['Networking & Systems','Wireless & Communication'];
+      map['MOBICOM'] = ['Networking & Systems','Wireless & Communication'];
+      map['MOBIHOC'] = ['Networking & Systems','Wireless & Communication'];
+      map['SENSYS'] = ['Networking & Systems','Wireless & Communication'];
+      return map;
+    })();
+
+    // Keyword -> Category heuristics (lowercase)
+    var KEYWORDS = [
+      { words: ['security','privacy','crypt'], cat: 'Security & Privacy' },
+      { words: ['wireless','wlan','cellular','lte','5g','6g','communication','mimo','beamforming','wcnc','vtc'], cat: 'Wireless & Communication' },
+      { words: ['network','routing','switch','sdn','systems','distributed','cloud','datacenter','osdi','sosp','sigcomm','nsdi','icnp','icdcs','imc','conext','hotnets'], cat: 'Networking & Systems' }
+    ];
+
+    // Common search aliases: map long names or variants -> well-known acronyms
+    var SEARCH_ALIASES = [
+      { alias: 'infocom', tests: ['infocom','international conference on computer communications'] },
+      { alias: 'mobicom', tests: ['mobi com','mobicom'] },
+      { alias: 'mobihoc', tests: ['mobi hoc','mobihoc'] },
+      { alias: 'sensys', tests: ['sensys','sensor systems','acm sensys'] },
+    ];
+
+    function extractAcronyms(name){
+      if(!name) return [];
+      var s = String(name).toUpperCase();
+      var arr = [];
+      // common patterns: "ACM SIGCOMM 2026", "IEEE ICC 2026", "USENIX Security", "IEEE S&P"
+      var mParen = s.match(/\(([A-Z&\.]{2,})\)/g) || [];
+      for(var i=0;i<mParen.length;i++){ arr.push(mParen[i].replace(/[()]/g,'')); }
+      // tokens of consecutive caps (len>=2) as possible acronyms
+      var toks = s.split(/[^A-Z0-9&\.]+/);
+      for(var j=0;j<toks.length;j++){ var t=toks[j]; if(t && /[A-Z]/.test(t) && t.length>=2) arr.push(t); }
+      // normalize special cases
+      for(var k=0;k<arr.length;k++){ if(arr[k]==='IEEE') arr[k]=''; if(arr[k]==='ACM') arr[k]=''; }
+      return arr.filter(function(x){ return x && x!=='IEEE' && x!=='ACM'; });
+    }
+
+    function inferCategoryFromAcronym(name){
+      var acs = extractAcronyms(name);
+      var out = [];
+      for(var i=0;i<acs.length;i++){
+        var a = acs[i];
+        var v = CAT_BY_ACRONYM[a];
+        if(v){
+          if(Array.isArray(v)) out = out.concat(v); else out.push(v);
+        } else {
+          if(a==='SP' || a==='S&P' || a==='OAKLAND') out.push('Security & Privacy');
+          if(a==='CONEXT') out.push('Networking & Systems');
+        }
+      }
+      // unique
+      var seen = {}; var uniq = [];
+      for(var k=0;k<out.length;k++){ var c=out[k]; if(c && !seen[c]){ seen[c]=1; uniq.push(c); } }
+      return uniq.length? uniq : null;
+    }
+
+    function inferCategoryFromKeywords(name){
+      var s = (name||'').toLowerCase();
+      // Special case: INFOCOM textual name without acronym
+      if(s.indexOf('infocom')!==-1 || s.indexOf('international conference on computer communications')!==-1){
+        return ['Networking & Systems','Wireless & Communication'];
+      }
+      for(var i=0;i<KEYWORDS.length;i++){
+        var rule = KEYWORDS[i];
+        for(var j=0;j<rule.words.length;j++){
+          if(s.indexOf(rule.words[j])!==-1) return rule.cat;
+        }
+      }
+      return null;
+    }
+
+    function normalizeCategory(cat){
+      if(!cat) return null;
+      var arr = Array.isArray(cat) ? cat : [cat];
+      var out = [];
+      for(var i=0;i<arr.length;i++){
+        var val = arr[i]; if(!val) continue;
+        for(var j=0;j<CATS.length;j++){
+          if(String(val).toLowerCase().indexOf(CATS[j].toLowerCase())!==-1){ out.push(CATS[j]); break; }
+        }
+      }
+      // unique
+      var seen = {}; var uniq = [];
+      for(var k=0;k<out.length;k++){ var v=out[k]; if(!seen[v]){ seen[v]=1; uniq.push(v); } }
+      return uniq.length? uniq : null;
+    }
+
+    function classifyConference(c){
+      var name = c.name || c.Conference || '';
+      var fromField = normalizeCategory(c.sub || c.category || c.CATEGORY);
+      var fromAcr = normalizeCategory(inferCategoryFromAcronym(name));
+      var fromKey = normalizeCategory(inferCategoryFromKeywords(name));
+      // Priority: explicit field (if valid) > acronym map > keyword map > fallback heuristic
+      var cats = fromField || fromAcr || fromKey;
+      if(!cats){
+        if(/security|privacy/i.test(name)) cats = ['Security & Privacy'];
+        else if(/wireless|communication|mobi|wcnc|vtc|5g|6g/i.test(name)) cats = ['Wireless & Communication'];
+        else cats = ['Networking & Systems'];
+      }
+      c.sub = cats; // ensure array of categories
+      return cats;
+    }
+
+    function autoClassifyAll(list){
+      for(var i=0;i<list.length;i++) classifyConference(list[i]);
+    }
+
+    function isKnownCategory(x){ return CATS.indexOf(x)>=0; }
+
+    function ensureCategories(){
+      for(var i=0;i<state.confs.length;i++){
+        var c = state.confs[i];
+        classifyConference(c);
+      }
+    }
+
+    // Robust date sanitization: accepts "YYYY-MM-DD", "MMM DD, YYYY", ISO, and strips <strike>
+    function cleanDateStr(s){
+      if(!s) return '';
+      return String(s).replace(/<\/?strike>/g, '').trim();
+    }
+
+    function parseDate(s){
+      if(!s) return null;
+      s = cleanDateStr(s);
+      // ISO or YYYY-MM-DD
+      var iso = Date.parse(s);
+      if(!Number.isNaN(iso)) return new Date(iso);
+      // "Jan 05 2026" or "Jan 5, 2026"
+      var m = s.match(/^(\w{3,})\s(\d{1,2}),?\s(\d{4})$/);
+      if(m) return new Date(m[1] + ' ' + m[2] + ', ' + m[3]);
+      return null;
+    }
+
+    function fmtDate(d, opts){
+      if(!d) return '';
+      opts = opts || {};
+      var tz = state.tz === 'auto' ? undefined : state.tz;
+      var base = { year:'numeric', month:'short', day:'2-digit' };
+      // shallow merge base + opts
+      var all = { year: base.year, month: base.month, day: base.day };
+      for(var k in opts){ if(opts.hasOwnProperty(k)) all[k] = opts[k]; }
+      try {
+        if(tz) all.timeZone = tz;
+        return d.toLocaleDateString('en-US', all);
+      } catch (e) {
+        return d.toLocaleDateString('en-US', base);
+      }
+    }
+
+    function fmtHost(start, end){
+      var s = parseDate(start), e = parseDate(end);
+      if(!s || !e) return '';
+      var tz = state.tz === 'auto' ? undefined : state.tz;
+      var month = s.toLocaleDateString('en-US', { month:'short', timeZone: tz });
+      var sd = s.toLocaleDateString('en-US', { day:'2-digit', timeZone: tz });
+      var ed = e.toLocaleDateString('en-US', { day:'2-digit', timeZone: tz });
+      var year = s.toLocaleDateString('en-US', { year:'numeric', timeZone: tz });
+      return month + ' ' + sd + '–' + ed + ', ' + year;
+    }
+
+    function daysLeft(deadStr){
+      var d = parseDate(deadStr);
+      if(!d) return { text:'—', cls:'', closed:false, d:null };
+      var now = new Date();
+      var diffMs = d - now;
+      var closed = diffMs < 0;
+      if(closed) return { text:'Closed', cls:'red', closed:true, d: d };
+      var secTotal = Math.floor(diffMs / 1000);
+      var days = Math.floor(secTotal / 86400);
+      var hours = Math.floor((secTotal % 86400) / 3600);
+      var mins = Math.floor((secTotal % 3600) / 60);
+      var secs = secTotal % 60;
+      function pad2(n){ return String(n).padStart(2,'0'); }
+      var text = days + ' day ' + pad2(hours) + ' h ' + pad2(mins) + ' m ' + pad2(secs) + ' s';
+      var cls = 'green';
+      if(days <= 3) cls = 'red';
+      else if(days <= 20) cls = 'orange';
+      return { text: text, cls: cls, closed:false, d: d };
+    }
+
+    function debounce(fn, wait){
+      wait = wait || 250;
+      var t;
+      return function(){
+        var args = arguments;
+        clearTimeout(t);
+        t = setTimeout(function(){ fn.apply(null, args); }, wait);
+      };
+    }
+
+    function icsFor(conf){
+      var name = conf.name || conf.Conference || 'Conference';
+      var dlStr = conf['Submission Deadline'] || conf.deadline || '';
+      var d = parseDate(dlStr);
+      if(!d) return null;
+      function pad(n){ return String(n).padStart(2,'0'); }
+      // all-day event on deadline date in UTC
+      var y = d.getUTCFullYear(), m = pad(d.getUTCMonth()+1), day = pad(d.getUTCDate());
+      var DTSTART = '' + y + m + day;
+      var UID = '' + y + m + day + '-' + encodeURIComponent(name) + '@conftracker';
+      var desc = ('Submission deadline for ' + name + '. ' + (conf.link?('Link: '+conf.link):'')).trim();
+      var ics = 'BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//ConfTracker//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:' + UID + '\nDTSTAMP:' + y + m + day + 'T000000Z\nDTSTART;VALUE=DATE:' + DTSTART + '\nSUMMARY:Submission DDL — ' + name + '\nDESCRIPTION:' + desc.replace(/\n/g,' ') + '\nEND:VEVENT\nEND:VCALENDAR';
+      return new Blob([ics], { type: 'text/calendar' });
+    }
+
+    function toCSV(rows){
+      var header = ['Conference','Host Time','Location','Abstract DDL','Submission DDL','Notification','Days Left'];
+      function esc(s){ s = (s==null?'' : String(s)); return '"' + s.replace(/"/g,'""') + '"'; }
+      var lines = [header.join(',')];
+      for(var i=0;i<rows.length;i++){
+        var r = rows[i];
+        var dl = daysLeft(r['Submission Deadline']||r.deadline);
+        lines.push([
+          r.name||r.Conference||'',
+          fmtHost(r['Start Date'], r['End Date']),
+          r.Location||'',
+          fmtDate(parseDate(r['Abstract Deadline']||'')),
+          fmtDate(parseDate(r['Submission Deadline']||r.deadline||'')),
+          fmtDate(parseDate(r.Notification||'')),
+          dl.text
+        ].map(esc).join(','));
+      }
+      return new Blob([lines.join('\n')], {type:'text/csv'});
+    }
+
+    // ===== Rendering =====
+    function buildSearchText(c){
+      var parts = [];
+      var nm = (c.name || c.Conference || '');
+      var nmLower = nm.toLowerCase();
+      parts.push(nm);
+      if(c.Location) parts.push(c.Location);
+      // include acronym tokens extracted from name
+      var acs = extractAcronyms(nm);
+      for(var i=0;i<acs.length;i++) parts.push(acs[i]);
+      // include aliases inferred from long-form names
+      for(var j=0;j<SEARCH_ALIASES.length;j++){
+        var item = SEARCH_ALIASES[j];
+        for(var k=0;k<item.tests.length;k++){
+          if(nmLower.indexOf(item.tests[k]) !== -1){ parts.push(item.alias); break; }
+        }
+      }
+      return parts.join(' ').toLowerCase();
+    }
+    var $list = $('#list'), $tpl = $('#row-tpl'), $empty = $('#empty');
+
+    function ddlTs(c){
+      var d = parseDate(c['Submission Deadline']||c.deadline);
+      return d ? d.getTime() : null;
+    }
+
+    function applyFilters(){
+      var q = state.search.trim().toLowerCase();
+      var rows = state.confs.filter(function(c){
+        var hay = buildSearchText(c);
+        var subs = Array.isArray(c.sub) ? c.sub : (c.sub? [c.sub] : []);
+        var subsLower = subs.map(function(x){ return String(x).toLowerCase(); });
+        var okSub = state.subject === 'ALL' || subsLower.indexOf(state.subject.toLowerCase()) !== -1;
+        var okSearch = !q || hay.indexOf(q) !== -1;
+        var dl = daysLeft(c['Submission Deadline']||c.deadline);
+        var okOpen = !state.onlyOpen || !dl.closed;
+        var favKey = (c.link || c.name || c.Conference || '');
+        var okFav = !state.onlyFav || state.favs.has(favKey);
+        return okSub && okSearch && okOpen && okFav;
+      });
+
+      var keyers = {
+        'deadline-asc': function(c){ var t = ddlTs(c); return t==null? 9e15 : t; },
+        'deadline-desc': function(c){ var t = ddlTs(c); return t==null? 0 : -t; },
+        'name-asc': function(c){ return (c.name||c.Conference||'').toLowerCase(); },
+        'name-desc': function(c){ return '\uFFFF' + (c.name||c.Conference||'').toLowerCase(); }
+      };
+      var keyer = keyers[state.sort] || keyers['deadline-asc'];
+      rows.sort(function(a,b){
+        var dla = daysLeft(a['Submission Deadline']||a.deadline);
+        var dlb = daysLeft(b['Submission Deadline']||b.deadline);
+        if(dla.closed !== dlb.closed) return dla.closed ? 1 : -1; // open first, closed last
+        var ka = keyer(a); var kb = keyer(b);
+        return ka>kb?1:ka<kb?-1:0;
+      });
+
+      state.filtered = rows;
+      renderList();
+    }
+
+    function renderList(){
+      $list.innerHTML = '';
+      if(!state.filtered.length){ $empty.hidden = false; return; } else { $empty.hidden = true; }
+
+      var frag = document.createDocumentFragment();
+      for(var i=0;i<state.filtered.length;i++){
+        var c = state.filtered[i];
+        var el = $tpl.content.cloneNode(true);
+        var title = $('.link', el);
+        var meta = $('.meta', el);
+        var host = $('.host .v', el);
+        var loc = $('.loc .v', el);
+        var noteV = $('.note .v', el);
+        var sub = $('.sub .v', el);
+        var notiTop = $('.notif', el);
+        var left = $('.countdown', el);
+        var favBtn = $('.fav', el);
+        var icsBtn = $('.ics', el);
+
+        var name = c.name || c.Conference || '—';
+        title.textContent = name;
+        title.href = c.link || '#';
+        title.setAttribute('aria-label', 'Open ' + name + ' website');
+
+        meta.innerHTML = '';
+        if(c.sub){
+          var subs = Array.isArray(c.sub) ? c.sub : [c.sub];
+          for(var si=0; si<subs.length; si++){
+            var b = document.createElement('span'); b.className='badge'; b.textContent = subs[si]; meta.appendChild(b);
+          }
+        }
+        if(c.ccf){ var b2 = document.createElement('span'); b2.className='badge'; b2.textContent = 'CCF ' + c.ccf; meta.appendChild(b2); }
+
+        host.textContent = fmtHost(c['Start Date'], c['End Date']);
+        loc.textContent = c.Location || '';
+        var absStr = c['Abstract Deadline']||'';
+        var absDate = parseDate(absStr);
+        var noteBox = el.querySelector('.note');
+        if(absDate){
+          noteBox.hidden = false;
+          noteV.textContent = 'Abstract DDL: ' + fmtDate(absDate);
+        } else {
+          noteBox.hidden = true;
+          noteV.textContent = '';
+        }
+        var subD = c['Submission Deadline'] || c.deadline || '';
+        sub.textContent = fmtDate(parseDate(subD));
+        notiTop.textContent = fmtDate(parseDate(c.Notification||''));
+
+        var dl = daysLeft(subD);
+        left.textContent = dl.text; left.className = 'countdown ' + dl.cls;
+
+        // Mark closed entries for gray style
+        var article = el.querySelector('.row');
+        if(dl.closed){ article.classList.add('closed'); }
+
+        var favKey = c.link || c.name || c.Conference || '';
+        var favOn = state.favs.has(favKey);
+        favBtn.textContent = favOn ? '★' : '☆';
+        favBtn.setAttribute('aria-pressed', String(favOn));
+        favBtn.addEventListener('click', function(key){
+          return function(){
+            if(state.favs.has(key)) state.favs.delete(key); else state.favs.add(key);
+            saveFavs(); applyFilters();
+          };
+        }(favKey));
+
+        icsBtn.addEventListener('click', function(conf, nm){
+          return function(){
+            var blob = icsFor(conf);
+            if(!blob){ alert('No valid submission deadline to add.'); return; }
+            var url = URL.createObjectURL(blob);
+            var a = document.createElement('a');
+            a.href = url; a.download = (nm||'conf').replace(/[^a-z0-9]+/gi,'_') + '_submission_ddl.ics';
+            document.body.appendChild(a); a.click(); a.remove();
+            setTimeout(function(){ URL.revokeObjectURL(url); }, 2000);
+          };
+        }(c, name));
+
+        frag.appendChild(el);
+      }
+      $list.appendChild(frag);
+    }
+
+    // ===== Data =====
+    async function fetchData(){
+      var url = 'https://raw.githubusercontent.com/nexuseli18/conf-tracker/refs/heads/master/conferences.json';
+      try {
+        var res = await fetch(url, { cache:'no-store' });
+        if(!res.ok) throw new Error(res.status + ' ' + res.statusText);
+        var data = await res.json();
+        state.confs = Array.isArray(data) ? data : [];
+        ensureCategories();
+        applyFilters();
+      } catch (e) {
+        console.error('Failed to load conferences:', e);
+        $('#empty').hidden = false; $('#empty').textContent = 'Failed to load conference data. Check your network or data format.';
+      }
+    }
+
+    // ===== Events =====
+    $('#search').addEventListener('input', debounce(function(e){ state.search = e.target.value; applyFilters(); }, 120));
+    $('#subject').addEventListener('change', function(e){ state.subject = e.target.value; applyFilters(); });
+    $('#sort').addEventListener('change', function(e){ state.sort = e.target.value; applyFilters(); });
+    $('#onlyOpen').addEventListener('change', function(e){ state.onlyOpen = e.target.checked; applyFilters(); });
+    $('#onlyFav').addEventListener('change', function(e){ state.onlyFav = e.target.checked; applyFilters(); });
+    $('#exportCsv').addEventListener('click', function(){
+      var blob = toCSV(state.filtered);
+      var url = URL.createObjectURL(blob);
+      var a = document.createElement('a');
+      a.href = url; a.download = 'conferences.csv';
+      document.body.appendChild(a); a.click(); a.remove();
+      setTimeout(function(){ URL.revokeObjectURL(url); }, 1500);
+    });
+
+    // Timezone default: if running in Hawaiʻi, default to Pacific/Honolulu; else auto.
+    var hawaiiTZ = 'Pacific/Honolulu';
+    var tzGuess = Intl.DateTimeFormat().resolvedOptions().timeZone || 'auto';
+    if(tzGuess === hawaiiTZ){ $('#tz').value = hawaiiTZ; state.tz = hawaiiTZ; } else { state.tz = 'auto'; }
+    $('#tz').addEventListener('change', function(e){ state.tz = e.target.value; applyFilters(); });
+
+    // Keyboard focus for search
+    window.addEventListener('keydown', function(e){
+      if((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k'){ e.preventDefault(); $('#search').focus(); }
+    });
+
+    // Theme toggle
+    var themeBtn = $('#themeBtn');
+    var themeKey = 'confTheme';
+    var savedTheme = localStorage.getItem(themeKey);
+    if(savedTheme) document.documentElement.setAttribute('data-theme', savedTheme);
+    themeBtn.addEventListener('click', function(){
+      var cur = document.documentElement.getAttribute('data-theme');
+      var next = cur === 'dark' ? '' : 'dark';
+      if(next) document.documentElement.setAttribute('data-theme', next); else document.documentElement.removeAttribute('data-theme');
+      localStorage.setItem(themeKey, next);
+    });
+
+    // Lightweight UI toggle
+    var uiBtn = $('#uiBtn');
+    var uiKey = 'confUiMode';
+    var savedUi = localStorage.getItem(uiKey);
+    if(savedUi === 'lite'){
+      document.documentElement.setAttribute('data-ui','lite');
+      uiBtn.setAttribute('aria-pressed','true');
+      uiBtn.textContent = '🪶 Lite On';
+    }
+    uiBtn.addEventListener('click', function(){
+      var cur = document.documentElement.getAttribute('data-ui');
+      var next = cur === 'lite' ? '' : 'lite';
+      if(next) document.documentElement.setAttribute('data-ui', next); else document.documentElement.removeAttribute('data-ui');
+      localStorage.setItem(uiKey, next);
+      uiBtn.setAttribute('aria-pressed', next === 'lite' ? 'true' : 'false');
+      uiBtn.textContent = next === 'lite' ? '🪶 Lite On' : '🪶 Lite';
+    });
+
+    // Live countdown refresh (every second)
+    setInterval(function(){
+      var rows = $$('#list .row');
+      for(var i=0;i<rows.length;i++){
+        var row = rows[i];
+        var c = state.filtered[i];
+        if(!c) continue;
+        var dl = daysLeft(c['Submission Deadline']||c.deadline);
+        var el = row.querySelector('.countdown');
+        if(el){ el.textContent = dl.text; el.className = 'countdown ' + dl.cls; }
+        if(dl.closed) row.classList.add('closed');
+      }
+    }, 1000);
+
+    // ===== Developer smoke tests (console only) =====
+    function runSelfTests(){
+      try {
+        console.groupCollapsed('%cConfTracker tests','color:#3a86ff');
+        // parseDate tests
+        console.assert(parseDate('1970-01-01') instanceof Date, 'parseDate(YYYY-MM-DD) should work');
+        console.assert(parseDate('Jan 05, 2030') instanceof Date, 'parseDate(MMM DD, YYYY) should work');
+        console.assert(parseDate('Jan 5 2030') instanceof Date, 'parseDate(MMM D YYYY) should work');
+        // daysLeft future format & color thresholds
+        var f3 = new Date(Date.now() + 2*24*3600*1000).toISOString().slice(0,10); // <=3 days
+        var f10 = new Date(Date.now() + 10*24*3600*1000).toISOString().slice(0,10); // <=20 days
+        var f30 = new Date(Date.now() + 30*24*3600*1000).toISOString().slice(0,10); // >20 days
+        var dl3 = daysLeft(f3), dl10 = daysLeft(f10), dl30 = daysLeft(f30);
+        console.assert(/\d+ day \d{2} h \d{2} m \d{2} s/.test(dl3.text), 'daysLeft format ok');
+        console.assert(dl3.cls==='red' && dl10.cls==='orange' && dl30.cls==='green', 'color thresholds ok');
+        // search text should include acronym so "infocom" matches full name
+        var st = buildSearchText({ name: 'International Conference on Computer Communications (INFOCOM) 2026', Location: 'Honolulu' });
+        console.assert(st.indexOf('infocom')!==-1, 'buildSearchText should include acronym/alias for INFOCOM');
+        // alias coverage: long-form without acronym must also include alias
+        var st2 = buildSearchText({ name: 'International Conference on Computer Communications 2026', Location: 'Honolulu' });
+        console.assert(st2.indexOf('infocom')!==-1, 'alias: long-form INFOCOM should include "infocom" in search text');
+        // classification tests (additional)
+        var dual = classifyConference({ name: 'IEEE INFOCOM 2026' });
+        console.assert(Array.isArray(dual) && dual.indexOf('Networking & Systems')!==-1 && dual.indexOf('Wireless & Communication')!==-1, 'INFOCOM should have dual tags');
+        var dual2 = classifyConference({ name: 'ACM MobiCom 2026' });
+        console.assert(Array.isArray(dual2) && dual2.indexOf('Networking & Systems')!==-1 && dual2.indexOf('Wireless & Communication')!==-1, 'MobiCom should have dual tags');
+        var single = classifyConference({ name: 'IEEE ICDCS 2026' });
+        console.assert(Array.isArray(single) && single.length===1 && single[0]==='Networking & Systems', 'ICDCS should be single-tag Net/Sys');
+        // closed
+        var dlP = daysLeft('1970-01-01');
+        console.assert(dlP.closed === true && dlP.text === 'Closed', 'daysLeft should mark closed');
+        // sorting closed last
+        var future = f30;
+        var mock = [{deadline: future, name:'A'}, {deadline: '1970-01-01', name:'B'}];
+        state.confs = mock;
+        state.subject = 'ALL'; state.search=''; state.onlyOpen=false; state.onlyFav=false; state.sort='deadline-asc';
+        applyFilters();
+        console.assert(state.filtered[0].name==='A' && state.filtered[1].name==='B', 'Closed conferences should sort last');
+        console.groupEnd();
+      } catch (e) {
+        console.warn('Self tests encountered an error:', e);
+      }
+    }
+
+    // Mount GitHub star button if configured
+    function mountGitHubStar(repo){
+      var slot = document.getElementById('ghStar');
+      if(!slot) return;
+      slot.innerHTML = '';
+      if(!repo || repo.indexOf('/') === -1) return; // require owner/name
+      // Primary: GitHub Buttons
+      var a = document.createElement('a');
+      a.className = 'github-button';
+      a.href = 'https://github.com/' + repo;
+      a.setAttribute('data-icon','octicon-star');
+      a.setAttribute('data-show-count','true');
+      a.setAttribute('aria-label','Star ' + repo + ' on GitHub');
+      a.textContent = 'Star';
+      slot.appendChild(a);
+      // inject script once
+      if(!document.getElementById('gh-buttons-js')){
+        var s = document.createElement('script');
+        s.id = 'gh-buttons-js'; s.async = true; s.defer = true; s.src = 'https://buttons.github.io/buttons.js';
+        document.body.appendChild(s);
+      }
+      // Fallback: if buttons fail, fetch stars count and render a badge
+      setTimeout(function(){
+        // if iframe not created, do API fallback
+        if(!slot.querySelector('iframe')){
+          try {
+            fetch('https://api.github.com/repos/' + repo, {cache:'no-store'})
+            .then(function(r){ return r.ok ? r.json() : null; })
+            .then(function(j){
+              if(!j) return;
+              slot.innerHTML = '';
+              var link = document.createElement('a'); link.href = 'https://github.com/' + repo; link.target = '_blank'; link.rel='noopener';
+              var badge = document.createElement('span'); badge.className = 'gh-badge'; badge.innerHTML = '⭐ Star <span class="count">' + (j.stargazers_count||0) + '</span>';
+              link.appendChild(badge); slot.appendChild(link);
+            });
+          } catch (e) { /* ignore */ }
+        }
+      }, 1200);
+    }
+
+    // Init
+    fetchData();
+    runSelfTests();
+    mountGitHubStar(GH_REPO);
+  </script>
+</body>
+</html>

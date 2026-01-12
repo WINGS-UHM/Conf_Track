@@ -1,0 +1,11 @@
+schema_version: 1
+
+sources:
+  - id: ccf_deadlines
+    type: git
+    enabled: true
+    repo: "ccfddl/ccf-deadlines"
+    branch: "master"
+    # future:
+    # include_tracks: ["security_privacy", "networking_systems", ...]
+    # mapping_rules: ...

@@ -1,0 +1,23 @@
+schema_version: 1
+
+tracks:
+  - id: wireless_comm
+    label: "Wireless & Communication"
+    order: 10
+    aliases:
+      - "wireless"
+      - "communication"
+      - "communications"
+  - id: security_privacy
+    label: "Security & Privacy"
+    order: 20
+    aliases:
+      - "security"
+      - "privacy"
+  - id: networking_systems
+    label: "Networking & Systems"
+    order: 30
+    aliases:
+      - "networking"
+      - "systems"
+      - "distributed systems"
