@@ -1,0 +1,113 @@
+[
+    {
+      "name": "WCSE 2026",
+      "sub": ["Wireless & Communication"],
+      "Location": "Fukuoka, Japan",
+      "Start Date": "Jun 11 2026",
+      "End Date": "",
+      "Abstract Deadline": "",
+      "Submission Deadline": "Jan 20 2026",
+      "Notification": "",
+      "link": "https://www.wcse.us/"
+    },
+    {
+      "name": "ARCI' 2026",
+      "sub": ["Wireless & Communication"],
+      "Location": "Salzburg, Austria",
+      "Start Date": "Feb 25 2026",
+      "End Date": "",
+      "Abstract Deadline": "Nov 15 2025",
+      "Submission Deadline": "Jan 30 2026",
+      "Notification": "",
+      "link": "https://arci-conference.com/"
+    },
+    {
+      "name": "CSNDSP2026",
+      "sub": ["Wireless & Communication"],
+      "Location": "Edinburgh, United Kingdom (Great Britain)",
+      "Start Date": "",
+      "End Date": "Jul 18 2026",
+      "Abstract Deadline": "",
+      "Submission Deadline": "Jan 31 2026",
+      "Notification": "",
+      "link": "https://eng.ed.ac.uk/csndsp-2026"
+    },
+    {
+      "name": "APSIPA-ASC 2026",
+      "sub": ["Wireless & Communication"],
+      "Location": "Hanoi, Vietnam",
+      "Start Date": "Nov 10 2026",
+      "End Date": "Nov 13 2026",
+      "Abstract Deadline": "",
+      "Submission Deadline": "Jun 01 2026",
+      "Notification": "",
+      "link": ""
+    },
+    {
+      "name": "BMSB2026",
+      "sub": ["Networking & Systems"],
+      "Location": "João Pessoa, Brazil",
+      "Start Date": "Jul 08 2026",
+      "End Date": "",
+      "Abstract Deadline": "",
+      "Submission Deadline": "",
+      "Notification": "",
+      "link": "http://www.bmsb2026.com"
+    },
+    {
+      "name": "CISIS-2026",
+      "sub": ["Networking & Systems"],
+      "Location": "Luxembourg City, Luxembourg",
+      "Start Date": "",
+      "End Date": "Jul 04 2026",
+      "Abstract Deadline": "",
+      "Submission Deadline": "Mar 01 2026",
+      "Notification": "",
+      "link": "http://voyager.ce.fit.ac.jp/conf/cisis/2026/"
+    },
+    {
+      "name": "INFOCOM 2026",
+      "sub": ["Networking & Systems"],
+      "Location": "Tokyo, 〒 , Japan",
+      "Start Date": "May 18 2026",
+      "End Date": "May 21 2026",
+      "Abstract Deadline": "",
+      "Submission Deadline": "Jan 11 2026",
+      "Notification": "",
+      "link": "https://ieee-infocom.org"
+    },
+    {
+      "name": "ACM SIGCOMM",
+      "sub": ["Networking & Systems"],
+      "Location": "Denver, CO",
+      "Start Date": "Sep 11 2026",
+      "End Date": "",
+      "Abstract Deadline": "Jan 30 2026",
+      "Submission Deadline": "Feb 06 2026",
+      "Notification": "",
+      "link": "https://conferences.sigcomm.org/sigcomm/2026/"
+    },
+    {
+      "name": "ACM CCS - Cycle 1",
+      "sub": ["Security & Privacy"],
+      "Location": "Hague, Netherlands",
+      "Start Date": "Nov 15 2026",
+      "End Date": "",
+      "Abstract Deadline": "",
+      "Submission Deadline": "Jan 14 2026",
+      "Notification": "",
+      "link": "https://www.sigsac.org/ccs/CCS2026/"
+    },
+    {
+      "name": "DTISD 2026",
+      "sub": ["Wireless & Communication", "Security & Privacy"],
+      "Location": "Aden, Yemen",
+      "Start Date": "Jul 20 2026",
+      "End Date": "",
+      "Abstract Deadline": "",
+      "Submission Deadline": "Mar 20 2026",
+      "Notification": "",
+      "link": "https://dtisd.org/"
+    }
+  ]
+  

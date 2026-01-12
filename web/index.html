@@ -108,10 +108,6 @@
     .countdown.orange { color: var(--orange); }
     .countdown.red { color: var(--red); }
 
-    .actions { display: inline-flex; gap: 6px; }
-    .icon-btn { border: 1px solid var(--border); background: transparent; color: var(--muted); padding: 6px 8px; border-radius: 10px; cursor: pointer; }
-    .icon-btn:hover { color: var(--accent); border-color: var(--accent); }
-
     .empty { text-align: center; color: var(--muted); margin: 16px auto; padding: 24px; border: 1px dashed var(--border); border-radius: 12px; background: color-mix(in oklab, var(--card) 86%, transparent); max-width: var(--card-max); }
 
     .row.closed { background: #f3f4f6; border-color: #e5e7eb; opacity: 0.85; }
@@ -132,7 +128,7 @@
       .grid-sm { display: grid; grid-template-columns: repeat(2, 1fr); gap: 6px; }
       .countdown { justify-self: end; }
     }
-  
+
     /* ===== Lightweight UI variant ===== */
     html[data-ui="lite"] body { background: var(--bg) !important; }
     html[data-ui="lite"] .row { box-shadow: none; border-radius: 8px; border-color: var(--border); padding: 10px; margin-top: 8px; }
@@ -151,26 +147,23 @@
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12a8 8 0 1 1 16 0v6a2 2 0 0 1-2 2h-2v-8a4 4 0 1 0-8 0v8H6a2 2 0 0 1-2-2v-6Z" stroke="currentColor" stroke-width="1.5"/></svg>
         <h1>Conference Tracking</h1>
         <span id="ghStar" class="gh-inline"></span>
-        <span class="chip" title="Client‑side only">No‑backend</span>
+        <span class="chip" title="Client-side only">No-backend</span>
       </div>
       <div class="field">
-        <button id="themeBtn" class="btn" aria-label="Toggle dark mode">🌗 Theme</button>
-        <button id="uiBtn" class="btn" aria-pressed="false" title="Toggle lightweight UI">🪶 Lite</button>
+        <button id="themeBtn" class="btn" aria-label="Toggle dark mode">Theme</button>
+        <button id="uiBtn" class="btn" aria-pressed="false" title="Toggle lightweight UI">Lite</button>
       </div>
     </div>
     <div class="toolbar" role="region" aria-label="Filters and actions">
-      <input id="search" type="search" placeholder="Search conferences, venue, acronym… (⌘/Ctrl+K)" aria-label="Search" />
+      <input id="search" type="search" placeholder="Search conferences, venue, acronym... (Ctrl/Cmd+K)" aria-label="Search" />
       <select id="subject">
-        <option value="ALL">All Subjects</option>
-        <option>Wireless & Communication</option>
-        <option>Security & Privacy</option>
-        <option>Networking & Systems</option>
+          <option value="ALL">All Subjects</option>
       </select>
       <select id="sort">
-        <option value="deadline-asc">Submission DDL ↑</option>
-        <option value="deadline-desc">Submission DDL ↓</option>
-        <option value="name-asc">Name A→Z</option>
-        <option value="name-desc">Name Z→A</option>
+        <option value="deadline-asc">Submission DDL (earliest)</option>
+        <option value="deadline-desc">Submission DDL (latest)</option>
+        <option value="name-asc">Name A->Z</option>
+        <option value="name-desc">Name Z->A</option>
       </select>
       <label class="toggle"><input type="checkbox" id="onlyOpen" /> Only open</label>
       <label class="toggle"><input type="checkbox" id="onlyFav" /> Only favorites</label>
@@ -187,13 +180,13 @@
 
   <main class="wrap" role="main">
     <div id="cols" class="table-header" aria-hidden="true">
-      <div class="th" data-sort="name">Conference <span class="sort">⇅</span></div>
-      <div class="th" data-sort="host">Host Time <span class="sort">⇅</span></div>
-      <div class="th" data-sort="loc">Location <span class="sort">⇅</span></div>
-      <div class="th" data-sort="abs">Abstract DDL <span class="sort">⇅</span></div>
-      <div class="th" data-sort="sub">Submission DDL <span class="sort">⇅</span></div>
-      <div class="th" data-sort="noti">Notification <span class="sort">⇅</span></div>
-      <div class="th" data-sort="left">Time Left <span class="sort">⇅</span></div>
+      <div class="th" data-sort="name">Conference <span class="sort">^v</span></div>
+      <div class="th" data-sort="host">Host Time <span class="sort">^v</span></div>
+      <div class="th" data-sort="loc">Location <span class="sort">^v</span></div>
+      <div class="th" data-sort="abs">Abstract DDL <span class="sort">^v</span></div>
+      <div class="th" data-sort="sub">Submission DDL <span class="sort">^v</span></div>
+      <div class="th" data-sort="noti">Notification <span class="sort">^v</span></div>
+      <div class="th" data-sort="left">Time Left <span class="sort">^v</span></div>
     </div>
     <section id="list" class="table-body" aria-live="polite"></section>
   </main>
@@ -207,10 +200,10 @@
           <span class="meta"></span>
         </div>
         <div class="actions">
-          <span class="notif" title="Notification date">—</span>
-          <span class="countdown">—</span>
+          <span class="notif" title="Notification date">-</span>
+          <span class="countdown">-</span>
           <button class="icon-btn fav" title="Toggle favorite" aria-label="Toggle favorite">☆</button>
-          <button class="icon-btn ics" title="Add DDL to Calendar" aria-label="Add deadline to calendar">📅</button>
+          <button class="icon-btn ics" title="Add DDL to Calendar" aria-label="Add deadline to calendar">ICS</button>
         </div>
       </div>
       <div class="details">
@@ -241,48 +234,22 @@
       search: '',
       tz: 'auto',
       favs: new Set(JSON.parse(localStorage.getItem('favConfs') || '[]')),
+      subjects: [],
     };
 
     // ===== GitHub Star config (set your repo "owner/name") =====
-    var GH_REPO = ''; // e.g., "nexuseli18/conf-tracker"
+    var GH_REPO = ''; // e.g., "yourname/academic-conference-tracker"
 
     function saveFavs(){ localStorage.setItem('favConfs', JSON.stringify(Array.from(state.favs))); }
 
-    // ===== Classification =====
-    var CATS = ['Wireless & Communication','Security & Privacy','Networking & Systems'];
-
-    // Acronym -> Category dictionary (extend freely)
-    var CAT_BY_ACRONYM = (function(){
-      var map = {};
-      function put(list, cat){ for(var i=0;i<list.length;i++){ map[list[i]] = cat; } }
-      // Wireless only
-      put(['ICC','GLOBECOM','WCNC','VTC','PIMRC','INFOCOM-WIRELESS','IPSN','WoWMoM','CROWNCOM','Globecom','ICC Workshops'], 'Wireless & Communication');
-      // Security only
-      put(['S&P','OAKLAND','NDSS','CCS','USENIX SECURITY','RAID','PETS','ACSAC','CSF','EuroS&P','ASIACCS'], 'Security & Privacy');
-      // Net/Sys only
-      put(['SIGCOMM','NSDI','CoNEXT','CONEXT','ICNP','ICDCS','IMC','HOTNETS','SOSP','OSDI','EUROSYS','FAST','Middleware','CLOUD','SOCC','LANMAN'], 'Networking & Systems');
-      // Dual-tag series (Net/Sys + Wireless)
-      map['INFOCOM'] = ['Networking & Systems','Wireless & Communication'];
-      map['MOBICOM'] = ['Networking & Systems','Wireless & Communication'];
-      map['MOBIHOC'] = ['Networking & Systems','Wireless & Communication'];
-      map['SENSYS'] = ['Networking & Systems','Wireless & Communication'];
-      return map;
-    })();
-
-    // Keyword -> Category heuristics (lowercase)
-    var KEYWORDS = [
-      { words: ['security','privacy','crypt'], cat: 'Security & Privacy' },
-      { words: ['wireless','wlan','cellular','lte','5g','6g','communication','mimo','beamforming','wcnc','vtc'], cat: 'Wireless & Communication' },
-      { words: ['network','routing','switch','sdn','systems','distributed','cloud','datacenter','osdi','sosp','sigcomm','nsdi','icnp','icdcs','imc','conext','hotnets'], cat: 'Networking & Systems' }
-    ];
-
-    // Common search aliases: map long names or variants -> well-known acronyms
-    var SEARCH_ALIASES = [
-      { alias: 'infocom', tests: ['infocom','international conference on computer communications'] },
-      { alias: 'mobicom', tests: ['mobi com','mobicom'] },
-      { alias: 'mobihoc', tests: ['mobi hoc','mobihoc'] },
-      { alias: 'sensys', tests: ['sensys','sensor systems','acm sensys'] },
-    ];
+    // ===== Subjects / Categories (data-driven) =====
+    // The front-end no longer infers categories from acronyms/keywords.
+    // Instead, it expects the data source to provide the final categories in `sub`.
+    //
+    // Supported input:
+    //   - c.sub: string
+    //   - c.sub: string[]
+    // If missing/empty, we treat it as ["Uncategorized"] so it remains filterable.
 
     function extractAcronyms(name){
       if(!name) return [];
@@ -294,88 +261,74 @@
       // tokens of consecutive caps (len>=2) as possible acronyms
       var toks = s.split(/[^A-Z0-9&\.]+/);
       for(var j=0;j<toks.length;j++){ var t=toks[j]; if(t && /[A-Z]/.test(t) && t.length>=2) arr.push(t); }
-      // normalize special cases
-      for(var k=0;k<arr.length;k++){ if(arr[k]==='IEEE') arr[k]=''; if(arr[k]==='ACM') arr[k]=''; }
-      return arr.filter(function(x){ return x && x!=='IEEE' && x!=='ACM'; });
-    }
-
-    function inferCategoryFromAcronym(name){
-      var acs = extractAcronyms(name);
+      // drop common publisher tokens
       var out = [];
-      for(var i=0;i<acs.length;i++){
-        var a = acs[i];
-        var v = CAT_BY_ACRONYM[a];
-        if(v){
-          if(Array.isArray(v)) out = out.concat(v); else out.push(v);
-        } else {
-          if(a==='SP' || a==='S&P' || a==='OAKLAND') out.push('Security & Privacy');
-          if(a==='CONEXT') out.push('Networking & Systems');
-        }
+      for(var k=0;k<arr.length;k++){
+        var x = arr[k];
+        if(!x) continue;
+        if(x === 'IEEE' || x === 'ACM') continue;
+        out.push(x);
       }
       // unique
       var seen = {}; var uniq = [];
-      for(var k=0;k<out.length;k++){ var c=out[k]; if(c && !seen[c]){ seen[c]=1; uniq.push(c); } }
-      return uniq.length? uniq : null;
+      for(var u=0;u<out.length;u++){ var v=out[u]; if(v && !seen[v]){ seen[v]=1; uniq.push(v); } }
+      return uniq;
     }
 
-    function inferCategoryFromKeywords(name){
-      var s = (name||'').toLowerCase();
-      // Special case: INFOCOM textual name without acronym
-      if(s.indexOf('infocom')!==-1 || s.indexOf('international conference on computer communications')!==-1){
-        return ['Networking & Systems','Wireless & Communication'];
+    function normalizeSubs(c){
+      var raw = (c.sub != null ? c.sub : (c.category != null ? c.category : (c.CATEGORY != null ? c.CATEGORY : '')));
+      var arr = [];
+      if(Array.isArray(raw)) arr = raw;
+      else if(typeof raw === 'string'){
+        var s = raw.trim();
+        if(s) arr = [s];
       }
-      for(var i=0;i<KEYWORDS.length;i++){
-        var rule = KEYWORDS[i];
-        for(var j=0;j<rule.words.length;j++){
-          if(s.indexOf(rule.words[j])!==-1) return rule.cat;
-        }
-      }
-      return null;
-    }
-
-    function normalizeCategory(cat){
-      if(!cat) return null;
-      var arr = Array.isArray(cat) ? cat : [cat];
-      var out = [];
+      // sanitize + unique
+      var seen = {}; var out = [];
       for(var i=0;i<arr.length;i++){
-        var val = arr[i]; if(!val) continue;
-        for(var j=0;j<CATS.length;j++){
-          if(String(val).toLowerCase().indexOf(CATS[j].toLowerCase())!==-1){ out.push(CATS[j]); break; }
-        }
+        var v = String(arr[i] || '').trim();
+        if(!v) continue;
+        if(!seen[v]){ seen[v]=1; out.push(v); }
       }
-      // unique
-      var seen = {}; var uniq = [];
-      for(var k=0;k<out.length;k++){ var v=out[k]; if(!seen[v]){ seen[v]=1; uniq.push(v); } }
-      return uniq.length? uniq : null;
+      if(!out.length) out = ['Uncategorized'];
+      c.sub = out;
+      return out;
     }
 
-    function classifyConference(c){
-      var name = c.name || c.Conference || '';
-      var fromField = normalizeCategory(c.sub || c.category || c.CATEGORY);
-      var fromAcr = normalizeCategory(inferCategoryFromAcronym(name));
-      var fromKey = normalizeCategory(inferCategoryFromKeywords(name));
-      // Priority: explicit field (if valid) > acronym map > keyword map > fallback heuristic
-      var cats = fromField || fromAcr || fromKey;
-      if(!cats){
-        if(/security|privacy/i.test(name)) cats = ['Security & Privacy'];
-        else if(/wireless|communication|mobi|wcnc|vtc|5g|6g/i.test(name)) cats = ['Wireless & Communication'];
-        else cats = ['Networking & Systems'];
+    function buildSubjectOptions(){
+      var sel = $('#subject');
+      if(!sel) return;
+
+      var keep = state.subject;
+      sel.innerHTML = '';
+
+      var optAll = document.createElement('option');
+      optAll.value = 'ALL';
+      optAll.textContent = 'All Subjects';
+      sel.appendChild(optAll);
+
+      for(var i=0;i<state.subjects.length;i++){
+        var s = state.subjects[i];
+        var opt = document.createElement('option');
+        opt.value = s;
+        opt.textContent = s;
+        sel.appendChild(opt);
       }
-      c.sub = cats; // ensure array of categories
-      return cats;
-    }
 
-    function autoClassifyAll(list){
-      for(var i=0;i<list.length;i++) classifyConference(list[i]);
+      if(keep !== 'ALL' && state.subjects.indexOf(keep) === -1){
+        state.subject = 'ALL';
+      }
+      sel.value = state.subject;
     }
-
-    function isKnownCategory(x){ return CATS.indexOf(x)>=0; }
 
     function ensureCategories(){
+      var seen = {};
       for(var i=0;i<state.confs.length;i++){
-        var c = state.confs[i];
-        classifyConference(c);
+        var subs = normalizeSubs(state.confs[i]);
+        for(var j=0;j<subs.length;j++){ seen[subs[j]] = 1; }
       }
+      state.subjects = Object.keys(seen).sort(function(a,b){ return a.localeCompare(b); });
+      buildSubjectOptions();
     }
 
     // Robust date sanitization: accepts "YYYY-MM-DD", "MMM DD, YYYY", ISO, and strips <strike>
@@ -420,12 +373,12 @@
       var sd = s.toLocaleDateString('en-US', { day:'2-digit', timeZone: tz });
       var ed = e.toLocaleDateString('en-US', { day:'2-digit', timeZone: tz });
       var year = s.toLocaleDateString('en-US', { year:'numeric', timeZone: tz });
-      return month + ' ' + sd + '–' + ed + ', ' + year;
+      return month + ' ' + sd + '-' + ed + ', ' + year;
     }
 
     function daysLeft(deadStr){
       var d = parseDate(deadStr);
-      if(!d) return { text:'—', cls:'', closed:false, d:null };
+      if(!d) return { text:'-', cls:'', closed:false, d:null };
       var now = new Date();
       var diffMs = d - now;
       var closed = diffMs < 0;
@@ -464,7 +417,7 @@
       var DTSTART = '' + y + m + day;
       var UID = '' + y + m + day + '-' + encodeURIComponent(name) + '@conftracker';
       var desc = ('Submission deadline for ' + name + '. ' + (conf.link?('Link: '+conf.link):'')).trim();
-      var ics = 'BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//ConfTracker//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:' + UID + '\nDTSTAMP:' + y + m + day + 'T000000Z\nDTSTART;VALUE=DATE:' + DTSTART + '\nSUMMARY:Submission DDL — ' + name + '\nDESCRIPTION:' + desc.replace(/\n/g,' ') + '\nEND:VEVENT\nEND:VCALENDAR';
+      var ics = 'BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//ConfTracker//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:' + UID + '\nDTSTAMP:' + y + m + day + 'T000000Z\nDTSTART;VALUE=DATE:' + DTSTART + '\nSUMMARY:Submission DDL - ' + name + '\nDESCRIPTION:' + desc.replace(/\n/g,' ') + '\nEND:VEVENT\nEND:VCALENDAR';
       return new Blob([ics], { type: 'text/calendar' });
     }
 
@@ -492,19 +445,20 @@
     function buildSearchText(c){
       var parts = [];
       var nm = (c.name || c.Conference || '');
-      var nmLower = nm.toLowerCase();
       parts.push(nm);
+
       if(c.Location) parts.push(c.Location);
-      // include acronym tokens extracted from name
+
+      // include category labels
+      if(c.sub){
+        var subs = Array.isArray(c.sub) ? c.sub : [c.sub];
+        for(var si=0; si<subs.length; si++){ parts.push(subs[si]); }
+      }
+
+      // include acronym tokens extracted from the name
       var acs = extractAcronyms(nm);
       for(var i=0;i<acs.length;i++) parts.push(acs[i]);
-      // include aliases inferred from long-form names
-      for(var j=0;j<SEARCH_ALIASES.length;j++){
-        var item = SEARCH_ALIASES[j];
-        for(var k=0;k<item.tests.length;k++){
-          if(nmLower.indexOf(item.tests[k]) !== -1){ parts.push(item.alias); break; }
-        }
-      }
+
       return parts.join(' ').toLowerCase();
     }
     var $list = $('#list'), $tpl = $('#row-tpl'), $empty = $('#empty');
@@ -518,9 +472,8 @@
       var q = state.search.trim().toLowerCase();
       var rows = state.confs.filter(function(c){
         var hay = buildSearchText(c);
-        var subs = Array.isArray(c.sub) ? c.sub : (c.sub? [c.sub] : []);
-        var subsLower = subs.map(function(x){ return String(x).toLowerCase(); });
-        var okSub = state.subject === 'ALL' || subsLower.indexOf(state.subject.toLowerCase()) !== -1;
+        var subs = Array.isArray(c.sub) ? c.sub : (c.sub ? [c.sub] : []);
+        var okSub = state.subject === 'ALL' || subs.indexOf(state.subject) !== -1;
         var okSearch = !q || hay.indexOf(q) !== -1;
         var dl = daysLeft(c['Submission Deadline']||c.deadline);
         var okOpen = !state.onlyOpen || !dl.closed;
@@ -567,7 +520,7 @@
         var favBtn = $('.fav', el);
         var icsBtn = $('.ics', el);
 
-        var name = c.name || c.Conference || '—';
+        var name = c.name || c.Conference || '-';
         title.textContent = name;
         title.href = c.link || '#';
         title.setAttribute('aria-label', 'Open ' + name + ' website');
@@ -634,17 +587,37 @@
 
     // ===== Data =====
     async function fetchData(){
-      var url = 'https://raw.githubusercontent.com/nexuseli18/conf-tracker/refs/heads/master/conferences.json';
+      // Prefer local files (for GitHub Pages / local preview).
+      // Try a few common paths so the same HTML works in different repo layouts.
+      var candidates = [
+        './data/conferences.json',
+        '../data/conferences.json',
+        './conferences.json',
+        '../conferences.json'
+      ];
+      var url = null;
       try {
-        var res = await fetch(url, { cache:'no-store' });
-        if(!res.ok) throw new Error(res.status + ' ' + res.statusText);
-        var data = await res.json();
-        state.confs = Array.isArray(data) ? data : [];
-        ensureCategories();
-        applyFilters();
+        var lastErr = null;
+        for(var i=0;i<candidates.length;i++){
+          var u = candidates[i];
+          try {
+            var res = await fetch(u, { cache:'no-store' });
+            if(!res.ok) throw new Error(res.status + ' ' + res.statusText);
+            url = u;
+            var data = await res.json();
+            state.confs = Array.isArray(data) ? data : [];
+            ensureCategories();
+            applyFilters();
+            return;
+          } catch (e1) {
+            lastErr = e1;
+          }
+        }
+        throw lastErr || new Error('No data source succeeded.');
       } catch (e) {
         console.error('Failed to load conferences:', e);
-        $('#empty').hidden = false; $('#empty').textContent = 'Failed to load conference data. Check your network or data format.';
+        $('#empty').hidden = false;
+        $('#empty').textContent = 'Failed to load conference data. Tried: ' + candidates.join(', ') + '.';
       }
     }
 
@@ -663,7 +636,7 @@
       setTimeout(function(){ URL.revokeObjectURL(url); }, 1500);
     });
 
-    // Timezone default: if running in Hawaiʻi, default to Pacific/Honolulu; else auto.
+    // Timezone default: if running in Hawaii, default to Pacific/Honolulu; else auto.
     var hawaiiTZ = 'Pacific/Honolulu';
     var tzGuess = Intl.DateTimeFormat().resolvedOptions().timeZone || 'auto';
     if(tzGuess === hawaiiTZ){ $('#tz').value = hawaiiTZ; state.tz = hawaiiTZ; } else { state.tz = 'auto'; }
@@ -675,94 +648,38 @@
     });
 
     // Theme toggle
-    var themeBtn = $('#themeBtn');
-    var themeKey = 'confTheme';
-    var savedTheme = localStorage.getItem(themeKey);
-    if(savedTheme) document.documentElement.setAttribute('data-theme', savedTheme);
-    themeBtn.addEventListener('click', function(){
-      var cur = document.documentElement.getAttribute('data-theme');
-      var next = cur === 'dark' ? '' : 'dark';
-      if(next) document.documentElement.setAttribute('data-theme', next); else document.documentElement.removeAttribute('data-theme');
-      localStorage.setItem(themeKey, next);
+    function setTheme(mode){
+      document.documentElement.setAttribute('data-theme', mode);
+      localStorage.setItem('theme', mode);
+    }
+    function initTheme(){
+      var saved = localStorage.getItem('theme');
+      if(saved){ setTheme(saved); return; }
+      var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      setTheme(prefersDark ? 'dark' : 'light');
+    }
+    $('#themeBtn').addEventListener('click', function(){
+      var cur = document.documentElement.getAttribute('data-theme') || 'light';
+      setTheme(cur === 'dark' ? 'light' : 'dark');
     });
 
-    // Lightweight UI toggle
-    var uiBtn = $('#uiBtn');
-    var uiKey = 'confUiMode';
-    var savedUi = localStorage.getItem(uiKey);
-    if(savedUi === 'lite'){
-      document.documentElement.setAttribute('data-ui','lite');
-      uiBtn.setAttribute('aria-pressed','true');
-      uiBtn.textContent = '🪶 Lite On';
+    // Lite UI toggle
+    function setUI(mode){
+      document.documentElement.setAttribute('data-ui', mode);
+      localStorage.setItem('ui', mode);
+      $('#uiBtn').setAttribute('aria-pressed', String(mode === 'lite'));
+      $('#uiBtn').setAttribute('data-active', String(mode === 'lite'));
     }
-    uiBtn.addEventListener('click', function(){
-      var cur = document.documentElement.getAttribute('data-ui');
-      var next = cur === 'lite' ? '' : 'lite';
-      if(next) document.documentElement.setAttribute('data-ui', next); else document.documentElement.removeAttribute('data-ui');
-      localStorage.setItem(uiKey, next);
-      uiBtn.setAttribute('aria-pressed', next === 'lite' ? 'true' : 'false');
-      uiBtn.textContent = next === 'lite' ? '🪶 Lite On' : '🪶 Lite';
+    function initUI(){
+      var saved = localStorage.getItem('ui') || '';
+      setUI(saved === 'lite' ? 'lite' : '');
+    }
+    $('#uiBtn').addEventListener('click', function(){
+      var cur = document.documentElement.getAttribute('data-ui') || '';
+      setUI(cur === 'lite' ? '' : 'lite');
     });
 
-    // Live countdown refresh (every second)
-    setInterval(function(){
-      var rows = $$('#list .row');
-      for(var i=0;i<rows.length;i++){
-        var row = rows[i];
-        var c = state.filtered[i];
-        if(!c) continue;
-        var dl = daysLeft(c['Submission Deadline']||c.deadline);
-        var el = row.querySelector('.countdown');
-        if(el){ el.textContent = dl.text; el.className = 'countdown ' + dl.cls; }
-        if(dl.closed) row.classList.add('closed');
-      }
-    }, 1000);
-
-    // ===== Developer smoke tests (console only) =====
-    function runSelfTests(){
-      try {
-        console.groupCollapsed('%cConfTracker tests','color:#3a86ff');
-        // parseDate tests
-        console.assert(parseDate('1970-01-01') instanceof Date, 'parseDate(YYYY-MM-DD) should work');
-        console.assert(parseDate('Jan 05, 2030') instanceof Date, 'parseDate(MMM DD, YYYY) should work');
-        console.assert(parseDate('Jan 5 2030') instanceof Date, 'parseDate(MMM D YYYY) should work');
-        // daysLeft future format & color thresholds
-        var f3 = new Date(Date.now() + 2*24*3600*1000).toISOString().slice(0,10); // <=3 days
-        var f10 = new Date(Date.now() + 10*24*3600*1000).toISOString().slice(0,10); // <=20 days
-        var f30 = new Date(Date.now() + 30*24*3600*1000).toISOString().slice(0,10); // >20 days
-        var dl3 = daysLeft(f3), dl10 = daysLeft(f10), dl30 = daysLeft(f30);
-        console.assert(/\d+ day \d{2} h \d{2} m \d{2} s/.test(dl3.text), 'daysLeft format ok');
-        console.assert(dl3.cls==='red' && dl10.cls==='orange' && dl30.cls==='green', 'color thresholds ok');
-        // search text should include acronym so "infocom" matches full name
-        var st = buildSearchText({ name: 'International Conference on Computer Communications (INFOCOM) 2026', Location: 'Honolulu' });
-        console.assert(st.indexOf('infocom')!==-1, 'buildSearchText should include acronym/alias for INFOCOM');
-        // alias coverage: long-form without acronym must also include alias
-        var st2 = buildSearchText({ name: 'International Conference on Computer Communications 2026', Location: 'Honolulu' });
-        console.assert(st2.indexOf('infocom')!==-1, 'alias: long-form INFOCOM should include "infocom" in search text');
-        // classification tests (additional)
-        var dual = classifyConference({ name: 'IEEE INFOCOM 2026' });
-        console.assert(Array.isArray(dual) && dual.indexOf('Networking & Systems')!==-1 && dual.indexOf('Wireless & Communication')!==-1, 'INFOCOM should have dual tags');
-        var dual2 = classifyConference({ name: 'ACM MobiCom 2026' });
-        console.assert(Array.isArray(dual2) && dual2.indexOf('Networking & Systems')!==-1 && dual2.indexOf('Wireless & Communication')!==-1, 'MobiCom should have dual tags');
-        var single = classifyConference({ name: 'IEEE ICDCS 2026' });
-        console.assert(Array.isArray(single) && single.length===1 && single[0]==='Networking & Systems', 'ICDCS should be single-tag Net/Sys');
-        // closed
-        var dlP = daysLeft('1970-01-01');
-        console.assert(dlP.closed === true && dlP.text === 'Closed', 'daysLeft should mark closed');
-        // sorting closed last
-        var future = f30;
-        var mock = [{deadline: future, name:'A'}, {deadline: '1970-01-01', name:'B'}];
-        state.confs = mock;
-        state.subject = 'ALL'; state.search=''; state.onlyOpen=false; state.onlyFav=false; state.sort='deadline-asc';
-        applyFilters();
-        console.assert(state.filtered[0].name==='A' && state.filtered[1].name==='B', 'Closed conferences should sort last');
-        console.groupEnd();
-      } catch (e) {
-        console.warn('Self tests encountered an error:', e);
-      }
-    }
-
-    // Mount GitHub star button if configured
+    // GitHub stars: render a button (preferred), with badge fallback if script fails
     function mountGitHubStar(repo){
       var slot = document.getElementById('ghStar');
       if(!slot) return;
@@ -789,22 +706,30 @@
         if(!slot.querySelector('iframe')){
           try {
             fetch('https://api.github.com/repos/' + repo, {cache:'no-store'})
-            .then(function(r){ return r.ok ? r.json() : null; })
-            .then(function(j){
-              if(!j) return;
-              slot.innerHTML = '';
-              var link = document.createElement('a'); link.href = 'https://github.com/' + repo; link.target = '_blank'; link.rel='noopener';
-              var badge = document.createElement('span'); badge.className = 'gh-badge'; badge.innerHTML = '⭐ Star <span class="count">' + (j.stargazers_count||0) + '</span>';
-              link.appendChild(badge); slot.appendChild(link);
-            });
+              .then(function(r){ return r.ok ? r.json() : null; })
+              .then(function(j){
+                if(!j) return;
+                slot.innerHTML = '';
+                var link = document.createElement('a'); link.href = 'https://github.com/' + repo; link.target = '_blank'; link.rel='noopener';
+                var badge = document.createElement('span'); badge.className = 'gh-badge';
+                badge.innerHTML = 'Star <span class="count">' + (j.stargazers_count || 0) + '</span>';
+                link.appendChild(badge); slot.appendChild(link);
+              });
           } catch (e) { /* ignore */ }
         }
-      }, 1200);
+      }, 1600);
     }
 
     // Init
-    fetchData();
-    runSelfTests();
+    try {
+      initTheme();
+      initUI();
+      fetchData();
+    } catch (e) {
+      console.error('Init error:', e);
+    }
+
+    // ...;
     mountGitHubStar(GH_REPO);
   </script>
 </body>
