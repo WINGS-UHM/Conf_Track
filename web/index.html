@@ -275,7 +275,38 @@
       return uniq;
     }
 
-    function normalizeSubs(c){
+    
+    function canonicalizeSubjectLabel(label){
+      if(label == null) return '';
+      var s = String(label).trim();
+
+      // Strip the leading "CCF XX (...)" pattern to keep only parentheses content.
+      var m = s.match(/^CCF\s+\w+\s*\((.+)\)$/i);
+      if(m && m[1]) s = String(m[1]).trim();
+      if(/^CCF\s+/i.test(s)){
+        var m2 = s.match(/\(([^()]+)\)\s*$/);
+        if(m2 && m2[1]) s = String(m2[1]).trim();
+      }
+
+      var low = s.toLowerCase();
+
+      // Merge security categories
+      if(low === 'network and system security') return 'Security & Privacy';
+
+      // Merge networking/system categories
+      if(low === 'networking & systems' || low === 'networking and systems') return 'Network System';
+      if(low === 'network system') return 'Network System';
+
+      // Wireless naming
+      if(low === 'wireless & communication' || low === 'wireless and communication' || low === 'wireless/communication') return 'Wireless/Communication';
+
+      // Normalize dash variants for HCI
+      if(s === 'Computer–Human Interaction') return 'Computer-Human Interaction';
+
+      return s;
+    }
+
+function normalizeSubs(c){
       var raw = (c.sub != null ? c.sub : (c.category != null ? c.category : (c.CATEGORY != null ? c.CATEGORY : '')));
       var arr = [];
       if(Array.isArray(raw)) arr = raw;
@@ -286,7 +317,7 @@
       // sanitize + unique
       var seen = {}; var out = [];
       for(var i=0;i<arr.length;i++){
-        var v = String(arr[i] || '').trim();
+        var v = canonicalizeSubjectLabel(arr[i]);
         if(!v) continue;
         if(!seen[v]){ seen[v]=1; out.push(v); }
       }

@@ -1,23 +1,174 @@
 schema_version: 1
 
+# Purpose of this file:
+# 1) Define the canonical subject taxonomy for the tracker (what shows in the subject dropdown).
+# 2) Provide alias strings for normalizing messy/free-text categories from different sources
+#    into a small, stable set of canonical labels.
+#
+# Conventions:
+# - `label` is the canonical display name (what you want to end up in conferences.json `sub`).
+# - `aliases` are alternative spellings/names that should be mapped into this label.
+
 tracks:
-  - id: wireless_comm
-    label: "Wireless & Communication"
+  - id: artificial_intelligence
+    label: "Artificial Intelligence"
     order: 10
     aliases:
+      - "ai"
+      - "artificial intelligence"
+      - "machine learning"
+      - "ml"
+      - "deep learning"
+      - "computer vision"
+      - "nlp"
+      - "natural language processing"
+
+  - id: graphics
+    label: "Graphics"
+    order: 20
+    aliases:
+      - "graphics"
+      - "computer graphics"
+      - "visualization"
+      - "vis"
+      - "virtual reality"
+      - "vr"
+      - "augmented reality"
+      - "ar"
+
+  - id: computing_theory
+    label: "Computing Theory"
+    order: 30
+    aliases:
+      - "computing theory"
+      - "theory"
+      - "algorithms"
+      - "complexity"
+      - "theoretical computer science"
+      - "tcs"
+
+  - id: database_data_mining_ir
+    label: "Database/Data Mining/Information Retrieval"
+    order: 40
+    aliases:
+      - "database"
+      - "databases"
+      - "data mining"
+      - "information retrieval"
+      - "ir"
+      - "search"
+      - "data management"
+
+  - id: computer_human_interaction
+    label: "Computer-Human Interaction"
+    order: 50
+    aliases:
+      - "computer-human interaction"
+      - "computer–human interaction"   # en dash variant observed in your data
+      - "human-computer interaction"
+      - "hci"
+      - "cscw"
+      - "ux"
+      - "ui"
+      - "interaction"
+
+  - id: software_engineering_os_pl
+    label: "Software Engineering/Operating System/Programming Language Design"
+    order: 60
+    aliases:
+      - "software engineering"
+      - "software"
+      - "operating system"
+      - "operating systems"
+      - "os"
+      - "programming languages"
+      - "programming language design"
+      - "pl"
+      - "compilers"
+
+  - id: computer_arch_parallel_storage
+    label: "Computer Architecture/Parallel Programming/Storage Technology"
+    order: 70
+    aliases:
+      - "computer architecture"
+      - "architecture"
+      - "parallel programming"
+      - "parallel"
+      - "storage"
+      - "storage technology"
+      - "hardware"
+      - "fpga"
+
+  - id: network_system
+    label: "Network System"
+    order: 80
+    aliases:
+      - "network system"
+      - "network systems"
+      - "networking"
+      - "networking & systems"
+      - "networking and systems"
+      - "Networking & Systems"         # legacy label from old UI/config
+      - "computer networks"
+      - "computer networks - applications"
+      - "networks"
+      - "distributed systems"
+      - "cloud"
+      - "edge computing"
+      - "iot networking"
+
+  - id: wireless_communication
+    label: "Wireless/Communication"
+    order: 90
+    aliases:
+      - "wireless/communication"
+      - "wireless & communication"
+      - "wireless and communication"
+      - "Wireless & Communication"     # legacy label from old UI/config
       - "wireless"
       - "communication"
       - "communications"
+      - "communication systems"
+      - "communication theory"
+      - "wireless communications"
+      - "signal processing"
+      - "antennas"
+      - "5g"
+      - "6g"
+      - "spectrum"
+      - "radio"
+
   - id: security_privacy
-    label: "Security & Privacy"
-    order: 20
+    label: "Security and Privacy"
+    order: 100
     aliases:
+      - "security and privacy"
       - "security"
       - "privacy"
-  - id: networking_systems
-    label: "Networking & Systems"
-    order: 30
+      - "cybersecurity"
+      - "information security"
+      - "computer security"
+      - "cryptography"
+      # Merge target:
+      - "network and system security"
+      - "Network and System Security"
+
+  - id: interdiscipline_mixture_emerging
+    label: "Interdiscipline/Mixture/Emerging"
+    order: 110
     aliases:
-      - "networking"
-      - "systems"
-      - "distributed systems"
+      - "interdiscipline/mixture/emerging"
+      - "interdisciplinary"
+      - "interdiscipline"
+      - "mixture"
+      - "emerging"
+      - "cross-disciplinary"
+      - "cyber physical systems"
+
+  - id: uncategorized
+    label: "Uncategorized"
+    order: 999
+    aliases:
+      - "uncategorized"
+      - "other"
+      - ""

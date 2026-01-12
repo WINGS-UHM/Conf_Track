@@ -1,11 +1,36 @@
 schema_version: 1
 
+# External data sources to build data/conferences.json.
+# This file also centralizes subject/category normalization rules so the logic
+# doesn't have to be hard-coded in multiple scrapers/exporters.
 sources:
   - id: ccf_deadlines
     type: git
     enabled: true
     repo: "ccfddl/ccf-deadlines"
     branch: "master"
-    # future:
-    # include_tracks: ["security_privacy", "networking_systems", ...]
-    # mapping_rules: ...
+
+    # Subject/category handling for ccf-deadlines:
+    # - If a subject string looks like "CCF XX (Some Label)", keep only "Some Label".
+    # - Otherwise, keep the label as-is.
+    ccf_subject_policy:
+      strip_ccf_prefix_to_parentheses: true
+
+    # Global normalization rules applied across *all* sources (ccf-deadlines, EasyChair, EDAS, CSA, ...).
+    subject_normalization:
+      rename:
+        # (2) Wireless naming
+        "Wireless & Communication": "Wireless/Communication"
+        "Wireless and Communication": "Wireless/Communication"
+        "Wireless/Communication": "Wireless/Communication"
+
+        # (3) Merge networking naming
+        "Networking & Systems": "Network System"
+        "Networking and Systems": "Network System"
+        "Network System": "Network System"
+
+      # Optional: you can add more synonyms here later if needed.
+      # e.g., "Network Systems": "Network System"
+
+  # You can add more sources later (wikicfp, easychair, edas_watchlist, etc.)
+  # and they will all share the same subject_normalization rules above.
