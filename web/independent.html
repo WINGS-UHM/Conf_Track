@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Conference Tracking (Remote Data)</title>
+
+  <!-- YAML parser (browser-side) -->
+  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+
+  <style>
+    :root {
+      --bg: #f7f7fb;
+      --card: #ffffff;
+      --text: #2b2f36;
+      --muted: #6b7280;
+      --accent: #3a86ff;
+      --accent-2: #22c55e;
+      --red: #e11d48;
+      --orange: #f59e0b;
+      --green: #10b981;
+      --border: #e5e7eb;
+      --shadow: 0 6px 24px rgba(16, 24, 40, 0.06);
+      --radius: 14px;
+      --sticky-h: 112px;
+      --card-max: 1100px;
+    }
+    [data-theme="dark"] {
+      --bg: #0b1220;
+      --card: #0f172a;
+      --text: #e5e7eb;
+      --muted: #94a3b8;
+      --accent: #60a5fa;
+      --accent-2: #34d399;
+      --border: #1f2937;
+      --shadow: 0 8px 28px rgba(0,0,0,0.4);
+    }
+
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body {
+      margin: 0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, "Helvetica Neue", Arial;
+      color: var(--text);
+      background: radial-gradient(1200px 600px at 50% -100px, rgba(58,134,255,0.08), transparent 60%), var(--bg);
+      display: flex; flex-direction: column; overflow: hidden;
+    }
+
+    .header { position: sticky; top: 0; z-index: 50; background: linear-gradient(#fff0, #fff0), var(--bg); backdrop-filter: blur(6px); }
+    .topbar {
+      max-width: 1600px; margin: 10px auto 0; padding: 10px 16px;
+      display: flex; align-items: center; justify-content: space-between; gap: 12px;
+    }
+    .brand { display: flex; align-items: center; gap: 10px; }
+    .brand h1 { font-size: 1.3rem; font-weight: 700; margin: 0; letter-spacing: 0.2px; }
+    .chip { font-size: 12px; padding: 4px 8px; border: 1px solid var(--border); border-radius: 999px; color: var(--muted); }
+
+    .toolbar {
+      max-width: 1600px; margin: 0 auto; padding: 8px 16px 12px;
+      display: grid; gap: 8px; align-items: center;
+      grid-template-columns: 1fr repeat(6, max-content);
+    }
+    .toolbar input[type="search"], .toolbar select {
+      height: 36px; padding: 0 10px; border: 1px solid var(--border); border-radius: 10px;
+      background: var(--card); color: var(--text);
+    }
+    .toolbar input[type="search"] { width: 100%; }
+    .toolbar .btn {
+      border: 1px solid var(--border); background: var(--card); color: var(--text);
+      height: 36px; padding: 0 12px; border-radius: 10px; cursor: pointer;
+    }
+    .toolbar .btn[data-active="true"] { outline: 2px solid var(--accent); }
+    .toolbar .toggle { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); }
+
+    .divider { height: 1px; background: var(--border); }
+
+    .wrap { max-width: 1600px; margin: 0 auto; flex: 1; width: 100%; display: flex; flex-direction: column; overflow: hidden; }
+    .table-body { flex: 1; overflow: auto; padding: 16px; display: flex; flex-direction: column; align-items: center; gap: 0; }
+
+    .row {
+      display: grid; grid-template-columns: 1fr; align-items: start; gap: 10px;
+      padding: 14px; border: 1px solid var(--border); border-radius: 12px;
+      background: var(--card); box-shadow: var(--shadow); margin-top: 12px;
+      transition: transform .06s ease;
+      width: min(var(--card-max), calc(100% - 32px));
+    }
+    .row:hover { transform: translateY(-1px); }
+
+    .cell { text-align: left; padding: 2px 4px; white-space: normal; overflow: visible; }
+    .title { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 8px; }
+    .title a { color: var(--accent); text-decoration: none; font-weight: 600; }
+    .title .actions { display: inline-flex; gap: 6px; align-items:center; }
+    .icon-btn { border: 1px solid var(--border); background: transparent; color: var(--muted); padding: 6px 8px; border-radius: 10px; cursor: pointer; }
+    .icon-btn:hover { color: var(--accent); border-color: var(--accent); }
+
+    .details { display: grid; grid-template-columns: 2fr 2fr 3fr; gap: 8px; }
+    .detail { padding: 6px 8px; border: 1px dashed var(--border); border-radius: 10px; color: var(--muted); background: color-mix(in oklab, var(--card) 90%, transparent); }
+    .detail b { color: var(--text); font-weight: 600; margin-right: 6px; }
+    .detail.note { grid-column: 1 / -1; }
+
+    .badge { font-size: 12px; padding: 1px 7px; border-radius: 999px; border: 1px solid var(--border); color: var(--muted); margin-left: 6px; display:inline-block; }
+
+    .countdown { font-weight: 700; }
+    .countdown.green { color: var(--green); }
+    .countdown.orange { color: var(--orange); }
+    .countdown.red { color: var(--red); }
+
+    .empty { text-align: center; color: var(--muted); margin: 16px auto; padding: 24px; border: 1px dashed var(--border); border-radius: 12px; background: color-mix(in oklab, var(--card) 86%, transparent); max-width: var(--card-max); }
+
+    .row.closed { background: #f3f4f6; border-color: #e5e7eb; opacity: 0.85; }
+    [data-theme="dark"] .row.closed { background: #111827; border-color: #1f2937; opacity: 0.8; }
+    .row.closed .title a { color: var(--muted) !important; }
+    .row.closed .detail { color: var(--muted); }
+    .row.closed .badge { color: var(--muted); border-color: var(--border); }
+    .row.closed .countdown { color: var(--muted) !important; }
+
+    @media (max-width: 980px) {
+      :root { --sticky-h: 160px; }
+      .toolbar { grid-template-columns: 1fr 1fr 1fr; grid-auto-rows: min-content; }
+      .row { grid-template-columns: 1fr; gap: 8px; }
+      .title { display: flex; justify-content: space-between; align-items: center; }
+      .details { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+      .detail.note { grid-column: auto; }
+      .countdown { justify-self: end; }
+    }
+
+    html[data-ui="lite"] body { background: var(--bg) !important; }
+    html[data-ui="lite"] .row { box-shadow: none; border-radius: 8px; border-color: var(--border); padding: 10px; margin-top: 8px; }
+    html[data-ui="lite"] .row:hover { transform: none; }
+    html[data-ui="lite"] .table-body { padding: 8px; }
+    html[data-ui="lite"] .detail { border-style: solid; background: transparent; padding: 4px 6px; border-radius: 8px; }
+    html[data-ui="lite"] .toolbar .btn, html[data-ui="lite"] .toolbar select, html[data-ui="lite"] .toolbar input[type="search"] { height: 32px; border-radius: 8px; }
+  </style>
+</head>
+
+<body>
+  <header class="header" role="banner">
+    <div class="topbar">
+      <div class="brand" aria-label="Site title">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12a8 8 0 1 1 16 0v6a2 2 0 0 1-2 2h-2v-8a4 4 0 1 0-8 0v8H6a2 2 0 0 1-2-2v-6Z" stroke="currentColor" stroke-width="1.5"/></svg>
+        <h1>Conference Tracking</h1>
+        <span class="chip" id="dataChip" title="Data sources">Remote data</span>
+      </div>
+      <div class="field">
+        <button id="themeBtn" class="btn" aria-label="Toggle dark mode">Theme</button>
+        <button id="uiBtn" class="btn" aria-pressed="false" title="Toggle lightweight UI">Lite</button>
+      </div>
+    </div>
+
+    <div class="toolbar" role="region" aria-label="Filters and actions">
+      <input id="search" type="search" placeholder="Search conferences, venue, acronym... (Ctrl/Cmd+K)" aria-label="Search" />
+      <select id="subject"><option value="ALL">All Subjects</option></select>
+      <select id="sort">
+        <option value="deadline-asc">Submission DDL (earliest)</option>
+        <option value="deadline-desc">Submission DDL (latest)</option>
+        <option value="name-asc">Name A->Z</option>
+        <option value="name-desc">Name Z->A</option>
+      </select>
+      <label class="toggle"><input type="checkbox" id="onlyOpen" /> Only open</label>
+      <label class="toggle"><input type="checkbox" id="onlyFav" /> Only favorites</label>
+      <select id="tz">
+        <option value="auto">Timezone: Auto</option>
+        <option value="Pacific/Honolulu">Timezone: Pacific/Honolulu</option>
+        <option value="America/Los_Angeles">Timezone: America/Los_Angeles</option>
+        <option value="UTC">Timezone: UTC</option>
+      </select>
+      <button id="exportCsv" class="btn" title="Export current view">Export CSV</button>
+    </div>
+    <div class="divider"></div>
+  </header>
+
+  <main class="wrap" role="main">
+    <section id="list" class="table-body" aria-live="polite"></section>
+  </main>
+
+  <template id="row-tpl">
+    <article class="row" role="article">
+      <div class="cell title">
+        <div>
+          <a class="link" target="_blank" rel="noopener"></a>
+          <span class="meta"></span>
+        </div>
+        <div class="actions">
+          <span class="notif" title="Notification date">-</span>
+          <span class="countdown">-</span>
+          <button class="icon-btn fav" title="Toggle favorite" aria-label="Toggle favorite">☆</button>
+          <button class="icon-btn ics" title="Add DDL to Calendar" aria-label="Add deadline to calendar">ICS</button>
+        </div>
+      </div>
+      <div class="details">
+        <div class="detail loc"><b>Location:</b> <span class="v"></span></div>
+        <div class="detail host"><b>Host:</b> <span class="v"></span></div>
+        <div class="detail sub"><b>Submission DDL:</b> <span class="v"></span></div>
+        <div class="detail note" hidden><b>Note:</b> <span class="v"></span></div>
+      </div>
+    </article>
+  </template>
+
+  <section id="empty" class="empty" hidden>
+    Failed to load data or no conferences match your filters.
+  </section>
+
+  <script>
+    // ===============================
+    // Remote URLs (as requested)
+    // ===============================
+    const CONFS_URL  = "https://raw.githubusercontent.com/WINGS-UHM/Conf_Track/refs/heads/main/data/conferences.json";
+    const TRACKS_URL = "https://raw.githubusercontent.com/WINGS-UHM/Conf_Track/refs/heads/main/config/tracks.yaml";
+
+    // ===== Utils =====
+    const $ = (sel, el) => (el||document).querySelector(sel);
+    const $$ = (sel, el) => Array.from((el||document).querySelectorAll(sel));
+    const normSpace = (s) => String(s ?? "").replace(/\s+/g, " ").trim();
+
+    function debounce(fn, wait){
+      wait = wait || 250;
+      let t;
+      return function(){
+        const args = arguments;
+        clearTimeout(t);
+        t = setTimeout(() => fn.apply(null, args), wait);
+      };
+    }
+
+    // ===== State =====
+    const state = {
+      confs: [],
+      filtered: [],
+      // UI
+      subject: "ALL",
+      sort: "deadline-asc",
+      onlyOpen: false,
+      onlyFav: false,
+      search: "",
+      tz: "auto",
+      // favorites
+      favs: new Set(JSON.parse(localStorage.getItem("favConfs") || "[]")),
+      // tracks + canonicalization
+      tracks: [],                 // [{id,label,order,aliases}]
+      labelOrder: new Map(),      // label -> order
+      aliasToLabel: new Map(),    // normalized alias -> label
+      subjects: [],               // dropdown labels (canonical)
+    };
+
+    function saveFavs(){
+      localStorage.setItem("favConfs", JSON.stringify(Array.from(state.favs)));
+    }
+
+    // ===============================
+    // Tracks.yaml -> subjects + alias map
+    // ===============================
+    function normAliasKey(s){
+      // normalize for matching aliases (case-insensitive, collapse spaces, unify dash variants)
+      return normSpace(String(s ?? ""))
+        .toLowerCase()
+        .replace(/\u2013|\u2014|\u2212/g, "-"); // en/em dash to hyphen
+    }
+
+    function installTracks(tracksObj){
+      const tracks = Array.isArray(tracksObj?.tracks) ? tracksObj.tracks : [];
+      state.tracks = tracks
+        .filter(t => t && typeof t === "object" && t.label)
+        .map(t => ({
+          id: String(t.id ?? ""),
+          label: String(t.label ?? "").trim(),
+          order: Number.isFinite(Number(t.order)) ? Number(t.order) : 999,
+          aliases: Array.isArray(t.aliases) ? t.aliases.map(x => String(x)) : []
+        }))
+        .sort((a,b) => (a.order - b.order) || a.label.localeCompare(b.label));
+
+      state.labelOrder = new Map();
+      state.aliasToLabel = new Map();
+
+      for(const tr of state.tracks){
+        state.labelOrder.set(tr.label, tr.order);
+
+        // map label itself
+        state.aliasToLabel.set(normAliasKey(tr.label), tr.label);
+
+        // map aliases
+        for(const a of tr.aliases){
+          const k = normAliasKey(a);
+          if(!k) continue;
+          // don't overwrite existing mapping unless it is identical
+          if(!state.aliasToLabel.has(k)) state.aliasToLabel.set(k, tr.label);
+        }
+      }
+
+      // dropdown subjects are track labels (canonical)
+      state.subjects = state.tracks.map(t => t.label);
+      buildSubjectOptions();
+    }
+
+    async function loadTracks(){
+      const chip = $("#dataChip");
+      chip.textContent = "Loading tracks...";
+      chip.title = TRACKS_URL;
+
+      const res = await fetch(TRACKS_URL + "?ts=" + Date.now(), { cache: "no-store" });
+      if(!res.ok) throw new Error("Failed to load tracks.yaml: " + res.status);
+      const text = await res.text();
+
+      if(!window.jsyaml || !window.jsyaml.load){
+        throw new Error("Missing YAML parser (js-yaml). Check the <script> CDN load.");
+      }
+      const obj = window.jsyaml.load(text);
+      installTracks(obj);
+
+      chip.textContent = "Tracks loaded";
+    }
+
+    // ===============================
+    // Conferences.json -> normalize subs using tracks alias map
+    // ===============================
+    function canonicalizeSubject(label){
+      // Special case: if label looks like "CCF XX (Some Label)", keep only parentheses
+      const s0 = normSpace(label);
+      const m = s0.match(/^CCF\s+\w+\s*\((.+)\)$/i);
+      const s = m ? normSpace(m[1]) : s0;
+
+      const key = normAliasKey(s);
+      if(state.aliasToLabel.has(key)) return state.aliasToLabel.get(key);
+
+      // If not found in alias map, keep original (so data isn't lost),
+      // but this may create extra dropdown items in "Other".
+      return s;
+    }
+
+    function normalizeSubs(conf){
+      const raw = (conf.sub != null ? conf.sub : (conf.category != null ? conf.category : (conf.CATEGORY != null ? conf.CATEGORY : "")));
+      let arr = [];
+      if(Array.isArray(raw)) arr = raw;
+      else if(typeof raw === "string" && raw.trim()) arr = [raw.trim()];
+
+      const out = [];
+      const seen = new Set();
+      for(const x of arr){
+        const v = canonicalizeSubject(x);
+        if(!v) continue;
+        if(!seen.has(v)){
+          seen.add(v);
+          out.push(v);
+        }
+      }
+
+      // default label if empty
+      const fallback = state.aliasToLabel.get(normAliasKey("Uncategorized")) || "Uncategorized";
+      conf.sub = out.length ? sortSubs(out) : [fallback];
+      return conf.sub;
+    }
+
+    function sortSubs(subs){
+      // stable order by tracks order, unknown labels to end
+      return subs.slice().sort((a,b) => {
+        const oa = state.labelOrder.has(a) ? state.labelOrder.get(a) : 9999;
+        const ob = state.labelOrder.has(b) ? state.labelOrder.get(b) : 9999;
+        return (oa - ob) || a.localeCompare(b);
+      });
+    }
+
+    function rebuildSubjectsFromTracksPlusExtras(){
+      const known = new Set(state.subjects);
+      const extras = new Set();
+
+      for(const c of state.confs){
+        const subs = Array.isArray(c.sub) ? c.sub : (c.sub ? [c.sub] : []);
+        for(const s of subs){
+          if(!known.has(s)) extras.add(s);
+        }
+      }
+
+      buildSubjectOptions(Array.from(extras).sort((a,b)=>a.localeCompare(b)));
+    }
+
+    async function loadConfs(){
+      const chip = $("#dataChip");
+      chip.textContent = "Loading conferences...";
+      chip.title = CONFS_URL;
+
+      const res = await fetch(CONFS_URL + "?ts=" + Date.now(), { cache: "no-store" });
+      if(!res.ok) throw new Error("Failed to load conferences.json: " + res.status);
+      const data = await res.json();
+      state.confs = Array.isArray(data) ? data : [];
+
+      // normalize subs with tracks alias map
+      for(const c of state.confs){
+        normalizeSubs(c);
+      }
+
+      // If any labels are outside tracks.yaml, show them in dropdown as "Other"
+      rebuildSubjectsFromTracksPlusExtras();
+
+      chip.textContent = "Remote data";
+      chip.title = "Confs: " + CONFS_URL + "\nTracks: " + TRACKS_URL;
+    }
+
+    // ===============================
+    // Subject dropdown
+    // ===============================
+    function buildSubjectOptions(extraLabels){
+      const sel = $("#subject");
+      if(!sel) return;
+
+      const keep = state.subject;
+      sel.innerHTML = "";
+
+      const optAll = document.createElement("option");
+      optAll.value = "ALL";
+      optAll.textContent = "All Subjects";
+      sel.appendChild(optAll);
+
+      // canonical track labels in order
+      for(const lab of state.subjects){
+        const opt = document.createElement("option");
+        opt.value = lab;
+        opt.textContent = lab;
+        sel.appendChild(opt);
+      }
+
+      // optional extras not covered by tracks.yaml
+      if(extraLabels && extraLabels.length){
+        const group = document.createElement("optgroup");
+        group.label = "Other (unmapped)";
+        for(const lab of extraLabels){
+          const opt = document.createElement("option");
+          opt.value = lab;
+          opt.textContent = lab;
+          group.appendChild(opt);
+        }
+        sel.appendChild(group);
+      }
+
+      if(keep !== "ALL"){
+        // if the previous selection disappears, reset to ALL
+        const allOpts = Array.from(sel.querySelectorAll("option")).map(o=>o.value);
+        if(!allOpts.includes(keep)) state.subject = "ALL";
+      }
+      sel.value = state.subject;
+    }
+
+    // ===============================
+    // Date helpers (timezone-aware deadline parsing)
+    // ===============================
+    function cleanDateStr(s){
+      if(!s) return "";
+      return String(s).replace(/<\/?strike>/g, "").trim();
+    }
+
+    function parseDate(s){
+      if(!s) return null;
+      s = cleanDateStr(s);
+      const iso = Date.parse(s);
+      if(!Number.isNaN(iso)) return new Date(iso);
+      const m = s.match(/^(\w{3,})\s(\d{1,2}),?\s(\d{4})$/);
+      if(m) return new Date(m[1] + " " + m[2] + ", " + m[3]);
+      return null;
+    }
+
+    function _effectiveTimeZone(){
+      if(state.tz && state.tz !== "auto") return state.tz;
+      return (Intl.DateTimeFormat().resolvedOptions().timeZone || "UTC");
+    }
+    function _monthToNumber(name){
+      if(!name) return null;
+      const k = String(name).trim().slice(0,3).toLowerCase();
+      const map = {jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12};
+      return map[k] || null;
+    }
+    function _tzParts(date, timeZone){
+      const dtf = new Intl.DateTimeFormat("en-US", {
+        timeZone,
+        hour12: false,
+        year:"numeric", month:"2-digit", day:"2-digit",
+        hour:"2-digit", minute:"2-digit", second:"2-digit"
+      });
+      const parts = dtf.formatToParts(date);
+      const out = {};
+      for(const p of parts){
+        if(p.type !== "literal") out[p.type] = p.value;
+      }
+      return {
+        year: Number(out.year),
+        month: Number(out.month),
+        day: Number(out.day),
+        hour: Number(out.hour),
+        minute: Number(out.minute),
+        second: Number(out.second)
+      };
+    }
+    function _zonedTimeToUtcMs(year, month, day, hour, minute, second, timeZone){
+      let utc = Date.UTC(year, month-1, day, hour, minute, second);
+      for(let i=0;i<3;i++){
+        const parts = _tzParts(new Date(utc), timeZone);
+        const asUtc = Date.UTC(parts.year, parts.month-1, parts.day, parts.hour, parts.minute, parts.second);
+        const desiredAsUtc = Date.UTC(year, month-1, day, hour, minute, second);
+        utc += (desiredAsUtc - asUtc);
+      }
+      return utc;
+    }
+
+    function parseDeadlineMs(deadStr){
+      if(!deadStr) return null;
+      const s = cleanDateStr(deadStr);
+
+      // ISO with time or explicit offset -> absolute timestamp
+      if(/[Tt]\d{2}:\d{2}/.test(s) || /Z$/i.test(s) || /[+-]\d{2}:?\d{2}$/.test(s) || /\d{2}:\d{2}/.test(s)){
+        const msIso = Date.parse(s);
+        if(!Number.isNaN(msIso)) return msIso;
+      }
+
+      // date-only -> interpret as end-of-day 23:59:59 in selected timezone
+      let y=null, mo=null, d=null;
+
+      const m1 = s.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+      if(m1){
+        y = Number(m1[1]); mo = Number(m1[2]); d = Number(m1[3]);
+      } else {
+        const m2 = s.match(/^([A-Za-z]{3,9})\s+(\d{1,2}),?\s+(\d{4})$/);
+        if(m2){
+          mo = _monthToNumber(m2[1]);
+          d = Number(m2[2]);
+          y = Number(m2[3]);
+        }
+      }
+      if(!(y && mo && d)) return null;
+
+      return _zonedTimeToUtcMs(y, mo, d, 23, 59, 59, _effectiveTimeZone());
+    }
+
+    function fmtDateTimeMs(ms){
+      if(ms == null) return "";
+      const tz = state.tz === "auto" ? undefined : state.tz;
+      const d = new Date(ms);
+      const dateOpt = { year:"numeric", month:"short", day:"2-digit" };
+      const timeOpt = { hour:"2-digit", minute:"2-digit", hour12:false };
+      try{
+        if(tz){ dateOpt.timeZone = tz; timeOpt.timeZone = tz; }
+        return d.toLocaleDateString("en-US", dateOpt) + " " + d.toLocaleTimeString("en-US", timeOpt);
+      }catch(e){
+        return d.toLocaleDateString("en-US", { year:"numeric", month:"short", day:"2-digit" }) +
+          " " + d.toLocaleTimeString("en-US", { hour:"2-digit", minute:"2-digit", hour12:false });
+      }
+    }
+
+    function fmtHost(start, end){
+      const s = parseDate(start), e = parseDate(end);
+      if(!s || !e) return "";
+      const tz = state.tz === "auto" ? undefined : state.tz;
+      const month = s.toLocaleDateString("en-US", { month:"short", timeZone: tz });
+      const sd = s.toLocaleDateString("en-US", { day:"2-digit", timeZone: tz });
+      const ed = e.toLocaleDateString("en-US", { day:"2-digit", timeZone: tz });
+      const year = s.toLocaleDateString("en-US", { year:"numeric", timeZone: tz });
+      return month + " " + sd + "-" + ed + ", " + year;
+    }
+
+    function daysLeft(deadStr){
+      const ms = parseDeadlineMs(deadStr);
+      if(ms == null) return { text:"-", cls:"", closed:false, ms:null };
+
+      const diffMs = ms - Date.now();
+      const closed = diffMs < 0;
+      if(closed) return { text:"Closed", cls:"red", closed:true, ms: ms };
+
+      const secTotal = Math.floor(diffMs / 1000);
+      const days = Math.floor(secTotal / 86400);
+      const hours = Math.floor((secTotal % 86400) / 3600);
+      const mins = Math.floor((secTotal % 3600) / 60);
+      const secs = secTotal % 60;
+      const pad2 = (n) => String(n).padStart(2,"0");
+      const text = days + " day " + pad2(hours) + " h " + pad2(mins) + " m " + pad2(secs) + " s";
+
+      let cls = "green";
+      if(days <= 3) cls = "red";
+      else if(days <= 20) cls = "orange";
+      return { text, cls, closed:false, ms: ms };
+    }
+
+    // ===============================
+    // CSV / ICS
+    // ===============================
+    function icsFor(conf){
+      const name = conf.name || conf.Conference || "Conference";
+      const dlStr = conf["Submission Deadline"] || conf.deadline || "";
+      const ms = parseDeadlineMs(dlStr);
+      if(ms == null) return null;
+
+      const d = new Date(ms);
+      const pad = (n)=>String(n).padStart(2,"0");
+      const y = d.getUTCFullYear(), m = pad(d.getUTCMonth()+1), day = pad(d.getUTCDate());
+      const DTSTART = "" + y + m + day;
+      const UID = DTSTART + "-" + encodeURIComponent(name) + "@conftracker";
+      const desc = ("Submission deadline for " + name + ". " + (conf.link ? ("Link: " + conf.link) : "")).trim();
+
+      const ics =
+        "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//ConfTracker//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\n" +
+        "BEGIN:VEVENT\nUID:" + UID + "\nDTSTAMP:" + DTSTART + "T000000Z\nDTSTART;VALUE=DATE:" + DTSTART + "\n" +
+        "SUMMARY:Submission DDL - " + name + "\nDESCRIPTION:" + desc.replace(/\n/g," ") + "\nEND:VEVENT\nEND:VCALENDAR";
+
+      return new Blob([ics], { type: "text/calendar" });
+    }
+
+    function toCSV(rows){
+      const header = ["Conference","Host Time","Location","Subjects","Abstract DDL","Submission DDL","Notification","Time Left"];
+      const esc = (s)=>'"' + String(s ?? "").replace(/"/g,'""') + '"';
+
+      const lines = [header.join(",")];
+      for(const r of rows){
+        const dl = daysLeft(r["Submission Deadline"]||r.deadline);
+        const absMs = parseDeadlineMs(r["Abstract Deadline"]||"");
+        const subMs = parseDeadlineMs(r["Submission Deadline"]||r.deadline||"");
+        lines.push([
+          r.name || r.Conference || "",
+          fmtHost(r["Start Date"], r["End Date"]),
+          r.Location || "",
+          (Array.isArray(r.sub) ? r.sub.join(" | ") : (r.sub||"")),
+          (absMs==null ? "" : fmtDateTimeMs(absMs)),
+          (subMs==null ? "" : fmtDateTimeMs(subMs)),
+          r.Notification || "",
+          dl.text
+        ].map(esc).join(","));
+      }
+      return new Blob([lines.join("\n")], {type:"text/csv"});
+    }
+
+    // ===============================
+    // Rendering / filtering
+    // ===============================
+    function extractAcronyms(name){
+      if(!name) return [];
+      const s = String(name).toUpperCase();
+      const arr = [];
+      const mParen = s.match(/\(([A-Z&\.]{2,})\)/g) || [];
+      for(const x of mParen) arr.push(x.replace(/[()]/g,""));
+      const toks = s.split(/[^A-Z0-9&\.]+/);
+      for(const t of toks){ if(t && /[A-Z]/.test(t) && t.length>=2) arr.push(t); }
+      const out = [];
+      for(const x of arr){
+        if(!x) continue;
+        if(x === "IEEE" || x === "ACM") continue;
+        out.push(x);
+      }
+      const seen = new Set(); const uniq = [];
+      for(const v of out){ if(v && !seen.has(v)){ seen.add(v); uniq.push(v); } }
+      return uniq;
+    }
+
+    function buildSearchText(c){
+      const parts = [];
+      const nm = (c.name || c.Conference || "");
+      parts.push(nm);
+      if(c.Location) parts.push(c.Location);
+      if(c.sub){
+        const subs = Array.isArray(c.sub) ? c.sub : [c.sub];
+        for(const s of subs) parts.push(s);
+      }
+      for(const a of extractAcronyms(nm)) parts.push(a);
+      return parts.join(" ").toLowerCase();
+    }
+
+    const $list = $("#list"), $tpl = $("#row-tpl"), $empty = $("#empty");
+
+    function ddlTs(c){
+      const ms = parseDeadlineMs(c["Submission Deadline"]||c.deadline);
+      return ms == null ? null : ms;
+    }
+
+    function applyFilters(){
+      const q = state.search.trim().toLowerCase();
+
+      const rows = state.confs.filter(c => {
+        const hay = buildSearchText(c);
+        const subs = Array.isArray(c.sub) ? c.sub : (c.sub ? [c.sub] : []);
+        const okSub = (state.subject === "ALL") || subs.includes(state.subject);
+        const okSearch = (!q) || hay.includes(q);
+        const dl = daysLeft(c["Submission Deadline"]||c.deadline);
+        const okOpen = (!state.onlyOpen) || (!dl.closed);
+        const favKey = (c.link || c.name || c.Conference || "");
+        const okFav = (!state.onlyFav) || state.favs.has(favKey);
+        return okSub && okSearch && okOpen && okFav;
+      });
+
+      const keyers = {
+        "deadline-asc": (c)=>{ const t=ddlTs(c); return t==null ? 9e15 : t; },
+        "deadline-desc": (c)=>{ const t=ddlTs(c); return t==null ? 0 : -t; },
+        "name-asc": (c)=> (c.name||c.Conference||"").toLowerCase(),
+        "name-desc": (c)=> "\uFFFF" + (c.name||c.Conference||"").toLowerCase(),
+      };
+      const keyer = keyers[state.sort] || keyers["deadline-asc"];
+
+      rows.sort((a,b) => {
+        const dla = daysLeft(a["Submission Deadline"]||a.deadline);
+        const dlb = daysLeft(b["Submission Deadline"]||b.deadline);
+        if(dla.closed !== dlb.closed) return dla.closed ? 1 : -1;
+        const ka = keyer(a), kb = keyer(b);
+        return ka>kb?1:ka<kb?-1:0;
+      });
+
+      state.filtered = rows;
+      renderList();
+    }
+
+    function renderList(){
+      $list.innerHTML = "";
+      if(!state.filtered.length){
+        $empty.hidden = false;
+        $empty.textContent = "No conferences match your filters, or remote data failed to load.";
+        return;
+      }
+      $empty.hidden = true;
+
+      const frag = document.createDocumentFragment();
+      for(const c of state.filtered){
+        const el = $tpl.content.cloneNode(true);
+
+        const title = $(".link", el);
+        const meta = $(".meta", el);
+        const host = $(".host .v", el);
+        const loc = $(".loc .v", el);
+        const noteV = $(".note .v", el);
+        const subV = $(".sub .v", el);
+        const notiTop = $(".notif", el);
+        const left = $(".countdown", el);
+        const favBtn = $(".fav", el);
+        const icsBtn = $(".ics", el);
+
+        const name = c.name || c.Conference || "-";
+        title.textContent = name;
+        title.href = c.link || "#";
+
+        meta.innerHTML = "";
+        const subs = Array.isArray(c.sub) ? sortSubs(c.sub) : (c.sub ? [c.sub] : []);
+        for(const s of subs){
+          const b = document.createElement("span");
+          b.className = "badge";
+          b.textContent = s;
+          meta.appendChild(b);
+        }
+
+        host.textContent = fmtHost(c["Start Date"], c["End Date"]);
+        loc.textContent = c.Location || "";
+
+        const absStr = c["Abstract Deadline"] || "";
+        const absMs = parseDeadlineMs(absStr);
+        const noteBox = el.querySelector(".note");
+        if(absMs != null){
+          noteBox.hidden = false;
+          noteV.textContent = "Abstract DDL: " + fmtDateTimeMs(absMs);
+          noteBox.title = "Raw: " + cleanDateStr(absStr);
+        }else{
+          noteBox.hidden = true;
+          noteV.textContent = "";
+          noteBox.title = "";
+        }
+
+        const subStr = c["Submission Deadline"] || c.deadline || "";
+        const subMs = parseDeadlineMs(subStr);
+        subV.textContent = (subMs==null) ? "" : fmtDateTimeMs(subMs);
+        el.querySelector(".sub").title = "Raw: " + cleanDateStr(subStr);
+
+        notiTop.textContent = c.Notification ? String(c.Notification) : "";
+
+        const dl = daysLeft(subStr);
+        left.textContent = dl.text;
+        left.className = "countdown " + (dl.cls || "");
+
+        const article = el.querySelector(".row");
+        if(dl.closed) article.classList.add("closed");
+
+        const favKey = (c.link || c.name || c.Conference || "");
+        const favOn = state.favs.has(favKey);
+        favBtn.textContent = favOn ? "★" : "☆";
+        favBtn.setAttribute("aria-pressed", String(favOn));
+        favBtn.addEventListener("click", () => {
+          if(state.favs.has(favKey)) state.favs.delete(favKey);
+          else state.favs.add(favKey);
+          saveFavs();
+          applyFilters();
+        });
+
+        icsBtn.addEventListener("click", () => {
+          const blob = icsFor(c);
+          if(!blob){ alert("No valid submission deadline to add."); return; }
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement("a");
+          a.href = url;
+          a.download = (name || "conf").replace(/[^a-z0-9]+/gi,"_") + "_submission_ddl.ics";
+          document.body.appendChild(a);
+          a.click();
+          a.remove();
+          setTimeout(() => URL.revokeObjectURL(url), 2000);
+        });
+
+        frag.appendChild(el);
+      }
+      $list.appendChild(frag);
+    }
+
+    // ===============================
+    // Theme / UI mode
+    // ===============================
+    function setTheme(mode){
+      document.documentElement.setAttribute("data-theme", mode);
+      localStorage.setItem("theme", mode);
+    }
+    function initTheme(){
+      const saved = localStorage.getItem("theme");
+      if(saved){ setTheme(saved); return; }
+      const prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+      setTheme(prefersDark ? "dark" : "light");
+    }
+
+    function setUI(mode){
+      document.documentElement.setAttribute("data-ui", mode);
+      localStorage.setItem("ui", mode);
+      $("#uiBtn").setAttribute("aria-pressed", String(mode === "lite"));
+      $("#uiBtn").setAttribute("data-active", String(mode === "lite"));
+    }
+    function initUI(){
+      const saved = localStorage.getItem("ui") || "";
+      setUI(saved === "lite" ? "lite" : "");
+    }
+
+    // ===============================
+    // Live countdown refresh
+    // ===============================
+    function startTicker(){
+      setInterval(() => {
+        const rows = $$("#list .row");
+        for(let i=0;i<rows.length;i++){
+          const row = rows[i];
+          const c = state.filtered[i];
+          if(!c) continue;
+          const dl = daysLeft(c["Submission Deadline"]||c.deadline);
+          const leftEl = row.querySelector(".countdown");
+          if(leftEl){
+            leftEl.textContent = dl.text;
+            leftEl.className = "countdown " + (dl.cls || "");
+          }
+          if(dl.closed) row.classList.add("closed");
+          else row.classList.remove("closed");
+        }
+      }, 1000);
+    }
+
+    // ===============================
+    // Events
+    // ===============================
+    $("#search").addEventListener("input", debounce((e)=>{ state.search = e.target.value; applyFilters(); }, 120));
+    $("#subject").addEventListener("change", (e)=>{ state.subject = e.target.value; applyFilters(); });
+    $("#sort").addEventListener("change", (e)=>{ state.sort = e.target.value; applyFilters(); });
+    $("#onlyOpen").addEventListener("change", (e)=>{ state.onlyOpen = e.target.checked; applyFilters(); });
+    $("#onlyFav").addEventListener("change", (e)=>{ state.onlyFav = e.target.checked; applyFilters(); });
+    $("#exportCsv").addEventListener("click", ()=>{
+      const blob = toCSV(state.filtered);
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url; a.download = "conferences.csv";
+      document.body.appendChild(a); a.click(); a.remove();
+      setTimeout(()=>URL.revokeObjectURL(url), 1500);
+    });
+
+    const hawaiiTZ = "Pacific/Honolulu";
+    const tzGuess = Intl.DateTimeFormat().resolvedOptions().timeZone || "auto";
+    if(tzGuess === hawaiiTZ){ $("#tz").value = hawaiiTZ; state.tz = hawaiiTZ; } else { state.tz = "auto"; }
+    $("#tz").addEventListener("change", (e)=>{ state.tz = e.target.value; applyFilters(); });
+
+    window.addEventListener("keydown", (e)=>{
+      if((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "k"){ e.preventDefault(); $("#search").focus(); }
+    });
+
+    $("#themeBtn").addEventListener("click", ()=>{
+      const cur = document.documentElement.getAttribute("data-theme") || "light";
+      setTheme(cur === "dark" ? "light" : "dark");
+    });
+    $("#uiBtn").addEventListener("click", ()=>{
+      const cur = document.documentElement.getAttribute("data-ui") || "";
+      setUI(cur === "lite" ? "" : "lite");
+    });
+
+    // ===============================
+    // Init
+    // ===============================
+    (async function init(){
+      try{
+        initTheme();
+        initUI();
+        await loadTracks();
+        await loadConfs();
+        applyFilters();
+        startTicker();
+      }catch(err){
+        console.error(err);
+        $("#empty").hidden = false;
+        $("#empty").textContent = "Failed to load remote data. Open DevTools -> Console for details.";
+        $("#dataChip").textContent = "Load failed";
+      }
+    })();
+  </script>
+</body>
+</html>
