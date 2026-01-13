@@ -160,7 +160,7 @@
           <option value="ALL">All Subjects</option>
       </select>
       <select id="sort">
-        <option value="deadline-asc">Submission DDL (earliest)</option> <!-- TODO: incorrect time -->
+        <option value="deadline-asc">Submission DDL (earliest)</option>
         <option value="deadline-desc">Submission DDL (latest)</option>
         <option value="name-asc">Name A->Z</option>
         <option value="name-desc">Name Z->A</option>
@@ -275,38 +275,30 @@
       return uniq;
     }
 
-    
     function canonicalizeSubjectLabel(label){
       if(label == null) return '';
       var s = String(label).trim();
 
-      // Strip the leading "CCF XX (...)" pattern to keep only parentheses content.
-      var m = s.match(/^CCF\s+\w+\s*\((.+)\)$/i);
-      if(m && m[1]) s = String(m[1]).trim();
-      if(/^CCF\s+/i.test(s)){
-        var m2 = s.match(/\(([^()]+)\)\s*$/);
-        if(m2 && m2[1]) s = String(m2[1]).trim();
-      }
+      // Merge equivalent security labels
+      if(s.toLowerCase() === 'network and system security') return 'Security & Privacy';
 
-      var low = s.toLowerCase();
-
-      // Merge security categories
-      if(low === 'network and system security') return 'Security & Privacy';
-
-      // Merge networking/system categories
-      if(low === 'networking & systems' || low === 'networking and systems') return 'Network System';
-      if(low === 'network system') return 'Network System';
+      // Merge equivalent networking labels
+      if(s.toLowerCase() === 'networking & systems' || s.toLowerCase() === 'networking and systems') return 'Network System';
+      if(s.toLowerCase() === 'network system') return 'Network System';
 
       // Wireless naming
-      if(low === 'wireless & communication' || low === 'wireless and communication' || low === 'wireless/communication') return 'Wireless/Communication';
+      if(s.toLowerCase() === 'wireless & communication' || s.toLowerCase() === 'wireless and communication' || s.toLowerCase() === 'wireless/communication')
+        return 'Wireless/Communication';
 
-      // Normalize dash variants for HCI
+      // Normalize dash variants (seen in your JSON)
       if(s === 'Computer–Human Interaction') return 'Computer-Human Interaction';
 
       return s;
     }
 
-function normalizeSubs(c){
+
+
+    function normalizeSubs(c){
       var raw = (c.sub != null ? c.sub : (c.category != null ? c.category : (c.CATEGORY != null ? c.CATEGORY : '')));
       var arr = [];
       if(Array.isArray(raw)) arr = raw;
@@ -380,6 +372,92 @@ function normalizeSubs(c){
       return null;
     }
 
+    
+    // --- Deadline parsing with timezone awareness ---
+    // Best practice: store deadlines as ISO-8601 with offset (e.g., 2026-01-14T23:59:59-12:00).
+    // For date-only strings ("Jan 14 2026" / "2026-01-14"), we interpret them as *end-of-day* (23:59:59)
+    // in the currently selected timezone (state.tz).
+    function _effectiveTimeZone(){
+      if(state.tz && state.tz !== 'auto') return state.tz;
+      return (Intl.DateTimeFormat().resolvedOptions().timeZone || 'UTC');
+    }
+
+    function _monthToNumber(name){
+      if(!name) return null;
+      var k = String(name).trim().slice(0,3).toLowerCase();
+      var map = {jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12};
+      return map[k] || null;
+    }
+
+    function _tzParts(date, timeZone){
+      // Extract wall-clock parts for `date` in `timeZone`.
+      var dtf = new Intl.DateTimeFormat('en-US', {
+        timeZone: timeZone,
+        hour12: false,
+        year: 'numeric', month: '2-digit', day: '2-digit',
+        hour: '2-digit', minute: '2-digit', second: '2-digit'
+      });
+      var parts = dtf.formatToParts(date);
+      var out = {};
+      for(var i=0;i<parts.length;i++){
+        var p = parts[i];
+        if(p.type !== 'literal') out[p.type] = p.value;
+      }
+      return {
+        year: Number(out.year),
+        month: Number(out.month),
+        day: Number(out.day),
+        hour: Number(out.hour),
+        minute: Number(out.minute),
+        second: Number(out.second)
+      };
+    }
+
+    function _zonedTimeToUtcMs(year, month, day, hour, minute, second, timeZone){
+      // Convert a wall-clock time in `timeZone` to UTC ms.
+      // Iterative correction to handle DST.
+      var utc = Date.UTC(year, month-1, day, hour, minute, second);
+      for(var i=0;i<3;i++){
+        var parts = _tzParts(new Date(utc), timeZone);
+        var asUtc = Date.UTC(parts.year, parts.month-1, parts.day, parts.hour, parts.minute, parts.second);
+        var desiredAsUtc = Date.UTC(year, month-1, day, hour, minute, second);
+        utc += (desiredAsUtc - asUtc);
+      }
+      return utc;
+    }
+
+    function parseDeadlineMs(deadStr){
+      if(!deadStr) return null;
+      var s = cleanDateStr(deadStr);
+
+      // If it looks like ISO-8601 with a time or explicit offset, trust Date.parse (absolute timestamp).
+      // Examples: 2026-01-14T23:59:59-12:00, 2026-01-14T23:59:59Z
+      if(/[Tt]\d{2}:\d{2}/.test(s) || /Z$/i.test(s) || /[+-]\d{2}:?\d{2}$/.test(s) || /\d{2}:\d{2}/.test(s)){
+        var msIso = Date.parse(s);
+        if(!Number.isNaN(msIso)) return msIso;
+      }
+
+      // Otherwise, treat as date-only and interpret as 23:59:59 in the selected timezone.
+      var y=null, mo=null, d=null;
+
+      var m1 = s.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+      if(m1){
+        y = Number(m1[1]); mo = Number(m1[2]); d = Number(m1[3]);
+      } else {
+        // "Jan 5 2026" or "January 5, 2026"
+        var m2 = s.match(/^([A-Za-z]{3,9})\s+(\d{1,2}),?\s+(\d{4})$/);
+        if(m2){
+          mo = _monthToNumber(m2[1]);
+          d = Number(m2[2]);
+          y = Number(m2[3]);
+        }
+      }
+      if(!(y && mo && d)) return null;
+
+      var tz = _effectiveTimeZone();
+      return _zonedTimeToUtcMs(y, mo, d, 23, 59, 59, tz);
+    }
+
     function fmtDate(d, opts){
       if(!d) return '';
       opts = opts || {};
@@ -396,6 +474,26 @@ function normalizeSubs(c){
       }
     }
 
+    
+    function fmtDateTimeMs(ms){
+      if(ms == null) return '';
+      var tz = state.tz === 'auto' ? undefined : state.tz;
+      var d = new Date(ms);
+      var dateOpt = { year:'numeric', month:'short', day:'2-digit' };
+      var timeOpt = { hour:'2-digit', minute:'2-digit', hour12:false };
+      try{
+        if(tz){ dateOpt.timeZone = tz; timeOpt.timeZone = tz; }
+        var dateStr = d.toLocaleDateString('en-US', dateOpt);
+        var timeStr = d.toLocaleTimeString('en-US', timeOpt);
+        return dateStr + ' ' + timeStr;
+      }catch(e){
+        var dateStr2 = d.toLocaleDateString('en-US', { year:'numeric', month:'short', day:'2-digit' });
+        var timeStr2 = d.toLocaleTimeString('en-US', { hour:'2-digit', minute:'2-digit', hour12:false });
+        return dateStr2 + ' ' + timeStr2;
+      }
+    }
+
+
     function fmtHost(start, end){
       var s = parseDate(start), e = parseDate(end);
       if(!s || !e) return '';
@@ -407,12 +505,13 @@ function normalizeSubs(c){
       return month + ' ' + sd + '-' + ed + ', ' + year;
     }
 
+    
     function daysLeft(deadStr){
-      var d = parseDate(deadStr);
-      if(!d) return { text:'-', cls:'', closed:false, d:null };
-      var now = new Date();
-      var diffMs = d - now;
+      var ms = parseDeadlineMs(deadStr);
+      if(ms == null) return { text:'-', cls:'', closed:false, d:null };
+      var diffMs = ms - Date.now();
       var closed = diffMs < 0;
+      var d = new Date(ms);
       if(closed) return { text:'Closed', cls:'red', closed:true, d: d };
       var secTotal = Math.floor(diffMs / 1000);
       var days = Math.floor(secTotal / 86400);
@@ -428,20 +527,21 @@ function normalizeSubs(c){
     }
 
     function debounce(fn, wait){
-      wait = wait || 250;
-      var t;
-      return function(){
-        var args = arguments;
-        clearTimeout(t);
-        t = setTimeout(function(){ fn.apply(null, args); }, wait);
-      };
-    }
+  wait = wait || 250;
+  var t;
+  return function(){
+    var args = arguments;
+    clearTimeout(t);
+    t = setTimeout(function(){ fn.apply(null, args); }, wait);
+  };
+}
 
-    function icsFor(conf){
+function icsFor(conf){
       var name = conf.name || conf.Conference || 'Conference';
       var dlStr = conf['Submission Deadline'] || conf.deadline || '';
-      var d = parseDate(dlStr);
-      if(!d) return null;
+      var ms = parseDeadlineMs(dlStr);
+      if(ms == null) return null;
+      var d = new Date(ms);
       function pad(n){ return String(n).padStart(2,'0'); }
       // all-day event on deadline date in UTC
       var y = d.getUTCFullYear(), m = pad(d.getUTCMonth()+1), day = pad(d.getUTCDate());
@@ -464,7 +564,7 @@ function normalizeSubs(c){
           fmtHost(r['Start Date'], r['End Date']),
           r.Location||'',
           fmtDate(parseDate(r['Abstract Deadline']||'')),
-          fmtDate(parseDate(r['Submission Deadline']||r.deadline||'')),
+          (function(){var ms=parseDeadlineMs(r['Submission Deadline']||r.deadline||''); return ms==null?'':fmtDate(new Date(ms));})(),
           fmtDate(parseDate(r.Notification||'')),
           dl.text
         ].map(esc).join(','));
@@ -495,8 +595,8 @@ function normalizeSubs(c){
     var $list = $('#list'), $tpl = $('#row-tpl'), $empty = $('#empty');
 
     function ddlTs(c){
-      var d = parseDate(c['Submission Deadline']||c.deadline);
-      return d ? d.getTime() : null;
+      var ms = parseDeadlineMs(c['Submission Deadline']||c.deadline);
+      return (ms==null) ? null : ms;
     }
 
     function applyFilters(){
@@ -568,17 +668,23 @@ function normalizeSubs(c){
         host.textContent = fmtHost(c['Start Date'], c['End Date']);
         loc.textContent = c.Location || '';
         var absStr = c['Abstract Deadline']||'';
-        var absDate = parseDate(absStr);
+        var absMs = parseDeadlineMs(absStr);
         var noteBox = el.querySelector('.note');
-        if(absDate){
+        if(absMs != null){
           noteBox.hidden = false;
-          noteV.textContent = 'Abstract DDL: ' + fmtDate(absDate);
+          noteV.textContent = 'Abstract DDL: ' + fmtDateTimeMs(absMs);
+          noteBox.title = 'Raw: ' + cleanDateStr(absStr);
         } else {
           noteBox.hidden = true;
           noteV.textContent = '';
+          noteBox.title = '';
         }
         var subD = c['Submission Deadline'] || c.deadline || '';
-        sub.textContent = fmtDate(parseDate(subD));
+        var subMs = parseDeadlineMs(subD);
+        sub.textContent = subMs==null ? '' : fmtDateTimeMs(subMs);
+        sub.parentElement.title = 'Raw: ' + cleanDateStr(subD);
+        // keep raw deadline in tooltip for clarity (especially for ISO with offset)
+        try { el.querySelector('.sub').setAttribute('title', String(subD || '')); } catch(e) {}
         notiTop.textContent = fmtDate(parseDate(c.Notification||''));
 
         var dl = daysLeft(subD);
@@ -756,6 +862,24 @@ function normalizeSubs(c){
       initTheme();
       initUI();
       fetchData();
+
+      // Live countdown refresh (every second)
+      setInterval(function(){
+        var rows = $$('#list .row');
+        for(var i=0;i<rows.length;i++){
+          var row = rows[i];
+          var c = state.filtered[i];
+          if(!c) continue;
+          var dl = daysLeft(c['Submission Deadline']||c.deadline);
+          var leftEl = row.querySelector('.countdown');
+          if(leftEl){
+            leftEl.textContent = dl.text;
+            leftEl.className = 'countdown ' + (dl.cls || '');
+          }
+          if(dl.closed) row.classList.add('closed');
+          else row.classList.remove('closed');
+        }
+      }, 1000);
     } catch (e) {
       console.error('Init error:', e);
     }

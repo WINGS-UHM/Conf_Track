@@ -1912,19 +1912,6 @@
     "link": ""
   },
   {
-    "name": "SIGMETRICS 2026 - summer round",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Ann Arbor, Michigan, USA",
-    "Start Date": "Jun 08 2026",
-    "End Date": "Jun 12 2026",
-    "Abstract Deadline": "2026-01-06T23:59:00-12:00",
-    "Submission Deadline": "2026-01-13T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://www.sigmetrics.org/sigmetrics2026/"
-  },
-  {
     "name": "SIGMETRICS 2026 - winter round",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
