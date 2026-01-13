@@ -1,0 +1,62 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "web/**"
+      - "data/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Prepare site artifact
+        run: |
+          set -euo pipefail
+          rm -rf dist
+          mkdir -p dist
+
+          # Copy the website from web/ -> dist/
+          cp -R web/. dist/
+
+          # Ensure data/conferences.json is available at /data/conferences.json relative to index.html
+          mkdir -p dist/data
+          if [ -f "data/conferences.json" ]; then
+            cp "data/conferences.json" "dist/data/conferences.json"
+          else
+            echo "WARN: data/conferences.json not found; creating empty placeholder."
+            echo "[]" > "dist/data/conferences.json"
+          fi
+
+          # (Optional) copy other data files if you add more later
+          # cp -R data/. dist/data/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
