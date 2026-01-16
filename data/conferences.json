@@ -61,32 +61,6 @@
     "Start Date": "Aug 31 2026",
     "End Date": "Sep 04 2026",
     "Abstract Deadline": "",
-    "Submission Deadline": "2025-06-01T17:00:00-07:00",
-    "Notification": "",
-    "link": "https://www.vldb.org/2026/"
-  },
-  {
-    "name": "EDBT 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Tampere, Finland",
-    "Start Date": "Mar 24 2026",
-    "End Date": "Mar 27 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-06-04T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://edbticdt2026.github.io/"
-  },
-  {
-    "name": "VLDB 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Boston, MA, USA",
-    "Start Date": "Aug 31 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
     "Submission Deadline": "2025-07-01T17:00:00-07:00",
     "Notification": "",
     "link": "https://www.vldb.org/2026/"
@@ -143,19 +117,6 @@
     "Submission Deadline": "2025-07-15T23:59:59-12:00",
     "Notification": "",
     "link": "https://group.acm.org/conferences/group27/"
-  },
-  {
-    "name": "SIGMOD 2026 - round 3",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Bangalore, India",
-    "Start Date": "May 31 2026",
-    "End Date": "Jun 05 2026",
-    "Abstract Deadline": "2025-07-10T23:59:00-12:00",
-    "Submission Deadline": "2025-07-17T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://2026.sigmod.org/"
   },
   {
     "name": "ICSE 2026 - Second Cycle: Submission",
@@ -355,19 +316,6 @@
     "link": "https://www.vldb.org/2026/"
   },
   {
-    "name": "FSE 2026 - ToSC, Volume 2025, Issue 4 Submission deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Singapore, Singapore",
-    "Start Date": "Mar 23 2026",
-    "End Date": "Mar 27 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-09-01T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://fse.iacr.org/2026/"
-  },
-  {
     "name": "PPoPP 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -379,6 +327,19 @@
     "Submission Deadline": "2025-09-01T23:59:59-12:00",
     "Notification": "",
     "link": "https://ppopp26.sigplan.org/"
+  },
+  {
+    "name": "EDBT 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Tampere, Finland",
+    "Start Date": "Mar 24 2026",
+    "End Date": "Mar 27 2026",
+    "Abstract Deadline": "2025-09-03T23:59:59-12:00",
+    "Submission Deadline": "2025-09-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://edbticdt2026.github.io/"
   },
   {
     "name": "EDBT 2026",
@@ -1049,6 +1010,19 @@
     "link": "https://2026.sigmod.org/"
   },
   {
+    "name": "SIGMOD 2026 - round 3",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Bangalore, India",
+    "Start Date": "May 31 2026",
+    "End Date": "Jun 05 2026",
+    "Abstract Deadline": "2025-10-10T23:59:00-12:00",
+    "Submission Deadline": "2025-10-17T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://2026.sigmod.org/"
+  },
+  {
     "name": "SIGMOD 2026 - round 4",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -1467,6 +1441,19 @@
     "link": "https://fse.iacr.org/2026/"
   },
   {
+    "name": "FSE 2026 - ToSC, Volume 2025, Issue 4 Submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Singapore, Singapore",
+    "Start Date": "Mar 23 2026",
+    "End Date": "Mar 27 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2025-11-23T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://fse.iacr.org/2026/"
+  },
+  {
     "name": "FSE 2026 - ToSC, Volume 2026, Issue 1 Submission deadline",
     "sub": [
       "Network and System Security"
@@ -1491,19 +1478,6 @@
     "Submission Deadline": "2025-11-28T23:59:59-12:00",
     "Notification": "",
     "link": "https://caise26.polimi.it/"
-  },
-  {
-    "name": "PETS 2026 - Issue 3 Paper Submission Deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Calgary, Canada",
-    "Start Date": "Jul 20 2026",
-    "End Date": "Jul 25 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-11-30T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://petsymposium.org/cfp26.php"
   },
   {
     "name": "VLDB 2026",
@@ -1915,19 +1889,6 @@
     "link": ""
   },
   {
-    "name": "ICDCS 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Seoul, South Korea",
-    "Start Date": "Jun 22 2026",
-    "End Date": "Jun 25 2026",
-    "Abstract Deadline": "2026-01-07T23:59:59-12:00",
-    "Submission Deadline": "2026-01-14T23:59:59-12:00",
-    "Notification": "",
-    "link": "http://icdcs2026.icdcs.org/"
-  },
-  {
     "name": "KSEM 2026",
     "sub": [
       "Artificial Intelligence"
@@ -1967,35 +1928,10 @@
     "link": "https://fg2026.ieee-biometrics.org/"
   },
   {
-    "name": "BIS 2026",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Prague, Czech Republic",
-    "Start Date": "Jun 10 2026",
-    "End Date": "Jun 12 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-01-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://bisconf.org/2026/"
-  },
-  {
-    "name": "CHES 2026 - Schedule for TCHES Volume 2026/3",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Türkiye",
-    "Start Date": "Oct 11 2026",
-    "End Date": "Oct 15 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-01-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://ches.iacr.org/2026/"
-  },
-  {
     "name": "ICWSM 2026 - 1st Full-paper Deadline",
     "sub": [
-      "Computer-Human Interaction"
+      "Computer-Human Interaction",
+      "Computer–Human Interaction"
     ],
     "Location": "Los Angeles, CA, USA",
     "Start Date": "May 27 2026",
@@ -2140,6 +2076,19 @@
     "link": "https://2026.ieeeicip.org/"
   },
   {
+    "name": "ICDCS 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Seoul, South Korea",
+    "Start Date": "Jun 22 2026",
+    "End Date": "Jun 25 2026",
+    "Abstract Deadline": "2026-01-21T23:59:59-12:00",
+    "Submission Deadline": "2026-01-21T23:59:59-12:00",
+    "Notification": "",
+    "link": "http://icdcs2026.icdcs.org/"
+  },
+  {
     "name": "ACM SIGGRAPH 2026",
     "sub": [
       "Graphics"
@@ -2242,6 +2191,19 @@
     "Submission Deadline": "Jan 25 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "BIS 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Prague, Czech Republic",
+    "Start Date": "Jun 10 2026",
+    "End Date": "Jun 12 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-01-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://bisconf.org/2026/"
   },
   {
     "name": "GECCO 2026 - Full papers (traditional category)",
@@ -2492,6 +2454,19 @@
     "link": "https://eusipco2026.org/"
   },
   {
+    "name": "FORTE 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Urbino, Italy",
+    "Start Date": "Jun 08 2026",
+    "End Date": "Jun 12 2026",
+    "Abstract Deadline": "2026-01-30T23:59:59-12:00",
+    "Submission Deadline": "2026-02-06T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.discotec.org/2026/forte"
+  },
+  {
     "name": "ICMR 2026",
     "sub": [
       "Graphics"
@@ -2511,7 +2486,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 15 2026",
+    "Start Date": "Sep 16 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -2940,6 +2915,19 @@
     "link": "https://petsymposium.org/cfp26.php"
   },
   {
+    "name": "PETS 2026 - Issue 3 Paper Submission Deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Calgary, Canada",
+    "Start Date": "Jul 20 2026",
+    "End Date": "Jul 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-02-28T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://petsymposium.org/cfp26.php"
+  },
+  {
     "name": "PETS 2026 - Issue 4 Paper Submission Deadline",
     "sub": [
       "Network and System Security"
@@ -2977,6 +2965,19 @@
     "Submission Deadline": "Mar 02 2026",
     "Notification": "",
     "link": "http://conference.wirelessinnovation.org"
+  },
+  {
+    "name": "VLDB 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Boston, MA, USA",
+    "Start Date": "Aug 31 2026",
+    "End Date": "Sep 04 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-01T17:00:00-07:00",
+    "Notification": "",
+    "link": "https://www.vldb.org/2026/"
   },
   {
     "name": "VLDB 2026",
@@ -3582,6 +3583,19 @@
     "link": "https://ches.iacr.org/2026/"
   },
   {
+    "name": "CHES 2026 - Schedule for TCHES Volume 2026/3",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Türkiye",
+    "Start Date": "Oct 11 2026",
+    "End Date": "Oct 15 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ches.iacr.org/2026/"
+  },
+  {
     "name": "CHES 2026 - Schedule for TCHES Volume 2026/4",
     "sub": [
       "Network and System Security"
@@ -3834,6 +3848,19 @@
     "link": ""
   },
   {
+    "name": "ICNP 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Tempe, Arizona, USA",
+    "Start Date": "Oct 05 2026",
+    "End Date": "Oct 08 2026",
+    "Abstract Deadline": "2026-05-15T23:59:59-12:00",
+    "Submission Deadline": "2026-05-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icnp26.cs.ucr.edu/"
+  },
+  {
     "name": "ICCT 2026",
     "sub": [
       "Wireless/Communication"
@@ -3951,19 +3978,6 @@
     "link": "https://accv2026.org/"
   },
   {
-    "name": "SIGMOD 2027 - round 3",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Huntington Beach, CA, USA",
-    "Start Date": "Jun 13 2027",
-    "End Date": "Jun 19 2027",
-    "Abstract Deadline": "2026-07-10T23:59:00-12:00",
-    "Submission Deadline": "2026-07-17T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://2027.sigmod.org/"
-  },
-  {
     "name": "Ucom 2026",
     "sub": [
       "Network System"
@@ -4042,6 +4056,19 @@
     "link": "https://2027.sigmod.org/"
   },
   {
+    "name": "SIGMOD 2027 - round 3",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Huntington Beach, CA, USA",
+    "Start Date": "Jun 13 2027",
+    "End Date": "Jun 19 2027",
+    "Abstract Deadline": "2026-10-10T23:59:00-12:00",
+    "Submission Deadline": "2026-10-17T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://2027.sigmod.org/"
+  },
+  {
     "name": "SIGMOD 2027 - round 4",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -4053,6 +4080,19 @@
     "Submission Deadline": "2026-10-17T23:59:00-12:00",
     "Notification": "",
     "link": "https://2027.sigmod.org/"
+  },
+  {
+    "name": "09-13 June 2026, Bu dva , Montenegro",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://mecoconference.me/ss-cpsiot2026"
   },
   {
     "name": "14th Iran Workshop on Communication and Information Theory",
@@ -4144,19 +4184,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://voyager.ce.fit.ac.jp/conf/3pgcic/2026"
-  },
-  {
-    "name": "About the Conference",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "http://www.ietcint.com"
   },
   {
     "name": "Account Suspended",
@@ -4575,17 +4602,17 @@
     "link": "https://sites.google.com/di.uniroma1.it/esorics2026/"
   },
   {
-    "name": "FORTE 2026",
+    "name": "FROM JUNE 09th-13th, 2026, BUDVA, MONTENEGRO",
     "sub": [
-      "Network System"
+      "Wireless/Communication"
     ],
-    "Location": "Urbino, Italy",
-    "Start Date": "Jun 08 2026",
-    "End Date": "Jun 12 2026",
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
     "Notification": "",
-    "link": "https://www.discotec.org/2026/forte"
+    "link": "http://www.mecoconference.me"
   },
   {
     "name": "Global 6G Conference 2026",
@@ -4613,6 +4640,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://globecom2026.ieee-globecom.org/"
+  },
+  {
+    "name": "http://www.ietcint.com",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "http://www.ietcint.com"
   },
   {
     "name": "IAICT'2026",
@@ -4665,6 +4705,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ICCSP’26",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://iccsp.apec.edu.in"
   },
   {
     "name": "ICDSG 2026",
@@ -5303,6 +5356,19 @@
     "Submission Deadline": "Januari 15, 2026",
     "Notification": "",
     "link": "https://icoeins.telkomuniversity.ac.id"
+  },
+  {
+    "name": "The 2026 IEEE Conference on Advanced Topics on Measurement and Simulation",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "13-15 May, 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://atoms-conferences.org"
   },
   {
     "name": "The 23 rd International Joint Conference on Computer Science and Software Engineering (JCSSE 2026)",
