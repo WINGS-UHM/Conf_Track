@@ -53,19 +53,6 @@
     "link": "https://cscw.acm.org/2026/"
   },
   {
-    "name": "VLDB 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Boston, MA, USA",
-    "Start Date": "Aug 31 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-07-01T17:00:00-07:00",
-    "Notification": "",
-    "link": "https://www.vldb.org/2026/"
-  },
-  {
     "name": "POPL 2026 - Submission Deadline",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -2486,7 +2473,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 16 2026",
+    "Start Date": "Sep 17 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -2730,6 +2717,19 @@
     "link": "https://icfp26.sigplan.org/"
   },
   {
+    "name": "SOUPS 2026 - Mandatory Paper Registration Deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Hannover, Germany",
+    "Start Date": "Aug 23 2026",
+    "End Date": "Aug 26 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-02-19T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://soups.page/"
+  },
+  {
     "name": "InterSpeech 2026",
     "sub": [
       "Graphics"
@@ -2861,6 +2861,19 @@
     "link": ""
   },
   {
+    "name": "ICWT 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Bali, Indonesia",
+    "Start Date": "Jul 02 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IoTSPT2026",
     "sub": [
       "Security and Privacy",
@@ -2965,6 +2978,19 @@
     "Submission Deadline": "Mar 02 2026",
     "Notification": "",
     "link": "http://conference.wirelessinnovation.org"
+  },
+  {
+    "name": "VLDB 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Boston, MA, USA",
+    "Start Date": "Aug 31 2026",
+    "End Date": "Sep 04 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-01T17:00:00-07:00",
+    "Notification": "",
+    "link": "https://www.vldb.org/2026/"
   },
   {
     "name": "VLDB 2026",
@@ -3861,6 +3887,19 @@
     "link": "https://icnp26.cs.ucr.edu/"
   },
   {
+    "name": "ICICS 2026 - Second round",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Fukui, Japan",
+    "Start Date": "Oct 27 2026",
+    "End Date": "Oct 30 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-23T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html"
+  },
+  {
     "name": "ICCT 2026",
     "sub": [
       "Wireless/Communication"
@@ -4080,6 +4119,19 @@
     "Submission Deadline": "2026-10-17T23:59:00-12:00",
     "Notification": "",
     "link": "https://2027.sigmod.org/"
+  },
+  {
+    "name": "UbiComp/ISWC 2026 - third round (only for resubmissions after major revisions)",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Shanghai, China",
+    "Start Date": "Oct 11 2026",
+    "End Date": "Oct 15 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.ubicomp.org/ubicomp-iswc-2026"
   },
   {
     "name": "09-13 June 2026, Bu dva , Montenegro",
@@ -4314,6 +4366,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "http://www.ai-medtech.eu"
+  },
+  {
+    "name": "AISMA-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Stavropol, Russia",
+    "Start Date": "May 12 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ANT 2026",
@@ -5160,6 +5225,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "http://wons-conference.org"
+  },
+  {
+    "name": "OCIA 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Shenzhen, China",
+    "Start Date": "Feb 27 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "OICT 2026",
