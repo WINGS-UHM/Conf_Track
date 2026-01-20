@@ -656,19 +656,6 @@
     "link": "http://www.ifip119.org/Conferences/"
   },
   {
-    "name": "VLDB 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Boston, MA, USA",
-    "Start Date": "Aug 31 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-10-01T17:00:00-07:00",
-    "Notification": "",
-    "link": "https://www.vldb.org/2026/"
-  },
-  {
     "name": "ALT 2026",
     "sub": [
       "Artificial Intelligence"
@@ -2447,7 +2434,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 19 2026",
+    "Start Date": "Sep 20 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -3060,6 +3047,19 @@
     "link": "https://www.vldb.org/2026/"
   },
   {
+    "name": "VLDB 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Boston, MA, USA",
+    "Start Date": "Aug 31 2026",
+    "End Date": "Sep 04 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-01T17:00:00-07:00",
+    "Notification": "",
+    "link": "https://www.vldb.org/2026/"
+  },
+  {
     "name": "IC2S2",
     "sub": [
       "Network System"
@@ -3133,8 +3133,8 @@
     "Location": "Malmö, Sweden",
     "Start Date": "Sep 08 2026",
     "End Date": "Sep 13 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-06T13:00:00-08:00",
+    "Abstract Deadline": "2026-02-26T14:00:00-08:00",
+    "Submission Deadline": "2026-03-05T14:00:00-08:00",
     "Notification": "",
     "link": "https://eccv.ecva.net/"
   },
@@ -4608,19 +4608,6 @@
     "link": "https://cits.udg.edu"
   },
   {
-    "name": "COMING SOON",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://difcon.mmu.edu.my"
-  },
-  {
     "name": "COMSNETS 2026",
     "sub": [
       "Wireless/Communication"
@@ -4658,6 +4645,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://cp2026.a4cp.org/"
+  },
+  {
+    "name": "DIFCON - DIGITAL FUTURES INTERNATIONAL CONGRESS",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://difcon.mmu.edu.my"
   },
   {
     "name": "DRCN 2026",
@@ -5428,6 +5428,19 @@
     "link": "https://2026.refsq.org/"
   },
   {
+    "name": "Registration Now Open!",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://ewh.ieee.org/conf/stem"
+  },
+  {
     "name": "SCN 2026",
     "sub": [
       "Network System",
@@ -5499,7 +5512,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "",
+    "Start Date": "15 May 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
