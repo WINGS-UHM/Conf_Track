@@ -1102,19 +1102,6 @@
     "link": "https://mlsys.org/"
   },
   {
-    "name": "VLDB 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Boston, MA, USA",
-    "Start Date": "Aug 31 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-11-01T17:00:00-07:00",
-    "Notification": "",
-    "link": "https://www.vldb.org/2026/"
-  },
-  {
     "name": "STOC 2026",
     "sub": [
       "Computing Theory"
@@ -2434,7 +2421,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 20 2026",
+    "Start Date": "Sep 21 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -3060,6 +3047,19 @@
     "link": "https://www.vldb.org/2026/"
   },
   {
+    "name": "VLDB 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Boston, MA, USA",
+    "Start Date": "Aug 31 2026",
+    "End Date": "Sep 04 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-01T17:00:00-07:00",
+    "Notification": "",
+    "link": "https://www.vldb.org/2026/"
+  },
+  {
     "name": "IC2S2",
     "sub": [
       "Network System"
@@ -3071,6 +3071,19 @@
     "Submission Deadline": "Mar 03 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "IROS 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Pittsburgh, PA, USA",
+    "Start Date": "Sep 27 2026",
+    "End Date": "Oct 01 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-02T23:59:59-08:00",
+    "Notification": "",
+    "link": "https://2026.ieee-iros.org/"
   },
   {
     "name": "SACMAT 2026 - Second Cycle",
@@ -3532,6 +3545,19 @@
     "Submission Deadline": "2026-03-31T23:59:59-12:00",
     "Notification": "",
     "link": "https://colmweb.org"
+  },
+  {
+    "name": "IEEE VIS 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Boston, Massachusetts, USA",
+    "Start Date": "Nov 09 2026",
+    "End Date": "Nov 13 2026",
+    "Abstract Deadline": "2026-03-21T23:59:59-12:00",
+    "Submission Deadline": "2026-03-31T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ieeevis.org/year/2026/welcome"
   },
   {
     "name": "SOSP 2026",
@@ -5129,19 +5155,6 @@
     "link": "https://www.ieeespace.org"
   },
   {
-    "name": "IEEE VIS 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Boston, Massachusetts, USA",
-    "Start Date": "Nov 09 2026",
-    "End Date": "Nov 13 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://ieeevis.org/year/2026/welcome"
-  },
-  {
     "name": "IEEE WAMICON 2026",
     "sub": [
       "Wireless/Communication"
@@ -5326,7 +5339,8 @@
   {
     "name": "NextG-Sec-2026",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Stony Brook, NY, United States",
     "Start Date": "Jun 23 2026",
