@@ -13,19 +13,6 @@
     "link": "https://www.eurovis.org.uk/"
   },
   {
-    "name": "GECCO 2026 - Full papers (traditional category)",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "San José, Costa Rica (hybrid)",
-    "Start Date": "Jul 13 2026",
-    "End Date": "Jul 17 2026",
-    "Abstract Deadline": "2026-01-19T23:59:00-12:00",
-    "Submission Deadline": "2025-01-26T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://gecco-2026.sigevo.org/HomePage"
-  },
-  {
     "name": "SAC 2026 - Paper submission deadline (cycle 2)",
     "sub": [
       "Network and System Security"
@@ -2115,6 +2102,19 @@
     "link": "https://gecco-2026.sigevo.org/HomePage"
   },
   {
+    "name": "GECCO 2026 - Full papers (traditional category)",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "San José, Costa Rica (hybrid)",
+    "Start Date": "Jul 13 2026",
+    "End Date": "Jul 17 2026",
+    "Abstract Deadline": "2026-01-19T23:59:00-12:00",
+    "Submission Deadline": "2026-01-26T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://gecco-2026.sigevo.org/HomePage"
+  },
+  {
     "name": "CAV 2026",
     "sub": [
       "Computing Theory"
@@ -2395,7 +2395,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 24 2026",
+    "Start Date": "Sep 25 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -3572,6 +3572,19 @@
     "link": ""
   },
   {
+    "name": "MIND 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Samarkand, Uzbekistan",
+    "Start Date": "Jun 19 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CLPSC2026",
     "sub": [
       "Security & Privacy"
@@ -3653,7 +3666,8 @@
   {
     "name": "ICSCGE 2026",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Brisbane, Australia",
     "Start Date": "Aug 06 2026",
@@ -4041,6 +4055,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CNRIA'26",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Thiès, Senegal",
+    "Start Date": "Oct 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 02 2026",
     "Notification": "",
     "link": ""
   },
