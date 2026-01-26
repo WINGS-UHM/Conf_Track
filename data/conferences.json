@@ -2323,6 +2323,19 @@
     "link": "https://www.icsip.org"
   },
   {
+    "name": "HPDC 2026 - abstract registration deadline",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Cleveland, OH, USA",
+    "Start Date": "Jul 13 2026",
+    "End Date": "Jul 16 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-02-05T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://hpdc.sci.utah.edu/2026/"
+  },
+  {
     "name": "USENIX Security 2026 - Cycle 1 Deadline",
     "sub": [
       "Network and System Security",
@@ -2395,7 +2408,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 25 2026",
+    "Start Date": "Sep 26 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -2786,7 +2799,8 @@
   {
     "name": "ICICS2026",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Security & Privacy"
     ],
     "Location": "Fukui, Japan",
     "Start Date": "Oct 27 2026",
@@ -3662,6 +3676,20 @@
     "Submission Deadline": "2026-03-31T23:59:59-12:00",
     "Notification": "",
     "link": "https://ieeevis.org/year/2026/welcome"
+  },
+  {
+    "name": "GLOBECOM 2026",
+    "sub": [
+      "Wireless/Communication",
+      "Network System"
+    ],
+    "Location": "Macao, China",
+    "Start Date": "Dec 07 2026",
+    "End Date": "Dec 11 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-01T23:59:59+08:00",
+    "Notification": "",
+    "link": "https://globecom2026.ieee-globecom.org/"
   },
   {
     "name": "ICSCGE 2026",
@@ -5023,20 +5051,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://en.g6gconference.com"
-  },
-  {
-    "name": "GLOBECOM 2026",
-    "sub": [
-      "Wireless/Communication",
-      "Network System"
-    ],
-    "Location": "Macao, China",
-    "Start Date": "Dec 07 2026",
-    "End Date": "Dec 11 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://globecom2026.ieee-globecom.org/"
   },
   {
     "name": "GLSVLSI'26",
