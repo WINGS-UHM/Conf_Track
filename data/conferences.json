@@ -2408,7 +2408,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 26 2026",
+    "Start Date": "Sep 27 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -3480,6 +3480,19 @@
     "Submission Deadline": "2026-03-21T23:59:59-12:00",
     "Notification": "",
     "link": "http://2026.rtss.org/"
+  },
+  {
+    "name": "SMC 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Bellevue, WA, USA",
+    "Start Date": "Oct 04 2026",
+    "End Date": "Oct 07 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-22T23:59:59-07:00",
+    "Notification": "",
+    "link": "https://www.ieeesmc2026.org/"
   },
   {
     "name": "CCET 2026",
@@ -5989,5 +6002,18 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www2027.thewebconf.org/"
+  },
+  {
+    "name": "بیست و دومین کنفرانس بین‌المللی انجمن رمز ایران در امنیت اطلاعات و رمزشناسی",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://iscisc2025.sbu.ac.ir/fa"
   }
 ]
