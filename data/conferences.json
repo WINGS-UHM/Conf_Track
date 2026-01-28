@@ -2408,7 +2408,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 27 2026",
+    "Start Date": "Sep 28 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -3994,6 +3994,19 @@
     "link": ""
   },
   {
+    "name": "19th IEEE MCSoC 2026 – Bridging Architecture, Intelligence, and Emerging Applications",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2026",
+    "Notification": "",
+    "link": "https://mcsoc-forum.org"
+  },
+  {
     "name": "ESGCO 2026",
     "sub": [
       "Network System"
@@ -4544,19 +4557,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "http://www.iwcit.com"
-  },
-  {
-    "name": "18th IEEE MCSoC 2025, December 15-18, 2025, Singapore",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://mcsoc-forum.org"
   },
   {
     "name": "2026 8th International Conference on Computer Communication and the Internet (ICCCI)",
