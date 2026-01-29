@@ -2408,7 +2408,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 28 2026",
+    "Start Date": "Sep 29 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -3599,6 +3599,19 @@
     "link": ""
   },
   {
+    "name": "ICRAIS2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Flic en Flac, Mauritius",
+    "Start Date": "Sep 30 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "MIND 2026",
     "sub": [
       "Network System"
@@ -3610,6 +3623,19 @@
     "Submission Deadline": "Mar 31 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ACM MM 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Rio de Janeiro, Brazil",
+    "Start Date": "Nov 10 2026",
+    "End Date": "Nov 14 2026",
+    "Abstract Deadline": "2026-03-24T11:59:59-12:00",
+    "Submission Deadline": "2026-03-31T11:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.acmmm.org/"
   },
   {
     "name": "CLPSC2026",
@@ -4362,6 +4388,19 @@
     "link": ""
   },
   {
+    "name": "ICIT 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Shanghai, China",
+    "Start Date": "Dec 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "APCC 2026",
     "sub": [
       "Network System",
@@ -4369,6 +4408,19 @@
     ],
     "Location": "Xi'an, China",
     "Start Date": "Nov 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICMEE 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Guangzhou, China",
+    "Start Date": "Dec 29 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 30 2026",
@@ -4648,19 +4700,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://asiaccs2026.cse.iitkgp.ac.in/workshops"
-  },
-  {
-    "name": "ACM MM 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Rio de Janeiro, Brazil",
-    "Start Date": "Nov 10 2026",
-    "End Date": "Nov 14 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://2026.acmmm.org/"
   },
   {
     "name": "ACM MobiCom - Cycle 2",
@@ -5989,6 +6028,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://iccerec.com"
+  },
+  {
+    "name": "WISE2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Perth, Australia",
+    "Start Date": "Jun 09 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "WWW 2027",
