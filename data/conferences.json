@@ -2408,7 +2408,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 29 2026",
+    "Start Date": "Sep 30 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -3469,19 +3469,6 @@
     "link": "https://2026.iccbr.org/"
   },
   {
-    "name": "RTSS 2026",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Yokohama, Japan",
-    "Start Date": "Dec 09 2026",
-    "End Date": "Dec 11 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-21T23:59:59-12:00",
-    "Notification": "",
-    "link": "http://2026.rtss.org/"
-  },
-  {
     "name": "SMC 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -3614,7 +3601,8 @@
   {
     "name": "MIND 2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Security & Privacy"
     ],
     "Location": "Samarkand, Uzbekistan",
     "Start Date": "Jun 19 2026",
@@ -4141,7 +4129,8 @@
   {
     "name": "CNRIA'26",
     "sub": [
-      "Network System"
+      "Network System",
+      "Security & Privacy"
     ],
     "Location": "Thiès, Senegal",
     "Start Date": "Oct 15 2026",
@@ -4243,6 +4232,19 @@
     "Submission Deadline": "May 20 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "RTSS 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Yokohama, Japan",
+    "Start Date": "Dec 09 2026",
+    "End Date": "Dec 11 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-21T23:59:59-12:00",
+    "Notification": "",
+    "link": "http://2026.rtss.org/"
   },
   {
     "name": "ICNP 2026",
@@ -4492,6 +4494,19 @@
     "Submission Deadline": "Aug 11 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ASPLOS 2027 - September Cycle Submission Deadline",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "TBD",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-09T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.asplos-conference.org/call-for-papers-asplos27/"
   },
   {
     "name": "FAST 2027 - Spring deadline",
