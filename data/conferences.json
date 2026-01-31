@@ -2193,19 +2193,6 @@
     "link": "https://conf.researchr.org/home/issta-2026"
   },
   {
-    "name": "WOCC2026-Home",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "May 8th to 9th, 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jan 31 2026",
-    "Notification": "",
-    "link": "http://www.wocc.org"
-  },
-  {
     "name": "RSS 2026",
     "sub": [
       "Artificial Intelligence"
@@ -2408,7 +2395,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 30 2026",
+    "Start Date": "Oct 01 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -2678,6 +2665,19 @@
     "link": "https://soups.page/"
   },
   {
+    "name": "WOCC2026-Home",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "May 8th to 9th, 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 21 2026",
+    "Notification": "",
+    "link": "http://www.wocc.org"
+  },
+  {
     "name": "InterSpeech 2026",
     "sub": [
       "Graphics"
@@ -2762,20 +2762,6 @@
     ],
     "Location": "London, UK",
     "Start Date": "Jun 08 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Feb 28 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICAEEMI2026",
-    "sub": [
-      "Security and Privacy",
-      "Security & Privacy"
-    ],
-    "Location": "Taichung, Taiwan",
-    "Start Date": "Mar 20 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Feb 28 2026",
@@ -3203,6 +3189,20 @@
     "Submission Deadline": "2026-03-03T23:59:59-12:00",
     "Notification": "",
     "link": "https://wisec26.events.cispa.de/"
+  },
+  {
+    "name": "ICAEEMI2026",
+    "sub": [
+      "Security and Privacy",
+      "Security & Privacy"
+    ],
+    "Location": "Taichung, Taiwan",
+    "Start Date": "Mar 20 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 05 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ECCV 2026",
@@ -4834,6 +4834,19 @@
     "link": "https://cs-conferences.acadiau.ca/ant-26"
   },
   {
+    "name": "Antonio Franchi",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "http://www.isncc-conf.org"
+  },
+  {
     "name": "Automation, Robotics & Communications for Industry 4.0/5.0/6.0 (ARCI' 2026): 6th IFSA Winter Conference",
     "sub": [
       "Wireless/Communication"
@@ -5547,19 +5560,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://conferences.tiu.edu.iq/iec"
-  },
-  {
-    "name": "ISNCC 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "http://www.isncc-conf.org"
   },
   {
     "name": "ISWC 2026",
