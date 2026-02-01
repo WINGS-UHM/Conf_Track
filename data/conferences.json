@@ -2395,7 +2395,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Oct 01 2026",
+    "Start Date": "Sep 01 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -3123,6 +3123,19 @@
     "Submission Deadline": "Mar 03 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "GLSVLSI 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Finger Lakes, NY, USA",
+    "Start Date": "Jun 22 2026",
+    "End Date": "Jun 24 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-02T23:59:00-05:00",
+    "Notification": "",
+    "link": "https://www.glsvlsi.org/"
   },
   {
     "name": "IROS 2026",
@@ -3862,6 +3875,19 @@
     "Submission Deadline": "Apr 15 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ICCAD 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "San Jose, California, USA",
+    "Start Date": "Nov 08 2026",
+    "End Date": "Nov 12 2026",
+    "Abstract Deadline": "2026-04-07T23:59:59-12:00",
+    "Submission Deadline": "2026-04-14T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://iccad.com/2026"
   },
   {
     "name": "CHES 2026 - Schedule for TCHES Volume 2026/1",
@@ -5463,7 +5489,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "",
+    "Start Date": "Jan 31 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
