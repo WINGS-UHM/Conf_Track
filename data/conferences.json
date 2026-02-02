@@ -2395,7 +2395,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 01 2026",
+    "Start Date": "Sep 02 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -3772,6 +3772,19 @@
     "link": "https://2026.asap-conf.org/"
   },
   {
+    "name": "MICRO 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Oct 31 2026",
+    "End Date": "Nov 04 2026",
+    "Abstract Deadline": "2026-03-31T23:59:59-04:00",
+    "Submission Deadline": "2026-04-07T23:59:59-04:00",
+    "Notification": "",
+    "link": "https://microarch.org/micro59/"
+  },
+  {
     "name": "SC 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -4338,6 +4351,19 @@
     "link": ""
   },
   {
+    "name": "MSWIM'2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Paris, France",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "JOTECA 2026",
     "sub": [
       "Security & Privacy"
@@ -4443,6 +4469,19 @@
     "link": ""
   },
   {
+    "name": "ICCSRE’2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Ouarzazate, Morocco",
+    "Start Date": "Jul 25 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICMEE 2026",
     "sub": [
       "Wireless/Communication"
@@ -4452,6 +4491,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICNS3",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Naples, Italy",
+    "Start Date": "Oct 19 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 01 2026",
     "Notification": "",
     "link": ""
   },
@@ -4491,6 +4543,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "HKN 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Dallas, TX, United States",
+    "Start Date": "Nov 06 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 01 2026",
     "Notification": "",
     "link": ""
   },
@@ -4624,6 +4689,19 @@
     "Submission Deadline": "2026-11-01T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.ubicomp.org/ubicomp-iswc-2026"
+  },
+  {
+    "name": "ICAIE’2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Ouarzazate, Morocco",
+    "Start Date": "Nov 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 05 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "09-13 June 2026, Bu dva , Montenegro",
@@ -5732,6 +5810,19 @@
     "link": "https://www.overturetool.org/workshops/24th-overture-workshop.html"
   },
   {
+    "name": "QNRL@WCCI2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Maastricht, Netherlands",
+    "Start Date": "Jun 21 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "REFSQ 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -5939,6 +6030,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://icicyta.telkomuniversity.ac.id/2026"
+  },
+  {
+    "name": "THE IEEE INTERNATIONAL SYMPOSIUM ON BROADBAND MULTIMEDIA SYSTEMS AND BROADCASTING 2026, THE 21ST IN THE SERIES, WILL BE HELD IN 2026, JOÃO PESSOA, PARAÍBA, BRAZIL.",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "http://www.bmsb2026.com"
   },
   {
     "name": "Third International Workshop on Holistic 6G Radio Design",
