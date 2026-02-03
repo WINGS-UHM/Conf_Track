@@ -1785,6 +1785,19 @@
     "link": ""
   },
   {
+    "name": "The 2 nd International Conference on Enterprise and Industrial System (ICOEINS) 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 15 2026",
+    "Notification": "",
+    "link": "https://icoeins.telkomuniversity.ac.id"
+  },
+  {
     "name": "KSEM 2026",
     "sub": [
       "Artificial Intelligence"
@@ -2395,7 +2408,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 02 2026",
+    "Start Date": "Sep 03 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -4099,6 +4112,19 @@
     "link": ""
   },
   {
+    "name": "NSPW 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Victoria, Canada",
+    "Start Date": "Sep 27 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CCS 2026 - Second Review Cycle",
     "sub": [
       "Network and System Security",
@@ -4221,6 +4247,19 @@
     "link": "https://icpp2026.github.io/"
   },
   {
+    "name": "FONCIMED 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Gap, France",
+    "Start Date": "Oct 21 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 07 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICSPS 2026",
     "sub": [
       "Wireless/Communication"
@@ -4297,6 +4336,19 @@
     "Submission Deadline": "2026-05-22T23:59:59-12:00",
     "Notification": "",
     "link": "https://icnp26.cs.ucr.edu/"
+  },
+  {
+    "name": "ICNS3",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Naples, Italy",
+    "Start Date": "Oct 19 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 24 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICICS 2026 - Second round",
@@ -4491,19 +4543,6 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICNS3",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Naples, Italy",
-    "Start Date": "Oct 19 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 01 2026",
     "Notification": "",
     "link": ""
   },
@@ -5965,19 +6004,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.wcse.us"
-  },
-  {
-    "name": "The 2 nd International Conference on Enterprise and Industrial System (ICOEINS) 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Januari 15, 2026",
-    "Notification": "",
-    "link": "https://icoeins.telkomuniversity.ac.id"
   },
   {
     "name": "The 2026 IEEE Conference on Advanced Topics on Measurement and Simulation",
