@@ -2389,26 +2389,13 @@
     "link": "https://www.discotec.org/2026/forte"
   },
   {
-    "name": "ICMR 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Amsterdam, Netherlands",
-    "Start Date": "Jun 16 2026",
-    "End Date": "Jun 19 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-02-06T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://icmr2026.org/calls.html"
-  },
-  {
     "name": "SIGCOMM 2026",
     "sub": [
       "Network System",
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 03 2026",
+    "Start Date": "Sep 04 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -2572,6 +2559,19 @@
     "link": "http://www.icccn.org/ICCCN26/"
   },
   {
+    "name": "ICMR 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Amsterdam, Netherlands",
+    "Start Date": "Jun 16 2026",
+    "End Date": "Jun 19 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-02-13T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icmr2026.org/calls.html"
+  },
+  {
     "name": "KR 2026",
     "sub": [
       "Artificial Intelligence"
@@ -2715,6 +2715,19 @@
     "Submission Deadline": "Feb 26 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "UAI 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Amsterdam, Netherlands",
+    "Start Date": "Aug 17 2026",
+    "End Date": "Aug 21 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-02-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.auai.org/uai2026/"
   },
   {
     "name": "MICCAI 2026",
@@ -3734,7 +3747,8 @@
     "name": "GLOBECOM 2026",
     "sub": [
       "Wireless/Communication",
-      "Network System"
+      "Network System",
+      "Uncategorized"
     ],
     "Location": "Macao, China",
     "Start Date": "Dec 07 2026",
@@ -3914,6 +3928,19 @@
     "Submission Deadline": "2026-04-14T23:59:59-12:00",
     "Notification": "",
     "link": "https://iccad.com/2026"
+  },
+  {
+    "name": "EGSR 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Bordeaux, France",
+    "Start Date": "Jul 01 2026",
+    "End Date": "Jul 03 2026",
+    "Abstract Deadline": "2026-04-08T23:59:59+00:00",
+    "Submission Deadline": "2026-04-15T23:59:59+00:00",
+    "Notification": "",
+    "link": "https://egsr2026.inria.fr/"
   },
   {
     "name": "CHES 2026 - Schedule for TCHES Volume 2026/1",
@@ -4260,6 +4287,19 @@
     "link": ""
   },
   {
+    "name": "ISWC 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Bari, Italy",
+    "Start Date": "Oct 25 2026",
+    "End Date": "Oct 29 2026",
+    "Abstract Deadline": "2026-05-02T23:59:59-12:00",
+    "Submission Deadline": "2026-05-07T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://iswc2026.semanticweb.org/"
+  },
+  {
     "name": "ICSPS 2026",
     "sub": [
       "Wireless/Communication"
@@ -4327,7 +4367,8 @@
   {
     "name": "ICNP 2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Uncategorized"
     ],
     "Location": "Tempe, Arizona, USA",
     "Start Date": "Oct 05 2026",
@@ -5211,19 +5252,6 @@
     "link": "https://easychair.org/conferences?conf=bdsc2026"
   },
   {
-    "name": "EGSR 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Bordeaux, France",
-    "Start Date": "Jul 01 2026",
-    "End Date": "Jul 03 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://egsr2026.inria.fr/"
-  },
-  {
     "name": "ESEM 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -5703,19 +5731,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://conferences.tiu.edu.iq/iec"
-  },
-  {
-    "name": "ISWC 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Bari, Italy",
-    "Start Date": "Oct 25 2026",
-    "End Date": "Oct 29 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://iswc2026.semanticweb.org/"
   },
   {
     "name": "Keynote Speakers",
