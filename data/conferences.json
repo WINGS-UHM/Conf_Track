@@ -2310,19 +2310,6 @@
     "link": "https://2026.ieeeicip.org/"
   },
   {
-    "name": "Welcome to attend ICSIP 2026!",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Feb 05 2026",
-    "Notification": "",
-    "link": "https://www.icsip.org"
-  },
-  {
     "name": "HPDC 2026 - abstract registration deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -2382,7 +2369,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 05 2026",
+    "Start Date": "Sep 06 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -3244,6 +3231,19 @@
     "link": ""
   },
   {
+    "name": "Welcome to attend ICSIP 2026!",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 05 2026",
+    "Notification": "",
+    "link": "https://www.icsip.org"
+  },
+  {
     "name": "ECCV 2026",
     "sub": [
       "Artificial Intelligence"
@@ -3671,19 +3671,6 @@
     ],
     "Location": "Chicago, IL, United States",
     "Start Date": "Apr 17 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "EAI SmartSP 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Detroit, MI, United States",
-    "Start Date": "Nov 05 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 01 2026",
@@ -4203,6 +4190,19 @@
     "Submission Deadline": "2026-04-29T23:59:59-12:00",
     "Notification": "",
     "link": "https://conferences.sigcomm.org/imc/2026/"
+  },
+  {
+    "name": "EAI SmartSP 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Detroit, MI, United States",
+    "Start Date": "Nov 05 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 01 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "MCCSAI'2026",
@@ -4997,7 +4997,7 @@
       "Security & Privacy"
     ],
     "Location": "Stavropol, Russia",
-    "Start Date": "May 12 2026",
+    "Start Date": "Oct 06 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
