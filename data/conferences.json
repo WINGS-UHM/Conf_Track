@@ -2369,12 +2369,25 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 06 2026",
+    "Start Date": "Sep 07 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
     "Notification": "",
     "link": "https://conferences.sigcomm.org/sigcomm/2026/"
+  },
+  {
+    "name": "Networking 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Lugano, Switzerland",
+    "Start Date": "May 24 2026",
+    "End Date": "May 27 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-02-08T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://networking.ifip.org/2026/"
   },
   {
     "name": "SIGKDD 2026 - 1st round of 2 total rounds",
@@ -2597,6 +2610,19 @@
     "Submission Deadline": "Feb 15 2026",
     "Notification": "",
     "link": "https://www.icccm.org"
+  },
+  {
+    "name": "ISCC 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Vilamoura, Algarve, Portugal",
+    "Start Date": "Jun 23 2026",
+    "End Date": "Jun 26 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-02-15T23:59:59+00:00",
+    "Notification": "",
+    "link": "https://ieee-iscc.computer.org/2026/"
   },
   {
     "name": "AISAMS26",
@@ -3996,6 +4022,19 @@
     "link": "https://icmi.acm.org/2026/"
   },
   {
+    "name": "LCN 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Coimbra, Portugal",
+    "Start Date": "Oct 07 2026",
+    "End Date": "Oct 09 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-20T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.ieeelcn.org/"
+  },
+  {
     "name": "ESORICS 2026 - Second Submission deadline",
     "sub": [
       "Network and System Security"
@@ -4446,15 +4485,16 @@
   {
     "name": "MSWIM'2026",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Paris, France",
     "Start Date": "Oct 26 2026",
-    "End Date": "",
+    "End Date": "Oct 30 2026",
     "Abstract Deadline": "",
-    "Submission Deadline": "Jun 01 2026",
+    "Submission Deadline": "2026-06-01T23:59:59+01:00",
     "Notification": "",
-    "link": ""
+    "link": "https://mswimconf.com/2026/"
   },
   {
     "name": "JOTECA 2026",
