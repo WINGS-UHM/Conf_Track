@@ -3678,19 +3678,6 @@
     "link": ""
   },
   {
-    "name": "ACM MM 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Rio de Janeiro, Brazil",
-    "Start Date": "Nov 10 2026",
-    "End Date": "Nov 14 2026",
-    "Abstract Deadline": "2026-03-24T11:59:59-12:00",
-    "Submission Deadline": "2026-03-31T11:59:59-12:00",
-    "Notification": "",
-    "link": "https://2026.acmmm.org/"
-  },
-  {
     "name": "CLPSC2026",
     "sub": [
       "Security & Privacy"
@@ -3784,6 +3771,19 @@
     "Submission Deadline": "Apr 02 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ACM MM 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Rio de Janeiro, Brazil",
+    "Start Date": "Nov 10 2026",
+    "End Date": "Nov 14 2026",
+    "Abstract Deadline": "2026-03-24T11:59:59-12:00",
+    "Submission Deadline": "2026-04-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.acmmm.org/"
   },
   {
     "name": "SOSP 2026",
