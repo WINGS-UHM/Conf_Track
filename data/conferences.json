@@ -499,20 +499,6 @@
     "link": "https://2026.ieeeicassp.org/"
   },
   {
-    "name": "NSDI - Cycle Spring",
-    "sub": [
-      "Network System",
-      "Uncategorized"
-    ],
-    "Location": "Renton, WA, USA",
-    "Start Date": "May 04 2026",
-    "End Date": "May 06 2026",
-    "Abstract Deadline": "2025-09-11T23:59:59-07:00",
-    "Submission Deadline": "2025-09-18T23:59:59-07:00",
-    "Notification": "",
-    "link": "https://www.usenix.org/conference/nsdi26"
-  },
-  {
     "name": "NSDI 2026",
     "sub": [
       "Network System"
@@ -3705,6 +3691,19 @@
     "link": "http://www.ic-icc.cn/2026/"
   },
   {
+    "name": "ProbML 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Seoul, South Korea",
+    "Start Date": "Jul 05 2026",
+    "End Date": "Jul 05 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-20T11:59:00-12:00",
+    "Notification": "",
+    "link": "https://probml.cc"
+  },
+  {
     "name": "ICCBR 2026",
     "sub": [
       "Artificial Intelligence"
@@ -4984,6 +4983,20 @@
     "link": "https://www.usenix.org/conference/fast27"
   },
   {
+    "name": "NSDI - Cycle Spring",
+    "sub": [
+      "Network System",
+      "Uncategorized"
+    ],
+    "Location": "Providence, RI, USA",
+    "Start Date": "May 11 2027",
+    "End Date": "May 13 2027",
+    "Abstract Deadline": "2026-09-10T23:59:59-04:00",
+    "Submission Deadline": "2026-09-17T23:59:59-04:00",
+    "Notification": "",
+    "link": "https://www.usenix.org/conference/nsdi26"
+  },
+  {
     "name": "SIGMOD 2027 - round 1",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -5166,6 +5179,19 @@
     "link": "https://www.eucnc.eu"
   },
   {
+    "name": "ACM AsiaCCS - Cycle 2",
+    "sub": [
+      "Uncategorized"
+    ],
+    "Location": "Ha Noi, Vietnam",
+    "Start Date": "Aug 25 2025",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://asiaccs2025.hust.edu.vn"
+  },
+  {
     "name": "ACM ASIACCS 2026 | 1-5 June Bangalore",
     "sub": [
       "Wireless/Communication"
@@ -5179,14 +5205,27 @@
     "link": "https://asiaccs2026.cse.iitkgp.ac.in/workshops"
   },
   {
+    "name": "ACM CCS - Cycle 1",
+    "sub": [
+      "Uncategorized"
+    ],
+    "Location": "Taipei, ROC",
+    "Start Date": "Oct 13 2025",
+    "End Date": "",
+    "Abstract Deadline": "Apr 07 2025",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.sigsac.org/ccs/CCS2025/"
+  },
+  {
     "name": "ACM MobiCom - Cycle 2",
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Austin TX",
-    "Start Date": "Nov 01 2026",
+    "Location": "Hong Kong, China",
+    "Start Date": "Nov 01 2025",
     "End Date": "",
-    "Abstract Deadline": "Mar 06 2026",
+    "Abstract Deadline": "Mar 11 2025",
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.sigmobile.org/mobicom/2026/"
@@ -5196,13 +5235,26 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Tokyo Japan",
-    "Start Date": "Nov 23 2026",
+    "Location": "Houston TX",
+    "Start Date": "Oct 27 2025",
     "End Date": "",
-    "Abstract Deadline": "Mar 30 2026",
+    "Abstract Deadline": "Mar 23 2025",
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.sigmobile.org/mobihoc/2026/"
+  },
+  {
+    "name": "ACM MobiSys",
+    "sub": [
+      "Uncategorized"
+    ],
+    "Location": "Anaheim, CA",
+    "Start Date": "Jun 23 2025",
+    "End Date": "",
+    "Abstract Deadline": "Dec 02 2024",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.sigmobile.org/mobisys/2025/"
   },
   {
     "name": "ACM SaT-CPS 2026",
@@ -5218,6 +5270,32 @@
     "link": ""
   },
   {
+    "name": "ACM SenSys",
+    "sub": [
+      "Uncategorized"
+    ],
+    "Location": "Irvine, CA",
+    "Start Date": "May 06 2025",
+    "End Date": "",
+    "Abstract Deadline": "Nov 07 2024",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://sensys.acm.org/2025/"
+  },
+  {
+    "name": "ACM SIGCOMM",
+    "sub": [
+      "Uncategorized"
+    ],
+    "Location": "Coimbra, Portugal",
+    "Start Date": "Sep 08 2025",
+    "End Date": "",
+    "Abstract Deadline": "Jan 24 2025",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://conferences.sigcomm.org/sigcomm/2025"
+  },
+  {
     "name": "ACM SIGGRAPH ASIA 2026",
     "sub": [
       "Graphics"
@@ -5229,6 +5307,32 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://asia.siggraph.org/2026/"
+  },
+  {
+    "name": "ACM SIGMETRICS",
+    "sub": [
+      "Uncategorized"
+    ],
+    "Location": "Stony Brook, New York",
+    "Start Date": "Jun 09 2025",
+    "End Date": "",
+    "Abstract Deadline": "Jan 15 2025",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.sigmetrics.org/sigmetrics2025/"
+  },
+  {
+    "name": "ACM WiSec - Cycle 1",
+    "sub": [
+      "Uncategorized"
+    ],
+    "Location": "Arlington, VA",
+    "Start Date": "Jun 30 2025",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://wisec2025.gmu.edu/"
   },
   {
     "name": "ACSAC",
@@ -5547,8 +5651,8 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Rome, Italy",
-    "Start Date": "Sep 21 2026",
+    "Location": "Toulouse, France",
+    "Start Date": "Sep 22 2025",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
@@ -5662,7 +5766,8 @@
   {
     "name": "ICCCN2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Wireless/Communication"
     ],
     "Location": "Honolulu, Hawaii, United States",
     "Start Date": "Jul 27 2026",
@@ -5768,10 +5873,10 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Charlotte, NC",
-    "Start Date": "Jun 22 2026",
+    "Location": "Naples, Italy",
+    "Start Date": "Jun 23 2025",
     "End Date": "",
-    "Abstract Deadline": "Nov 27 2025",
+    "Abstract Deadline": "Nov 27 2024",
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://dsn2026.github.io/"
@@ -5807,8 +5912,8 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Glasgow, Scotland, UK",
-    "Start Date": "May 24 2026",
+    "Location": "Montreal, Canada",
+    "Start Date": "Jun 08 2025",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
@@ -5833,10 +5938,10 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Seoul, South Korea",
-    "Start Date": "Jun 22 2026",
+    "Location": "Glasgow, Scotland",
+    "Start Date": "Jul 21 2025",
     "End Date": "",
-    "Abstract Deadline": "Dec 05 2025",
+    "Abstract Deadline": "Dec 04 2024",
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://icdcs2026.icdcs.org/"
@@ -5866,6 +5971,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://ieeeieacon.org"
+  },
+  {
+    "name": "IEEE INFOCOM",
+    "sub": [
+      "Uncategorized"
+    ],
+    "Location": "Longdon, UK",
+    "Start Date": "May 20 2025",
+    "End Date": "",
+    "Abstract Deadline": "Jul 24 2024",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://infocom2025.ieee-infocom.org/"
   },
   {
     "name": "IEEE Menus",
@@ -6414,6 +6532,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://sites.google.com/view/holistic6g"
+  },
+  {
+    "name": "USENIX Security - Cycle 2",
+    "sub": [
+      "Uncategorized"
+    ],
+    "Location": "Seattle, WA",
+    "Start Date": "Aug 13 2025",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.usenix.org/conference/usenixsecurity25"
   },
   {
     "name": "WDC ’26",
