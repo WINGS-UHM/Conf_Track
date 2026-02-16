@@ -2625,20 +2625,6 @@
     "link": "https://kr.org/KR2026/"
   },
   {
-    "name": "TDI 2026",
-    "sub": [
-      "Security and Privacy",
-      "Security & Privacy"
-    ],
-    "Location": "Verona, Italy",
-    "Start Date": "Apr 20 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Feb 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "Welcome to ICCCM 2026 ( CFP Flyer Download )",
     "sub": [
       "Wireless/Communication"
@@ -2763,6 +2749,20 @@
     ],
     "Location": "Copenhagen, Denmark",
     "Start Date": "Jun 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 22 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "TDI 2026",
+    "sub": [
+      "Security and Privacy",
+      "Security & Privacy"
+    ],
+    "Location": "Verona, Italy",
+    "Start Date": "Apr 20 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Feb 22 2026",
@@ -4840,7 +4840,8 @@
   {
     "name": "OGC2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Wireless/Communication"
     ],
     "Location": "Shenzhen, China",
     "Start Date": "Sep 08 2026",
@@ -4971,7 +4972,8 @@
   {
     "name": "ICNCC 2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Wireless/Communication"
     ],
     "Location": "Kuala Lumper, Malaysia",
     "Start Date": "Dec 10 2026",
@@ -6057,7 +6059,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "Feb 15th, 2026",
+    "Start Date": "May 24th, 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
@@ -6511,7 +6513,8 @@
   {
     "name": "SEEDA-CECNSM 2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Wireless/Communication"
     ],
     "Location": "Thessaloniki, Greece",
     "Start Date": "Sep 18 2026",
