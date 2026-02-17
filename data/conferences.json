@@ -2547,19 +2547,6 @@
     "link": ""
   },
   {
-    "name": "The 2026 International Conference on Advancement in Data Science, E-learning and Information System (ICADEIS)",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "May 15 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Feb 13 2026",
-    "Notification": "",
-    "link": "https://icadeis.org"
-  },
-  {
     "name": "CRYPTO 2026",
     "sub": [
       "Network and System Security"
@@ -2623,19 +2610,6 @@
     "Submission Deadline": "2026-02-13T23:59:59-12:00",
     "Notification": "",
     "link": "https://kr.org/KR2026/"
-  },
-  {
-    "name": "Welcome to ICCCM 2026 ( CFP Flyer Download )",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Feb 15 2026",
-    "Notification": "",
-    "link": "https://www.icccm.org"
   },
   {
     "name": "ISCC 2026",
@@ -2926,6 +2900,19 @@
     "Submission Deadline": "Feb 28 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "The 2026 International Conference on Advancement in Data Science, E-learning and Information System (ICADEIS)",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "May 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 28 2026",
+    "Notification": "",
+    "link": "https://icadeis.org"
   },
   {
     "name": "SPAA 2026",
@@ -3994,6 +3981,19 @@
     "Submission Deadline": "2026-04-03T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.asap-conf.org/"
+  },
+  {
+    "name": "Welcome to ICCCM 2026 ( CFP Flyer Download )",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 05 2026",
+    "Notification": "",
+    "link": "https://www.icccm.org"
   },
   {
     "name": "MICRO 2026",
