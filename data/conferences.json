@@ -4563,6 +4563,19 @@
     "link": ""
   },
   {
+    "name": "NeurIPS 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Sydney, Australia",
+    "Start Date": "Dec 06 2026",
+    "End Date": "Dec 06 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-07T11:59:00+00:00",
+    "Notification": "",
+    "link": "https://neurips.cc/Conferences/2026"
+  },
+  {
     "name": "ISWC 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
