@@ -2665,6 +2665,19 @@
     "link": ""
   },
   {
+    "name": "IGNITE 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Pune, India",
+    "Start Date": "Jun 17 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CoNLL 2026",
     "sub": [
       "Artificial Intelligence"
@@ -3072,19 +3085,6 @@
     "Submission Deadline": "2026-02-28T23:59:59-12:00",
     "Notification": "",
     "link": "https://petsymposium.org/cfp26.php"
-  },
-  {
-    "name": "IGNITE 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Pune, India",
-    "Start Date": "Jun 17 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 02 2026",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "INW2026",
