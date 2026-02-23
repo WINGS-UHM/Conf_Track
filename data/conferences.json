@@ -3494,6 +3494,19 @@
     "link": ""
   },
   {
+    "name": "ICICS 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Irbid, Jordan",
+    "Start Date": "May 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ECML-PKDD 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -3539,6 +3552,19 @@
     ],
     "Location": "Minneapolis, Minnesota, United States",
     "Start Date": "Jun 01 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "GRADES-NDA@SIGMOD 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Bengaluru, India",
+    "Start Date": "Jun 05 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Mar 15 2026",
@@ -3717,6 +3743,19 @@
     "link": "https://www.ieeesmc2026.org/"
   },
   {
+    "name": "ASCENT2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Aug 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 24 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CCET 2026",
     "sub": [
       "Wireless/Communication"
@@ -3752,6 +3791,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Mar 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "SIDS 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Jun 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 27 2026",
     "Notification": "",
     "link": ""
   },
@@ -3968,6 +4020,19 @@
     "Submission Deadline": "2026-04-01T23:59:59-12:00",
     "Notification": "",
     "link": "https://sigops.org/s/conferences/sosp/2026/index.html"
+  },
+  {
+    "name": "AUTOMATA & ACRI 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Ghent, Belgium",
+    "Start Date": "Jul 06 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 03 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ASAP 2026",
@@ -4812,6 +4877,19 @@
     "link": "http://icdm2026.neu.edu.cn/"
   },
   {
+    "name": "CANS 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Wollongong, Australia",
+    "Start Date": "Nov 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IMEKO TC4 2026",
     "sub": [
       "Wireless/Communication"
@@ -4834,6 +4912,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 14 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CISIT 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Siedlce, Poland",
+    "Start Date": "Sep 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 15 2026",
     "Notification": "",
     "link": ""
   },
@@ -4940,6 +5031,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "EWDTS 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Samarkand, Uzbekistan",
+    "Start Date": "Sep 25 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 01 2026",
     "Notification": "",
     "link": ""
   },
@@ -5715,6 +5819,19 @@
     "link": ""
   },
   {
+    "name": "DCS-CI 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Buford, Georgia, United States",
+    "Start Date": "Sep 02 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "DIFCON - DIGITAL FUTURES INTERNATIONAL CONGRESS",
     "sub": [
       "Wireless/Communication"
@@ -6346,6 +6463,19 @@
     ],
     "Location": "Leicester, UK",
     "Start Date": "Sep 02 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "mHealthSec2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Pittsburgh, Pennsylvania, United States",
+    "Start Date": "Aug 04 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
