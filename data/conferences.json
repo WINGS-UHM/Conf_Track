@@ -3496,7 +3496,8 @@
   {
     "name": "ICICS 2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Security & Privacy"
     ],
     "Location": "Irbid, Jordan",
     "Start Date": "May 18 2026",
@@ -4284,6 +4285,19 @@
     "link": "https://ches.iacr.org/2026/"
   },
   {
+    "name": "ICATH 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Rabat, Morocco",
+    "Start Date": "Jul 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 17 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICMI 2026",
     "sub": [
       "Computer-Human Interaction",
@@ -4663,6 +4677,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CSE Connect ATLCS26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Dundee, UK",
+    "Start Date": "Jul 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 11 2026",
     "Notification": "",
     "link": ""
   },
