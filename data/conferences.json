@@ -2237,7 +2237,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "ISCC sessions will include presentations on new research results and tutorials. Papers describing original work are invited in any of the computer and communications areas mentioned in the Call for Papers. Accepted papers will be included in the ISCC 2026 conference proceedings, which will be subject to independent peer-review procedures for quality, and may be eligible for inclusion in the IEEE Xplore® Digital Library. Merit, relevance, and originality will guide paper acceptance. Best Paper Awards and Best Student Paper Awards will be presented.",
+    "Start Date": "IEEE ISCC sessions will include presentations on new research results and tutorials. Papers describing original work are invited in any of the computer and communications areas mentioned in the Call for Papers. Accepted papers will be included in the IEEE ISCC 2026 conference proceedings, which will be subject to independent peer-review procedures for quality, and may be eligible for inclusion in the IEEE Xplore® Digital Library. Merit, relevance, and originality will guide paper acceptance. Best Paper Awards and Best Student Paper Awards will be presented.",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Feb 01 2026",
@@ -2409,7 +2409,7 @@
       "Uncategorized"
     ],
     "Location": "Denver, Colorado, USA",
-    "Start Date": "Sep 11 2026",
+    "Start Date": "Aug 17 2026",
     "End Date": "",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
@@ -2796,19 +2796,6 @@
     "link": ""
   },
   {
-    "name": "IWPE26",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Lisbon, Portugal",
-    "Start Date": "Jul 06 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Feb 26 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "UAI 2026",
     "sub": [
       "Artificial Intelligence"
@@ -2820,6 +2807,19 @@
     "Submission Deadline": "2026-02-25T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.auai.org/uai2026/"
+  },
+  {
+    "name": "IWPE26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Lisbon, Portugal",
+    "Start Date": "Jul 06 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 27 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "MICCAI 2026",
@@ -4327,10 +4327,11 @@
   {
     "name": "ESORICS 2026 - Second Submission deadline",
     "sub": [
-      "Network and System Security"
+      "Network and System Security",
+      "Uncategorized"
     ],
     "Location": "Rome, Italy",
-    "Start Date": "",
+    "Start Date": "Sep 14 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-04-21T23:59:59-12:00",
@@ -4489,7 +4490,7 @@
     "Location": "World Forum, Hague, Netherlands",
     "Start Date": "Nov 15 2026",
     "End Date": "Nov 19 2026",
-    "Abstract Deadline": "Apr 22 2026",
+    "Abstract Deadline": "Jan 07 2026",
     "Submission Deadline": "2026-04-29T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.sigsac.org/ccs/CCS2026/"
@@ -5473,10 +5474,10 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Taipei, ROC",
-    "Start Date": "Oct 13 2025",
+    "Location": "Hague, Netherlands",
+    "Start Date": "Nov 15 2026",
     "End Date": "",
-    "Abstract Deadline": "Apr 07 2025",
+    "Abstract Deadline": "Apr 22 2026",
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.sigsac.org/ccs/CCS2025/"
@@ -5486,10 +5487,10 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Hong Kong, China",
-    "Start Date": "Nov 01 2025",
+    "Location": "Austin, Texas",
+    "Start Date": "Oct 26 2026",
     "End Date": "",
-    "Abstract Deadline": "Mar 11 2025",
+    "Abstract Deadline": "Mar 06 2026",
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.sigmobile.org/mobicom/2026/"
@@ -5499,10 +5500,10 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Houston TX",
-    "Start Date": "Oct 27 2025",
+    "Location": "Tolyo Japan",
+    "Start Date": "Nov 23 2026",
     "End Date": "",
-    "Abstract Deadline": "Mar 23 2025",
+    "Abstract Deadline": "Mar 30 2026",
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.sigmobile.org/mobihoc/2026/"
@@ -6150,8 +6151,8 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Avignon, France",
-    "Start Date": "Sep 08 2025",
+    "Location": "Newark, DE",
+    "Start Date": "Sep 14 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
@@ -6163,10 +6164,10 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Naples, Italy",
-    "Start Date": "Jun 23 2025",
+    "Location": "Charlotte NC",
+    "Start Date": "Jun 22 2026",
     "End Date": "",
-    "Abstract Deadline": "Nov 27 2024",
+    "Abstract Deadline": "Nov 27 2025",
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://dsn2026.github.io/"
@@ -6202,8 +6203,8 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Montreal, Canada",
-    "Start Date": "Jun 08 2025",
+    "Location": "Glasgow, Scotland, UK",
+    "Start Date": "May 24 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
@@ -6228,8 +6229,8 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Glasgow, Scotland",
-    "Start Date": "Jul 21 2025",
+    "Location": "Seoul, South Korea",
+    "Start Date": "Jun 22 2026",
     "End Date": "",
     "Abstract Deadline": "Dec 04 2024",
     "Submission Deadline": "",
@@ -6515,7 +6516,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "12 Jan 2025",
+    "Start Date": "28 Feb 2025",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
