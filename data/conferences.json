@@ -2967,19 +2967,6 @@
     "link": ""
   },
   {
-    "name": "ICORIA 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Barcelona, Spain",
-    "Start Date": "Jun 25 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICWT 2026",
     "sub": [
       "Network System",
@@ -3465,6 +3452,19 @@
     "Submission Deadline": "2026-03-06T23:59:59-12:00",
     "Notification": "",
     "link": "https://conf.researchr.org/home/icsme-2026"
+  },
+  {
+    "name": "ICORIA 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Barcelona, Spain",
+    "Start Date": "Jun 25 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 08 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ARES 2026",
@@ -4060,6 +4060,19 @@
     "Submission Deadline": "Apr 05 2026",
     "Notification": "",
     "link": "https://www.icccm.org"
+  },
+  {
+    "name": "Internetware 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Gold Coast, Australia",
+    "Start Date": "Jul 18 2026",
+    "End Date": "Jul 20 2026",
+    "Abstract Deadline": "2026-03-28T23:59:59-12:00",
+    "Submission Deadline": "2026-04-04T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/internetware-2026"
   },
   {
     "name": "MICRO 2026",
