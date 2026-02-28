@@ -2995,20 +2995,6 @@
     "link": ""
   },
   {
-    "name": "MARESEC 2026",
-    "sub": [
-      "Security and Privacy",
-      "Security & Privacy"
-    ],
-    "Location": "Bremerhaven, Germany",
-    "Start Date": "Jun 24 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "SeRIM 2026",
     "sub": [
       "Security & Privacy"
@@ -3921,6 +3907,20 @@
     ],
     "Location": "Blagoegrad, Bulgaria",
     "Start Date": "Jun 01 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "MARESEC 2026",
+    "sub": [
+      "Security and Privacy",
+      "Security & Privacy"
+    ],
+    "Location": "Bremerhaven, Germany",
+    "Start Date": "Jun 24 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 01 2026",
