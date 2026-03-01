@@ -2822,6 +2822,19 @@
     "link": ""
   },
   {
+    "name": "Sentry26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "College Station, Texas, United States",
+    "Start Date": "Apr 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 27 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "MICCAI 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -3467,6 +3480,19 @@
     "link": ""
   },
   {
+    "name": "IVPAI 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "斯里兰卡科伦坡, Sri Lanka",
+    "Start Date": "May 07 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 09 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "EAI SmartGIFT 2026",
     "sub": [
       "Wireless/Communication"
@@ -3483,7 +3509,8 @@
     "name": "ICICS 2026",
     "sub": [
       "Network System",
-      "Security & Privacy"
+      "Security & Privacy",
+      "Wireless/Communication"
     ],
     "Location": "Irbid, Jordan",
     "Start Date": "May 18 2026",
@@ -3596,6 +3623,19 @@
     "Submission Deadline": "2026-03-15T23:59:59-12:00",
     "Notification": "",
     "link": "http://wasa-conference.org/WASA2026/"
+  },
+  {
+    "name": "SDW26",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Braunschweig, Germany",
+    "Start Date": "May 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 17 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICANN 2026",
@@ -4153,6 +4193,19 @@
     "link": ""
   },
   {
+    "name": "CRYPTOLOGY2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Sabah, Malaysia",
+    "Start Date": "Sep 01 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "Cyber-AI 2026",
     "sub": [
       "Security & Privacy"
@@ -4378,6 +4431,19 @@
     "link": "https://recsys.acm.org/recsys26"
   },
   {
+    "name": "CompSys-26",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Doorwerth, Netherlands",
+    "Start Date": "Jun 16 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 24 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IWAC2026",
     "sub": [
       "Wireless/Communication"
@@ -4548,6 +4614,19 @@
     "link": "https://conferences.sigcomm.org/imc/2026/"
   },
   {
+    "name": "CCS 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Binghamton, NY, New York, United States",
+    "Start Date": "Oct 09 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "EAI SmartSP 2026",
     "sub": [
       "Security & Privacy"
@@ -4643,6 +4722,19 @@
     "link": "https://icpp2026.github.io/"
   },
   {
+    "name": "NETGCOOP 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Palermo, Italy",
+    "Start Date": "Oct 14 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 06 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "FONCIMED 2026",
     "sub": [
       "Network System"
@@ -4688,6 +4780,19 @@
     ],
     "Location": "Bonn, Germany",
     "Start Date": "Nov 17 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CSAI 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Beijing, China",
+    "Start Date": "Dec 18 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 10 2026",
@@ -6583,6 +6688,19 @@
     ],
     "Location": "Stony Brook, New York, United States",
     "Start Date": "Jun 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "NH-HSINW 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Keene, New Hampshire, United States",
+    "Start Date": "May 14 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
