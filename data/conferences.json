@@ -26,6 +26,19 @@
     "link": "https://sacworkshop.org/SAC26/"
   },
   {
+    "name": "ACM SIGGRAPH ASIA 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "KLCC, Kuala Lumpur, Malaysia",
+    "Start Date": "Dec 01 2026",
+    "End Date": "Dec 04 2026",
+    "Abstract Deadline": "2026-05-05T23:59:00-12:00",
+    "Submission Deadline": "2025-05-12T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://asia.siggraph.org/2026/"
+  },
+  {
     "name": "CSCW 2026 - MAY 2025 SUBMISSION CYCLE",
     "sub": [
       "Computer-Human Interaction",
@@ -2141,6 +2154,20 @@
     "link": "https://gecco-2026.sigevo.org/HomePage"
   },
   {
+    "name": "USENIX Security 2026 - Cycle 1 Deadline",
+    "sub": [
+      "Network and System Security",
+      "Uncategorized"
+    ],
+    "Location": "Denver, CO, USA",
+    "Start Date": "Aug 11 2027",
+    "End Date": "Aug 13 2027",
+    "Abstract Deadline": "2026-01-19T23:59:59-12:00",
+    "Submission Deadline": "2026-01-26T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.usenix.org/conference/usenixsecurity26"
+  },
+  {
     "name": "CAV 2026",
     "sub": [
       "Computing Theory"
@@ -2361,20 +2388,6 @@
     "Submission Deadline": "2026-02-05T23:59:59-12:00",
     "Notification": "",
     "link": "https://hpdc.sci.utah.edu/2026/"
-  },
-  {
-    "name": "USENIX Security 2026 - Cycle 1 Deadline",
-    "sub": [
-      "Network and System Security",
-      "Uncategorized"
-    ],
-    "Location": "Baltimore, MD, USA",
-    "Start Date": "Aug 12 2026",
-    "End Date": "Aug 14 2026",
-    "Abstract Deadline": "2026-01-29T23:59:59-12:00",
-    "Submission Deadline": "2026-02-05T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.usenix.org/conference/usenixsecurity26"
   },
   {
     "name": "USENIX Security 2026 - Cycle 2 Deadline",
@@ -2967,19 +2980,6 @@
     "link": ""
   },
   {
-    "name": "ICIST 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Kaunas, Lithuania",
-    "Start Date": "Oct 15 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICWT 2026",
     "sub": [
       "Network System",
@@ -3001,19 +3001,6 @@
     ],
     "Location": "Honolulu, Hawaii, United States",
     "Start Date": "Jul 29 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "SeRIM 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Lisbon, Portugal",
-    "Start Date": "Jul 10 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Mar 01 2026",
@@ -3521,6 +3508,19 @@
     "link": ""
   },
   {
+    "name": "SeRIM 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Lisbon, Portugal",
+    "Start Date": "Jul 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ECML-PKDD 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -3755,6 +3755,19 @@
     "Submission Deadline": "2026-03-20T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.iccbr.org/"
+  },
+  {
+    "name": "ICIST 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Kaunas, Lithuania",
+    "Start Date": "Oct 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 22 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "SMC 2026",
@@ -4351,6 +4364,19 @@
     "link": "https://ches.iacr.org/2026/"
   },
   {
+    "name": "SGP 2026 - Second round",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Bern, Switzerland",
+    "Start Date": "Jul 01 2026",
+    "End Date": "Jul 03 2026",
+    "Abstract Deadline": "2026-04-13T23:59:59-12:00",
+    "Submission Deadline": "2026-04-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://sgp26.org/"
+  },
+  {
     "name": "ICATH 2026",
     "sub": [
       "Wireless/Communication"
@@ -4362,6 +4388,19 @@
     "Submission Deadline": "Apr 17 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "RAID 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Lancaster, UK",
+    "Start Date": "Oct 11 2026",
+    "End Date": "Oct 14 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://raid2026.org"
   },
   {
     "name": "ICMI 2026",
@@ -4942,6 +4981,19 @@
     "Submission Deadline": "May 25 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "EMNLP 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Budapest, Hungary",
+    "Start Date": "Oct 24 2026",
+    "End Date": "Oct 29 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.emnlp.org/"
   },
   {
     "name": "ASPAI' 2026",
@@ -5677,19 +5729,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://conferences.sigcomm.org/sigcomm/2025"
-  },
-  {
-    "name": "ACM SIGGRAPH ASIA 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "KLCC, Kuala Lumpur, Malaysia",
-    "Start Date": "Dec 01 2026",
-    "End Date": "Dec 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://asia.siggraph.org/2026/"
   },
   {
     "name": "ACM SIGMETRICS",
