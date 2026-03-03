@@ -2913,20 +2913,6 @@
     "link": ""
   },
   {
-    "name": "ICCSN 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Shenzhen, China",
-    "Start Date": "Jul 24 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Feb 28 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICICS2026",
     "sub": [
       "Wireless/Communication",
@@ -2973,20 +2959,6 @@
     ],
     "Location": "Oklahoma City, Oklahoma, United States",
     "Start Date": "Aug 06 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICWT 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Bali, Indonesia",
-    "Start Date": "Jul 02 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Mar 01 2026",
@@ -3253,19 +3225,6 @@
     "Submission Deadline": "Mar 03 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "GLSVLSI 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Finger Lakes, NY, USA",
-    "Start Date": "Jun 22 2026",
-    "End Date": "Jun 24 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-02T23:59:00-05:00",
-    "Notification": "",
-    "link": "https://www.glsvlsi.org/"
   },
   {
     "name": "IROS 2026",
@@ -3636,6 +3595,19 @@
     "Submission Deadline": "Mar 17 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "GLSVLSI 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Finger Lakes, NY, USA",
+    "Start Date": "Jun 22 2026",
+    "End Date": "Jun 24 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-16T23:59:00-05:00",
+    "Notification": "",
+    "link": "https://www.glsvlsi.org/"
   },
   {
     "name": "ICANN 2026",
@@ -4154,6 +4126,20 @@
     "link": "https://sc26.supercomputing.org/"
   },
   {
+    "name": "ICCSN 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Shenzhen, China",
+    "Start Date": "Jul 24 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "PST 2026",
     "sub": [
       "Security & Privacy"
@@ -4208,7 +4194,8 @@
   {
     "name": "CRYPTOLOGY2026",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Sabah, Malaysia",
     "Start Date": "Sep 01 2026",
@@ -4567,6 +4554,20 @@
     ],
     "Location": "Iasi, Romania",
     "Start Date": "Oct 21 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICWT 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Bali, Indonesia",
+    "Start Date": "Jul 02 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 30 2026",
@@ -5114,6 +5115,19 @@
     "link": ""
   },
   {
+    "name": "PRICAI 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Guangzhou, China",
+    "Start Date": "Nov 17 2026",
+    "End Date": "Nov 20 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-13T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.pricai.org/"
+  },
+  {
     "name": "CISIT 2026",
     "sub": [
       "Security & Privacy"
@@ -5263,7 +5277,7 @@
     "sub": [
       "Artificial Intelligence"
     ],
-    "Location": "Osaka, japan",
+    "Location": "Osaka, Japan",
     "Start Date": "Dec 14 2026",
     "End Date": "Dec 18 2026",
     "Abstract Deadline": "",
@@ -6791,7 +6805,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "18th or 19th May 2026",
+    "Start Date": "18th May 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
