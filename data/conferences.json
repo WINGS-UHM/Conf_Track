@@ -3872,6 +3872,19 @@
     "link": ""
   },
   {
+    "name": "ICABCD2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Durban, South Africa",
+    "Start Date": "Aug 06 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICEB 2026",
     "sub": [
       "Security and Privacy",
@@ -4995,6 +5008,19 @@
     "Submission Deadline": "2026-05-25T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.emnlp.org/"
+  },
+  {
+    "name": "CoRL 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Austin, Texas, USA",
+    "Start Date": "Nov 10 2026",
+    "End Date": "Nov 12 2026",
+    "Abstract Deadline": "2026-05-25T23:59:59-12:00",
+    "Submission Deadline": "2026-05-28T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.corl.org/"
   },
   {
     "name": "ASPAI' 2026",
@@ -6185,19 +6211,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "http://iaict.org"
-  },
-  {
-    "name": "ICABCD2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Durban, South Africa",
-    "Start Date": "Aug 06 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "ICALP 2026",
