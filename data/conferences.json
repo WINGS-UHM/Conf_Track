@@ -2900,19 +2900,6 @@
     "link": "https://icdar2026.org/"
   },
   {
-    "name": "FICTA-2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "London, UK",
-    "Start Date": "Jun 08 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Feb 28 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICICS2026",
     "sub": [
       "Wireless/Communication",
@@ -3350,7 +3337,7 @@
     "sub": [
       "Network System"
     ],
-    "Location": "Osaka, Japan",
+    "Location": "Singapore",
     "Start Date": "Aug 06 2026",
     "End Date": "Aug 07 2026",
     "Abstract Deadline": "",
@@ -3872,6 +3859,19 @@
     "link": ""
   },
   {
+    "name": "FICTA-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Jun 08 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICABCD2026",
     "sub": [
       "Wireless/Communication"
@@ -4072,6 +4072,19 @@
     "Submission Deadline": "Apr 03 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "APPT 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Brussels, Belgium",
+    "Start Date": "Jul 27 2026",
+    "End Date": "Jul 31 2026",
+    "Abstract Deadline": "2026-03-27T23:59:00-12:00",
+    "Submission Deadline": "2026-04-03T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://www.appt-conference.com/2026"
   },
   {
     "name": "ASAP 2026",
@@ -4377,6 +4390,19 @@
     "link": "https://sgp26.org/"
   },
   {
+    "name": "AsiaJCIS 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Guangdong, China",
+    "Start Date": "Aug 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 17 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICATH 2026",
     "sub": [
       "Wireless/Communication"
@@ -4527,7 +4553,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "",
+    "Start Date": "Dec 14–17, 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 30 2026",
@@ -4713,6 +4739,19 @@
     ],
     "Location": "Bechar, Algeria",
     "Start Date": "Dec 01 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "PUBMET2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Zadar, Croatia",
+    "Start Date": "Sep 09 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 01 2026",
@@ -5023,6 +5062,19 @@
     "link": "https://www.corl.org/"
   },
   {
+    "name": "BMVC 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Lancaster, UK",
+    "Start Date": "Nov 23 2026",
+    "End Date": "Nov 26 2026",
+    "Abstract Deadline": "2026-05-22T23:59:59+00:00",
+    "Submission Deadline": "2026-05-29T23:59:59+00:00",
+    "Notification": "",
+    "link": "https://bmvc2026.bmva.org/"
+  },
+  {
     "name": "ASPAI' 2026",
     "sub": [
       "Wireless/Communication"
@@ -5032,6 +5084,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ProvSec 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Queenstown, New Zealand",
+    "Start Date": "Oct 01 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 31 2026",
     "Notification": "",
     "link": ""
   },
@@ -5104,7 +5169,8 @@
   {
     "name": "CANS 2026",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Wollongong, Australia",
     "Start Date": "Nov 23 2026",
@@ -5299,6 +5365,19 @@
     "link": ""
   },
   {
+    "name": "ICSE 2027 - Single Submission Cycle Deadline",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Dublin, Ireland",
+    "Start Date": "Apr 25 2027",
+    "End Date": "May 01 2027",
+    "Abstract Deadline": "2026-06-23T23:59:59-12:00",
+    "Submission Deadline": "2026-06-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/icse-2027"
+  },
+  {
     "name": "ACCV 2026",
     "sub": [
       "Artificial Intelligence"
@@ -5409,7 +5488,7 @@
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
     ],
-    "Location": "TBD",
+    "Location": "Crete, Greece",
     "Start Date": "",
     "End Date": "",
     "Abstract Deadline": "",
@@ -5899,19 +5978,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://bioxplore.umy.ac.id"
-  },
-  {
-    "name": "BMVC 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Lancaster, UK",
-    "Start Date": "Nov 23 2026",
-    "End Date": "Nov 26 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://bmvc2026.bmva.org/"
   },
   {
     "name": "BWCCA-2026",
