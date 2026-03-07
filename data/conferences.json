@@ -13,6 +13,32 @@
     "link": "https://www.eurovis.org.uk/"
   },
   {
+    "name": "ICWS 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Sydney, Australia",
+    "Start Date": "Jul 13 2026",
+    "End Date": "Jul 18 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2025-03-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://services.conferences.computer.org/2026/icws-2026/"
+  },
+  {
+    "name": "ISSRE 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Limassol, Cyprus",
+    "Start Date": "Oct 20 2026",
+    "End Date": "Oct 23 2026",
+    "Abstract Deadline": "2026-04-10T23:59:59-12:00",
+    "Submission Deadline": "2025-04-17T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://cyprusconferences.org/issre2026/"
+  },
+  {
     "name": "SAC 2026 - Paper submission deadline (cycle 2)",
     "sub": [
       "Network and System Security"
@@ -1677,6 +1703,19 @@
     "link": ""
   },
   {
+    "name": "ICST 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Daejeon, South Korea",
+    "Start Date": "May 18 2026",
+    "End Date": "May 22 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2025-12-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/icst-2026"
+  },
+  {
     "name": "NetCompute 2026",
     "sub": [
       "Wireless/Communication"
@@ -2376,19 +2415,6 @@
     "link": "https://hpdc.sci.utah.edu/2026/"
   },
   {
-    "name": "USENIX Security 2026 - Cycle 2 Deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Baltimore, MD, USA",
-    "Start Date": "Aug 12 2026",
-    "End Date": "Aug 14 2026",
-    "Abstract Deadline": "2026-01-29T23:59:59-12:00",
-    "Submission Deadline": "2026-02-05T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.usenix.org/conference/usenixsecurity26"
-  },
-  {
     "name": "FORTE 2026",
     "sub": [
       "Network System"
@@ -2400,6 +2426,19 @@
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.discotec.org/2026/forte"
+  },
+  {
+    "name": "ICALP 2026",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Jul 06 2026",
+    "End Date": "Jul 10 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-02-06T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icalppodcspaa2026.cs.rhul.ac.uk/"
   },
   {
     "name": "SIGCOMM 2026",
@@ -3280,32 +3319,6 @@
     "link": "https://eccv.ecva.net/"
   },
   {
-    "name": "NetNeuro26",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Boston, Massachusetts, United States",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 06 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "APNet 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Singapore",
-    "Start Date": "Aug 06 2026",
-    "End Date": "Aug 07 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-06T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conferences.sigcomm.org/events/apnet2026/"
-  },
-  {
     "name": "ECSCW 2026 - Conference Papers",
     "sub": [
       "Computer-Human Interaction",
@@ -3451,6 +3464,32 @@
     "Submission Deadline": "2026-03-10T23:59:59-12:00",
     "Notification": "",
     "link": "https://satisfiability.org/SAT26/"
+  },
+  {
+    "name": "APNet 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Singapore",
+    "Start Date": "Aug 06 2026",
+    "End Date": "Aug 07 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-11T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conferences.sigcomm.org/events/apnet2026/"
+  },
+  {
+    "name": "NetNeuro26",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Boston, Massachusetts, United States",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 13 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ECML-PKDD 2026",
@@ -4613,6 +4652,19 @@
     "link": "https://fmcad.forsyte.at/FMCAD26/"
   },
   {
+    "name": "WISA 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Kunming, China",
+    "Start Date": "Aug 07 2026",
+    "End Date": "Aug 09 2026",
+    "Abstract Deadline": "2026-04-21T23:59:59+08:00",
+    "Submission Deadline": "2026-04-28T23:59:59+08:00",
+    "Notification": "",
+    "link": "https://conf.ccf.org.cn/WISA2026"
+  },
+  {
     "name": "19th IEEE MCSoC 2026 – Bridging Architecture, Intelligence, and Emerging Applications",
     "sub": [
       "Wireless/Communication"
@@ -5760,6 +5812,20 @@
     "link": "https://www.usenix.org/conference/usenixsecurity26"
   },
   {
+    "name": "USENIX Security 2026 - Cycle 2 Deadline",
+    "sub": [
+      "Network and System Security",
+      "Uncategorized"
+    ],
+    "Location": "Denver, CO, USA",
+    "Start Date": "Aug 11 2027",
+    "End Date": "Aug 13 2027",
+    "Abstract Deadline": "2027-01-19T23:59:59-12:00",
+    "Submission Deadline": "2027-01-26T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.usenix.org/conference/usenixsecurity26"
+  },
+  {
     "name": "09-13 June 2026, Bu dva , Montenegro",
     "sub": [
       "Wireless/Communication"
@@ -5849,19 +5915,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://voyager.ce.fit.ac.jp/conf/3pgcic/2026"
-  },
-  {
-    "name": "[NEW] Call for Papers: deadline extended – Feb. 6",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://www.eucnc.eu"
   },
   {
     "name": "ACM AsiaCCS - Cycle 2",
@@ -6395,19 +6448,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "http://iaict.org"
-  },
-  {
-    "name": "ICALP 2026",
-    "sub": [
-      "Computing Theory"
-    ],
-    "Location": "London, UK",
-    "Start Date": "Jul 06 2026",
-    "End Date": "Jul 10 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://icalppodcspaa2026.cs.rhul.ac.uk/"
   },
   {
     "name": "ICBIR2026 – 11th International Conference on Business and Industrial Research – ICBIR2026",
@@ -6956,6 +6996,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "Notifications for Workshops, Special Sessions, Tutorials_NEW Deadline: Mar. 16",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.eucnc.eu"
   },
   {
     "name": "OCIA 2026",
