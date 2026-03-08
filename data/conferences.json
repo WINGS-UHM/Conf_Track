@@ -13,6 +13,32 @@
     "link": "https://www.eurovis.org.uk/"
   },
   {
+    "name": "IJCAR 2026",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Lisbon, Portugal",
+    "Start Date": "Jul 26 2026",
+    "End Date": "Jul 29 2026",
+    "Abstract Deadline": "2026-02-06T23:59:59-12:00",
+    "Submission Deadline": "2025-02-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.floc26.org/ijcar"
+  },
+  {
+    "name": "COCOON 2026",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Singapore",
+    "Start Date": "Jul 23 2026",
+    "End Date": "Jul 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2025-03-04T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://event.ntu.edu.sg/cocoon2026"
+  },
+  {
     "name": "ICWS 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -3372,19 +3398,6 @@
     "link": ""
   },
   {
-    "name": "CP 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Lisbon, Portugal",
-    "Start Date": "Jul 20 2026",
-    "End Date": "Jul 23 2026",
-    "Abstract Deadline": "2026-03-02T23:59:59-12:00",
-    "Submission Deadline": "2026-03-07T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://cp2026.a4cp.org/"
-  },
-  {
     "name": "ARES 2026",
     "sub": [
       "Security and Privacy",
@@ -3581,6 +3594,19 @@
     "Submission Deadline": "Mar 15 2026",
     "Notification": "",
     "link": "http://iswcs.org/iswcs2026"
+  },
+  {
+    "name": "CP 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Lisbon, Portugal",
+    "Start Date": "Jul 20 2026",
+    "End Date": "Jul 23 2026",
+    "Abstract Deadline": "2026-03-02T23:59:59-12:00",
+    "Submission Deadline": "2026-03-14T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://cp2026.a4cp.org/"
   },
   {
     "name": "WASA 2026",
@@ -4070,6 +4096,19 @@
     "Submission Deadline": "2026-04-01T23:59:59+08:00",
     "Notification": "",
     "link": "https://globecom2026.ieee-globecom.org/"
+  },
+  {
+    "name": "FOCS 2026",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "New York City, NY, USA",
+    "Start Date": "Nov 08 2026",
+    "End Date": "Nov 11 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-01T21:00:00+00:00",
+    "Notification": "",
+    "link": "https://sanjeevkhanna.org/FOCS2026_CFP.html"
   },
   {
     "name": "ICSCGE 2026",
@@ -4652,6 +4691,19 @@
     "link": "https://fmcad.forsyte.at/FMCAD26/"
   },
   {
+    "name": "CONCUR 2026",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Liverpool, UK",
+    "Start Date": "Sep 01 2026",
+    "End Date": "Sep 04 2026",
+    "Abstract Deadline": "2026-04-20T23:59:59-12:00",
+    "Submission Deadline": "2026-04-27T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://confest-2026.github.io/concur/"
+  },
+  {
     "name": "WISA 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -5210,7 +5262,7 @@
       "Security & Privacy"
     ],
     "Location": "Queenstown, New Zealand",
-    "Start Date": "Oct 01 2026",
+    "Start Date": "Sep 24 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 31 2026",
@@ -5883,7 +5935,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "Jan, 2026",
+    "Start Date": "Mar, 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
