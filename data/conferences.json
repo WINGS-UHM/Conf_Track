@@ -1742,6 +1742,19 @@
     "link": "https://conf.researchr.org/home/icst-2026"
   },
   {
+    "name": "CODASPY 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Frankfurt am Main, Germany",
+    "Start Date": "Jun 23 2026",
+    "End Date": "Jun 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2025-12-26T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.codaspy.org/2026/"
+  },
+  {
     "name": "NetCompute 2026",
     "sub": [
       "Wireless/Communication"
@@ -1847,6 +1860,19 @@
     "Submission Deadline": "Jan 10 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ETS 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Chania, Greec",
+    "Start Date": "May 25 2026",
+    "End Date": "May 29 2026",
+    "Abstract Deadline": "2025-12-15T23:59:59-12:00",
+    "Submission Deadline": "2026-01-12T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ets2026.uniwa.gr/"
   },
   {
     "name": "SIGMETRICS 2026 - summer round",
@@ -2991,20 +3017,6 @@
     "link": "https://spaa.acm.org/"
   },
   {
-    "name": "IoTSPT2026",
-    "sub": [
-      "Security and Privacy",
-      "Security & Privacy"
-    ],
-    "Location": "Honolulu, Hawaii, United States",
-    "Start Date": "Jul 29 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "PETS 2026 - Issue 1 Paper Submission Deadline",
     "sub": [
       "Network and System Security"
@@ -3780,6 +3792,20 @@
     "link": ""
   },
   {
+    "name": "IoTSPT2026",
+    "sub": [
+      "Security and Privacy",
+      "Security & Privacy"
+    ],
+    "Location": "Honolulu, Hawaii, United States",
+    "Start Date": "Jul 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 23 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "SMC 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -3908,6 +3934,19 @@
     "Submission Deadline": "Mar 30 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "BlockSys 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Chengdu, China",
+    "Start Date": "Jul 29 2026",
+    "End Date": "Jul 31 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-30T23:59:59+08:00",
+    "Notification": "",
+    "link": "https://blocksys.info/2026/"
   },
   {
     "name": "APARM 2026",
@@ -4043,20 +4082,6 @@
     "link": ""
   },
   {
-    "name": "UIST 2026",
-    "sub": [
-      "Computer-Human Interaction",
-      "Computer–Human Interaction"
-    ],
-    "Location": "GM Renaissance Center, Detroit, MI, USA",
-    "Start Date": "Nov 02 2026",
-    "End Date": "Nov 05 2026",
-    "Abstract Deadline": "2026-03-24T17:00:00-08:00",
-    "Submission Deadline": "2026-03-31T17:00:00-08:00",
-    "Notification": "",
-    "link": "https://uist.acm.org/2026/"
-  },
-  {
     "name": "COLM 2026",
     "sub": [
       "Artificial Intelligence"
@@ -4081,6 +4106,20 @@
     "Submission Deadline": "2026-03-31T23:59:59-12:00",
     "Notification": "",
     "link": "https://ieeevis.org/year/2026/welcome"
+  },
+  {
+    "name": "UIST 2026",
+    "sub": [
+      "Computer-Human Interaction",
+      "Computer–Human Interaction"
+    ],
+    "Location": "GM Renaissance Center, Detroit, MI, USA",
+    "Start Date": "Nov 02 2026",
+    "End Date": "Nov 05 2026",
+    "Abstract Deadline": "2026-03-24T23:59:59-12:00",
+    "Submission Deadline": "2026-03-31T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://uist.acm.org/2026/"
   },
   {
     "name": "GLOBECOM 2026",
@@ -4983,6 +5022,19 @@
     "link": "https://icpp2026.github.io/"
   },
   {
+    "name": "SEC 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Santa Clara University, CA, USA",
+    "Start Date": "Oct 13 2026",
+    "End Date": "Oct 16 2026",
+    "Abstract Deadline": "2026-04-24T23:59:59-12:00",
+    "Submission Deadline": "2026-05-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://acm-ieee-sec.org/2026/"
+  },
+  {
     "name": "NETGCOOP 2026",
     "sub": [
       "Network System"
@@ -5323,6 +5375,32 @@
     "link": "https://conferences.sigcomm.org/co-next/2026/#!/home"
   },
   {
+    "name": "HotStorage 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Prague, Czechia",
+    "Start Date": "Sep 28 2026",
+    "End Date": "Sep 29 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-05T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.hotstorage.org/2026/"
+  },
+  {
+    "name": "ATS 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Taiwan",
+    "Start Date": "Dec 01 2026",
+    "End Date": "Dec 03 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-06T23:59:59+08:00",
+    "Notification": "",
+    "link": "https://www.ats2026.tw/"
+  },
+  {
     "name": "ICDM 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -5650,6 +5728,19 @@
     "Submission Deadline": "Aug 01 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "CSCloud 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Shanghai, China",
+    "Start Date": "Dec 19 2026",
+    "End Date": "Dec 21 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.cloud-conf.net/cscloud/2026/cscloud/"
   },
   {
     "name": "Ucom 2026",
