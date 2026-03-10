@@ -4954,17 +4954,17 @@
     "link": ""
   },
   {
-    "name": "PUBMET2026",
+    "name": "CCCG 2026 - Submission Deadline",
     "sub": [
-      "Wireless/Communication"
+      "Graphics"
     ],
-    "Location": "Zadar, Croatia",
-    "Start Date": "Sep 09 2026",
-    "End Date": "",
+    "Location": "Orillia, Ontario, Canada",
+    "Start Date": "Aug 12 2026",
+    "End Date": "Aug 14 2026",
     "Abstract Deadline": "",
-    "Submission Deadline": "May 01 2026",
+    "Submission Deadline": "2026-04-30T23:59:59-12:00",
     "Notification": "",
-    "link": ""
+    "link": "https://sites.google.com/view/cccg-2026/home"
   },
   {
     "name": "CNRIA'26",
@@ -5106,6 +5106,19 @@
     ],
     "Location": "Beijing, China",
     "Start Date": "Dec 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "PUBMET2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Zadar, Croatia",
+    "Start Date": "Sep 09 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 10 2026",
