@@ -1834,20 +1834,6 @@
     "link": ""
   },
   {
-    "name": "ESORICS-2026",
-    "sub": [
-      "Security and Privacy",
-      "Security & Privacy"
-    ],
-    "Location": "Rome, Italy",
-    "Start Date": "Sep 21 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jan 09 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "CSA2026",
     "sub": [
       "Security and Privacy",
@@ -4586,6 +4572,20 @@
     "link": "https://icmi.acm.org/2026/"
   },
   {
+    "name": "ESORICS-2026",
+    "sub": [
+      "Security and Privacy",
+      "Security & Privacy"
+    ],
+    "Location": "Rome, Italy",
+    "Start Date": "Sep 14 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 21 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "LCN 2026",
     "sub": [
       "Network System"
@@ -4835,19 +4835,6 @@
     "link": ""
   },
   {
-    "name": "NSPW 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Victoria, Canada",
-    "Start Date": "Sep 27 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "CCS 2026 - Second Review Cycle",
     "sub": [
       "Network and System Security",
@@ -4965,6 +4952,20 @@
     "Submission Deadline": "2026-04-30T23:59:59-12:00",
     "Notification": "",
     "link": "https://sites.google.com/view/cccg-2026/home"
+  },
+  {
+    "name": "NSPW 2026",
+    "sub": [
+      "Security & Privacy",
+      "Network and System Security"
+    ],
+    "Location": "Victoria, BC, Canada",
+    "Start Date": "Sep 27 2026",
+    "End Date": "Sep 30 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.nspw.org/2026"
   },
   {
     "name": "CNRIA'26",
