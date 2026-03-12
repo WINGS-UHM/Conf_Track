@@ -3423,19 +3423,6 @@
     "link": ""
   },
   {
-    "name": "EAI SmartGIFT 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Tempe, Arizona, USA, Arizona, United States",
-    "Start Date": "Nov 12 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICICS 2026",
     "sub": [
       "Network System",
@@ -4278,6 +4265,19 @@
     "Submission Deadline": "2026-04-08T23:59:00-12:00",
     "Notification": "",
     "link": "https://sc26.supercomputing.org/"
+  },
+  {
+    "name": "EAI SmartGIFT 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tempe, Arizona, USA, Arizona, United States",
+    "Start Date": "Nov 12 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 10 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICCSN 2026",
