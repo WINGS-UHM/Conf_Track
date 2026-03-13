@@ -290,19 +290,6 @@
     "link": "https://3dvconf.github.io/2026/"
   },
   {
-    "name": "MMM 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Prague, Czech Republic",
-    "Start Date": "Jan 29 2026",
-    "End Date": "Jan 31 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-08-19T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://mmm2026.cz/"
-  },
-  {
     "name": "ASPLOS 2026 - Spring Submission Deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -3555,7 +3542,7 @@
     "link": ""
   },
   {
-    "name": "Technical Co-Sponsor",
+    "name": "IMNS 2026: International Conference on Intelligent Multimedia, Networking & Security",
     "sub": [
       "Wireless/Communication"
     ],
@@ -3831,6 +3818,19 @@
     "link": ""
   },
   {
+    "name": "ICEQCIIS 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Vijayawada, India",
+    "Start Date": "Apr 09 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "Thank you for attending ICICSP 2026!",
     "sub": [
       "Wireless/Communication"
@@ -3995,6 +3995,19 @@
     ],
     "Location": "Samarkand, Uzbekistan",
     "Start Date": "Jun 19 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "QSNS2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Algarve, Portugal",
+    "Start Date": "Jun 23 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Mar 31 2026",
@@ -4373,6 +4386,19 @@
     "link": ""
   },
   {
+    "name": "FedCSIS 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Riga, Latvia",
+    "Start Date": "Aug 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICICN 2026",
     "sub": [
       "Network System",
@@ -4545,6 +4571,19 @@
     "link": ""
   },
   {
+    "name": "NITS 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Brussels, Belgium",
+    "Start Date": "May 22 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 17 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "RAID 2026",
     "sub": [
       "Network and System Security"
@@ -4556,6 +4595,19 @@
     "Submission Deadline": "2026-04-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://raid2026.org"
+  },
+  {
+    "name": "EWSN26-WT",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Dresden, Germany",
+    "Start Date": "Sep 16 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 20 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICMI 2026",
@@ -4767,6 +4819,32 @@
     "Submission Deadline": "Apr 30 2026",
     "Notification": "",
     "link": "https://mcsoc-forum.org"
+  },
+  {
+    "name": "23rd IBCAST-2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Murree Hills, Pakistan",
+    "Start Date": "Aug 17 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "AICCSA 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Sharjah, UAE",
+    "Start Date": "Oct 22 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ESGCO 2026",
@@ -5114,6 +5192,19 @@
     "link": ""
   },
   {
+    "name": "PRISM-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Mohali, India",
+    "Start Date": "Aug 08 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "PUBMET2026",
     "sub": [
       "Wireless/Communication"
@@ -5138,6 +5229,19 @@
     "Submission Deadline": "May 11 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ICONIP 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Melbourne, Australia",
+    "Start Date": "Nov 23 2026",
+    "End Date": "Nov 27 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.iconip2026.org/"
   },
   {
     "name": "ICSPS 2026",
@@ -5784,6 +5888,19 @@
     "link": ""
   },
   {
+    "name": "MMM 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Siem Reap, Cambodia",
+    "Start Date": "Jan 05 2027",
+    "End Date": "Jan 08 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://mmm2026.cz/"
+  },
+  {
     "name": "BigData 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -5875,6 +5992,19 @@
     "Submission Deadline": "2026-09-17T23:59:59-04:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/nsdi26"
+  },
+  {
+    "name": "PLSC-E 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Leuven, Belgium",
+    "Start Date": "Oct 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 04 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "SIGMOD 2027 - round 1",
@@ -7218,6 +7348,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.overturetool.org/workshops/24th-overture-workshop.html"
+  },
+  {
+    "name": "PCDS 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Jeju, South Korea",
+    "Start Date": "Aug 17 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "QNRL@WCCI2026",
