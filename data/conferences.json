@@ -91,19 +91,6 @@
     "link": "https://sacworkshop.org/SAC26/"
   },
   {
-    "name": "ACM SIGGRAPH ASIA 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "KLCC, Kuala Lumpur, Malaysia",
-    "Start Date": "Dec 01 2026",
-    "End Date": "Dec 04 2026",
-    "Abstract Deadline": "2026-05-05T23:59:00-12:00",
-    "Submission Deadline": "2025-05-12T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://asia.siggraph.org/2026/"
-  },
-  {
     "name": "CSCW 2026 - MAY 2025 SUBMISSION CYCLE",
     "sub": [
       "Computer-Human Interaction",
@@ -3581,19 +3568,6 @@
     "link": ""
   },
   {
-    "name": "Welcome to the 20th International",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "May 01 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 15 2026",
-    "Notification": "",
-    "link": "http://iswcs.org/iswcs2026"
-  },
-  {
     "name": "CP 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -4039,6 +4013,19 @@
     "Submission Deadline": "Mar 31 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "Welcome to the 20th International",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "May 01 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 31 2026",
+    "Notification": "",
+    "link": "http://iswcs.org/iswcs2026"
   },
   {
     "name": "EMSOFT 2026",
@@ -5261,7 +5248,8 @@
   {
     "name": "PRISM-2026",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Mohali, India",
     "Start Date": "Aug 08 2026",
@@ -5309,6 +5297,19 @@
     "Submission Deadline": "2026-05-10T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.iconip2026.org/"
+  },
+  {
+    "name": "ACM SIGGRAPH ASIA 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "KLCC, Kuala Lumpur, Malaysia",
+    "Start Date": "Dec 01 2026",
+    "End Date": "Dec 04 2026",
+    "Abstract Deadline": "2026-05-05T23:59:00-12:00",
+    "Submission Deadline": "2026-05-12T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://asia.siggraph.org/2026/"
   },
   {
     "name": "ICSPS 2026",
@@ -5927,6 +5928,19 @@
     "link": "https://popl26.sigplan.org/"
   },
   {
+    "name": "ICSGSC 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Guangzhou, China",
+    "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "SoCC 2026 - Second round",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -6057,6 +6071,19 @@
     "Submission Deadline": "2026-08-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://mmm2026.cz/"
+  },
+  {
+    "name": "ISGT Asia 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Wuhan, China",
+    "Start Date": "Oct 30 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 20 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "BigData 2026",
@@ -7297,6 +7324,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://conferences.tiu.edu.iq/iec"
+  },
+  {
+    "name": "issac2026poster",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Oldenburg, Germany",
+    "Start Date": "Jul 13 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "Keynote Speakers",
