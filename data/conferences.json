@@ -2440,6 +2440,19 @@
     "link": "https://2026.ieeeicip.org/"
   },
   {
+    "name": "COLT 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "San Diego, California",
+    "Start Date": "Jun 29 2026",
+    "End Date": "Jul 03 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-02-04T16:59:59-12:00",
+    "Notification": "",
+    "link": "https://learningtheory.org/colt2026/"
+  },
+  {
     "name": "HPDC 2026 - abstract registration deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -4386,6 +4399,19 @@
     "link": ""
   },
   {
+    "name": "RE 2026 - Research Papers",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Montreal, Canada",
+    "Start Date": "Aug 17 2026",
+    "End Date": "Aug 21 2026",
+    "Abstract Deadline": "2026-02-16T23:59:59-12:00",
+    "Submission Deadline": "2026-04-13T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/RE-2026"
+  },
+  {
     "name": "CITA 2026",
     "sub": [
       "Wireless/Communication"
@@ -4676,6 +4702,19 @@
     "Submission Deadline": "2026-04-20T23:59:59+07:00",
     "Notification": "",
     "link": "https://icmi.acm.org/2026/"
+  },
+  {
+    "name": "CGI 2026 - Second Track: Call for papers with final publication in LNCS Book published by Springer or in The Visual Computer journal or Computer Animation and Virtual Worlds Journal",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Jul 06 2026",
+    "End Date": "Jul 10 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-20T23:59:00+00:00",
+    "Notification": "",
+    "link": "https://www.cgs-network.org/cgi26/"
   },
   {
     "name": "ESORICS-2026",
@@ -5168,6 +5207,19 @@
     "link": "https://acm-ieee-sec.org/2026/"
   },
   {
+    "name": "APWeb-WAIM 2026 - second round",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Danang, Vietnam",
+    "Start Date": "Sep 07 2026",
+    "End Date": "Sep 09 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-04T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conferences.sigappfr.org/apweb2026/"
+  },
+  {
     "name": "NETGCOOP 2026",
     "sub": [
       "Network System"
@@ -5469,6 +5521,19 @@
     "link": "https://2026.emnlp.org/"
   },
   {
+    "name": "NLPCC 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Macau, China",
+    "Start Date": "Nov 03 2026",
+    "End Date": "Nov 05 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-26T23:59:59+08:00",
+    "Notification": "",
+    "link": "http://tcci.ccf.org.cn/conference/2026/"
+  },
+  {
     "name": "CoRL 2026",
     "sub": [
       "Artificial Intelligence"
@@ -5692,6 +5757,19 @@
     "link": ""
   },
   {
+    "name": "SCAM 2026 - co-located with ICSME 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Benevento, Italy",
+    "Start Date": "Sep 14 2026",
+    "End Date": "Sep 15 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-11T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/scam-2026"
+  },
+  {
     "name": "ARTIIS 2026",
     "sub": [
       "Security & Privacy"
@@ -5874,6 +5952,19 @@
     "Submission Deadline": "Jul 01 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ICTAI 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Boca Raton FL, USA",
+    "Start Date": "Nov 02 2026",
+    "End Date": "Nov 04 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-30T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://ictai.computer.org/2026/"
   },
   {
     "name": "ICSE 2027 - Single Submission Cycle Deadline",
@@ -6662,19 +6753,6 @@
     "link": "https://ccci.udg.edu"
   },
   {
-    "name": "CGI 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "London, UK",
-    "Start Date": "Jul 06 2026",
-    "End Date": "Jul 10 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://www.cgs-network.org/cgi26/"
-  },
-  {
     "name": "CISIS-2026",
     "sub": [
       "Wireless/Communication"
@@ -6901,7 +6979,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "Authors Registration Deadline : May 15, 2026",
+    "Start Date": "Authors Registration Deadline : May 30, 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
