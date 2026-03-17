@@ -118,19 +118,6 @@
     "link": "https://www.aspdac.com/aspdac2026/"
   },
   {
-    "name": "SODA 2026",
-    "sub": [
-      "Computing Theory"
-    ],
-    "Location": "Philadelphia, Pennsylvania, USA",
-    "Start Date": "Jan 24 2027",
-    "End Date": "Jan 27 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-07-14T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.siam.org/conferences-events/siam-conferences/soda26/"
-  },
-  {
     "name": "GROUP 2027 - Full Paper First Wave Submissions",
     "sub": [
       "Computer-Human Interaction",
@@ -529,9 +516,9 @@
     "sub": [
       "Graphics"
     ],
-    "Location": "Barcelona, Spain",
-    "Start Date": "May 04 2026",
-    "End Date": "May 08 2026",
+    "Location": "Toronto, Canada",
+    "Start Date": "May 16 2027",
+    "End Date": "May 21 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2025-09-17T23:59:59-12:00",
     "Notification": "",
@@ -3620,19 +3607,6 @@
     "link": "https://www.glsvlsi.org/"
   },
   {
-    "name": "ICANN 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Conference center of the School of Psychology, University of Padua, Italy",
-    "Start Date": "Sep 14 2026",
-    "End Date": "Sep 17 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-16T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://e-nns.org/icann2026/"
-  },
-  {
     "name": "ISMAR 2026",
     "sub": [
       "Graphics"
@@ -4052,6 +4026,19 @@
     "Submission Deadline": "2026-03-30T23:59:59-12:00",
     "Notification": "",
     "link": "https://esweek.org/emsoft/"
+  },
+  {
+    "name": "ICANN 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Conference center of the School of Psychology, University of Padua, Italy",
+    "Start Date": "Sep 14 2026",
+    "End Date": "Sep 17 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://e-nns.org/icann2026/"
   },
   {
     "name": "CLPSC2026",
@@ -6019,6 +6006,19 @@
     "link": "https://popl26.sigplan.org/"
   },
   {
+    "name": "SODA 2026",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Philadelphia, Pennsylvania, USA",
+    "Start Date": "Jan 24 2027",
+    "End Date": "Jan 27 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-07-09T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.siam.org/conferences-events/siam-conferences/soda26/"
+  },
+  {
     "name": "ICSGSC 2026",
     "sub": [
       "Security & Privacy"
@@ -6359,6 +6359,19 @@
     "Submission Deadline": "Nov 05 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ICDE 2027 - second round",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Copenhagen, Denmark",
+    "Start Date": "May 17 2027",
+    "End Date": "May 21 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-11T17:00:00-07:00",
+    "Notification": "",
+    "link": "https://icde2027.github.io/"
   },
   {
     "name": "USENIX Security 2026 - Cycle 1 Deadline",
