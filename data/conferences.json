@@ -7719,6 +7719,19 @@
     "link": ""
   },
   {
+    "name": "SIGMETRICS 2027",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Atlanta, Georgia, USA",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.sigmetrics.org/sigmetrics2027/"
+  },
+  {
     "name": "Smartcomp 2026",
     "sub": [
       "Wireless/Communication"
