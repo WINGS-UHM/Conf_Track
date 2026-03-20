@@ -3674,19 +3674,6 @@
     "link": ""
   },
   {
-    "name": "ICIC 2026",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Toronto, Canada",
-    "Start Date": "Jul 22 2026",
-    "End Date": "Jul 26 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-20T11:59:59+08:00",
-    "Notification": "",
-    "link": "http://www.ic-icc.cn/2026/"
-  },
-  {
     "name": "ProbML 2026",
     "sub": [
       "Artificial Intelligence"
@@ -3698,6 +3685,19 @@
     "Submission Deadline": "2026-03-20T11:59:00-12:00",
     "Notification": "",
     "link": "https://probml.cc"
+  },
+  {
+    "name": "ICIC 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Toronto, Canada",
+    "Start Date": "Jul 22 2026",
+    "End Date": "Jul 26 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-21T11:59:59+08:00",
+    "Notification": "",
+    "link": "http://www.ic-icc.cn/2026/"
   },
   {
     "name": "ICCBR 2026",
