@@ -412,9 +412,9 @@
     "sub": [
       "Graphics"
     ],
-    "Location": "Daegu, Korea",
-    "Start Date": "Mar 21 2026",
-    "End Date": "Mar 25 2026",
+    "Location": "Melbourne, Australia",
+    "Start Date": "Feb 27 2027",
+    "End Date": "Mar 03 2027",
     "Abstract Deadline": "2025-09-05T23:59:59-12:00",
     "Submission Deadline": "2025-09-12T23:59:59-12:00",
     "Notification": "",
@@ -3687,19 +3687,6 @@
     "link": "https://probml.cc"
   },
   {
-    "name": "ICIC 2026",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Toronto, Canada",
-    "Start Date": "Jul 22 2026",
-    "End Date": "Jul 26 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-21T11:59:59+08:00",
-    "Notification": "",
-    "link": "http://www.ic-icc.cn/2026/"
-  },
-  {
     "name": "ICCBR 2026",
     "sub": [
       "Artificial Intelligence"
@@ -4213,6 +4200,19 @@
     "Submission Deadline": "Apr 03 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ICIC 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Toronto, Canada",
+    "Start Date": "Jul 22 2026",
+    "End Date": "Jul 26 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-04T11:59:59+08:00",
+    "Notification": "",
+    "link": "http://www.ic-icc.cn/2026/"
   },
   {
     "name": "APPT 2026",
@@ -5847,6 +5847,19 @@
     "Submission Deadline": "2026-06-15T23:59:59+00:00",
     "Notification": "",
     "link": "https://www.apbc2026.com/home"
+  },
+  {
+    "name": "SLT 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Palermo, Sicily, Italy",
+    "Start Date": "Dec 13 2026",
+    "End Date": "Dec 16 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-17T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://attend.ieee.org/slt-2026/"
   },
   {
     "name": "ICCC 2026",
