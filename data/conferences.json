@@ -3633,19 +3633,6 @@
     "link": "https://conf.researchr.org/track/splash-2026/oopsla-2026"
   },
   {
-    "name": "AAAC 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Hongkong, China",
-    "Start Date": "Aug 21 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "DTISD 2026",
     "sub": [
       "Security and Privacy",
@@ -3700,19 +3687,6 @@
     "link": "https://2026.iccbr.org/"
   },
   {
-    "name": "ICIST 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Kaunas, Lithuania",
-    "Start Date": "Oct 15 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 22 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "DPDAHS-26",
     "sub": [
       "Security & Privacy"
@@ -3738,19 +3712,6 @@
     "Submission Deadline": "Mar 23 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "SMC 2026",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Bellevue, WA, USA",
-    "Start Date": "Oct 04 2026",
-    "End Date": "Oct 07 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-22T23:59:59-07:00",
-    "Notification": "",
-    "link": "https://www.ieeesmc2026.org/"
   },
   {
     "name": "ASCENT2026",
@@ -3827,19 +3788,6 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Mar 25 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "SIDS 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Athens, Greece",
-    "Start Date": "Jun 29 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 27 2026",
     "Notification": "",
     "link": ""
   },
@@ -4676,6 +4624,19 @@
     "link": "https://raid2026.org"
   },
   {
+    "name": "AAAC 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Hongkong, China",
+    "Start Date": "Aug 21 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "EWSN26-WT",
     "sub": [
       "Wireless/Communication",
@@ -4688,6 +4649,32 @@
     "Submission Deadline": "Apr 20 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ICIST 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Kaunas, Lithuania",
+    "Start Date": "Oct 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "SMC 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Bellevue, WA, USA",
+    "Start Date": "Oct 04 2026",
+    "End Date": "Oct 07 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-19T23:59:59-07:00",
+    "Notification": "",
+    "link": "https://www.ieeesmc2026.org/"
   },
   {
     "name": "ICMI 2026",
@@ -4742,6 +4729,19 @@
     "Submission Deadline": "2026-04-20T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.ieeelcn.org/"
+  },
+  {
+    "name": "SIDS 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Jun 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 22 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ESORICS 2026 - Second Submission deadline",
