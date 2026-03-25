@@ -3700,20 +3700,6 @@
     "link": ""
   },
   {
-    "name": "IoTSPT2026",
-    "sub": [
-      "Security and Privacy",
-      "Security & Privacy"
-    ],
-    "Location": "Honolulu, Hawaii, United States",
-    "Start Date": "Jul 29 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 23 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ASCENT2026",
     "sub": [
       "Network System"
@@ -4189,6 +4175,20 @@
     "link": "https://2026.asap-conf.org/"
   },
   {
+    "name": "IoTSPT2026",
+    "sub": [
+      "Security and Privacy",
+      "Security & Privacy"
+    ],
+    "Location": "Honolulu, Hawaii, United States",
+    "Start Date": "Jul 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 05 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "Welcome to attend ICSIP 2026!",
     "sub": [
       "Wireless/Communication"
@@ -4380,6 +4380,19 @@
     ],
     "Location": "Bucharest, Romania",
     "Start Date": "Sep 22 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "EMIC-2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "México, Mexico",
+    "Start Date": "Apr 16 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 15 2026",
@@ -4810,6 +4823,19 @@
     "link": ""
   },
   {
+    "name": "2nd ICACCD-2026.",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Bangalore, India",
+    "Start Date": "May 05 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICIICC- 2026",
     "sub": [
       "Wireless/Communication"
@@ -4933,6 +4959,19 @@
     ],
     "Location": "Sharjah, UAE",
     "Start Date": "Oct 22 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CoDis 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Rome, Italy",
+    "Start Date": "Nov 05 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 30 2026",
@@ -5351,6 +5390,19 @@
     "link": "https://www.iconip2026.org/"
   },
   {
+    "name": "C&ESAR 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Rennes, France",
+    "Start Date": "Nov 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 13 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ACM SIGGRAPH ASIA 2026",
     "sub": [
       "Graphics"
@@ -5388,6 +5440,19 @@
     "Submission Deadline": "2026-05-15T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.declarativeai.net/events/ruleml-rr"
+  },
+  {
+    "name": "ICORIS2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Bandung, Indonesia",
+    "Start Date": "Sep 25 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 17 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICCS 2026",
@@ -5595,6 +5660,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "BESC 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Bangkok, Thailand",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 01 2026",
     "Notification": "",
     "link": ""
   },
@@ -5829,6 +5907,19 @@
     ],
     "Location": "Shenzhen, China",
     "Start Date": "Sep 08 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "PlattformPrivatheit26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Berlin, Germany",
+    "Start Date": "Oct 08 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 15 2026",
@@ -6177,6 +6268,19 @@
     "link": ""
   },
   {
+    "name": "FAIR'2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Ho Chi Minh, Viet Nam",
+    "Start Date": "Oct 08 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "MMM 2026",
     "sub": [
       "Graphics"
@@ -6426,6 +6530,19 @@
     "Submission Deadline": "2027-01-26T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/usenixsecurity26"
+  },
+  {
+    "name": "MLET 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Osaka, Japan",
+    "Start Date": "Aug 08 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 05 2027",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "09-13 June 2026, Bu dva , Montenegro",
@@ -6764,6 +6881,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://voyager.ce.fit.ac.jp/conf/bwcca/2026"
+  },
+  {
+    "name": "C1b3rwall",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Ávila, Spain",
+    "Start Date": "Jun 02 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "CALL FOR PAPERS",
@@ -7441,6 +7571,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://conferences.tiu.edu.iq/iec"
+  },
+  {
+    "name": "ISIA2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "M'sila, Algeria",
+    "Start Date": "Nov 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "issac2026poster",
