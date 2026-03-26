@@ -3224,19 +3224,6 @@
     "link": "https://www.vldb.org/2026/"
   },
   {
-    "name": "VLDB 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Boston, MA, USA",
-    "Start Date": "Aug 31 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-01T17:00:00-07:00",
-    "Notification": "",
-    "link": "https://www.vldb.org/2026/"
-  },
-  {
     "name": "IC2S2",
     "sub": [
       "Network System"
@@ -3726,19 +3713,6 @@
     "link": ""
   },
   {
-    "name": "CCET 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Taiyuan, China",
-    "Start Date": "Aug 14 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 25 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICEQCIIS 2026",
     "sub": [
       "Security & Privacy"
@@ -3750,19 +3724,6 @@
     "Submission Deadline": "Mar 25 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "Thank you for attending ICICSP 2026!",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 25 2026",
-    "Notification": "",
-    "link": "https://www.icsp.org"
   },
   {
     "name": "WIRN2026",
@@ -4571,6 +4532,19 @@
     "link": "https://ches.iacr.org/2026/"
   },
   {
+    "name": "JCC 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Tokyo, Japan",
+    "Start Date": "Jul 27 2026",
+    "End Date": "Jul 30 2026",
+    "Abstract Deadline": "2026-04-10T23:59:59-12:00",
+    "Submission Deadline": "2026-04-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://jointcloud.cloud"
+  },
+  {
     "name": "SGP 2026 - Second round",
     "sub": [
       "Graphics"
@@ -4836,6 +4810,19 @@
     "link": ""
   },
   {
+    "name": "CCET 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Taiyuan, China",
+    "Start Date": "Aug 14 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICIICC- 2026",
     "sub": [
       "Wireless/Communication"
@@ -4847,6 +4834,19 @@
     "Submission Deadline": "Apr 25 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "Thank you for attending ICICSP 2026!",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 25 2026",
+    "Notification": "",
+    "link": "https://www.icsp.org"
   },
   {
     "name": "ITC 2026",
@@ -6532,6 +6532,19 @@
     "link": "https://www.usenix.org/conference/usenixsecurity26"
   },
   {
+    "name": "VLDB 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Aug 23 2027",
+    "End Date": "Aug 27 2027",
+    "Abstract Deadline": "2027-02-25T17:00:00-07:00",
+    "Submission Deadline": "2027-03-01T17:00:00-07:00",
+    "Notification": "",
+    "link": "https://www.vldb.org/2026/"
+  },
+  {
     "name": "MLET 2027",
     "sub": [
       "Security & Privacy"
@@ -7493,6 +7506,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "IJCNLP 2026 - AACL-IJCNLP 2026 (the 5th AACL & 15th IJCNLP)",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Hengqin, China",
+    "Start Date": "Nov 06 2026",
+    "End Date": "Nov 10 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://2026.aaclnet.org/"
   },
   {
     "name": "IMIS-2026",
