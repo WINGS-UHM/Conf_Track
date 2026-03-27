@@ -590,19 +590,6 @@
     "link": "https://2026.eurosys.org/"
   },
   {
-    "name": "EuroSys 2026 - Spring Submission Deadline",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Edinburgh, UK",
-    "Start Date": "Apr 13 2026",
-    "End Date": "Apr 16 2026",
-    "Abstract Deadline": "2025-09-18T23:59:59-12:00",
-    "Submission Deadline": "2025-09-25T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2026.eurosys.org/"
-  },
-  {
     "name": "Eurographics 2026",
     "sub": [
       "Graphics"
@@ -3211,19 +3198,6 @@
     "link": "https://www.vldb.org/2026/"
   },
   {
-    "name": "VLDB 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Boston, MA, USA",
-    "Start Date": "Aug 31 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-01T17:00:00-07:00",
-    "Notification": "",
-    "link": "https://www.vldb.org/2026/"
-  },
-  {
     "name": "IC2S2",
     "sub": [
       "Network System"
@@ -4348,19 +4322,6 @@
     "link": ""
   },
   {
-    "name": "EMIC-2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "México, Mexico",
-    "Start Date": "Apr 16 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "FedCSIS 2026",
     "sub": [
       "Security & Privacy"
@@ -4777,6 +4738,19 @@
     ],
     "Location": "Doorwerth, Netherlands",
     "Start Date": "Jun 16 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 24 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "EMIC-2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "México, Mexico",
+    "Start Date": "Apr 27 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 24 2026",
@@ -5427,6 +5401,19 @@
     "Submission Deadline": "May 15 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "EuroSys 2026 - Spring Submission Deadline",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Rabat, Morocco",
+    "Start Date": "Apr 19 2027",
+    "End Date": "Apr 24 2027",
+    "Abstract Deadline": "2026-05-07T23:59:59-12:00",
+    "Submission Deadline": "2026-05-14T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.eurosys.org/"
   },
   {
     "name": "RuleML+RR 2026",
@@ -6400,6 +6387,19 @@
     "link": "https://www.usenix.org/conference/nsdi26"
   },
   {
+    "name": "EuroSys 2027 - Fall Submission Deadline",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Rabat, Morocco",
+    "Start Date": "Apr 19 2027",
+    "End Date": "Apr 24 2027",
+    "Abstract Deadline": "2026-09-17T23:59:59-12:00",
+    "Submission Deadline": "2026-09-24T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2027.eurosys.org/"
+  },
+  {
     "name": "PLSC-E 2026",
     "sub": [
       "Security & Privacy"
@@ -6530,6 +6530,19 @@
     "Submission Deadline": "2027-01-26T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/usenixsecurity26"
+  },
+  {
+    "name": "VLDB 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Aug 23 2027",
+    "End Date": "Aug 27 2027",
+    "Abstract Deadline": "2027-02-25T17:00:00-07:00",
+    "Submission Deadline": "2027-03-01T17:00:00-07:00",
+    "Notification": "",
+    "link": "https://www.vldb.org/2026/"
   },
   {
     "name": "VLDB 2026",
@@ -7716,6 +7729,19 @@
     "link": "https://voyager.ce.fit.ac.jp/conf/nbis/2026"
   },
   {
+    "name": "NEW proposal submission deadline for Exhibitions & Demos, SMEs, Universities, Booth Posters and Pitches: April 3",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.eucnc.eu"
+  },
+  {
     "name": "Next event",
     "sub": [
       "Wireless/Communication"
@@ -7754,19 +7780,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "Notifications for Workshops, Special Sessions, Tutorials_NEW Deadline: Mar. 16",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://www.eucnc.eu"
   },
   {
     "name": "OCIA 2026",
