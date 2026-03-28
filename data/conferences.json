@@ -105,19 +105,6 @@
     "link": "https://cscw.acm.org/2026/"
   },
   {
-    "name": "ASP-DAC 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Hong Kong Disneyland",
-    "Start Date": "Jan 19 2026",
-    "End Date": "Jan 22 2026",
-    "Abstract Deadline": "2025-07-04T17:00:00-12:00",
-    "Submission Deadline": "2025-07-11T17:00:00-12:00",
-    "Notification": "",
-    "link": "https://www.aspdac.com/aspdac2026/"
-  },
-  {
     "name": "GROUP 2027 - Full Paper First Wave Submissions",
     "sub": [
       "Computer-Human Interaction",
@@ -202,9 +189,9 @@
     "sub": [
       "Database/Data Mining/Information Retrieval"
     ],
-    "Location": "Chaminade Resort & Spa, Santa Cruz, California, USA",
-    "Start Date": "Jan 18 2026",
-    "End Date": "Jan 21 2026",
+    "Location": "Amsterdam, The Netherlands",
+    "Start Date": "Jan 24 2027",
+    "End Date": "Jan 27 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2025-08-05T23:59:59-07:00",
     "Notification": "",
@@ -792,9 +779,9 @@
       "Computer-Human Interaction",
       "Computer–Human Interaction"
     ],
-    "Location": "Paphos, Cyprus",
-    "Start Date": "Mar 23 2026",
-    "End Date": "Mar 26 2026",
+    "Location": "Helsinki, Finland",
+    "Start Date": "Feb 08 2027",
+    "End Date": "Feb 11 2027",
     "Abstract Deadline": "2025-10-03T23:59:59-12:00",
     "Submission Deadline": "2025-10-10T23:59:59-12:00",
     "Notification": "",
@@ -896,9 +883,9 @@
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
     ],
-    "Location": "Limassol, Cyprus",
-    "Start Date": "Mar 17 2026",
-    "End Date": "Mar 20 2026",
+    "Location": "Richmond, Virginia, United States",
+    "Start Date": "Mar 09 2027",
+    "End Date": "Mar 12 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2025-10-16T23:59:59-12:00",
     "Notification": "",
@@ -3185,19 +3172,6 @@
     "link": "https://www.vldb.org/2026/"
   },
   {
-    "name": "VLDB 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Boston, MA, USA",
-    "Start Date": "Aug 31 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-01T17:00:00-07:00",
-    "Notification": "",
-    "link": "https://www.vldb.org/2026/"
-  },
-  {
     "name": "IC2S2",
     "sub": [
       "Network System"
@@ -4773,7 +4747,8 @@
   {
     "name": "2nd ICACCD-2026.",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Bangalore, India",
     "Start Date": "May 05 2026",
@@ -5664,6 +5639,19 @@
     "link": ""
   },
   {
+    "name": "WiCON 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Bratislava, Slovakia",
+    "Start Date": "Dec 02 2026",
+    "End Date": "Dec 04 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-01T23:59:59+03:00",
+    "Notification": "",
+    "link": "https://wicon.eai-conferences.org/2026/"
+  },
+  {
     "name": "MSWIM'2026",
     "sub": [
       "Wireless/Communication",
@@ -6123,6 +6111,19 @@
     "link": "https://www.siam.org/conferences-events/siam-conferences/soda26/"
   },
   {
+    "name": "ASP-DAC 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Hitotsubashi Hall, Tokyo, Japan",
+    "Start Date": "Jan 25 2027",
+    "End Date": "Jan 28 2027",
+    "Abstract Deadline": "2026-07-03T17:00:00-12:00",
+    "Submission Deadline": "2026-07-10T17:00:00-12:00",
+    "Notification": "",
+    "link": "https://www.aspdac.com/aspdac2026/"
+  },
+  {
     "name": "ICSGSC 2026",
     "sub": [
       "Security & Privacy"
@@ -6387,7 +6388,7 @@
     "link": "https://www.usenix.org/conference/nsdi26"
   },
   {
-    "name": "EuroSys 2027 - Fall Submission Deadline",
+    "name": "EuroSys 2027 - Spring Submission Deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
     ],
@@ -6530,6 +6531,19 @@
     "Submission Deadline": "2027-01-26T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/usenixsecurity26"
+  },
+  {
+    "name": "VLDB 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Aug 23 2027",
+    "End Date": "Aug 27 2027",
+    "Abstract Deadline": "2027-02-25T17:00:00-07:00",
+    "Submission Deadline": "2027-03-01T17:00:00-07:00",
+    "Notification": "",
+    "link": "https://www.vldb.org/2026/"
   },
   {
     "name": "VLDB 2026",
