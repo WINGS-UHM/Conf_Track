@@ -3146,19 +3146,6 @@
     "link": "https://www.vldb.org/2026/"
   },
   {
-    "name": "VLDB 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Boston, MA, USA",
-    "Start Date": "Aug 31 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-01T17:00:00-07:00",
-    "Notification": "",
-    "link": "https://www.vldb.org/2026/"
-  },
-  {
     "name": "IC2S2",
     "sub": [
       "Network System"
@@ -3670,6 +3657,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Mar 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IC-MEET 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Bengaluru, India",
+    "Start Date": "Apr 17 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 27 2026",
     "Notification": "",
     "link": ""
   },
@@ -4487,6 +4487,19 @@
     ],
     "Location": "Guangdong, China",
     "Start Date": "Aug 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 17 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CAIS'26",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Baghdad, Iraq",
+    "Start Date": "Sep 23 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 17 2026",
@@ -5430,6 +5443,19 @@
     "link": ""
   },
   {
+    "name": "ACM SYSTOR 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Raanana, Israel",
+    "Start Date": "Sep 07 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 21 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "RTSS 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -5441,6 +5467,19 @@
     "Submission Deadline": "2026-05-21T23:59:59-12:00",
     "Notification": "",
     "link": "http://2026.rtss.org/"
+  },
+  {
+    "name": "CNIB2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Oaxaca, Mexico",
+    "Start Date": "Oct 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 23 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICNP 2026",
@@ -6072,6 +6111,19 @@
     "link": "https://accv2026.org/"
   },
   {
+    "name": "EEET 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tianjin, China",
+    "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "POPL 2026 - Submission Deadline",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -6519,6 +6571,19 @@
     "Submission Deadline": "2027-01-26T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/usenixsecurity26"
+  },
+  {
+    "name": "VLDB 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Aug 23 2027",
+    "End Date": "Aug 27 2027",
+    "Abstract Deadline": "2027-02-25T17:00:00-07:00",
+    "Submission Deadline": "2027-03-01T17:00:00-07:00",
+    "Notification": "",
+    "link": "https://www.vldb.org/2026/"
   },
   {
     "name": "VLDB 2026",
