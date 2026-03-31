@@ -3133,19 +3133,6 @@
     "link": "https://www.vldb.org/2026/"
   },
   {
-    "name": "VLDB 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Boston, MA, USA",
-    "Start Date": "Aug 31 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-01T17:00:00-07:00",
-    "Notification": "",
-    "link": "https://www.vldb.org/2026/"
-  },
-  {
     "name": "IC2S2",
     "sub": [
       "Network System"
@@ -3713,19 +3700,6 @@
     "link": ""
   },
   {
-    "name": "BlockSys 2026",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Chengdu, China",
-    "Start Date": "Jul 29 2026",
-    "End Date": "Jul 31 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-30T23:59:59+08:00",
-    "Notification": "",
-    "link": "https://blocksys.info/2026/"
-  },
-  {
     "name": "APARM 2026",
     "sub": [
       "Wireless/Communication"
@@ -3785,6 +3759,19 @@
     ],
     "Location": "Flic en Flac, Mauritius",
     "Start Date": "Sep 30 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "MeCCSA2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Leicester, UK",
+    "Start Date": "Sep 02 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Mar 31 2026",
@@ -4045,19 +4032,6 @@
     "link": "http://www.ic-icc.cn/2026/"
   },
   {
-    "name": "APPT 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Brussels, Belgium",
-    "Start Date": "Jul 27 2026",
-    "End Date": "Jul 31 2026",
-    "Abstract Deadline": "2026-03-27T23:59:00-12:00",
-    "Submission Deadline": "2026-04-03T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://www.appt-conference.com/2026"
-  },
-  {
     "name": "ASAP 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -4202,6 +4176,19 @@
     "Submission Deadline": "Apr 10 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "APPT 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Brussels, Belgium",
+    "Start Date": "Jul 27 2026",
+    "End Date": "Jul 31 2026",
+    "Abstract Deadline": "2026-04-03T23:59:59-12:00",
+    "Submission Deadline": "2026-04-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.appt-conference.com/2026"
   },
   {
     "name": "IJCB 2026",
@@ -4480,20 +4467,6 @@
     "link": "https://sgp26.org/"
   },
   {
-    "name": "AsiaJCIS 2026",
-    "sub": [
-      "Network System",
-      "Security & Privacy"
-    ],
-    "Location": "Guangdong, China",
-    "Start Date": "Aug 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 17 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "CAIS'26",
     "sub": [
       "Network System"
@@ -4597,6 +4570,19 @@
     "Submission Deadline": "2026-04-19T23:59:59-07:00",
     "Notification": "",
     "link": "https://www.ieeesmc2026.org/"
+  },
+  {
+    "name": "BlockSys 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Chengdu, China",
+    "Start Date": "Jul 29 2026",
+    "End Date": "Jul 31 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-20T23:59:59+08:00",
+    "Notification": "",
+    "link": "https://blocksys.info/2026/"
   },
   {
     "name": "ICMI 2026",
@@ -4908,6 +4894,20 @@
     ],
     "Location": "Sharjah, UAE",
     "Start Date": "Oct 22 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "AsiaJCIS 2026",
+    "sub": [
+      "Network System",
+      "Security & Privacy"
+    ],
+    "Location": "Guangdong, China",
+    "Start Date": "Aug 04 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 30 2026",
@@ -6361,6 +6361,19 @@
     "link": "https://www.asplos-conference.org/call-for-papers-asplos27/"
   },
   {
+    "name": "ASPLOS 2027 - September Cycle Submission Deadline",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Crete, Greece",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-09T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.asplos-conference.org/asplos2027/cfp/"
+  },
+  {
     "name": "KIMC 2026",
     "sub": [
       "Wireless/Communication"
@@ -6638,6 +6651,19 @@
     "link": "https://www.vldb.org/2026/"
   },
   {
+    "name": "VLDB 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Aug 23 2027",
+    "End Date": "Aug 27 2027",
+    "Abstract Deadline": "2027-02-25T17:00:00-07:00",
+    "Submission Deadline": "2027-03-01T17:00:00-07:00",
+    "Notification": "",
+    "link": "https://www.vldb.org/2026/"
+  },
+  {
     "name": "MLET 2027",
     "sub": [
       "Security & Privacy"
@@ -6708,7 +6734,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "Mar, 2026",
+    "Start Date": "May, 11-13, 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
@@ -7744,19 +7770,6 @@
     "link": ""
   },
   {
-    "name": "MeCCSA2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Leicester, UK",
-    "Start Date": "Sep 02 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "mHealthSec2026",
     "sub": [
       "Security & Privacy"
@@ -8161,6 +8174,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://ic.gulf.edu.sa/icoesat2"
+  },
+  {
+    "name": "The 5th Symposium on Algorithmic Foundations of Dynamic Networks (SAND)",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "May 02 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://litis.univ-lehavre.fr/sand2026"
   },
   {
     "name": "The 6 th International Conference on Intelligent Cybernetics Technology & Applications 2026 (ICICyTA)",
