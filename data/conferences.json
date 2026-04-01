@@ -3120,19 +3120,6 @@
     "link": "https://www.vldb.org/2026/"
   },
   {
-    "name": "VLDB 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Boston, MA, USA",
-    "Start Date": "Aug 31 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-01T17:00:00-07:00",
-    "Notification": "",
-    "link": "https://www.vldb.org/2026/"
-  },
-  {
     "name": "IC2S2",
     "sub": [
       "Network System"
@@ -3648,19 +3635,6 @@
     "link": ""
   },
   {
-    "name": "IC-MEET 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Bengaluru, India",
-    "Start Date": "Apr 17 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 27 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ASE 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -3685,19 +3659,6 @@
     "Submission Deadline": "2026-03-28T23:59:59-12:00",
     "Notification": "",
     "link": "https://ppsn2026.disi.unitn.it/"
-  },
-  {
-    "name": "eSmarTA-2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Dhamar, Yemen",
-    "Start Date": "Aug 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 30 2026",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "APARM 2026",
@@ -4098,6 +4059,19 @@
     "link": "https://conf.researchr.org/home/internetware-2026"
   },
   {
+    "name": "IC-MEET 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Bengaluru, India",
+    "Start Date": "Apr 17 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 07 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "MobiHoc 2026",
     "sub": [
       "Uncategorized",
@@ -4270,6 +4244,19 @@
     "link": ""
   },
   {
+    "name": "eSmarTA-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Dhamar, Yemen",
+    "Start Date": "Aug 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "FedCSIS 2026",
     "sub": [
       "Security & Privacy"
@@ -4316,6 +4303,19 @@
     ],
     "Location": "Athens, Greece",
     "Start Date": "Aug 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "PCDS 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Jeju, South Korea",
+    "Start Date": "Aug 17 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 15 2026",
@@ -6664,6 +6664,19 @@
     "link": "https://www.vldb.org/2026/"
   },
   {
+    "name": "VLDB 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Aug 23 2027",
+    "End Date": "Aug 27 2027",
+    "Abstract Deadline": "2027-02-25T17:00:00-07:00",
+    "Submission Deadline": "2027-03-01T17:00:00-07:00",
+    "Notification": "",
+    "link": "https://www.vldb.org/2026/"
+  },
+  {
     "name": "MLET 2027",
     "sub": [
       "Security & Privacy"
@@ -7925,19 +7938,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.overturetool.org/workshops/24th-overture-workshop.html"
-  },
-  {
-    "name": "PCDS 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Jeju, South Korea",
-    "Start Date": "Aug 17 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "QNRL@WCCI2026",
