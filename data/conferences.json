@@ -3094,19 +3094,6 @@
     "link": "https://www.vldb.org/2026/"
   },
   {
-    "name": "VLDB 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Boston, MA, USA",
-    "Start Date": "Aug 31 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-01T17:00:00-07:00",
-    "Notification": "",
-    "link": "https://www.vldb.org/2026/"
-  },
-  {
     "name": "IC2S2",
     "sub": [
       "Network System"
@@ -3633,19 +3620,6 @@
     "Submission Deadline": "2026-03-28T23:59:59-12:00",
     "Notification": "",
     "link": "https://ppsn2026.disi.unitn.it/"
-  },
-  {
-    "name": "APARM 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Singapore, Singapore",
-    "Start Date": "Jul 01 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 31 2026",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "ICABCD2026",
@@ -4443,7 +4417,8 @@
   {
     "name": "CAIS'26",
     "sub": [
-      "Network System"
+      "Network System",
+      "Security & Privacy"
     ],
     "Location": "Baghdad, Iraq",
     "Start Date": "Sep 23 2026",
@@ -4868,6 +4843,19 @@
     ],
     "Location": "Sharjah, UAE",
     "Start Date": "Oct 22 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "APARM 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Singapore, Singapore",
+    "Start Date": "Jul 01 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 30 2026",
@@ -6690,6 +6678,19 @@
     "link": "https://www.vldb.org/2026/"
   },
   {
+    "name": "VLDB 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Aug 23 2027",
+    "End Date": "Aug 27 2027",
+    "Abstract Deadline": "2027-02-25T17:00:00-07:00",
+    "Submission Deadline": "2027-03-01T17:00:00-07:00",
+    "Notification": "",
+    "link": "https://www.vldb.org/2026/"
+  },
+  {
     "name": "MLET 2027",
     "sub": [
       "Security & Privacy"
@@ -6760,7 +6761,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "May, 11-13, 2026",
+    "Start Date": "May 11-13, 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
