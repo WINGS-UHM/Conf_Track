@@ -3518,19 +3518,6 @@
     "link": ""
   },
   {
-    "name": "ASCENT2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Athens, Greece",
-    "Start Date": "Aug 18 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 24 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "SDW26",
     "sub": [
       "Wireless/Communication"
@@ -3715,19 +3702,6 @@
     "link": ""
   },
   {
-    "name": "EAI MobiCASE 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Oklahoma City, Oklahoma, United States",
-    "Start Date": "Aug 06 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "GCA-EWCA 2026",
     "sub": [
       "Wireless/Communication"
@@ -3899,32 +3873,6 @@
     "Submission Deadline": "Apr 05 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "Welcome to attend ICSIP 2026!",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 05 2026",
-    "Notification": "",
-    "link": "https://www.icsip.org"
-  },
-  {
-    "name": "Welcome to ICCCM 2026 ( CFP Flyer Download )",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 05 2026",
-    "Notification": "",
-    "link": "https://www.icccm.org"
   },
   {
     "name": "Internetware 2026",
@@ -4184,19 +4132,6 @@
     ],
     "Location": "Ancona, Italy",
     "Start Date": "Sep 01 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "Mobile4Medicine",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Athens, Greece",
-    "Start Date": "Aug 18 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 15 2026",
@@ -4522,6 +4457,19 @@
     "link": "https://www.cgs-network.org/cgi26/"
   },
   {
+    "name": "ASCENT2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Aug 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 21 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ESORICS-2026",
     "sub": [
       "Security and Privacy",
@@ -4529,6 +4477,19 @@
     ],
     "Location": "Rome, Italy",
     "Start Date": "Sep 14 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 21 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "Mobile4Medicine",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Aug 18 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 21 2026",
@@ -5131,6 +5092,32 @@
     "link": "https://acm-ieee-sec.org/2026/"
   },
   {
+    "name": "EAI MobiCASE 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Oklahoma City, Oklahoma, United States",
+    "Start Date": "Aug 06 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 05 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "Welcome to attend ICSIP 2026!",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 05 2026",
+    "Notification": "",
+    "link": "https://www.icsip.org"
+  },
+  {
     "name": "APWeb-WAIM 2026 - second round",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -5482,6 +5469,19 @@
     "Submission Deadline": "May 25 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "Welcome to ICCCM 2026 ( CFP Flyer Download )",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 25 2026",
+    "Notification": "",
+    "link": "https://www.icccm.org"
   },
   {
     "name": "CIKM 2026",
