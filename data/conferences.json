@@ -3782,20 +3782,6 @@
     "link": "https://sanjeevkhanna.org/FOCS2026_CFP.html"
   },
   {
-    "name": "ICSCGE 2026",
-    "sub": [
-      "Security & Privacy",
-      "Network System"
-    ],
-    "Location": "Brisbane, Australia",
-    "Start Date": "Aug 06 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 02 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ACM MM 2026",
     "sub": [
       "Graphics"
@@ -5157,6 +5143,20 @@
     "link": ""
   },
   {
+    "name": "ICSCGE 2026",
+    "sub": [
+      "Security & Privacy",
+      "Network System"
+    ],
+    "Location": "Brisbane, Australia",
+    "Start Date": "Aug 06 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 07 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "NeurIPS 2026",
     "sub": [
       "Artificial Intelligence"
@@ -6401,6 +6401,19 @@
     "Submission Deadline": "2026-09-24T23:59:59-12:00",
     "Notification": "",
     "link": "https://2027.eurosys.org/"
+  },
+  {
+    "name": "JETNET 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Goa, India",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 30 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "PLSC-E 2026",
