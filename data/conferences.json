@@ -200,20 +200,6 @@
   {
     "name": "NDSS 2026 - Summer",
     "sub": [
-      "Network and System Security",
-      "Uncategorized"
-    ],
-    "Location": "San Diego, California",
-    "Start Date": "Feb 23 2026",
-    "End Date": "Feb 27 2026",
-    "Abstract Deadline": "2025-07-30T23:59:59-12:00",
-    "Submission Deadline": "2025-08-06T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.ndss-symposium.org/ndss2026/"
-  },
-  {
-    "name": "NDSS 2026 - Summer",
-    "sub": [
       "Network and System Security"
     ],
     "Location": "San Diego, California",
@@ -3597,19 +3583,6 @@
     "link": ""
   },
   {
-    "name": "ICRAIS2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Flic en Flac, Mauritius",
-    "Start Date": "Sep 30 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 31 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "MeCCSA2026",
     "sub": [
       "Wireless/Communication"
@@ -4019,6 +3992,19 @@
     "link": ""
   },
   {
+    "name": "ICISCCNGS-2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "New Delhi, India",
+    "Start Date": "Apr 24 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 12 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "RE 2026 - Research Papers",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -4363,6 +4349,19 @@
     "link": ""
   },
   {
+    "name": "AISEC 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Marrakech, Morocco",
+    "Start Date": "May 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "EWSN26-WT",
     "sub": [
       "Wireless/Communication",
@@ -4575,6 +4574,19 @@
     "link": ""
   },
   {
+    "name": "ICSEng 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Las Vegas, Nevada, United States",
+    "Start Date": "Aug 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 24 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IWAC2026",
     "sub": [
       "Wireless/Communication"
@@ -4719,6 +4731,19 @@
     "link": "https://conf.ccf.org.cn/WISA2026"
   },
   {
+    "name": "QUATIC 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Genoa, Italy",
+    "Start Date": "Sep 09 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 29 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "19th IEEE MCSoC 2026 – Bridging Architecture, Intelligence, and Emerging Applications",
     "sub": [
       "Wireless/Communication"
@@ -4798,12 +4823,38 @@
     "link": ""
   },
   {
+    "name": "CPSSS-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "GWALIOR, India",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ESGCO 2026",
     "sub": [
       "Network System"
     ],
     "Location": "Erice (TP), Italy",
     "Start Date": "Oct 22 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "FENS 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Jun 26 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 30 2026",
@@ -4837,6 +4888,19 @@
     "link": ""
   },
   {
+    "name": "ICRAIS2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Flic en Flac, Mauritius",
+    "Start Date": "Sep 30 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICSTCC 2026",
     "sub": [
       "Wireless/Communication"
@@ -4857,6 +4921,19 @@
     ],
     "Location": "Bali, Indonesia",
     "Start Date": "Jul 02 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "Integrity2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Jeju, South Korea",
+    "Start Date": "Aug 10 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 30 2026",
@@ -5170,6 +5247,33 @@
     "link": "https://neurips.cc/Conferences/2026"
   },
   {
+    "name": "NDSS 2026 - Summer",
+    "sub": [
+      "Network and System Security",
+      "Uncategorized"
+    ],
+    "Location": "TBD",
+    "Start Date": "Feb 23 2026",
+    "End Date": "Feb 27 2026",
+    "Abstract Deadline": "2025-07-30T23:59:59-12:00",
+    "Submission Deadline": "2026-05-06T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.ndss-symposium.org/ndss2026/"
+  },
+  {
+    "name": "ABS 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Lecce, Italy",
+    "Start Date": "Aug 31 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 08 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ISWC 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -5202,6 +5306,19 @@
     ],
     "Location": "Beijing, China",
     "Start Date": "Dec 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IEEE-CH 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Venice, Italy",
+    "Start Date": "Sep 07 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 10 2026",
@@ -5379,6 +5496,19 @@
     "link": ""
   },
   {
+    "name": "EUVIP 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Luxembourg, Luxembourg",
+    "Start Date": "Sep 28 2026",
+    "End Date": "Oct 01 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-21T23:59:59+02:00",
+    "Notification": "",
+    "link": "https://euvip2026.github.io/"
+  },
+  {
     "name": "RTSS 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -5510,6 +5640,19 @@
     "link": "https://2026.emnlp.org/"
   },
   {
+    "name": "IJCNLP 2026 - ARR Submission; AACL-IJCNLP 2026 (the 5th AACL & 15th IJCNLP)",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Hengqin, China",
+    "Start Date": "Nov 06 2026",
+    "End Date": "Nov 10 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.aaclnet.org/"
+  },
+  {
     "name": "NLPCC 2026",
     "sub": [
       "Artificial Intelligence"
@@ -5614,6 +5757,19 @@
     "link": ""
   },
   {
+    "name": "INDEL 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Banja Luka, Bosnia and Herzegovina",
+    "Start Date": "Nov 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "WiCON 2026",
     "sub": [
       "Network System"
@@ -5652,6 +5808,19 @@
     "Submission Deadline": "2026-06-01T23:59:59-12:00",
     "Notification": "",
     "link": "https://computeranimation.org/"
+  },
+  {
+    "name": "ANTS-6G",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Singapore, Singapore",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 05 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "JOTECA 2026",
@@ -5730,6 +5899,32 @@
     "Submission Deadline": "2026-06-06T23:59:59-12:00",
     "Notification": "",
     "link": "http://icdm2026.neu.edu.cn/"
+  },
+  {
+    "name": "JIEE 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Quito, Ecuador",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 08 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "PG 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Singapore Management University, Singapore",
+    "Start Date": "Oct 06 2026",
+    "End Date": "Oct 09 2026",
+    "Abstract Deadline": "2026-06-01T23:59:59-12:00",
+    "Submission Deadline": "2026-06-08T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://pacificgraphics2026.github.io/"
   },
   {
     "name": "CANS 2026",
@@ -5925,6 +6120,32 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ISPEC2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "",
+    "Start Date": "Nov 06 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 26 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CASCON 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Toronto, Canada",
+    "Start Date": "Nov 09 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 29 2026",
     "Notification": "",
     "link": ""
   },
@@ -6244,6 +6465,19 @@
     "link": ""
   },
   {
+    "name": "30th Colloquium",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Indianapolis, Idaho, United States",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "FAIR'2026",
     "sub": [
       "Security & Privacy",
@@ -6284,6 +6518,19 @@
     "link": ""
   },
   {
+    "name": "NDSS 2027 - Fall",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "TBD",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-19T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.ndss-symposium.org/ndss2027/"
+  },
+  {
     "name": "BigData 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -6315,8 +6562,8 @@
       "Computer Architecture/Parallel Programming/Storage Technology"
     ],
     "Location": "Crete, Greece",
-    "Start Date": "",
-    "End Date": "",
+    "Start Date": "Apr 11 2027",
+    "End Date": "Apr 15 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-09-09T23:59:59-12:00",
     "Notification": "",
@@ -7094,6 +7341,19 @@
     "link": "https://ccci.udg.edu"
   },
   {
+    "name": "CERC 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Galway, Ireland",
+    "Start Date": "Oct 16 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CISIS-2026",
     "sub": [
       "Wireless/Communication"
@@ -7198,19 +7458,6 @@
     "link": "https://www.kios.ucy.ac.cy/drcn2026"
   },
   {
-    "name": "Due to several requests, submission deadline has been extended to 31 st January 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://nordic-digihealth.com"
-  },
-  {
     "name": "EAI GAMENETS 2026",
     "sub": [
       "Network System"
@@ -7274,6 +7521,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "http://www.mecoconference.me"
+  },
+  {
+    "name": "Full Scientific Conference Program Now Available! Secure your Early Bird spot by 22 April.",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://nordic-digihealth.com"
   },
   {
     "name": "Global 6G Conference 2026",
@@ -7392,6 +7652,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.icet.net"
+  },
+  {
+    "name": "ICIET 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Amaravati, India",
+    "Start Date": "Aug 21 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICPHM",
@@ -7665,19 +7938,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "IJCNLP 2026 - AACL-IJCNLP 2026 (the 5th AACL & 15th IJCNLP)",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Hengqin, China",
-    "Start Date": "Nov 06 2026",
-    "End Date": "Nov 10 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://2026.aaclnet.org/"
   },
   {
     "name": "IMIS-2026",
@@ -8404,6 +8664,19 @@
     ],
     "Location": "Perth, Australia",
     "Start Date": "Jun 09 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "WOCIE 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Hongkong, Hong Kong",
+    "Start Date": "Jul 17 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
