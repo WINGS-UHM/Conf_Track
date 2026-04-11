@@ -200,7 +200,8 @@
   {
     "name": "NDSS 2026 - Summer",
     "sub": [
-      "Network and System Security"
+      "Network and System Security",
+      "Uncategorized"
     ],
     "Location": "San Diego, California",
     "Start Date": "Feb 23 2026",
@@ -2256,19 +2257,6 @@
     "link": "https://roboticsconference.org"
   },
   {
-    "name": "Important Dates",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "IEEE ISCC sessions will include presentations on new research results and tutorials. Papers describing original work are invited in any of the computer and communications areas mentioned in the Call for Papers. Accepted papers will be included in the IEEE ISCC 2026 conference proceedings, which will be subject to independent peer-review procedures for quality, and may be eligible for inclusion in the IEEE Xplore® Digital Library. Merit, relevance, and originality will guide paper acceptance. Best Paper Awards and Best Student Paper Awards will be presented.",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Feb 01 2026",
-    "Notification": "",
-    "link": "http://icufn.org"
-  },
-  {
     "name": "COMPSAC 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -2568,6 +2556,19 @@
     "Submission Deadline": "Feb 13 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "Important Dates",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "IEEE ISCC sessions will include presentations on new research results and tutorials. Papers describing original work are invited in any of the computer and communications areas mentioned in the Call for Papers. Accepted papers will be included in the IEEE ISCC 2026 conference proceedings, which will be subject to independent peer-review procedures for quality, and may be eligible for inclusion in the IEEE Xplore® Digital Library. Merit, relevance, and originality will guide paper acceptance. Best Paper Awards and Best Student Paper Awards will be presented.",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 13 2026",
+    "Notification": "",
+    "link": "http://icufn.org"
   },
   {
     "name": "MAL-IoT 2026",
@@ -3517,19 +3518,6 @@
     "link": ""
   },
   {
-    "name": "ICEQCIIS 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Vijayawada, India",
-    "Start Date": "Apr 09 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Mar 25 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ASE 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -4164,19 +4152,6 @@
     "link": "https://iccad.com/2026"
   },
   {
-    "name": "PRCV 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Harbin, China",
-    "Start Date": "Aug 22 2026",
-    "End Date": "Aug 25 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-04-15T23:59:59+08:00",
-    "Notification": "",
-    "link": "https://www.prcv.cn/web/#/home"
-  },
-  {
     "name": "EGSR 2026",
     "sub": [
       "Graphics"
@@ -4493,6 +4468,19 @@
     "Submission Deadline": "2026-04-20T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.ieeelcn.org/"
+  },
+  {
+    "name": "ICEQCIIS 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Vijayawada, India",
+    "Start Date": "May 07 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 22 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "SIDS 2026",
@@ -5007,6 +4995,19 @@
     "link": "https://conferences.sigcomm.org/imc/2026/"
   },
   {
+    "name": "PRCV 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Harbin, China",
+    "Start Date": "Aug 22 2026",
+    "End Date": "Aug 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-30T23:59:59+08:00",
+    "Notification": "",
+    "link": "https://www.prcv.cn/web/#/home"
+  },
+  {
     "name": "CCS 2026",
     "sub": [
       "Network System"
@@ -5496,6 +5497,19 @@
     "link": ""
   },
   {
+    "name": "APSys 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Bangkok, Thailand",
+    "Start Date": "Sep 17 2026",
+    "End Date": "Sep 18 2026",
+    "Abstract Deadline": "2026-05-13T23:59:00-12:00",
+    "Submission Deadline": "2026-05-20T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://ap-sys.org/"
+  },
+  {
     "name": "EUVIP 2026",
     "sub": [
       "Artificial Intelligence"
@@ -5812,7 +5826,8 @@
   {
     "name": "ANTS-6G",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Security & Privacy"
     ],
     "Location": "Singapore, Singapore",
     "Start Date": "",
@@ -6518,7 +6533,7 @@
     "link": ""
   },
   {
-    "name": "NDSS 2027 - Fall",
+    "name": "NDSS 2027 - Summer",
     "sub": [
       "Network and System Security"
     ],
@@ -7667,6 +7682,19 @@
     "link": ""
   },
   {
+    "name": "ICIN 2027 - 30th Conference on Innovation in Clouds, Internet and Networks",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.icin-conference.org"
+  },
+  {
     "name": "ICPHM",
     "sub": [
       "Wireless/Communication"
@@ -8552,19 +8580,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "http://cwit.ca/2026"
-  },
-  {
-    "name": "Welcome message from the Chairs of ICIN 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://www.icin-conference.org"
   },
   {
     "name": "Welcome to ICSigSys 2026!",
