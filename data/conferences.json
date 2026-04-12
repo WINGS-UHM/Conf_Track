@@ -3967,22 +3967,10 @@
     "link": "https://ijcb2026.ieee-biometrics.org/"
   },
   {
-    "name": "C2S3-26",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Esslingen, Germany",
-    "Start Date": "Jun 11 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 12 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICISCCNGS-2026",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "New Delhi, India",
     "Start Date": "Apr 24 2026",
@@ -4309,6 +4297,19 @@
     "Submission Deadline": "2026-04-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://raid2026.org"
+  },
+  {
+    "name": "C2S3-26",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Esslingen, Germany",
+    "Start Date": "Jun 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 19 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "AAAC 2026",
@@ -5693,6 +5694,20 @@
     "link": ""
   },
   {
+    "name": "ACSAC 2026",
+    "sub": [
+      "Uncategorized",
+      "Network and System Security"
+    ],
+    "Location": "Los Angeles, California, USA",
+    "Start Date": "Dec 07 2026",
+    "End Date": "Dec 11 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-26T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.acsac.org/"
+  },
+  {
     "name": "CoRL 2026",
     "sub": [
       "Artificial Intelligence"
@@ -6535,7 +6550,8 @@
   {
     "name": "NDSS 2027 - Summer",
     "sub": [
-      "Network and System Security"
+      "Network and System Security",
+      "Uncategorized"
     ],
     "Location": "TBD",
     "Start Date": "",
@@ -7200,19 +7216,6 @@
     "link": "https://wisec2025.gmu.edu/"
   },
   {
-    "name": "ACSAC",
-    "sub": [
-      "Uncategorized"
-    ],
-    "Location": "Honolulu, HI",
-    "Start Date": "Dec 09 2025",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://www.acsac.org/"
-  },
-  {
     "name": "ADMA 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -7276,6 +7279,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "http://www.isncc-conf.org"
+  },
+  {
+    "name": "ASIACRYPT 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Hong Kong, China1",
+    "Start Date": "Dec 07 2026",
+    "End Date": "Dec 11 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://asiacrypt.iacr.org/2026/"
   },
   {
     "name": "Automation, Robotics & Communications for Industry 4.0/5.0/6.0 (ARCI' 2026): 6th IFSA Winter Conference",
@@ -7790,7 +7806,7 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Glasgow, Scotland, UK",
+    "Location": "Glasgow, Scotland",
     "Start Date": "May 24 2026",
     "End Date": "",
     "Abstract Deadline": "",
