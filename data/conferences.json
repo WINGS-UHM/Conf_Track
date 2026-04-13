@@ -3914,20 +3914,6 @@
     "link": ""
   },
   {
-    "name": "ICCSN 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Shenzhen, China",
-    "Start Date": "Jul 24 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "PST 2026",
     "sub": [
       "Security & Privacy"
@@ -4677,6 +4663,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 26 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "DCS-CI 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Buford, Georgia, United States",
+    "Start Date": "Sep 02 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 27 2026",
     "Notification": "",
     "link": ""
   },
@@ -5465,6 +5464,20 @@
     ],
     "Location": "Hangzhou, China",
     "Start Date": "Sep 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICCSN 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Shenzhen, China",
+    "Start Date": "Jul 24 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 20 2026",
@@ -7443,19 +7456,6 @@
     ],
     "Location": "Larnaca, Cyprus",
     "Start Date": "Sep 28 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "DCS-CI 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Buford, Georgia, United States",
-    "Start Date": "Sep 02 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
