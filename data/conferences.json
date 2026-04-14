@@ -4246,6 +4246,19 @@
     "link": ""
   },
   {
+    "name": "CYSE-SDC-1",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Fairfax, Virginia, United States",
+    "Start Date": "Apr 28 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 17 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICATH 2026",
     "sub": [
       "Wireless/Communication"
@@ -5406,6 +5419,19 @@
     "link": "https://asia.siggraph.org/2026/"
   },
   {
+    "name": "GeCoIn 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Bremen, Germany",
+    "Start Date": "Aug 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 14 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICSPS 2026",
     "sub": [
       "Wireless/Communication"
@@ -6180,6 +6206,19 @@
     "link": ""
   },
   {
+    "name": "OTCN 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Singapore, Singapore",
+    "Start Date": "Sep 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 27 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CASCON 2026",
     "sub": [
       "Security & Privacy"
@@ -6311,6 +6350,19 @@
     "link": "https://ieeebibm.org/BIBM2026/"
   },
   {
+    "name": "ICECCS2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Brisbane, Australia",
+    "Start Date": "Nov 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 06 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ACCV 2026",
     "sub": [
       "Artificial Intelligence"
@@ -6330,6 +6382,32 @@
     ],
     "Location": "Tianjin, China",
     "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IOI-2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Exeter, UK",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IUCC-2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Exeter, UK",
+    "Start Date": "Oct 26 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 10 2026",
