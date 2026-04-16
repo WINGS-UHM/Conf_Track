@@ -5747,6 +5747,19 @@
     "link": "https://www.acsac.org/"
   },
   {
+    "name": "AFT 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Oct 06 2026",
+    "End Date": "Oct 09 2026",
+    "Abstract Deadline": "2026-05-20T23:59:59-12:00",
+    "Submission Deadline": "2026-05-27T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://aft.ifca.ai/aft26/index.html"
+  },
+  {
     "name": "CoRL 2026",
     "sub": [
       "Artificial Intelligence"
@@ -6208,7 +6221,8 @@
   {
     "name": "OTCN 2026",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Singapore, Singapore",
     "Start Date": "Sep 11 2026",
