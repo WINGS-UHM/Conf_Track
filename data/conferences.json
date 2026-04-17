@@ -4032,20 +4032,6 @@
     "link": ""
   },
   {
-    "name": "ICICN 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Xi'an, China",
-    "Start Date": "Sep 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "IMP Conference 2026",
     "sub": [
       "Network System"
@@ -4123,6 +4109,19 @@
     "Submission Deadline": "2026-04-15T23:59:59+00:00",
     "Notification": "",
     "link": "https://egsr2026.inria.fr/"
+  },
+  {
+    "name": "SGP 2026 - Second round",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Bern, Switzerland",
+    "Start Date": "Jul 01 2026",
+    "End Date": "Jul 03 2026",
+    "Abstract Deadline": "2026-04-13T23:59:59+00:00",
+    "Submission Deadline": "2026-04-15T23:59:59+00:00",
+    "Notification": "",
+    "link": "https://sgp26.org/"
   },
   {
     "name": "GLOBECOM 2026",
@@ -4203,19 +4202,6 @@
     "Submission Deadline": "2026-04-15T23:59:59-12:00",
     "Notification": "",
     "link": "https://jointcloud.cloud"
-  },
-  {
-    "name": "SGP 2026 - Second round",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Bern, Switzerland",
-    "Start Date": "Jul 01 2026",
-    "End Date": "Jul 03 2026",
-    "Abstract Deadline": "2026-04-13T23:59:59-12:00",
-    "Submission Deadline": "2026-04-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://sgp26.org/"
   },
   {
     "name": "CAIS'26",
@@ -5021,6 +5007,19 @@
     "link": "https://www.prcv.cn/web/#/home"
   },
   {
+    "name": "AI4TCI",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Linköping, Sweden",
+    "Start Date": "Aug 24 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CCS 2026",
     "sub": [
       "Network System"
@@ -5504,6 +5503,20 @@
     ],
     "Location": "Shenzhen, China",
     "Start Date": "Jul 24 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICICN 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Xi'an, China",
+    "Start Date": "Sep 04 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 20 2026",
@@ -6292,6 +6305,19 @@
     ],
     "Location": "Guangzhou, China",
     "Start Date": "Dec 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "NAS 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Wuhan, China",
+    "Start Date": "Oct 30 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 30 2026",
