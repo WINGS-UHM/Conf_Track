@@ -3939,20 +3939,6 @@
     "link": "https://ijcb2026.ieee-biometrics.org/"
   },
   {
-    "name": "ICISCCNGS-2026",
-    "sub": [
-      "Wireless/Communication",
-      "Network System"
-    ],
-    "Location": "New Delhi, India",
-    "Start Date": "Apr 24 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 12 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "RE 2026 - Research Papers",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -4268,6 +4254,20 @@
     "Submission Deadline": "2026-04-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://raid2026.org"
+  },
+  {
+    "name": "ICISCCNGS-2026",
+    "sub": [
+      "Wireless/Communication",
+      "Network System"
+    ],
+    "Location": "New Delhi, India",
+    "Start Date": "Apr 24 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 18 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "C2S3-26",
