@@ -185,19 +185,6 @@
     "link": "https://aaai.org/conference/aaai/aaai-26/"
   },
   {
-    "name": "CIDR 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Amsterdam, The Netherlands",
-    "Start Date": "Jan 24 2027",
-    "End Date": "Jan 27 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-08-05T23:59:59-07:00",
-    "Notification": "",
-    "link": "https://www.cidrdb.org/cidr2026/"
-  },
-  {
     "name": "NDSS 2026 - Summer",
     "sub": [
       "Network and System Security",
@@ -4489,7 +4476,7 @@
     ],
     "Location": "Rome, Italy",
     "Start Date": "Sep 14 2026",
-    "End Date": "",
+    "End Date": "Sep 18 2026",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-04-21T23:59:59-12:00",
     "Notification": "",
@@ -6597,6 +6584,19 @@
     "Submission Deadline": "2026-08-01T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.cloud-conf.net/cscloud/2026/cscloud/"
+  },
+  {
+    "name": "CIDR 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Amsterdam, The Netherlands",
+    "Start Date": "Jan 24 2027",
+    "End Date": "Jan 27 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-04T23:59:59-07:00",
+    "Notification": "",
+    "link": "https://www.cidrdb.org/cidr2026/"
   },
   {
     "name": "Ucom 2026",
