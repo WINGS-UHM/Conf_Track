@@ -4270,32 +4270,6 @@
     "link": ""
   },
   {
-    "name": "AAAC 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Hongkong, China",
-    "Start Date": "Aug 21 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "AISEC 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Marrakech, Morocco",
-    "Start Date": "May 15 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "EWSN26-WT",
     "sub": [
       "Wireless/Communication",
@@ -4649,6 +4623,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 26 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "AISEC 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Marrakech, Morocco",
+    "Start Date": "May 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 27 2026",
     "Notification": "",
     "link": ""
   },
@@ -5466,6 +5453,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 17 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "AAAC 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Hongkong, China",
+    "Start Date": "Aug 21 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 20 2026",
     "Notification": "",
     "link": ""
   },
@@ -7157,7 +7157,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "Notificate Date: May 10th, 2026",
+    "Start Date": "Submission Deadline: May 20th, 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
@@ -8656,7 +8656,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "",
+    "Start Date": "May 12 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
