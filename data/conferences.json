@@ -3913,19 +3913,6 @@
     "link": "https://www.appt-conference.com/2026"
   },
   {
-    "name": "IJCB 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Rome, Italy",
-    "Start Date": "Sep 01 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-04-10T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://ijcb2026.ieee-biometrics.org/"
-  },
-  {
     "name": "RE 2026 - Research Papers",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -4095,21 +4082,6 @@
     "Submission Deadline": "2026-04-15T23:59:59+00:00",
     "Notification": "",
     "link": "https://sgp26.org/"
-  },
-  {
-    "name": "GLOBECOM 2026",
-    "sub": [
-      "Wireless/Communication",
-      "Network System",
-      "Uncategorized"
-    ],
-    "Location": "Macao, China",
-    "Start Date": "Dec 07 2026",
-    "End Date": "Dec 11 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-04-15T23:59:59-04:00",
-    "Notification": "",
-    "link": "https://globecom2026.ieee-globecom.org/"
   },
   {
     "name": "CHES 2026 - Schedule for TCHES Volume 2026/1",
@@ -4295,19 +4267,6 @@
     "Submission Deadline": "Apr 20 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "SMC 2026",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Bellevue, WA, USA",
-    "Start Date": "Oct 04 2026",
-    "End Date": "Oct 07 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-04-19T23:59:59-07:00",
-    "Notification": "",
-    "link": "https://www.ieeesmc2026.org/"
   },
   {
     "name": "BlockSys 2026",
@@ -5060,6 +5019,19 @@
     "link": "https://sites.google.com/view/cccg-2026/home"
   },
   {
+    "name": "IJCB 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Rome, Italy",
+    "Start Date": "Sep 01 2026",
+    "End Date": "Sep 04 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ijcb2026.ieee-biometrics.org/"
+  },
+  {
     "name": "NSPW 2026",
     "sub": [
       "Security & Privacy",
@@ -5140,6 +5112,47 @@
     "Submission Deadline": "2026-05-01T23:59:59-12:00",
     "Notification": "",
     "link": "https://acm-ieee-sec.org/2026/"
+  },
+  {
+    "name": "SRDS 2026 - Full Paper Submission",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Rome, Italy",
+    "Start Date": "Sep 21 2026",
+    "End Date": "Sep 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://srds-conference.org/"
+  },
+  {
+    "name": "GLOBECOM 2026",
+    "sub": [
+      "Wireless/Communication",
+      "Network System",
+      "Uncategorized"
+    ],
+    "Location": "Macao, China",
+    "Start Date": "Dec 07 2026",
+    "End Date": "Dec 11 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-03T23:59:59-04:00",
+    "Notification": "",
+    "link": "https://globecom2026.ieee-globecom.org/"
+  },
+  {
+    "name": "SMC 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Bellevue, WA, USA",
+    "Start Date": "Oct 04 2026",
+    "End Date": "Oct 07 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-03T23:59:59-07:00",
+    "Notification": "",
+    "link": "https://www.ieeesmc2026.org/"
   },
   {
     "name": "EAI MobiCASE 2026",
@@ -5457,6 +5470,19 @@
     "link": ""
   },
   {
+    "name": "ESEM 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "München, Germany",
+    "Start Date": "Oct 04 2026",
+    "End Date": "Oct 09 2026",
+    "Abstract Deadline": "2026-05-11T23:59:59-12:00",
+    "Submission Deadline": "2026-05-18T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/eseiw-2026"
+  },
+  {
     "name": "AAAC 2026",
     "sub": [
       "Wireless/Communication"
@@ -5561,6 +5587,19 @@
     "Submission Deadline": "2026-05-21T23:59:59+02:00",
     "Notification": "",
     "link": "https://euvip2026.github.io/"
+  },
+  {
+    "name": "ASIACRYPT 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Dec 07 2026",
+    "End Date": "Dec 11 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-22T11:59:59+00:00",
+    "Notification": "",
+    "link": "https://asiacrypt.iacr.org/2026/"
   },
   {
     "name": "RTSS 2026",
@@ -6630,7 +6669,7 @@
     "sub": [
       "Security & Privacy"
     ],
-    "Location": "Indianapolis, Idaho, United States",
+    "Location": "Indianapolis, Indiana, United States",
     "Start Date": "Oct 26 2026",
     "End Date": "",
     "Abstract Deadline": "",
@@ -6825,6 +6864,19 @@
     "link": ""
   },
   {
+    "name": "DCC 2027",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "The Cliff Lodge convention center, Snowbird, Utah, U.S.",
+    "Start Date": "Mar 23 2027",
+    "End Date": "Mar 26 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-02T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://datacompressionconference.org/"
+  },
+  {
     "name": "PLSC-E 2026",
     "sub": [
       "Security & Privacy"
@@ -6927,6 +6979,19 @@
     "Submission Deadline": "2026-11-11T17:00:00-07:00",
     "Notification": "",
     "link": "https://icde2027.github.io/"
+  },
+  {
+    "name": "REFSQ 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Basel, Switzerland",
+    "Start Date": "Apr 12 2027",
+    "End Date": "Apr 15 2027",
+    "Abstract Deadline": "2026-11-05T23:59:59-12:00",
+    "Submission Deadline": "2026-11-12T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.refsq.org/"
   },
   {
     "name": "USENIX Security 2026 - Cycle 1 Deadline",
@@ -7412,19 +7477,6 @@
     "link": "http://www.isncc-conf.org"
   },
   {
-    "name": "ASIACRYPT 2026",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Hong Kong, China1",
-    "Start Date": "Dec 07 2026",
-    "End Date": "Dec 11 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://asiacrypt.iacr.org/2026/"
-  },
-  {
     "name": "Automation, Robotics & Communications for Industry 4.0/5.0/6.0 (ARCI' 2026): 6th IFSA Winter Conference",
     "sub": [
       "Wireless/Communication"
@@ -7631,19 +7683,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://easychair.org/conferences?conf=bdsc2026"
-  },
-  {
-    "name": "ESEM 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "München, Germany",
-    "Start Date": "Oct 04 2026",
-    "End Date": "Oct 09 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://conf.researchr.org/home/eseiw-2026"
   },
   {
     "name": "ESORICS - Cycle 1",
@@ -8402,19 +8441,6 @@
     "link": ""
   },
   {
-    "name": "REFSQ 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Poznań, Poland",
-    "Start Date": "Mar 23 2026",
-    "End Date": "Mar 26 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://2026.refsq.org/"
-  },
-  {
     "name": "Registration Now Open!",
     "sub": [
       "Wireless/Communication"
@@ -8506,19 +8532,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://splitech.org"
-  },
-  {
-    "name": "SRDS 2026 - Full Paper Submission",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Rome, Italy",
-    "Start Date": "Sep 21 2026",
-    "End Date": "Sep 25 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://srds-conference.org/"
   },
   {
     "name": "Subsite menu",
