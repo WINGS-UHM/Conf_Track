@@ -3979,19 +3979,6 @@
     "link": ""
   },
   {
-    "name": "FedCSIS 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Riga, Latvia",
-    "Start Date": "Aug 23 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "IMP Conference 2026",
     "sub": [
       "Network System"
@@ -4389,19 +4376,6 @@
     "link": ""
   },
   {
-    "name": "SIDS 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Athens, Greece",
-    "Start Date": "Jun 29 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 22 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ESORICS 2026 - Second Submission deadline",
     "sub": [
       "Network and System Security",
@@ -4442,6 +4416,19 @@
     "link": "https://recsys.acm.org/recsys26"
   },
   {
+    "name": "SIDS 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Jun 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 23 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CompSys-26",
     "sub": [
       "Network System"
@@ -4474,19 +4461,6 @@
     ],
     "Location": "Las Vegas, Nevada, United States",
     "Start Date": "Aug 18 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 24 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "IWAC2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Tokyo, Japan",
-    "Start Date": "Nov 17 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 24 2026",
@@ -4605,6 +4579,19 @@
     ],
     "Location": "Buford, Georgia, United States",
     "Start Date": "Sep 02 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 27 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IoTI5 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Reykjavik, Iceland",
+    "Start Date": "Jun 22 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 27 2026",
@@ -5431,6 +5418,19 @@
     "link": ""
   },
   {
+    "name": "IWAC2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tokyo, Japan",
+    "Start Date": "Nov 17 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "EuroSys 2026 - Spring Submission Deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -5466,6 +5466,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 17 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "FedCSIS 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Riga, Latvia",
+    "Start Date": "Aug 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 19 2026",
     "Notification": "",
     "link": ""
   },
@@ -5589,6 +5602,32 @@
     "link": "https://euvip2026.github.io/"
   },
   {
+    "name": "ARDUOUS 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Bremen, Germany",
+    "Start Date": "Aug 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 22 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "MULTIPLi Health 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Ottawa, Canada",
+    "Start Date": "Jul 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 22 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ASIACRYPT 2026",
     "sub": [
       "Network and System Security"
@@ -5687,6 +5726,19 @@
     ],
     "Location": "Zhuhai, China",
     "Start Date": "Oct 16 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IDFC2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Trento, Italy",
+    "Start Date": "Sep 01 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 25 2026",
@@ -6153,12 +6205,38 @@
     "link": ""
   },
   {
+    "name": "CSPS 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tianjin, China",
+    "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICAISG 2026",
     "sub": [
       "Security & Privacy"
     ],
     "Location": "Hangzhou, China",
     "Start Date": "Nov 20 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IHSAA-26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Hillsboro, Oregon, United States",
+    "Start Date": "Sep 28 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 15 2026",
@@ -6546,6 +6624,19 @@
     "link": "https://acmsocc.org/2026/"
   },
   {
+    "name": "ICAI'26",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Varna, Bulgaria",
+    "Start Date": "Oct 08 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 26 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICAIT 2026",
     "sub": [
       "Wireless/Communication"
@@ -6582,6 +6673,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CIICIS 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Quito, Ecuador",
+    "Start Date": "Nov 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 01 2026",
     "Notification": "",
     "link": ""
   },
@@ -7633,6 +7737,19 @@
     "link": ""
   },
   {
+    "name": "CSW-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Grenada, Spain",
+    "Start Date": "Jul 20 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "DIFCON - DIGITAL FUTURES INTERNATIONAL CONGRESS",
     "sub": [
       "Wireless/Communication"
@@ -7698,6 +7815,19 @@
     "link": "https://sites.google.com/di.uniroma1.it/esorics2026/"
   },
   {
+    "name": "FDTC 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Antalya, Turkey",
+    "Start Date": "Oct 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "FROM JUNE 09th-13th, 2026, BUDVA, MONTENEGRO",
     "sub": [
       "Wireless/Communication"
@@ -7761,6 +7891,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "http://www.ietcint.com"
+  },
+  {
+    "name": "I2CIT",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Hammamet, Tunisia",
+    "Start Date": "Dec 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "IAICT'2026",
@@ -8297,6 +8440,19 @@
     "link": "https://wcnc2026.ieee-wcnc.org"
   },
   {
+    "name": "MPRSS 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Lyon, France",
+    "Start Date": "Aug 21 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "NACDC 2026",
     "sub": [
       "Wireless/Communication"
@@ -8426,6 +8582,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.overturetool.org/workshops/24th-overture-workshop.html"
+  },
+  {
+    "name": "PRO-VE 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Padova, Italy",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "QNRL@WCCI2026",
