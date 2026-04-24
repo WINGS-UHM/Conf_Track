@@ -3809,19 +3809,6 @@
     "link": ""
   },
   {
-    "name": "Internetware 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Gold Coast, Australia",
-    "Start Date": "Jul 18 2026",
-    "End Date": "Jul 20 2026",
-    "Abstract Deadline": "2026-03-28T23:59:59-12:00",
-    "Submission Deadline": "2026-04-04T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conf.researchr.org/home/internetware-2026"
-  },
-  {
     "name": "IC-MEET 2026",
     "sub": [
       "Security & Privacy"
@@ -3880,19 +3867,6 @@
     ],
     "Location": "Tempe, Arizona, USA, Arizona, United States",
     "Start Date": "Nov 12 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "PST 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Ottawa, Canada",
-    "Start Date": "Aug 26 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 10 2026",
@@ -4612,6 +4586,19 @@
     "link": "https://fmcad.forsyte.at/FMCAD26/"
   },
   {
+    "name": "PST 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Ottawa, Canada",
+    "Start Date": "Aug 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 28 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CONCUR 2026",
     "sub": [
       "Computing Theory"
@@ -5006,6 +4993,19 @@
     "link": "https://sites.google.com/view/cccg-2026/home"
   },
   {
+    "name": "CLUSTER 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Alexandria, Virginia, USA",
+    "Start Date": "Sep 22 2026",
+    "End Date": "Sep 25 2026",
+    "Abstract Deadline": "2026-04-23T23:59:59-12:00",
+    "Submission Deadline": "2026-04-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://clustercomp.org/2026"
+  },
+  {
     "name": "IJCB 2026",
     "sub": [
       "Artificial Intelligence"
@@ -5040,6 +5040,19 @@
     ],
     "Location": "Thiès, Senegal",
     "Start Date": "Oct 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 02 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "STSIVA 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Bucaramanga, Colombia",
+    "Start Date": "Sep 02 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 02 2026",
@@ -5179,6 +5192,19 @@
     "Submission Deadline": "2026-05-04T23:59:59-12:00",
     "Notification": "",
     "link": "https://conferences.sigappfr.org/apweb2026/"
+  },
+  {
+    "name": "Internetware 2026 - Round 1",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Gold Coast, Australia",
+    "Start Date": "Jul 18 2026",
+    "End Date": "Jul 20 2026",
+    "Abstract Deadline": "2026-04-27T23:59:59-12:00",
+    "Submission Deadline": "2026-05-04T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/internetware-2026"
   },
   {
     "name": "NETGCOOP 2026",
@@ -6140,6 +6166,19 @@
     "link": ""
   },
   {
+    "name": "Hidden Layers 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Enschede, Netherlands",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 12 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IMEKO TC4 2026",
     "sub": [
       "Wireless/Communication"
@@ -6192,22 +6231,10 @@
     "link": "https://2026.pricai.org/"
   },
   {
-    "name": "CISIT 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Siedlce, Poland",
-    "Start Date": "Sep 23 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "CSPS 2026",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Tianjin, China",
     "Start Date": "Dec 04 2026",
@@ -6598,6 +6625,19 @@
     "link": "https://www.aspdac.com/aspdac2026/"
   },
   {
+    "name": "AIMEH'26",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Avignon, France",
+    "Start Date": "Oct 14 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICSGSC 2026",
     "sub": [
       "Security & Privacy"
@@ -6660,6 +6700,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CISIT 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Siedlce, Poland",
+    "Start Date": "Sep 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 31 2026",
     "Notification": "",
     "link": ""
   },
@@ -7739,7 +7792,8 @@
   {
     "name": "CSW-2026",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Grenada, Spain",
     "Start Date": "Jul 20 2026",
@@ -7895,7 +7949,8 @@
   {
     "name": "I2CIT",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Wireless/Communication"
     ],
     "Location": "Hammamet, Tunisia",
     "Start Date": "Dec 23 2026",
@@ -7983,6 +8038,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.icet.net"
+  },
+  {
+    "name": "ICFNDS-2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Izmir, Turkey",
+    "Start Date": "Jul 27 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICIET 2026",
@@ -8100,6 +8168,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://globecom2025.ieee-globecom.org/"
+  },
+  {
+    "name": "IEEE ICA - ACCA 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Concepción, Chile",
+    "Start Date": "Dec 09 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "IEEE ICC",
@@ -8440,6 +8521,19 @@
     "link": "https://wcnc2026.ieee-wcnc.org"
   },
   {
+    "name": "MLNNCS 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Jeju Island, South Korea",
+    "Start Date": "Aug 14 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "MPRSS 2026",
     "sub": [
       "Wireless/Communication"
@@ -8458,7 +8552,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "",
+    "Start Date": "Date Extended till 16th May 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
