@@ -4403,32 +4403,6 @@
     "link": ""
   },
   {
-    "name": "CompSys-26",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Doorwerth, Netherlands",
-    "Start Date": "Jun 16 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 24 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "EMIC-2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "México, Mexico",
-    "Start Date": "Apr 27 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 24 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICSEng 2026",
     "sub": [
       "Security & Privacy"
@@ -4560,6 +4534,19 @@
     "link": ""
   },
   {
+    "name": "EMIC-2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "México, Mexico",
+    "Start Date": "Apr 27 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 27 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IoTI5 2026",
     "sub": [
       "Network System"
@@ -4623,19 +4610,6 @@
     "Submission Deadline": "2026-04-28T23:59:59+08:00",
     "Notification": "",
     "link": "https://conf.ccf.org.cn/WISA2026"
-  },
-  {
-    "name": "QUATIC 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Genoa, Italy",
-    "Start Date": "Sep 09 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 29 2026",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "19th IEEE MCSoC 2026 – Bridging Architecture, Intelligence, and Emerging Applications",
@@ -5313,6 +5287,19 @@
     "link": ""
   },
   {
+    "name": "CompSys-26",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Doorwerth, Netherlands",
+    "Start Date": "Jun 16 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CSAI 2026",
     "sub": [
       "Network System"
@@ -5450,6 +5437,19 @@
     ],
     "Location": "Tokyo, Japan",
     "Start Date": "Nov 17 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "QUATIC 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Genoa, Italy",
+    "Start Date": "Sep 09 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 15 2026",
@@ -8652,12 +8652,12 @@
     "link": ""
   },
   {
-    "name": "ONDM 2026",
+    "name": "ONDM 2026 | 30th International Conference on Optical Network Design and Modelling | 12â15 May 2026, Munich",
     "sub": [
       "Wireless/Communication"
     ],
-    "Location": "",
-    "Start Date": "",
+    "Location": "30th International Conference on Optical Network Design and Modelling",
+    "Start Date": "ONDM 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
