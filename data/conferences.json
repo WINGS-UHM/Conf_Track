@@ -4456,19 +4456,6 @@
     "link": ""
   },
   {
-    "name": "Thank you for attending ICICSP 2026!",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 25 2026",
-    "Notification": "",
-    "link": "https://www.icsp.org"
-  },
-  {
     "name": "ITC 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -4493,19 +4480,6 @@
     "Submission Deadline": "2026-04-25T23:59:59+08:00",
     "Notification": "",
     "link": "https://www.castest.com.cn/itcasia_2026"
-  },
-  {
-    "name": "HAICTA 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Kos, Greece",
-    "Start Date": "Sep 30 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 26 2026",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "AISEC 2026",
@@ -5772,6 +5746,19 @@
     "link": ""
   },
   {
+    "name": "Thank you for attending ICICSP 2026!",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 25 2026",
+    "Notification": "",
+    "link": "https://www.icsp.org"
+  },
+  {
     "name": "Welcome to ICCCM 2026 ( CFP Flyer Download )",
     "sub": [
       "Wireless/Communication"
@@ -5927,6 +5914,19 @@
     "Submission Deadline": "2026-05-29T23:59:59-07:00",
     "Notification": "",
     "link": "https://sigspatial2026.sigspatial.org/"
+  },
+  {
+    "name": "HAICTA 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Kos, Greece",
+    "Start Date": "Sep 30 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 31 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ProvSec 2026",
@@ -6644,6 +6644,19 @@
     ],
     "Location": "Guangzhou, China",
     "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IDEASET-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Sana'a, Yemen",
+    "Start Date": "Dec 01 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 15 2026",
@@ -8042,7 +8055,8 @@
   {
     "name": "ICFNDS-2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Security & Privacy"
     ],
     "Location": "Izmir, Turkey",
     "Start Date": "Jul 27 2026",
