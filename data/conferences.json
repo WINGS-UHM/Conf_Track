@@ -382,19 +382,6 @@
     "link": "https://ieeevr.org/2026/"
   },
   {
-    "name": "DATE 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Verona, Italy",
-    "Start Date": "Apr 20 2026",
-    "End Date": "Apr 22 2026",
-    "Abstract Deadline": "2025-09-07T23:59:59-12:00",
-    "Submission Deadline": "2025-09-14T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.date-conference.com/call-for-papers"
-  },
-  {
     "name": "WCNC 2026",
     "sub": [
       "Network System"
@@ -1101,25 +1088,11 @@
     "link": "https://cvpr.thecvf.com/Conferences/2026"
   },
   {
-    "name": "SenSys 2026 - 1st deadline",
-    "sub": [
-      "Network System",
-      "Uncategorized"
-    ],
-    "Location": "Saint-Malo, France",
-    "Start Date": "May 11 2026",
-    "End Date": "May 14 2026",
-    "Abstract Deadline": "2025-11-06T23:59:00-12:00",
-    "Submission Deadline": "2025-11-13T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://sensys.acm.org/2026/"
-  },
-  {
     "name": "SenSys 2026 - 2nd deadline",
     "sub": [
       "Network System"
     ],
-    "Location": "Saint-Malo, France",
+    "Location": "New York, USA",
     "Start Date": "May 11 2026",
     "End Date": "May 14 2026",
     "Abstract Deadline": "2025-11-06T23:59:00-12:00",
@@ -2506,19 +2479,6 @@
     "link": "https://iwqos2026.ieee-iwqos.org/"
   },
   {
-    "name": "DIMVA 2026 - Cycle 1 submission deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Chania, Greece",
-    "Start Date": "Jul 01 2026",
-    "End Date": "Jul 03 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-02-11T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.dimva.org/dimva2026/"
-  },
-  {
     "name": "DIMVA 2026 - Cycle 2 submission deadline",
     "sub": [
       "Network and System Security"
@@ -2674,6 +2634,19 @@
     "Submission Deadline": "2026-02-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.ihmmsec.org/cms/home/home2026.html"
+  },
+  {
+    "name": "DIMVA 2026 - Cycle 1 submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Chania, Greece",
+    "Start Date": "Jul 01 2026",
+    "End Date": "Jul 03 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-02-18T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.dimva.org/dimva2026/"
   },
   {
     "name": "2026 CNIL Inria Privacy Award",
@@ -3490,6 +3463,19 @@
     "Submission Deadline": "Mar 23 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "Cloud 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Sydney, Australia",
+    "Start Date": "Jul 13 2026",
+    "End Date": "Jul 18 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-22T23:00:00-12:00",
+    "Notification": "",
+    "link": "https://services.conferences.computer.org/2026/cloud/"
   },
   {
     "name": "SDW26",
@@ -4495,19 +4481,6 @@
     "link": ""
   },
   {
-    "name": "DCS-CI 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Buford, Georgia, United States",
-    "Start Date": "Sep 02 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 27 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "EMIC-2026",
     "sub": [
       "Wireless/Communication"
@@ -4631,20 +4604,6 @@
     ],
     "Location": "Singapore, Singapore",
     "Start Date": "Jul 01 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "AsiaJCIS 2026",
-    "sub": [
-      "Network System",
-      "Security & Privacy"
-    ],
-    "Location": "Guangdong, China",
-    "Start Date": "Aug 04 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 30 2026",
@@ -4941,19 +4900,6 @@
     "link": "https://sites.google.com/view/cccg-2026/home"
   },
   {
-    "name": "CLUSTER 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Alexandria, Virginia, USA",
-    "Start Date": "Sep 22 2026",
-    "End Date": "Sep 25 2026",
-    "Abstract Deadline": "2026-04-23T23:59:59-12:00",
-    "Submission Deadline": "2026-04-30T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://clustercomp.org/2026"
-  },
-  {
     "name": "IJCB 2026",
     "sub": [
       "Artificial Intelligence"
@@ -5062,17 +5008,17 @@
     "link": "https://acm-ieee-sec.org/2026/"
   },
   {
-    "name": "SRDS 2026 - Full Paper Submission",
+    "name": "DCS-CI 2026",
     "sub": [
-      "Network and System Security"
+      "Security & Privacy"
     ],
-    "Location": "Rome, Italy",
-    "Start Date": "Sep 21 2026",
-    "End Date": "Sep 25 2026",
+    "Location": "Buford, Georgia, United States",
+    "Start Date": "Sep 02 2026",
+    "End Date": "",
     "Abstract Deadline": "",
-    "Submission Deadline": "2026-05-01T23:59:59-12:00",
+    "Submission Deadline": "May 04 2026",
     "Notification": "",
-    "link": "https://srds-conference.org/"
+    "link": ""
   },
   {
     "name": "GLOBECOM 2026",
@@ -5235,6 +5181,19 @@
     "link": ""
   },
   {
+    "name": "CLUSTER 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Alexandria, Virginia, USA",
+    "Start Date": "Sep 22 2026",
+    "End Date": "Sep 25 2026",
+    "Abstract Deadline": "2026-04-30T23:59:59-12:00",
+    "Submission Deadline": "2026-05-07T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://clustercomp.org/2026"
+  },
+  {
     "name": "ISWC 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -5246,6 +5205,19 @@
     "Submission Deadline": "2026-05-07T23:59:59-12:00",
     "Notification": "",
     "link": "https://iswc2026.semanticweb.org/"
+  },
+  {
+    "name": "SRDS 2026 - Full Paper Submission",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Rome, Italy",
+    "Start Date": "Sep 21 2026",
+    "End Date": "Sep 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-08T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://srds-conference.org/"
   },
   {
     "name": "24th escar Europe 2026",
@@ -5340,6 +5312,19 @@
     "link": ""
   },
   {
+    "name": "SEKE 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Toronto, Canada & Virtual",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-10T23:59:00-05:00",
+    "Notification": "",
+    "link": "https://ksiresearch.org/seke/seke26.html"
+  },
+  {
     "name": "ICONIP 2026",
     "sub": [
       "Artificial Intelligence"
@@ -5379,6 +5364,20 @@
     "link": "https://asia.siggraph.org/2026/"
   },
   {
+    "name": "AsiaJCIS 2026",
+    "sub": [
+      "Network System",
+      "Security & Privacy"
+    ],
+    "Location": "Guangdong, China",
+    "Start Date": "Aug 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 14 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "GeCoIn 2026",
     "sub": [
       "Security & Privacy"
@@ -5390,6 +5389,19 @@
     "Submission Deadline": "May 14 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "IISWC 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Boulder, USA",
+    "Start Date": "Sep 27 2026",
+    "End Date": "Sep 29 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-14T00:00:00+00:00",
+    "Notification": "",
+    "link": "https://iiswc.org/iiswc2026/"
   },
   {
     "name": "ICSPS 2026",
@@ -6035,6 +6047,20 @@
     "link": ""
   },
   {
+    "name": "SenSys 2026 - 1st deadline",
+    "sub": [
+      "Network System",
+      "Uncategorized"
+    ],
+    "Location": "New York, USA",
+    "Start Date": "May 11 2026",
+    "End Date": "May 14 2026",
+    "Abstract Deadline": "2026-05-29T23:59:00-12:00",
+    "Submission Deadline": "2026-06-05T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://sensys.acm.org/2026/"
+  },
+  {
     "name": "CoNEXT 2026 - December Cycle",
     "sub": [
       "Network System"
@@ -6653,7 +6679,8 @@
   {
     "name": "IDEASET-2026",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Sana'a, Yemen",
     "Start Date": "Dec 01 2026",
@@ -7006,6 +7033,19 @@
     "Submission Deadline": "2026-09-17T23:59:59-04:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/nsdi26"
+  },
+  {
+    "name": "DATE 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Dresden, Germany",
+    "Start Date": "Mar 22 2027",
+    "End Date": "Mar 24 2027",
+    "Abstract Deadline": "2026-09-13T23:59:59-12:00",
+    "Submission Deadline": "2026-09-20T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.date-conference.com/call-for-papers"
   },
   {
     "name": "EuroSys 2027 - Spring Submission Deadline",
