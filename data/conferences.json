@@ -2479,19 +2479,6 @@
     "link": "https://iwqos2026.ieee-iwqos.org/"
   },
   {
-    "name": "DIMVA 2026 - Cycle 2 submission deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Chania, Greece",
-    "Start Date": "Jul 01 2026",
-    "End Date": "Jul 03 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-02-11T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.dimva.org/dimva2026/"
-  },
-  {
     "name": "DoCEIS 2026",
     "sub": [
       "Network System"
@@ -2637,6 +2624,19 @@
   },
   {
     "name": "DIMVA 2026 - Cycle 1 submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Chania, Greece",
+    "Start Date": "Jul 01 2026",
+    "End Date": "Jul 03 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-02-18T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.dimva.org/dimva2026/"
+  },
+  {
+    "name": "DIMVA 2026 - Cycle 2 submission deadline",
     "sub": [
       "Network and System Security"
     ],
@@ -4416,19 +4416,6 @@
     "link": ""
   },
   {
-    "name": "CCET 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Taiyuan, China",
-    "Start Date": "Aug 14 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 25 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICIICC- 2026",
     "sub": [
       "Wireless/Communication"
@@ -4806,19 +4793,6 @@
     "Submission Deadline": "2026-04-29T23:59:59-12:00",
     "Notification": "",
     "link": "https://conferences.sigcomm.org/imc/2026/"
-  },
-  {
-    "name": "PRCV 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Harbin, China",
-    "Start Date": "Aug 22 2026",
-    "End Date": "Aug 25 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-04-30T23:59:59+08:00",
-    "Notification": "",
-    "link": "https://www.prcv.cn/web/#/home"
   },
   {
     "name": "AI4TCI",
@@ -5732,6 +5706,19 @@
     "link": ""
   },
   {
+    "name": "CCET 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Taiyuan, China",
+    "Start Date": "Aug 14 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICCT 2026",
     "sub": [
       "Wireless/Communication"
@@ -5952,6 +5939,19 @@
     "Submission Deadline": "May 31 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "PRCV 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Harbin, China",
+    "Start Date": "Aug 22 2026",
+    "End Date": "Aug 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.prcv.cn/web/#/home"
   },
   {
     "name": "BESC 2026",
