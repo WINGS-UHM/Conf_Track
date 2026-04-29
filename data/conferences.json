@@ -2361,6 +2361,20 @@
     "link": "https://hpdc.sci.utah.edu/2026/"
   },
   {
+    "name": "USENIX Security 2026 - Cycle 1 Deadline",
+    "sub": [
+      "Network and System Security",
+      "Uncategorized"
+    ],
+    "Location": "Baltimore, MD, USA",
+    "Start Date": "Aug 12 2026",
+    "End Date": "Aug 14 2026",
+    "Abstract Deadline": "2026-01-29T23:59:59-12:00",
+    "Submission Deadline": "2026-02-05T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.usenix.org/conference/usenixsecurity26"
+  },
+  {
     "name": "FORTE 2026",
     "sub": [
       "Network System"
@@ -4821,19 +4835,6 @@
     "link": ""
   },
   {
-    "name": "EAI SmartSP 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Detroit, Michigan, United States",
-    "Start Date": "Nov 05 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "IEEE SmartIoT 2026",
     "sub": [
       "Network System"
@@ -5148,6 +5149,19 @@
     ],
     "Location": "Lecce, Italy",
     "Start Date": "Aug 31 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 08 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "EAI SmartSP 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Detroit, Michigan, United States",
+    "Start Date": "Nov 05 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 08 2026",
@@ -7204,7 +7218,7 @@
     "link": "https://2026.refsq.org/"
   },
   {
-    "name": "USENIX Security 2026 - Cycle 1 Deadline",
+    "name": "USENIX Security 2026 - Cycle 2 Deadline",
     "sub": [
       "Network and System Security",
       "Uncategorized"
@@ -7218,10 +7232,10 @@
     "link": "https://www.usenix.org/conference/usenixsecurity26"
   },
   {
-    "name": "USENIX Security 2026 - Cycle 2 Deadline",
+    "name": "USENIX Security 2027 - Cycle 1 Deadline",
     "sub": [
-      "Network and System Security",
-      "Uncategorized"
+      "Uncategorized",
+      "Network and System Security"
     ],
     "Location": "Denver, CO, USA",
     "Start Date": "Aug 11 2027",
@@ -7229,7 +7243,7 @@
     "Abstract Deadline": "2027-01-19T23:59:59-12:00",
     "Submission Deadline": "2027-01-26T23:59:59-12:00",
     "Notification": "",
-    "link": "https://www.usenix.org/conference/usenixsecurity26"
+    "link": "https://www.usenix.org/conference/usenixsecurity27"
   },
   {
     "name": "VLDB 2026",
@@ -7496,8 +7510,8 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Ha Noi, Vietnam",
-    "Start Date": "Aug 25 2025",
+    "Location": "Macau, China",
+    "Start Date": "May 07 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
@@ -8306,10 +8320,10 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Longdon, UK",
-    "Start Date": "May 20 2025",
+    "Location": "Honolulu, HI",
+    "Start Date": "May 24 2027",
     "End Date": "",
-    "Abstract Deadline": "Jul 24 2024",
+    "Abstract Deadline": "Jul 24 2026",
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://infocom2025.ieee-infocom.org/"
@@ -8345,10 +8359,10 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "San Francisco, CA",
+    "Location": "Montreal, Canada",
     "Start Date": "May 18 2026",
     "End Date": "",
-    "Abstract Deadline": "",
+    "Abstract Deadline": "Nov 10 2026",
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.ieee-security.org/TC/SP2026"
@@ -8410,8 +8424,8 @@
     "sub": [
       "Security & Privacy"
     ],
-    "Location": "Dubai, UAE",
-    "Start Date": "Nov 12 2026",
+    "Location": "Al Ain, UAE",
+    "Start Date": "Nov 11 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
