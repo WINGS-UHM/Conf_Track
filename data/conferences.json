@@ -4390,19 +4390,6 @@
     "link": ""
   },
   {
-    "name": "ICSEng 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Las Vegas, Nevada, United States",
-    "Start Date": "Aug 18 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 24 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "2nd ICACCD-2026.",
     "sub": [
       "Wireless/Communication",
@@ -4644,19 +4631,6 @@
     ],
     "Location": "London, UK",
     "Start Date": "Jun 08 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "GLECC2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Manchester, UK",
-    "Start Date": "Jul 28 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 30 2026",
@@ -5300,6 +5274,19 @@
     "link": "https://www.iconip2026.org/"
   },
   {
+    "name": "ICSEng 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Las Vegas, Nevada, United States",
+    "Start Date": "Aug 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 12 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "C&ESAR 2026",
     "sub": [
       "Security & Privacy"
@@ -5440,6 +5427,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 17 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "GLECC2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Manchester, UK",
+    "Start Date": "Jul 28 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 18 2026",
     "Notification": "",
     "link": ""
   },
@@ -6587,6 +6587,19 @@
     "link": "https://accv2026.org/"
   },
   {
+    "name": "AIST-2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Astana, Kazakhstan",
+    "Start Date": "Oct 16 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "EEET 2026",
     "sub": [
       "Wireless/Communication"
@@ -6737,6 +6750,19 @@
     ],
     "Location": "Auckland, New Zealand",
     "Start Date": "Nov 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICDCN2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Mangalore, India",
+    "Start Date": "Jan 04 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 30 2026",
@@ -6969,6 +6995,19 @@
     "link": "https://bigdataieee.org/BigData2026/"
   },
   {
+    "name": "SECITC 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Bucharest, Romania",
+    "Start Date": "Nov 12 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 07 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ASPLOS 2027 - September Cycle Submission Deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -7190,6 +7229,19 @@
     "Submission Deadline": "2026-10-17T23:59:00-12:00",
     "Notification": "",
     "link": "https://2027.sigmod.org/"
+  },
+  {
+    "name": "ICCAE 2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Melbourne, Australia",
+    "Start Date": "Mar 12 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 20 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "UbiComp/ISWC 2026 - third round (only for resubmissions after major revisions)",
@@ -7876,6 +7928,19 @@
     ],
     "Location": "Larnaca, Cyprus",
     "Start Date": "Sep 28 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CSRIS2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Valencia, Spain",
+    "Start Date": "Sep 22 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
