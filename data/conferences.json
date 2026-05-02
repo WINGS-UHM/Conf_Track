@@ -4638,19 +4638,6 @@
     "link": ""
   },
   {
-    "name": "ICRAIS2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Flic en Flac, Mauritius",
-    "Start Date": "Sep 30 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICSTCC 2026",
     "sub": [
       "Wireless/Communication"
@@ -4783,19 +4770,6 @@
     "link": ""
   },
   {
-    "name": "IEEE SmartIoT 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Shenyang, China",
-    "Start Date": "Aug 21 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "MCCSAI'2026",
     "sub": [
       "Security and Privacy",
@@ -4808,19 +4782,6 @@
     "Submission Deadline": "May 01 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "CCCG 2026 - Submission Deadline",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Orillia, Ontario, Canada",
-    "Start Date": "Aug 12 2026",
-    "End Date": "Aug 14 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-04-30T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://sites.google.com/view/cccg-2026/home"
   },
   {
     "name": "IJCB 2026",
@@ -4998,19 +4959,6 @@
     "link": "https://www.icsip.org"
   },
   {
-    "name": "APWeb-WAIM 2026 - second round",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Danang, Vietnam",
-    "Start Date": "Sep 07 2026",
-    "End Date": "Sep 09 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-05-04T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conferences.sigappfr.org/apweb2026/"
-  },
-  {
     "name": "Internetware 2026 - Round 1",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -5141,6 +5089,19 @@
     "Submission Deadline": "2026-05-07T23:59:59-12:00",
     "Notification": "",
     "link": "https://iswc2026.semanticweb.org/"
+  },
+  {
+    "name": "CCCG 2026 - Submission Deadline",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Orillia, Ontario, Canada",
+    "Start Date": "Aug 12 2026",
+    "End Date": "Aug 14 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-08T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://sites.google.com/view/cccg-2026/home"
   },
   {
     "name": "SRDS 2026 - Full Paper Submission",
@@ -5353,12 +5314,38 @@
     "link": "https://iiswc.org/iiswc2026/"
   },
   {
+    "name": "ICRAIS2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Flic en Flac, Mauritius",
+    "Start Date": "Sep 30 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICSPS 2026",
     "sub": [
       "Wireless/Communication"
     ],
     "Location": "Xiamen, China",
     "Start Date": "Oct 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IEEE SmartIoT 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Shenyang, China",
+    "Start Date": "Aug 21 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 15 2026",
@@ -5390,6 +5377,19 @@
     "Submission Deadline": "May 15 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "APWeb-WAIM 2026 - second round",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Danang, Vietnam",
+    "Start Date": "Sep 07 2026",
+    "End Date": "Sep 09 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-14T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conferences.sigappfr.org/apweb2026/"
   },
   {
     "name": "EuroSys 2026 - Spring Submission Deadline",
@@ -6915,6 +6915,19 @@
     "link": ""
   },
   {
+    "name": "CISSE 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Indianapolis, Indiana, United States",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "FAIR'2026",
     "sub": [
       "Security & Privacy",
@@ -6973,9 +6986,9 @@
       "Network and System Security",
       "Uncategorized"
     ],
-    "Location": "TBD",
-    "Start Date": "",
-    "End Date": "",
+    "Location": "Seoul, Republic of Korea",
+    "Start Date": "Mar 22 2027",
+    "End Date": "Mar 26 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-08-19T23:59:59-12:00",
     "Notification": "",
@@ -6997,7 +7010,8 @@
   {
     "name": "SECITC 2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Security & Privacy"
     ],
     "Location": "Bucharest, Romania",
     "Start Date": "Nov 12 2026",
@@ -7294,6 +7308,19 @@
     "Submission Deadline": "2026-11-12T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.refsq.org/"
+  },
+  {
+    "name": "S&P 2027 - Second Paper submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "MONTREAL, CANADA",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "2026-11-10T23:59:59-12:00",
+    "Submission Deadline": "2026-11-17T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://sp2027.ieee-security.org/index.html"
   },
   {
     "name": "USENIX Security 2026 - Cycle 2 Deadline",
@@ -8438,7 +8465,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "",
+    "Start Date": "May 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
