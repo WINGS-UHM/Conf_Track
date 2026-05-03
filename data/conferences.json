@@ -172,19 +172,6 @@
     "link": "https://hpca-conf.org/2026/"
   },
   {
-    "name": "AAAI 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Montréal, Québec, Canada",
-    "Start Date": "Feb 16 2027",
-    "End Date": "Feb 23 2027",
-    "Abstract Deadline": "2025-07-25T23:59:59-12:00",
-    "Submission Deadline": "2025-08-01T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://aaai.org/conference/aaai/aaai-26/"
-  },
-  {
     "name": "NDSS 2026 - Summer",
     "sub": [
       "Network and System Security",
@@ -4744,19 +4731,6 @@
     "link": "https://conferences.sigcomm.org/imc/2026/"
   },
   {
-    "name": "AI4TCI",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Linköping, Sweden",
-    "Start Date": "Aug 24 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "CCS 2026",
     "sub": [
       "Network System"
@@ -4809,20 +4783,6 @@
     "Submission Deadline": "2026-04-30T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.nspw.org/2026"
-  },
-  {
-    "name": "CNRIA'26",
-    "sub": [
-      "Network System",
-      "Security & Privacy"
-    ],
-    "Location": "Thiès, Senegal",
-    "Start Date": "Oct 15 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 02 2026",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "STSIVA 2026",
@@ -5418,6 +5378,20 @@
     "link": "https://2026.declarativeai.net/events/ruleml-rr"
   },
   {
+    "name": "CNRIA'26",
+    "sub": [
+      "Network System",
+      "Security & Privacy"
+    ],
+    "Location": "Thiès, Senegal",
+    "Start Date": "Oct 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 17 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICORIS2026",
     "sub": [
       "Wireless/Communication"
@@ -5427,6 +5401,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 17 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "AI4TCI",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Linköping, Sweden",
+    "Start Date": "Aug 24 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 18 2026",
     "Notification": "",
     "link": ""
   },
@@ -6744,6 +6731,19 @@
     "link": ""
   },
   {
+    "name": "AAAI 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Montréal, Québec, Canada",
+    "Start Date": "Feb 16 2027",
+    "End Date": "Feb 23 2027",
+    "Abstract Deadline": "2026-07-20T23:59:59-12:00",
+    "Submission Deadline": "2026-07-27T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://aaai.org/conference/aaai/aaai-26/"
+  },
+  {
     "name": "ICAIT 2026",
     "sub": [
       "Wireless/Communication"
@@ -7011,7 +7011,8 @@
     "name": "SECITC 2026",
     "sub": [
       "Network System",
-      "Security & Privacy"
+      "Security & Privacy",
+      "Wireless/Communication"
     ],
     "Location": "Bucharest, Romania",
     "Start Date": "Nov 12 2026",
@@ -7247,7 +7248,8 @@
   {
     "name": "ICCAE 2027",
     "sub": [
-      "Network System"
+      "Network System",
+      "Wireless/Communication"
     ],
     "Location": "Melbourne, Australia",
     "Start Date": "Mar 12 2027",
