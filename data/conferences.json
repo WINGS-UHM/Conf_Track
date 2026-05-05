@@ -4599,19 +4599,6 @@
     "link": ""
   },
   {
-    "name": "FENS 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "London, UK",
-    "Start Date": "Jun 26 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "FICTA-2026",
     "sub": [
       "Security & Privacy"
@@ -5470,6 +5457,19 @@
     "link": ""
   },
   {
+    "name": "FENS 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Jun 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICCS 2026",
     "sub": [
       "Wireless/Communication"
@@ -6114,6 +6114,19 @@
     "link": "http://icdm2026.neu.edu.cn/"
   },
   {
+    "name": "2026 Allerton",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Urbana, Illinois, United States",
+    "Start Date": "Sep 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 08 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "JIEE 2026",
     "sub": [
       "Wireless/Communication"
@@ -6727,6 +6740,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 26 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICISET 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Windhoek, Namibia",
+    "Start Date": "Sep 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 27 2026",
     "Notification": "",
     "link": ""
   },
