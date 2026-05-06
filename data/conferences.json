@@ -3835,19 +3835,6 @@
     "link": "https://sc26.supercomputing.org/"
   },
   {
-    "name": "EAI SmartGIFT 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Tempe, Arizona, USA, Arizona, United States",
-    "Start Date": "Nov 12 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "APPT 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -4893,19 +4880,6 @@
     "link": ""
   },
   {
-    "name": "Welcome to attend ICSIP 2026!",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 05 2026",
-    "Notification": "",
-    "link": "https://www.icsip.org"
-  },
-  {
     "name": "Internetware 2026 - Round 1",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -4966,7 +4940,7 @@
     "Location": "Sydney, Australia",
     "Start Date": "Dec 06 2026",
     "End Date": "Dec 06 2026",
-    "Abstract Deadline": "",
+    "Abstract Deadline": "2026-05-05T11:59:00+00:00",
     "Submission Deadline": "2026-05-07T11:59:00+00:00",
     "Notification": "",
     "link": "https://neurips.cc/Conferences/2026"
@@ -5143,6 +5117,19 @@
     "link": ""
   },
   {
+    "name": "ATLCS26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Dundee, UK",
+    "Start Date": "Jul 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 11 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CSE Connect ATLCS26",
     "sub": [
       "Security & Privacy"
@@ -5259,6 +5246,19 @@
     "Submission Deadline": "2026-05-14T00:00:00+00:00",
     "Notification": "",
     "link": "https://iiswc.org/iiswc2026/"
+  },
+  {
+    "name": "EAI SmartGIFT 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tempe, Arizona, USA, Arizona, United States",
+    "Start Date": "Nov 12 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 15 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICRAIS2026",
@@ -5655,6 +5655,19 @@
     "link": ""
   },
   {
+    "name": "CIKM 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Rome, Italy",
+    "Start Date": "Nov 07 2026",
+    "End Date": "Nov 11 2026",
+    "Abstract Deadline": "2026-05-16T23:59:59-12:00",
+    "Submission Deadline": "2026-05-23T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://cikm2026.diag.uniroma1.it/"
+  },
+  {
     "name": "ICICS 2026 - Second round",
     "sub": [
       "Network and System Security"
@@ -5733,6 +5746,19 @@
     "link": "https://www.icsp.org"
   },
   {
+    "name": "Welcome to attend ICSIP 2026!",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 25 2026",
+    "Notification": "",
+    "link": "https://www.icsip.org"
+  },
+  {
     "name": "Welcome to ICCCM 2026 ( CFP Flyer Download )",
     "sub": [
       "Wireless/Communication"
@@ -5744,19 +5770,6 @@
     "Submission Deadline": "May 25 2026",
     "Notification": "",
     "link": "https://www.icccm.org"
-  },
-  {
-    "name": "CIKM 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Rome, Italy",
-    "Start Date": "Nov 07 2026",
-    "End Date": "Nov 11 2026",
-    "Abstract Deadline": "2026-05-18T23:59:59-12:00",
-    "Submission Deadline": "2026-05-25T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://cikm2026.diag.uniroma1.it/"
   },
   {
     "name": "EMNLP 2026",
