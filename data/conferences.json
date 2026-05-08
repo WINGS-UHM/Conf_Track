@@ -304,19 +304,6 @@
     "link": "https://chi2026.acm.org/"
   },
   {
-    "name": "FSE 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Montréal, Canada",
-    "Start Date": "Jul 06 2026",
-    "End Date": "Jul 10 2026",
-    "Abstract Deadline": "2025-09-04T23:59:59-12:00",
-    "Submission Deadline": "2025-09-11T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conf.researchr.org/home/fse-2026"
-  },
-  {
     "name": "IEEE/ACM CGO 2026 - Second Submission",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -1427,33 +1414,6 @@
     "link": "https://www.usenix.org/conference/osdi26"
   },
   {
-    "name": "AsiaCCS 2026 - 1st round Deadline",
-    "sub": [
-      "Network and System Security",
-      "Uncategorized"
-    ],
-    "Location": "Bangalore, India",
-    "Start Date": "Jun 01 2026",
-    "End Date": "Jun 05 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-12-12T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://asiaccs2026.cse.iitkgp.ac.in/"
-  },
-  {
-    "name": "AsiaCCS 2026 - 2nd round Deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Bangalore, India",
-    "Start Date": "Jun 01 2026",
-    "End Date": "Jun 05 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-12-12T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://asiaccs2026.cse.iitkgp.ac.in/"
-  },
-  {
     "name": "ISPASS 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -1570,6 +1530,19 @@
     "Submission Deadline": "2025-12-20T23:59:59-12:00",
     "Notification": "",
     "link": "https://icpr2026.org/"
+  },
+  {
+    "name": "CCGRID 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Sydney, Australia",
+    "Start Date": "May 18 2026",
+    "End Date": "May 21 2026",
+    "Abstract Deadline": "2025-12-21T23:59:59-12:00",
+    "Submission Deadline": "2025-12-21T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.ccgrid2026.org/"
   },
   {
     "name": "TAIC26",
@@ -2910,58 +2883,6 @@
     "Submission Deadline": "2026-02-27T23:59:59-12:00",
     "Notification": "",
     "link": "https://spaa.acm.org/"
-  },
-  {
-    "name": "PETS 2026 - Issue 1 Paper Submission Deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Calgary, Canada",
-    "Start Date": "Jul 20 2026",
-    "End Date": "Jul 25 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-02-28T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://petsymposium.org/cfp26.php"
-  },
-  {
-    "name": "PETS 2026 - Issue 2 Paper Submission Deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Calgary, Canada",
-    "Start Date": "Jul 20 2026",
-    "End Date": "Jul 25 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-02-28T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://petsymposium.org/cfp26.php"
-  },
-  {
-    "name": "PETS 2026 - Issue 3 Paper Submission Deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Calgary, Canada",
-    "Start Date": "Jul 20 2026",
-    "End Date": "Jul 25 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-02-28T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://petsymposium.org/cfp26.php"
-  },
-  {
-    "name": "PETS 2026 - Issue 4 Paper Submission Deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Calgary, Canada",
-    "Start Date": "Jul 20 2026",
-    "End Date": "Jul 25 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-02-28T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://petsymposium.org/cfp26.php"
   },
   {
     "name": "INW2026",
@@ -5457,19 +5378,6 @@
     "link": ""
   },
   {
-    "name": "FENS 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "London, UK",
-    "Start Date": "Jun 26 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICCS 2026",
     "sub": [
       "Wireless/Communication"
@@ -5700,6 +5608,19 @@
     ],
     "Location": "Taiyuan, China",
     "Start Date": "Aug 14 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "FENS 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Jun 26 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 25 2026",
@@ -5981,6 +5902,19 @@
     "link": ""
   },
   {
+    "name": "PETS 2026 - Issue 1 Paper Submission Deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "TBA (Europe)",
+    "Start Date": "Jul 20 2026",
+    "End Date": "Jul 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-31T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://petsymposium.org/cfp26.php"
+  },
+  {
     "name": "WiCON 2026",
     "sub": [
       "Network System"
@@ -6129,7 +6063,8 @@
   {
     "name": "2026 Allerton",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Urbana, Illinois, United States",
     "Start Date": "Sep 15 2026",
@@ -6388,6 +6323,19 @@
     "Submission Deadline": "Jun 20 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ISC 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Rennes, France",
+    "Start Date": "Oct 28 2026",
+    "End Date": "Oct 30 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://isc2026.github.io/"
   },
   {
     "name": "ISPEC2026",
@@ -7034,6 +6982,20 @@
     "link": "https://www.ndss-symposium.org/ndss2027/"
   },
   {
+    "name": "AsiaCCS 2026 - 1st round Deadline",
+    "sub": [
+      "Network and System Security",
+      "Uncategorized"
+    ],
+    "Location": "Macau, China",
+    "Start Date": "Jul 12 2027",
+    "End Date": "Jul 16 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-21T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://asiaccs2026.cse.iitkgp.ac.in/"
+  },
+  {
     "name": "BigData 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -7045,6 +7007,19 @@
     "Submission Deadline": "2026-08-21T23:59:59-12:00",
     "Notification": "",
     "link": "https://bigdataieee.org/BigData2026/"
+  },
+  {
+    "name": "PETS 2026 - Issue 2 Paper Submission Deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "TBA (Europe)",
+    "Start Date": "Jul 20 2026",
+    "End Date": "Jul 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-31T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://petsymposium.org/cfp26.php"
   },
   {
     "name": "SECITC 2026",
@@ -7220,6 +7195,19 @@
     "link": "https://datacompressionconference.org/"
   },
   {
+    "name": "FSE 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Shenzhen, China",
+    "Start Date": "Jul 12 2027",
+    "End Date": "Jul 16 2027",
+    "Abstract Deadline": "2025-09-04T23:59:59-12:00",
+    "Submission Deadline": "2026-10-02T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/fse-2026"
+  },
+  {
     "name": "PLSC-E 2026",
     "sub": [
       "Security & Privacy"
@@ -7364,6 +7352,32 @@
     "link": "https://sp2027.ieee-security.org/index.html"
   },
   {
+    "name": "PETS 2026 - Issue 3 Paper Submission Deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "TBA (Europe)",
+    "Start Date": "Jul 20 2026",
+    "End Date": "Jul 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://petsymposium.org/cfp26.php"
+  },
+  {
+    "name": "AsiaCCS 2026 - 2nd round Deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Macau, China",
+    "Start Date": "Jul 12 2027",
+    "End Date": "Jul 16 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-12-11T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://asiaccs2026.cse.iitkgp.ac.in/"
+  },
+  {
     "name": "USENIX Security 2026 - Cycle 2 Deadline",
     "sub": [
       "Network and System Security",
@@ -7390,6 +7404,19 @@
     "Submission Deadline": "2027-01-26T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/usenixsecurity27"
+  },
+  {
+    "name": "PETS 2026 - Issue 4 Paper Submission Deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "TBA (Europe)",
+    "Start Date": "Jul 20 2026",
+    "End Date": "Jul 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-02-28T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://petsymposium.org/cfp26.php"
   },
   {
     "name": "VLDB 2026",
