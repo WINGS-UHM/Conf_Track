@@ -4840,20 +4840,6 @@
     "link": ""
   },
   {
-    "name": "ICSCGE 2026",
-    "sub": [
-      "Security & Privacy",
-      "Network System"
-    ],
-    "Location": "Brisbane, Australia",
-    "Start Date": "Aug 06 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 07 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "NeurIPS 2026",
     "sub": [
       "Artificial Intelligence"
@@ -5075,19 +5061,6 @@
     "Submission Deadline": "2026-05-10T23:59:00-05:00",
     "Notification": "",
     "link": "https://ksiresearch.org/seke/seke26.html"
-  },
-  {
-    "name": "ICONIP 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Melbourne, Australia",
-    "Start Date": "Nov 23 2026",
-    "End Date": "Nov 27 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-05-10T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.iconip2026.org/"
   },
   {
     "name": "ICSEng 2026",
@@ -5902,6 +5875,19 @@
     "link": ""
   },
   {
+    "name": "ICONIP 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Melbourne, Australia",
+    "Start Date": "Nov 23 2026",
+    "End Date": "Nov 27 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-31T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.iconip2026.org/"
+  },
+  {
     "name": "PETS 2026 - Issue 1 Paper Submission Deadline",
     "sub": [
       "Network and System Security"
@@ -6068,6 +6054,20 @@
     ],
     "Location": "Urbana, Illinois, United States",
     "Start Date": "Sep 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 08 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICSCGE 2026",
+    "sub": [
+      "Security & Privacy",
+      "Network System"
+    ],
+    "Location": "Brisbane, Australia",
+    "Start Date": "Aug 06 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 08 2026",
