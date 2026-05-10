@@ -447,19 +447,6 @@
     "link": "https://wacv.thecvf.com/"
   },
   {
-    "name": "WACV 2026 - Second round",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Tucson, Arizona, USA",
-    "Start Date": "Mar 06 2026",
-    "End Date": "Mar 10 2026",
-    "Abstract Deadline": "2025-09-12T23:59:00-12:00",
-    "Submission Deadline": "2025-09-19T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://wacv.thecvf.com/"
-  },
-  {
     "name": "ICLR 2026",
     "sub": [
       "Artificial Intelligence"
@@ -7007,6 +6994,19 @@
     "Submission Deadline": "2026-08-21T23:59:59-12:00",
     "Notification": "",
     "link": "https://bigdataieee.org/BigData2026/"
+  },
+  {
+    "name": "WACV 2026 - Second round",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Disney Springs, Buena Vista, FL, USA",
+    "Start Date": "Jan 05 2027",
+    "End Date": "Jan 09 2027",
+    "Abstract Deadline": "2026-08-20T23:59:00-12:00",
+    "Submission Deadline": "2026-08-27T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://wacv.thecvf.com/"
   },
   {
     "name": "PETS 2026 - Issue 2 Paper Submission Deadline",
