@@ -434,19 +434,6 @@
     "link": "https://2026.ieeeicassp.org/"
   },
   {
-    "name": "WACV 2026 - Second round",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Tucson, Arizona, USA",
-    "Start Date": "Mar 06 2026",
-    "End Date": "Mar 10 2026",
-    "Abstract Deadline": "2025-09-12T23:59:00-12:00",
-    "Submission Deadline": "2025-09-19T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://wacv.thecvf.com/"
-  },
-  {
     "name": "ICLR 2026",
     "sub": [
       "Artificial Intelligence"
@@ -4429,19 +4416,6 @@
     "link": "https://mcsoc-forum.org"
   },
   {
-    "name": "23rd IBCAST-2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Murree Hills, Pakistan",
-    "Start Date": "Aug 17 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "AICCSA 2026",
     "sub": [
       "Security & Privacy"
@@ -4487,19 +4461,6 @@
     ],
     "Location": "Erice (TP), Italy",
     "Start Date": "Oct 22 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "FICTA-2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "London, UK",
-    "Start Date": "Jun 08 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 30 2026",
@@ -4958,19 +4919,6 @@
     "link": ""
   },
   {
-    "name": "CSAI 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Beijing, China",
-    "Start Date": "Dec 18 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "IEEE-CH 2026",
     "sub": [
       "Security & Privacy"
@@ -5135,6 +5083,19 @@
     ],
     "Location": "Tempe, Arizona, USA, Arizona, United States",
     "Start Date": "Nov 12 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "FICTA-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Jun 08 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 15 2026",
@@ -5323,6 +5284,19 @@
     "Submission Deadline": "2026-05-18T23:59:59-12:00",
     "Notification": "",
     "link": "https://conf.researchr.org/home/eseiw-2026"
+  },
+  {
+    "name": "23rd IBCAST-2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Murree Hills, Pakistan",
+    "Start Date": "Aug 17 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 20 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "AAAC 2026",
@@ -6102,6 +6076,19 @@
     "link": ""
   },
   {
+    "name": "CSAI 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Beijing, China",
+    "Start Date": "Dec 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "USENIX ATC 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -6679,6 +6666,19 @@
     "link": "https://acmsocc.org/2026/"
   },
   {
+    "name": "HealthSec'26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Los Angeles, California, United States",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 24 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICAI'26",
     "sub": [
       "Wireless/Communication"
@@ -6994,6 +6994,19 @@
     "Submission Deadline": "2026-08-21T23:59:59-12:00",
     "Notification": "",
     "link": "https://bigdataieee.org/BigData2026/"
+  },
+  {
+    "name": "WACV 2026 - Second round",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Disney Springs, Buena Vista, FL, USA",
+    "Start Date": "Jan 05 2027",
+    "End Date": "Jan 09 2027",
+    "Abstract Deadline": "2026-08-20T23:59:00-12:00",
+    "Submission Deadline": "2026-08-27T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://wacv.thecvf.com/"
   },
   {
     "name": "WACV 2026 - Second round",
@@ -9329,7 +9342,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "",
+    "Start Date": "May 11 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
