@@ -277,33 +277,6 @@
     "link": "https://edbticdt2026.github.io/"
   },
   {
-    "name": "ICDT 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Tampere, Finland",
-    "Start Date": "Mar 24 2026",
-    "End Date": "Mar 27 2026",
-    "Abstract Deadline": "2025-09-03T23:59:59-12:00",
-    "Submission Deadline": "2025-09-10T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://edbticdt2026.github.io/"
-  },
-  {
-    "name": "CHI 2026",
-    "sub": [
-      "Computer-Human Interaction",
-      "Computer–Human Interaction"
-    ],
-    "Location": "Centre de Convencions Internacional de Barcelona, Barcelona, Spain",
-    "Start Date": "Apr 13 2026",
-    "End Date": "Apr 17 2026",
-    "Abstract Deadline": "2025-09-04T23:59:59-12:00",
-    "Submission Deadline": "2025-09-11T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://chi2026.acm.org/"
-  },
-  {
     "name": "IEEE/ACM CGO 2026 - Second Submission",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -5051,19 +5024,6 @@
     "link": ""
   },
   {
-    "name": "GeCoIn 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Bremen, Germany",
-    "Start Date": "Aug 15 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 14 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "IISWC 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -5372,6 +5332,19 @@
     ],
     "Location": "Raanana, Israel",
     "Start Date": "Sep 07 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 21 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "GeCoIn 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Bremen, Germany",
+    "Start Date": "Aug 15 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 21 2026",
@@ -6273,6 +6246,19 @@
     "link": "https://attend.ieee.org/slt-2026/"
   },
   {
+    "name": "AutonomousCyber 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Rome, Italy",
+    "Start Date": "Sep 14 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICCC 2026",
     "sub": [
       "Wireless/Communication"
@@ -6398,6 +6384,19 @@
     ],
     "Location": "Guangzhou, China",
     "Start Date": "Dec 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICOCN2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Xining, China",
+    "Start Date": "Jul 20 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 30 2026",
@@ -6664,6 +6663,19 @@
     "Submission Deadline": "2026-07-14T23:59:59-12:00",
     "Notification": "",
     "link": "https://acmsocc.org/2026/"
+  },
+  {
+    "name": "HotNets 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Salt Lake City, Utah, USA",
+    "Start Date": "Nov 16 2026",
+    "End Date": "Nov 17 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-07-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conferences.sigcomm.org/hotnets/2026/"
   },
   {
     "name": "HealthSec'26",
@@ -6969,6 +6981,19 @@
     "link": "https://www.ndss-symposium.org/ndss2027/"
   },
   {
+    "name": "MSN 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Ningbo, China",
+    "Start Date": "Dec 18 2026",
+    "End Date": "Dec 20 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-20T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ieee-msn.org/2026"
+  },
+  {
     "name": "AsiaCCS 2026 - 1st round Deadline",
     "sub": [
       "Network and System Security",
@@ -7074,6 +7099,33 @@
     "Submission Deadline": "2026-09-09T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.asplos-conference.org/asplos2027/cfp/"
+  },
+  {
+    "name": "CHI 2026",
+    "sub": [
+      "Computer-Human Interaction",
+      "Computer–Human Interaction"
+    ],
+    "Location": "David L. Lawrence Convention Center, Pittsburgh, USA",
+    "Start Date": "May 10 2027",
+    "End Date": "May 14 2027",
+    "Abstract Deadline": "2025-09-04T23:59:59-12:00",
+    "Submission Deadline": "2026-09-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://chi2026.acm.org/"
+  },
+  {
+    "name": "ICDT 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Lille, France",
+    "Start Date": "Apr 06 2027",
+    "End Date": "Apr 09 2027",
+    "Abstract Deadline": "2026-09-03T23:59:59-12:00",
+    "Submission Deadline": "2026-09-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://edbticdt2026.github.io/"
   },
   {
     "name": "IEEE/ACM CGO 2027 - Second Submission",
@@ -8799,6 +8851,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "MMSys 2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Ghent, Belgium",
+    "Start Date": "Mar 30 2027",
+    "End Date": "Apr 02 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://2027.acmmmsys.org"
   },
   {
     "name": "MPRSS 2026",
