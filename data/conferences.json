@@ -264,19 +264,6 @@
     "link": "https://edbticdt2026.github.io/"
   },
   {
-    "name": "ICDT 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Tampere, Finland",
-    "Start Date": "Mar 24 2026",
-    "End Date": "Mar 27 2026",
-    "Abstract Deadline": "2025-09-03T23:59:59-12:00",
-    "Submission Deadline": "2025-09-10T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://edbticdt2026.github.io/"
-  },
-  {
     "name": "IEEE/ACM CGO 2026 - Second Submission",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -3756,19 +3743,6 @@
     "link": ""
   },
   {
-    "name": "Cyber-AI 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Bucharest, Romania",
-    "Start Date": "Sep 22 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "eSmarTA-2026",
     "sub": [
       "Security & Privacy"
@@ -5154,19 +5128,6 @@
     "link": "https://2026.eurosys.org/"
   },
   {
-    "name": "RuleML+RR 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Vilnius, Lithuania",
-    "Start Date": "Aug 24 2026",
-    "End Date": "Aug 26 2026",
-    "Abstract Deadline": "2026-05-08T23:59:59-12:00",
-    "Submission Deadline": "2026-05-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2026.declarativeai.net/events/ruleml-rr"
-  },
-  {
     "name": "CNRIA'26",
     "sub": [
       "Network System",
@@ -5455,6 +5416,19 @@
     "Submission Deadline": "2026-05-22T23:59:59-12:00",
     "Notification": "",
     "link": "https://icnp26.cs.ucr.edu/"
+  },
+  {
+    "name": "RuleML+RR 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Vilnius, Lithuania",
+    "Start Date": "Aug 24 2026",
+    "End Date": "Aug 26 2026",
+    "Abstract Deadline": "2026-05-15T23:59:59-12:00",
+    "Submission Deadline": "2026-05-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.declarativeai.net/events/ruleml-rr"
   },
   {
     "name": "ICNS3",
@@ -5902,6 +5876,19 @@
     "link": ""
   },
   {
+    "name": "ICCD 2026 - abstract and full paper deadline",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Hong Kong SAR, China",
+    "Start Date": "Nov 16 2026",
+    "End Date": "Nov 18 2026",
+    "Abstract Deadline": "2026-05-29T23:59:00-12:00",
+    "Submission Deadline": "2026-06-05T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://www.iccd-conf.com/2026/home.html"
+  },
+  {
     "name": "SenSys 2026 - 1st deadline",
     "sub": [
       "Network System",
@@ -6062,6 +6049,19 @@
     "link": ""
   },
   {
+    "name": "ICCSTE2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Wuhan, China",
+    "Start Date": "Aug 14 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "USENIX ATC 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -6127,6 +6127,19 @@
     "link": "https://conf.researchr.org/home/scam-2026"
   },
   {
+    "name": "FPT 2026 - Title and Abstract Due (Conference Track)",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Honolulu, Hawaii, USA",
+    "Start Date": "Dec 07 2026",
+    "End Date": "Dec 10 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-12T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://fpt2026.uark.edu"
+  },
+  {
     "name": "ARTIIS 2026",
     "sub": [
       "Security & Privacy"
@@ -6160,6 +6173,19 @@
     ],
     "Location": "Tianjin, China",
     "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "Cyber-AI 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Bucharest, Romania",
+    "Start Date": "Sep 22 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 15 2026",
@@ -6928,6 +6954,19 @@
     "link": ""
   },
   {
+    "name": "APNHR2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Badung Regency, Bali, Indonesia",
+    "Start Date": "Oct 05 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 17 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "MMM 2026",
     "sub": [
       "Graphics"
@@ -7128,6 +7167,19 @@
     "link": "https://edbticdt2026.github.io/"
   },
   {
+    "name": "ICDT 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Lille, France",
+    "Start Date": "Apr 06 2027",
+    "End Date": "Apr 09 2027",
+    "Abstract Deadline": "2026-09-03T23:59:59-12:00",
+    "Submission Deadline": "2026-09-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://edbticdt2026.github.io/"
+  },
+  {
     "name": "IEEE/ACM CGO 2027 - Second Submission",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -7221,6 +7273,19 @@
     "link": "https://www.date-conference.com/call-for-papers"
   },
   {
+    "name": "ComForEn2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Vienna, Austria",
+    "Start Date": "Jan 19 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "EuroSys 2027 - Spring Submission Deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -7282,6 +7347,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 04 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CAIB 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Concepción, Chile",
+    "Start Date": "Nov 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 12 2026",
     "Notification": "",
     "link": ""
   },
