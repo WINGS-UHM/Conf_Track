@@ -6351,6 +6351,19 @@
     "link": ""
   },
   {
+    "name": "ISAAC 2026",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Hangzhou, China",
+    "Start Date": "Dec 06 2026",
+    "End Date": "Dec 09 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-26T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.algo-door.com/isaac2026/index.html"
+  },
+  {
     "name": "CASCON 2026",
     "sub": [
       "Security & Privacy"
@@ -6419,7 +6432,8 @@
   {
     "name": "ICOCN2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Wireless/Communication"
     ],
     "Location": "Xining, China",
     "Start Date": "Jul 20 2026",
@@ -6506,6 +6520,19 @@
     "Submission Deadline": "2026-07-01T23:59:59-08:00",
     "Notification": "",
     "link": "https://inscrypt2026.comp.polyu.edu.hk"
+  },
+  {
+    "name": "NCMMSC 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Hengqin, China",
+    "Start Date": "Nov 05 2026",
+    "End Date": "Nov 08 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-07-05T23:59:59+08:00",
+    "Notification": "",
+    "link": "https://www.ncmmsc.org.cn/"
   },
   {
     "name": "BIBM 2026",
