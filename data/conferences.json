@@ -4722,19 +4722,6 @@
     "link": ""
   },
   {
-    "name": "FONCIMED 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Gap, France",
-    "Start Date": "Oct 21 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 07 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "NeurIPS 2026",
     "sub": [
       "Artificial Intelligence"
@@ -4872,20 +4859,6 @@
     ],
     "Location": "Venice, Italy",
     "Start Date": "Sep 07 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "PRISM-2026",
-    "sub": [
-      "Security & Privacy",
-      "Network System"
-    ],
-    "Location": "Mohali, India",
-    "Start Date": "Aug 08 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 10 2026",
@@ -5287,6 +5260,20 @@
     "link": ""
   },
   {
+    "name": "PRISM-2026",
+    "sub": [
+      "Security & Privacy",
+      "Network System"
+    ],
+    "Location": "Mohali, India",
+    "Start Date": "Aug 08 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ACM SYSTOR 2026",
     "sub": [
       "Network System"
@@ -5664,6 +5651,19 @@
     "Submission Deadline": "2026-05-27T23:59:59-12:00",
     "Notification": "",
     "link": "https://aft.ifca.ai/aft26/index.html"
+  },
+  {
+    "name": "FONCIMED 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Gap, France",
+    "Start Date": "Oct 21 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 29 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "CoRL 2026",
@@ -6049,6 +6049,19 @@
     "link": ""
   },
   {
+    "name": "Cyber-AI 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Bucharest, Romania",
+    "Start Date": "Sep 22 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICCSTE2026",
     "sub": [
       "Network System"
@@ -6173,19 +6186,6 @@
     ],
     "Location": "Tianjin, China",
     "Start Date": "Dec 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "Cyber-AI 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Bucharest, Romania",
-    "Start Date": "Sep 22 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 15 2026",
