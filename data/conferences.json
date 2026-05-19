@@ -5062,19 +5062,6 @@
     "link": "https://2026.eurosys.org/"
   },
   {
-    "name": "ICORIS2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Bandung, Indonesia",
-    "Start Date": "Sep 25 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 17 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "AI4TCI",
     "sub": [
       "Security & Privacy"
@@ -6287,7 +6274,8 @@
   {
     "name": "CrystalFreeIoT 2026",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Dresden, Germany",
     "Start Date": "Sep 16 2026",
@@ -6375,6 +6363,19 @@
     "Submission Deadline": "2026-06-26T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.algo-door.com/isaac2026/index.html"
+  },
+  {
+    "name": "ICORIS2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Bandung, Indonesia",
+    "Start Date": "Sep 25 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 28 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "CASCON 2026",
@@ -7350,6 +7351,19 @@
     "Submission Deadline": "2026-09-17T23:59:59-04:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/nsdi26"
+  },
+  {
+    "name": "MMSys 2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Ghent, Belgium",
+    "Start Date": "Mar 30 2027",
+    "End Date": "Apr 02 2027",
+    "Abstract Deadline": "2026-09-10T23:59:59-12:00",
+    "Submission Deadline": "2026-09-17T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2027.acmmmsys.org"
   },
   {
     "name": "DATE 2026",
@@ -9023,19 +9037,6 @@
     "link": ""
   },
   {
-    "name": "MMSys 2027",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Ghent, Belgium",
-    "Start Date": "Mar 30 2027",
-    "End Date": "Apr 02 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://2027.acmmmsys.org"
-  },
-  {
     "name": "MPRSS 2026",
     "sub": [
       "Wireless/Communication"
@@ -9470,7 +9471,8 @@
   {
     "name": "VCRIS 2026",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Ha Noi, Viet Nam",
     "Start Date": "Oct 29 2026",
