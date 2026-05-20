@@ -4363,19 +4363,6 @@
     "link": "https://conf.ccf.org.cn/WISA2026"
   },
   {
-    "name": "19th IEEE MCSoC 2026 – Bridging Architecture, Intelligence, and Emerging Applications",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "Dec 14–17, 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 30 2026",
-    "Notification": "",
-    "link": "https://mcsoc-forum.org"
-  },
-  {
     "name": "AICCSA 2026",
     "sub": [
       "Security & Privacy"
@@ -4466,6 +4453,19 @@
     "Submission Deadline": "Apr 30 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "Intelligent Integrated Systems: From Embedded Multicore Computing to Neuromorphic and Humanoid Technologies",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "Dec 14–17, 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2026",
+    "Notification": "",
+    "link": "https://mcsoc-forum.org"
   },
   {
     "name": "NAMSP2026",
