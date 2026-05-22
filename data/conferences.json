@@ -394,19 +394,6 @@
     "link": "https://fc26.ifca.ai/"
   },
   {
-    "name": "ICASSP 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Toronto, Canada",
-    "Start Date": "May 16 2027",
-    "End Date": "May 21 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-09-17T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2026.ieeeicassp.org/"
-  },
-  {
     "name": "ICLR 2026",
     "sub": [
       "Artificial Intelligence"
@@ -5114,19 +5101,6 @@
     "link": ""
   },
   {
-    "name": "FICTA-2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "London, UK",
-    "Start Date": "Jun 08 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "PRISM-2026",
     "sub": [
       "Security & Privacy",
@@ -5178,19 +5152,6 @@
     "Submission Deadline": "2026-05-20T23:59:00-12:00",
     "Notification": "",
     "link": "https://ap-sys.org/"
-  },
-  {
-    "name": "EUVIP 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Luxembourg, Luxembourg",
-    "Start Date": "Sep 28 2026",
-    "End Date": "Oct 01 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-05-21T23:59:59+02:00",
-    "Notification": "",
-    "link": "https://euvip2026.github.io/"
   },
   {
     "name": "ARDUOUS 2026",
@@ -5324,19 +5285,6 @@
     "link": "https://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html"
   },
   {
-    "name": "BEC2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Tallinn, Estonia",
-    "Start Date": "Oct 06 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 25 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "CCET 2026",
     "sub": [
       "Wireless/Communication"
@@ -5356,6 +5304,19 @@
     ],
     "Location": "London, UK",
     "Start Date": "Jun 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "FICTA-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Jun 08 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 25 2026",
@@ -5742,6 +5703,19 @@
     "link": "https://computeranimation.org/"
   },
   {
+    "name": "BEC2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tallinn, Estonia",
+    "Start Date": "Oct 06 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 03 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ANTS-6G",
     "sub": [
       "Wireless/Communication",
@@ -5768,6 +5742,19 @@
     "Submission Deadline": "Jun 05 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "EUVIP 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Luxembourg, Luxembourg",
+    "Start Date": "Sep 28 2026",
+    "End Date": "Oct 01 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-05T23:59:59+02:00",
+    "Notification": "",
+    "link": "https://euvip2026.github.io/"
   },
   {
     "name": "ICCD 2026 - abstract and full paper deadline",
@@ -5901,6 +5888,19 @@
     "Submission Deadline": "Jun 08 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "CICAI 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Haining, Zhejiang, China",
+    "Start Date": "Oct 17 2026",
+    "End Date": "Oct 19 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-08T23:59:59+08:00",
+    "Notification": "",
+    "link": "https://cicai.caai.cn/index.html"
   },
   {
     "name": "PG 2026",
@@ -7323,6 +7323,19 @@
     "Submission Deadline": "2026-09-15T23:59:00-12:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/fast27"
+  },
+  {
+    "name": "ICASSP 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Toronto, Canada",
+    "Start Date": "May 16 2027",
+    "End Date": "May 21 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.ieeeicassp.org/"
   },
   {
     "name": "NSDI - Cycle Spring",
