@@ -582,10 +582,10 @@
       "Interdiscipline/Mixture/Emerging",
       "Uncategorized"
     ],
-    "Location": "Dubaï, UAE",
+    "Location": "Dubai, UAE",
     "Start Date": "Apr 13 2026",
     "End Date": "Apr 17 2026",
-    "Abstract Deadline": "2025-09-30T23:59:59-12:00",
+    "Abstract Deadline": "Sep 30 2025",
     "Submission Deadline": "2025-10-07T23:59:59-12:00",
     "Notification": "",
     "link": "https://www2026.thewebconf.org/"
@@ -1288,9 +1288,9 @@
       "Uncategorized"
     ],
     "Location": "Cambridge, UK",
-    "Start Date": "Jun 21 2026",
+    "Start Date": "Jun 22 2026",
     "End Date": "Jun 25 2026",
-    "Abstract Deadline": "2025-11-28T23:59:59-12:00",
+    "Abstract Deadline": "Dec 05 2025",
     "Submission Deadline": "2025-12-05T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.sigmobile.org/mobisys/2026/"
@@ -1629,10 +1629,10 @@
       "Computer Architecture/Parallel Programming/Storage Technology",
       "Uncategorized"
     ],
-    "Location": "Ann Arbor, Michigan, USA",
+    "Location": "Ann Arbor, MI",
     "Start Date": "Jun 08 2026",
     "End Date": "Jun 12 2026",
-    "Abstract Deadline": "2026-01-06T23:59:00-12:00",
+    "Abstract Deadline": "Jan 06 2026",
     "Submission Deadline": "2026-01-13T23:59:00-12:00",
     "Notification": "",
     "link": "https://www.sigmetrics.org/sigmetrics2026/"
@@ -2287,10 +2287,10 @@
       "Network System",
       "Uncategorized"
     ],
-    "Location": "Denver, Colorado, USA",
+    "Location": "Denver, CO",
     "Start Date": "Aug 17 2026",
     "End Date": "Aug 21 2026",
-    "Abstract Deadline": "2026-01-30T23:59:59-12:00",
+    "Abstract Deadline": "Jan 30 2026",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
     "Notification": "",
     "link": "https://conferences.sigcomm.org/sigcomm/2026/"
@@ -4131,10 +4131,10 @@
       "Uncategorized",
       "Network System"
     ],
-    "Location": "Tokyo, Japan",
+    "Location": "Tokyo Japan",
     "Start Date": "Nov 23 2026",
     "End Date": "Nov 26 2026",
-    "Abstract Deadline": "2026-04-13T23:59:59-12:00",
+    "Abstract Deadline": "Mar 30 2026",
     "Submission Deadline": "2026-04-20T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.sigmobile.org/mobihoc/2026/"
@@ -4473,7 +4473,7 @@
       "Network and System Security",
       "Uncategorized"
     ],
-    "Location": "World Forum, Hague, Netherlands",
+    "Location": "Hague, Netherlands",
     "Start Date": "Nov 15 2026",
     "End Date": "Nov 19 2026",
     "Abstract Deadline": "Jan 07 2026",
@@ -4559,20 +4559,6 @@
     "Submission Deadline": "2026-04-30T23:59:59-12:00",
     "Notification": "",
     "link": "https://ijcb2026.ieee-biometrics.org/"
-  },
-  {
-    "name": "NSPW 2026",
-    "sub": [
-      "Security & Privacy",
-      "Network and System Security"
-    ],
-    "Location": "Victoria, BC, Canada",
-    "Start Date": "Sep 27 2026",
-    "End Date": "Sep 30 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-04-30T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.nspw.org/2026"
   },
   {
     "name": "STSIVA 2026",
@@ -4661,7 +4647,7 @@
       "Network System",
       "Uncategorized"
     ],
-    "Location": "Macao, China",
+    "Location": "Macau SAR, China",
     "Start Date": "Dec 07 2026",
     "End Date": "Dec 11 2026",
     "Abstract Deadline": "",
@@ -4897,7 +4883,7 @@
       "Security & Privacy"
     ],
     "Location": "Las Vegas, Nevada, United States",
-    "Start Date": "Aug 18 2026",
+    "Start Date": "Aug 20 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 12 2026",
@@ -4956,6 +4942,20 @@
     "Submission Deadline": "2026-05-14T00:00:00+00:00",
     "Notification": "",
     "link": "https://iiswc.org/iiswc2026/"
+  },
+  {
+    "name": "NSPW 2026",
+    "sub": [
+      "Security & Privacy",
+      "Network and System Security"
+    ],
+    "Location": "Victoria, Canada",
+    "Start Date": "Sep 27 2026",
+    "End Date": "Sep 30 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 14 2026",
+    "Notification": "",
+    "link": "https://www.nspw.org/2026"
   },
   {
     "name": "ICRAIS2026",
@@ -5224,10 +5224,10 @@
       "Network System",
       "Uncategorized"
     ],
-    "Location": "Tempe, Arizona, USA",
+    "Location": "Tempe, AZ",
     "Start Date": "Oct 05 2026",
     "End Date": "Oct 08 2026",
-    "Abstract Deadline": "2026-05-15T23:59:59-12:00",
+    "Abstract Deadline": "May 15 2026",
     "Submission Deadline": "2026-05-22T23:59:59-12:00",
     "Notification": "",
     "link": "https://icnp26.cs.ucr.edu/"
@@ -5244,19 +5244,6 @@
     "Submission Deadline": "2026-05-22T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.declarativeai.net/events/ruleml-rr"
-  },
-  {
-    "name": "ICNS3",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Naples, Italy",
-    "Start Date": "Oct 19 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 24 2026",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "CIKM 2026",
@@ -5459,7 +5446,7 @@
       "Uncategorized",
       "Network and System Security"
     ],
-    "Location": "Los Angeles, California, USA",
+    "Location": "Los Angeles, CA",
     "Start Date": "Dec 07 2026",
     "End Date": "Dec 11 2026",
     "Abstract Deadline": "",
@@ -5572,6 +5559,19 @@
     "link": ""
   },
   {
+    "name": "ICNS3",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Naples, Italy",
+    "Start Date": "Oct 19 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ProvSec 2026",
     "sub": [
       "Security & Privacy"
@@ -5624,6 +5624,20 @@
     "link": ""
   },
   {
+    "name": "MSWIM'2026",
+    "sub": [
+      "Wireless/Communication",
+      "Network System"
+    ],
+    "Location": "Paris, France",
+    "Start Date": "Oct 26 2026",
+    "End Date": "Oct 30 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 01 2026",
+    "Notification": "",
+    "link": "https://mswimconf.com/2026/"
+  },
+  {
     "name": "ICONIP 2026",
     "sub": [
       "Artificial Intelligence"
@@ -5674,20 +5688,6 @@
     "Submission Deadline": "2026-06-01T23:59:59+03:00",
     "Notification": "",
     "link": "https://wicon.eai-conferences.org/2026/"
-  },
-  {
-    "name": "MSWIM'2026",
-    "sub": [
-      "Wireless/Communication",
-      "Network System"
-    ],
-    "Location": "Paris, France",
-    "Start Date": "Oct 26 2026",
-    "End Date": "Oct 30 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-06-01T23:59:59+01:00",
-    "Notification": "",
-    "link": "https://mswimconf.com/2026/"
   },
   {
     "name": "SCA 2026 - Submission deadline (posters)",
@@ -7104,7 +7104,7 @@
       "Network and System Security",
       "Uncategorized"
     ],
-    "Location": "Seoul, Republic of Korea",
+    "Location": "Seoul, South Korea",
     "Start Date": "Mar 22 2027",
     "End Date": "Mar 26 2027",
     "Abstract Deadline": "",
@@ -7343,10 +7343,10 @@
       "Network System",
       "Uncategorized"
     ],
-    "Location": "Providence, RI, USA",
+    "Location": "Providence, RI",
     "Start Date": "May 11 2027",
     "End Date": "May 13 2027",
-    "Abstract Deadline": "2026-09-10T23:59:59-04:00",
+    "Abstract Deadline": "Sep 10 2026",
     "Submission Deadline": "2026-09-17T23:59:59-04:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/nsdi26"
@@ -7659,10 +7659,10 @@
       "Uncategorized",
       "Network and System Security"
     ],
-    "Location": "Denver, CO, USA",
+    "Location": "Denver, CO",
     "Start Date": "Aug 11 2027",
     "End Date": "Aug 13 2027",
-    "Abstract Deadline": "2027-01-19T23:59:59-12:00",
+    "Abstract Deadline": "Jan 19 2027",
     "Submission Deadline": "2027-01-26T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/usenixsecurity27"
