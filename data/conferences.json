@@ -5285,19 +5285,6 @@
     "link": ""
   },
   {
-    "name": "FICTA-2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "London, UK",
-    "Start Date": "Jun 08 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 25 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICCT 2026",
     "sub": [
       "Wireless/Communication"
@@ -5440,6 +5427,19 @@
     "Submission Deadline": "2026-05-26T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.acsac.org/"
+  },
+  {
+    "name": "FICTA-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Jun 08 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 28 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "AFT 2026",
