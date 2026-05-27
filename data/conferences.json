@@ -5364,19 +5364,6 @@
     "link": "https://www.acsac.org/"
   },
   {
-    "name": "FICTA-2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "London, UK",
-    "Start Date": "Jun 08 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 28 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "AFT 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -5474,6 +5461,19 @@
     ],
     "Location": "Oaxaca, Mexico",
     "Start Date": "Oct 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "FICTA-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Jun 08 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "May 31 2026",
@@ -5805,6 +5805,19 @@
     ],
     "Location": "Brisbane, Australia",
     "Start Date": "Aug 06 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 08 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IS'26",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Varna, Bulgaria",
+    "Start Date": "Sep 03 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 08 2026",
@@ -6666,6 +6679,19 @@
     "link": ""
   },
   {
+    "name": "WDSC2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Jeju, South Korea",
+    "Start Date": "Aug 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "POPL 2026 - Submission Deadline",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -6780,6 +6806,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 16 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "AI-SMARTHealth 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Paris, France",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 17 2026",
     "Notification": "",
     "link": ""
   },
@@ -6915,6 +6954,19 @@
     "link": ""
   },
   {
+    "name": "ICONDBTM 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Bandung, Indonesia",
+    "Start Date": "Nov 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IFIPSC2026",
     "sub": [
       "Security & Privacy"
@@ -6973,6 +7025,19 @@
     ],
     "Location": "Dallas, Texas, United States",
     "Start Date": "Nov 06 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICSIM 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tokyo, Japan",
+    "Start Date": "Jan 20 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 01 2026",
@@ -7496,6 +7561,19 @@
     "link": ""
   },
   {
+    "name": "ITNG 2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "LAS VEGAS, Nevada, United States",
+    "Start Date": "Apr 11 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 09 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CAIB 2026",
     "sub": [
       "Wireless/Communication"
@@ -7568,6 +7646,19 @@
     ],
     "Location": "Melbourne, Australia",
     "Start Date": "Mar 12 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICCCS2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Shenzhen, China",
+    "Start Date": "Apr 16 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 20 2026",
@@ -7876,6 +7967,19 @@
     "link": ""
   },
   {
+    "name": "6GCTT 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Beijing, China",
+    "Start Date": "Jul 03 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "09-13 June 2026, Bu dva , Montenegro",
     "sub": [
       "Wireless/Communication"
@@ -7965,6 +8069,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://voyager.ce.fit.ac.jp/conf/3pgcic/2026"
+  },
+  {
+    "name": "9th IC2IE",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Depok, Indonesia",
+    "Start Date": "Sep 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ACM AsiaCCS - Cycle 2",
@@ -9356,8 +9473,8 @@
     "sub": [
       "Wireless/Communication"
     ],
-    "Location": "",
-    "Start Date": "15 May 2026",
+    "Location": "25-27 May 2027 // Montreal, Canada",
+    "Start Date": "UNet 2027 - The 11th International Conference on Ubiquitous Networking",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
