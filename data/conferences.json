@@ -5337,19 +5337,6 @@
     "link": ""
   },
   {
-    "name": "MCETS2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Larnaca, Cyprus",
-    "Start Date": "Sep 03 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 27 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ACSAC 2026",
     "sub": [
       "Uncategorized",
@@ -6921,6 +6908,19 @@
     ],
     "Location": "Kuala Lumper, Malaysia",
     "Start Date": "Dec 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "MCETS2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Larnaca, Cyprus",
+    "Start Date": "Oct 29 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 30 2026",
