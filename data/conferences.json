@@ -5520,19 +5520,6 @@
     "link": "https://www.prcv.cn/web/#/home"
   },
   {
-    "name": "BESC 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Bangkok, Thailand",
-    "Start Date": "Oct 26 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "INDEL 2026",
     "sub": [
       "Wireless/Communication"
@@ -6019,6 +6006,19 @@
     "Submission Deadline": "2026-06-13T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.pricai.org/"
+  },
+  {
+    "name": "BESC 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Bangkok, Thailand",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 15 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "CSPS 2026",
@@ -7563,7 +7563,8 @@
   {
     "name": "ITNG 2027",
     "sub": [
-      "Network System"
+      "Network System",
+      "Wireless/Communication"
     ],
     "Location": "LAS VEGAS, Nevada, United States",
     "Start Date": "Apr 11 2027",
