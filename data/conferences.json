@@ -5272,19 +5272,6 @@
     "link": ""
   },
   {
-    "name": "IDFC2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Trento, Italy",
-    "Start Date": "Sep 01 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 25 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "EMNLP 2026",
     "sub": [
       "Artificial Intelligence"
@@ -5455,19 +5442,6 @@
     "link": ""
   },
   {
-    "name": "FICTA-2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "London, UK",
-    "Start Date": "Jun 08 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 31 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "HAICTA 2026",
     "sub": [
       "Wireless/Communication"
@@ -5597,6 +5571,19 @@
     "Submission Deadline": "2026-06-01T23:59:59+01:00",
     "Notification": "",
     "link": "https://mswimconf.com/2026/"
+  },
+  {
+    "name": "FICTA-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Jun 08 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 02 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "SCA 2026 - Submission deadline (posters)",
@@ -6167,6 +6154,19 @@
     "link": "https://www.apbc2026.com/home"
   },
   {
+    "name": "SECAI 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Rome, Italy",
+    "Start Date": "Sep 17 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 17 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "SLT 2026",
     "sub": [
       "Graphics"
@@ -6438,6 +6438,19 @@
     ],
     "Location": "Xining, China",
     "Start Date": "Jul 20 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IDFC2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Trento, Italy",
+    "Start Date": "Sep 01 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 30 2026",
@@ -6771,6 +6784,19 @@
     "link": ""
   },
   {
+    "name": "NCRAEC2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Prayagraj, India",
+    "Start Date": "Sep 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "SoCC 2026 - Second round",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -6821,6 +6847,19 @@
     "Submission Deadline": "2026-07-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://conferences.sigcomm.org/hotnets/2026/"
+  },
+  {
+    "name": "FPS'2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Gatineau, Canada",
+    "Start Date": "Oct 13 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 20 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "HealthSec'26",
