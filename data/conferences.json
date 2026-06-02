@@ -5904,6 +5904,19 @@
     "link": "https://sigops.org/s/conferences/atc/2026/index.html"
   },
   {
+    "name": "AIFM 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Urumqi, China",
+    "Start Date": "Jun 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 12 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CW2026",
     "sub": [
       "Security & Privacy"
@@ -6458,6 +6471,19 @@
     "link": ""
   },
   {
+    "name": "IICT-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Bangalore, India",
+    "Start Date": "Oct 02 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "NAS 2026",
     "sub": [
       "Network System"
@@ -6679,6 +6705,19 @@
     "link": ""
   },
   {
+    "name": "Nullcon Berlin 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Berlin, Germany",
+    "Start Date": "Nov 02 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "WDSC2026",
     "sub": [
       "Security & Privacy"
@@ -6729,6 +6768,19 @@
     "Submission Deadline": "2026-07-10T17:00:00-12:00",
     "Notification": "",
     "link": "https://www.aspdac.com/aspdac2026/"
+  },
+  {
+    "name": "ACM RACS 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Fukuoka, Japan",
+    "Start Date": "Nov 17 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 12 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "AIMEH'26",
@@ -7058,6 +7110,19 @@
     "link": ""
   },
   {
+    "name": "FNC2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Austin, TX, Texas, United States",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "HKN 2026",
     "sub": [
       "Wireless/Communication"
@@ -7080,6 +7145,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ACM SIGCITE 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Wilmington, North Carolina, United States",
+    "Start Date": "Nov 12 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 02 2026",
     "Notification": "",
     "link": ""
   },
