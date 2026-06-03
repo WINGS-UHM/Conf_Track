@@ -4363,19 +4363,6 @@
     "link": ""
   },
   {
-    "name": "APARM 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Singapore, Singapore",
-    "Start Date": "Jul 01 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "CPSSS-2026",
     "sub": [
       "Security & Privacy"
@@ -5403,19 +5390,6 @@
     "link": ""
   },
   {
-    "name": "ICITES 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Hangzhou, China",
-    "Start Date": "Sep 18 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "SIGSPATIAL 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -5597,6 +5571,19 @@
     "Submission Deadline": "2026-06-01T23:59:59-12:00",
     "Notification": "",
     "link": "https://computeranimation.org/"
+  },
+  {
+    "name": "APARM 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Singapore, Singapore",
+    "Start Date": "Jul 01 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 03 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "BEC2026",
@@ -6424,6 +6411,19 @@
     ],
     "Location": "Ouarzazate, Morocco",
     "Start Date": "Jul 25 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICITES 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Hangzhou, China",
+    "Start Date": "Sep 18 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 30 2026",
