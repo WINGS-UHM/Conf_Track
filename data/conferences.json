@@ -172,19 +172,6 @@
     "link": "https://infocom2026.ieee-infocom.org/"
   },
   {
-    "name": "HPCA 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Sydney, NSW, Australia",
-    "Start Date": "Feb 25 2026",
-    "End Date": "Mar 01 2026",
-    "Abstract Deadline": "2025-07-25T23:59:59+00:00",
-    "Submission Deadline": "2025-08-01T23:59:59+00:00",
-    "Notification": "",
-    "link": "https://hpca-conf.org/2026/"
-  },
-  {
     "name": "NDSS 2026 - Summer",
     "sub": [
       "Network and System Security",
@@ -564,19 +551,6 @@
     "link": "https://percom.org/"
   },
   {
-    "name": "EACL 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Rabat, Morocco",
-    "Start Date": "Mar 24 2026",
-    "End Date": "Mar 29 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-10-06T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2026.eacl.org/"
-  },
-  {
     "name": "WWW 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging",
@@ -729,19 +703,6 @@
     "Location": "Limassol, Cyprus",
     "Start Date": "Mar 17 2026",
     "End Date": "Mar 20 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-10-16T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conf.researchr.org/home/saner-2026"
-  },
-  {
-    "name": "SANER 2026 - Research Track Paper submission deadline",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Richmond, Virginia, United States",
-    "Start Date": "Mar 09 2027",
-    "End Date": "Mar 12 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2025-10-16T23:59:59-12:00",
     "Notification": "",
@@ -5285,19 +5246,6 @@
     "link": "https://2026.aaclnet.org/"
   },
   {
-    "name": "NLPCC 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Macau, China",
-    "Start Date": "Nov 03 2026",
-    "End Date": "Nov 05 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-05-26T23:59:59+08:00",
-    "Notification": "",
-    "link": "http://tcci.ccf.org.cn/conference/2026/"
-  },
-  {
     "name": "CoDis 2026",
     "sub": [
       "Wireless/Communication"
@@ -6154,6 +6102,19 @@
     "link": "https://www.apbc2026.com/home"
   },
   {
+    "name": "HICSS 2027 - Paper Submission Deadline",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Big Island, Hawaii, USA",
+    "Start Date": "Jan 05 2027",
+    "End Date": "Jan 08 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-15T23:59:59-10:00",
+    "Notification": "",
+    "link": "https://hicss.hawaii.edu/"
+  },
+  {
     "name": "SECAI 2026",
     "sub": [
       "Security & Privacy"
@@ -6284,6 +6245,19 @@
     "Submission Deadline": "Jun 20 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "NLPCC 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Macau, China",
+    "Start Date": "Nov 03 2026",
+    "End Date": "Nov 05 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-20T23:59:59+08:00",
+    "Notification": "",
+    "link": "http://tcci.ccf.org.cn/conference/2026/"
   },
   {
     "name": "ISC 2026",
@@ -6588,6 +6562,19 @@
     "link": ""
   },
   {
+    "name": "WINE 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Dec 01 2026",
+    "End Date": "Dec 04 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-07-02T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://wine2026conf.github.io/"
+  },
+  {
     "name": "ICSPS 2026",
     "sub": [
       "Wireless/Communication"
@@ -6651,6 +6638,19 @@
     "Submission Deadline": "2026-07-05T23:59:59-12:00",
     "Notification": "",
     "link": "https://accv2026.org/"
+  },
+  {
+    "name": "ICECCS 2026 - Full paper submission",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Brisbane, Australia",
+    "Start Date": "Nov 23 2026",
+    "End Date": "Nov 24 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-07-06T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://formal-analysis.com/iceccs/2026/"
   },
   {
     "name": "AIST-2026",
@@ -7150,6 +7150,19 @@
     "link": ""
   },
   {
+    "name": "HPCA 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Salt Lake City, Utah",
+    "Start Date": "Jan 30 2027",
+    "End Date": "Feb 03 2027",
+    "Abstract Deadline": "2026-07-24T23:59:59-12:00",
+    "Submission Deadline": "2026-07-31T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://hpca-conf.org/2026/"
+  },
+  {
     "name": "ACM SIGCITE 2026",
     "sub": [
       "Security & Privacy"
@@ -7174,6 +7187,32 @@
     "Submission Deadline": "2026-08-01T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.cloud-conf.net/cscloud/2026/cscloud/"
+  },
+  {
+    "name": "ICAIF 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Milan, Italy",
+    "Start Date": "Nov 14 2026",
+    "End Date": "Nov 17 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-02T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icaif2026.org/index.html"
+  },
+  {
+    "name": "EACL 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Mar 09 2027",
+    "End Date": "Mar 14 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-03T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.eacl.org/"
   },
   {
     "name": "CIDR 2026",
@@ -7214,6 +7253,19 @@
     "Submission Deadline": "Aug 11 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "DAI 2026 - Research / Industry Track",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Nov 29 2026",
+    "End Date": "Dec 02 2026",
+    "Abstract Deadline": "2026-07-27T23:59:59-12:00",
+    "Submission Deadline": "2026-08-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.adai.ai/dai/2026/index.html"
   },
   {
     "name": "30th Colloquium",
@@ -7627,6 +7679,19 @@
     "link": "https://2027.eurosys.org/"
   },
   {
+    "name": "SANER 2026 - Research Track Paper submission deadline",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Richmond, Virginia, United States",
+    "Start Date": "Mar 09 2027",
+    "End Date": "Mar 12 2027",
+    "Abstract Deadline": "2026-09-21T23:59:59-12:00",
+    "Submission Deadline": "2026-09-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/saner-2026"
+  },
+  {
     "name": "JETNET 2026",
     "sub": [
       "Network System"
@@ -7875,6 +7940,19 @@
     "Submission Deadline": "2026-12-11T23:59:59-12:00",
     "Notification": "",
     "link": "https://asiaccs2026.cse.iitkgp.ac.in/"
+  },
+  {
+    "name": "SIGMETRICS 2027 - summer round",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Atlanta, Georgia, USA",
+    "Start Date": "Jun 07 2027",
+    "End Date": "Jun 11 2027",
+    "Abstract Deadline": "2027-01-04T23:59:00-12:00",
+    "Submission Deadline": "2027-01-11T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://www.sigmetrics.org/sigmetrics2027/"
   },
   {
     "name": "USENIX Security 2026 - Cycle 2 Deadline",
@@ -9522,19 +9600,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "SIGMETRICS 2027",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Atlanta, Georgia, USA",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://www.sigmetrics.org/sigmetrics2027/"
   },
   {
     "name": "Smartcomp 2026",
