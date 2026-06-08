@@ -277,19 +277,6 @@
     "link": "https://conf.researchr.org/home/cgo-2026"
   },
   {
-    "name": "IEEE VR 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Melbourne, Australia",
-    "Start Date": "Feb 27 2027",
-    "End Date": "Mar 03 2027",
-    "Abstract Deadline": "2025-09-05T23:59:59-12:00",
-    "Submission Deadline": "2025-09-12T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://ieeevr.org/2026/"
-  },
-  {
     "name": "WCNC 2026",
     "sub": [
       "Network System"
@@ -5747,19 +5734,6 @@
     "link": "https://pacificgraphics2026.github.io/"
   },
   {
-    "name": "ABS 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Lecce, Italy",
-    "Start Date": "Aug 31 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "CANS 2026",
     "sub": [
       "Security & Privacy",
@@ -5928,6 +5902,19 @@
     "Submission Deadline": "2026-06-13T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.pricai.org/"
+  },
+  {
+    "name": "ABS 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Lecce, Italy",
+    "Start Date": "Aug 31 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 15 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "BESC 2026",
@@ -7438,6 +7425,19 @@
     "Submission Deadline": "2026-08-27T23:59:59-12:00",
     "Notification": "",
     "link": "https://wacv.thecvf.com/"
+  },
+  {
+    "name": "IEEE VR 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Melbourne, Australia",
+    "Start Date": "Feb 27 2027",
+    "End Date": "Mar 03 2027",
+    "Abstract Deadline": "2026-08-24T23:59:59-12:00",
+    "Submission Deadline": "2026-08-31T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ieeevr.org/2026/"
   },
   {
     "name": "PETS 2026 - Issue 2 Paper Submission Deadline",
