@@ -277,19 +277,6 @@
     "link": "https://conf.researchr.org/home/cgo-2026"
   },
   {
-    "name": "WCNC 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Kuala Lumpur, Malaysia",
-    "Start Date": "Apr 13 2026",
-    "End Date": "Apr 16 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-09-14T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://wcnc2026.ieee-wcnc.org/group/21"
-  },
-  {
     "name": "ICRA 2026",
     "sub": [
       "Artificial Intelligence"
@@ -576,20 +563,6 @@
     "Submission Deadline": "2025-10-09T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.ipdps.org/"
-  },
-  {
-    "name": "IUI 2026",
-    "sub": [
-      "Computer-Human Interaction",
-      "Computer–Human Interaction"
-    ],
-    "Location": "Helsinki, Finland",
-    "Start Date": "Feb 08 2027",
-    "End Date": "Feb 11 2027",
-    "Abstract Deadline": "2025-10-03T23:59:59-12:00",
-    "Submission Deadline": "2025-10-10T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://iui.hosting.acm.org/2026/"
   },
   {
     "name": "NOMS 2026",
@@ -3375,6 +3348,19 @@
     "link": "http://iswcs.org/iswcs2026"
   },
   {
+    "name": "CODES+ISSS 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Barcelona, Spain",
+    "Start Date": "Oct 04 2026",
+    "End Date": "Oct 09 2026",
+    "Abstract Deadline": "2026-03-23T23:59:59-12:00",
+    "Submission Deadline": "2026-03-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://esweek.org/codes_isss_cfp/"
+  },
+  {
     "name": "EMSOFT 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -5142,6 +5128,19 @@
     "link": "https://icnp26.cs.ucr.edu/"
   },
   {
+    "name": "Performance 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Ghent, Belgium",
+    "Start Date": "Nov 03 2026",
+    "End Date": "Nov 05 2026",
+    "Abstract Deadline": "2026-05-15T23:59:59-12:00",
+    "Submission Deadline": "2026-05-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://performance2026.github.io/call/"
+  },
+  {
     "name": "RuleML+RR 2026",
     "sub": [
       "Artificial Intelligence"
@@ -5420,9 +5419,9 @@
     "sub": [
       "Network and System Security"
     ],
-    "Location": "TBA (Europe)",
-    "Start Date": "Jul 20 2026",
-    "End Date": "Jul 25 2026",
+    "Location": "Delft, The Netherlands",
+    "Start Date": "Jul 19 2027",
+    "End Date": "Jul 24 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-05-31T23:59:59-12:00",
     "Notification": "",
@@ -5480,6 +5479,19 @@
     "Submission Deadline": "Jun 02 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "HiPEAC 2027",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Glasgow, Scotland, UK",
+    "Start Date": "Jan 18 2027",
+    "End Date": "Jan 20 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.hipeac.net/2027/glasgow/#/call-for-papers/"
   },
   {
     "name": "SCA 2026 - Submission deadline (posters)",
@@ -5795,7 +5807,7 @@
     "Start Date": "Nov 15 2026",
     "End Date": "Nov 18 2026",
     "Abstract Deadline": "",
-    "Submission Deadline": "2026-06-10T23:59:59+00:00",
+    "Submission Deadline": "2026-06-11T11:59:59+00:00",
     "Notification": "",
     "link": "https://sigops.org/s/conferences/atc/2026/index.html"
   },
@@ -6298,6 +6310,19 @@
     "Submission Deadline": "2026-06-26T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.acml-conf.org/2026/"
+  },
+  {
+    "name": "ADMA 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Nov 13 2026",
+    "End Date": "Nov 15 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-26T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://adma2026.github.io/"
   },
   {
     "name": "ISAAC 2026",
@@ -6902,6 +6927,19 @@
     "link": ""
   },
   {
+    "name": "ISS 2026 - Winter round",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Turin, Italy",
+    "Start Date": "Nov 23 2026",
+    "End Date": "Nov 26 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-07-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://iss.acm.org/2026/"
+  },
+  {
     "name": "HealthSec'26",
     "sub": [
       "Security & Privacy"
@@ -7361,6 +7399,20 @@
     "link": "https://www.ndss-symposium.org/ndss2027/"
   },
   {
+    "name": "IUI 2026",
+    "sub": [
+      "Computer-Human Interaction",
+      "Computer–Human Interaction"
+    ],
+    "Location": "Helsinki, Finland",
+    "Start Date": "Feb 08 2027",
+    "End Date": "Feb 11 2027",
+    "Abstract Deadline": "2026-08-13T23:59:59-12:00",
+    "Submission Deadline": "2026-08-20T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://iui.hosting.acm.org/2026/"
+  },
+  {
     "name": "MSN 2026",
     "sub": [
       "Network System"
@@ -7444,9 +7496,9 @@
     "sub": [
       "Network and System Security"
     ],
-    "Location": "TBA (Europe)",
-    "Start Date": "Jul 20 2026",
-    "End Date": "Jul 25 2026",
+    "Location": "Delft, The Netherlands",
+    "Start Date": "Jul 19 2027",
+    "End Date": "Jul 24 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-08-31T23:59:59-12:00",
     "Notification": "",
@@ -7586,6 +7638,19 @@
     "link": "https://www.usenix.org/conference/fast27"
   },
   {
+    "name": "WCNC 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Panama City, Panama",
+    "Start Date": "Apr 05 2027",
+    "End Date": "Apr 08 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://wcnc2026.ieee-wcnc.org/group/21"
+  },
+  {
     "name": "ICASSP 2026",
     "sub": [
       "Graphics"
@@ -7707,7 +7772,8 @@
   {
     "name": "DCC 2027",
     "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
+      "Computer Architecture/Parallel Programming/Storage Technology",
+      "Graphics"
     ],
     "Location": "The Cliff Lodge convention center, Snowbird, Utah, U.S.",
     "Start Date": "Mar 23 2027",
@@ -7920,9 +7986,9 @@
     "sub": [
       "Network and System Security"
     ],
-    "Location": "TBA (Europe)",
-    "Start Date": "Jul 20 2026",
-    "End Date": "Jul 25 2026",
+    "Location": "Delft, The Netherlands",
+    "Start Date": "Jul 19 2027",
+    "End Date": "Jul 24 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-11-30T23:59:59-12:00",
     "Notification": "",
@@ -7987,9 +8053,9 @@
     "sub": [
       "Network and System Security"
     ],
-    "Location": "TBA (Europe)",
-    "Start Date": "Jul 20 2026",
-    "End Date": "Jul 25 2026",
+    "Location": "Delft, The Netherlands",
+    "Start Date": "Jul 19 2027",
+    "End Date": "Jul 24 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2027-02-28T23:59:59-12:00",
     "Notification": "",
@@ -8410,19 +8476,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://wisec2025.gmu.edu/"
-  },
-  {
-    "name": "ADMA 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Hong Kong, China",
-    "Start Date": "Nov 01 2026",
-    "End Date": "Nov 03 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://adma2026.github.io/"
   },
   {
     "name": "AIMedTech",
@@ -9350,6 +9403,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "LISA 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "TBD",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.usenix.org/conferences/byname/5"
   },
   {
     "name": "mHealthSec2026",
