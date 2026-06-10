@@ -5694,19 +5694,6 @@
     "link": ""
   },
   {
-    "name": "IS'26",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Varna, Bulgaria",
-    "Start Date": "Sep 03 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 08 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "JIEE 2026",
     "sub": [
       "Wireless/Communication"
@@ -6244,6 +6231,19 @@
     "Submission Deadline": "2026-06-20T23:59:59+08:00",
     "Notification": "",
     "link": "http://tcci.ccf.org.cn/conference/2026/"
+  },
+  {
+    "name": "IS'26",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Varna, Bulgaria",
+    "Start Date": "Sep 03 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 22 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ISC 2026",
