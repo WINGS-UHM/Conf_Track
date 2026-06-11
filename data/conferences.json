@@ -5023,6 +5023,19 @@
     "link": ""
   },
   {
+    "name": "TCC 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "New York City, USA",
+    "Start Date": "Nov 10 2026",
+    "End Date": "Nov 13 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-19T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://tcc.iacr.org/2026/"
+  },
+  {
     "name": "ACM SYSTOR 2026",
     "sub": [
       "Network System"
@@ -6782,6 +6795,19 @@
     "link": "https://www.aspdac.com/aspdac2026/"
   },
   {
+    "name": "ICA3PP 2026 - Paper Submission Due",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Exeter, UK",
+    "Start Date": "Oct 26 2026",
+    "End Date": "Oct 28 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-07-10T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://hpcn.exeter.ac.uk/ica3pp2026/"
+  },
+  {
     "name": "ACM RACS 2026",
     "sub": [
       "Security & Privacy"
@@ -7775,11 +7801,11 @@
       "Computer Architecture/Parallel Programming/Storage Technology",
       "Graphics"
     ],
-    "Location": "The Cliff Lodge convention center, Snowbird, Utah, U.S.",
+    "Location": "Snowbird, Utah, United States",
     "Start Date": "Mar 23 2027",
     "End Date": "Mar 26 2027",
     "Abstract Deadline": "",
-    "Submission Deadline": "2026-10-02T23:59:59-12:00",
+    "Submission Deadline": "2026-10-02T23:59:59+00:00",
     "Notification": "",
     "link": "https://datacompressionconference.org/"
   },
