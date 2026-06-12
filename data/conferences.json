@@ -6600,6 +6600,19 @@
     "link": "https://wine2026conf.github.io/"
   },
   {
+    "name": "SIGCSE 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Sacramento, California, USA",
+    "Start Date": "Feb 17 2027",
+    "End Date": "Feb 20 2027",
+    "Abstract Deadline": "2026-06-26T23:59:59-12:00",
+    "Submission Deadline": "2026-07-03T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://sigcse2026.sigcse.org/"
+  },
+  {
     "name": "ICSPS 2026",
     "sub": [
       "Wireless/Communication"
@@ -7425,6 +7438,19 @@
     "link": "https://www.ndss-symposium.org/ndss2027/"
   },
   {
+    "name": "2026 IDeaS Conference",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Pittsburgh, Pennsylvania, United States",
+    "Start Date": "Oct 12 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 21 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IUI 2026",
     "sub": [
       "Computer-Human Interaction",
@@ -7638,6 +7664,19 @@
     "link": ""
   },
   {
+    "name": "IMCOM 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Taipei, Taiwan",
+    "Start Date": "Jan 04 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 16 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "FAST 2027 - Spring deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -7750,6 +7789,19 @@
     ],
     "Location": "Vienna, Austria",
     "Start Date": "Jan 19 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICMLC 2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Feb 26 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Sep 25 2026",
@@ -7965,6 +8017,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Nov 05 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICDIP 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Beijing, China",
+    "Start Date": "Apr 16 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 10 2026",
     "Notification": "",
     "link": ""
   },
@@ -8504,6 +8569,19 @@
     "link": "https://wisec2025.gmu.edu/"
   },
   {
+    "name": "ACR'27",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Dublin, Ireland",
+    "Start Date": "Jul 12 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "AIMedTech",
     "sub": [
       "Wireless/Communication"
@@ -8523,6 +8601,19 @@
     ],
     "Location": "Stavropol, Russia",
     "Start Date": "Oct 06 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "AMICT 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Federal Territory of Labuan, Malaysia",
+    "Start Date": "Nov 12 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
@@ -8567,6 +8658,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://arci-conference.com"
+  },
+  {
+    "name": "BCR’27",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Nice, France",
+    "Start Date": "May 03 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "Bioinformatics, Biomedical Engineering, and Biotechnology Exploring New Frontiers in Healthcare (BioXplore 2026 UMY)",
@@ -8804,6 +8908,19 @@
     "link": "https://sites.google.com/di.uniroma1.it/esorics2026/"
   },
   {
+    "name": "FACTUM27",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Beijing, China",
+    "Start Date": "Jun 30 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "FDTC 2026",
     "sub": [
       "Security & Privacy"
@@ -9039,6 +9156,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://phmconf.org"
+  },
+  {
+    "name": "ICR’27",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Barcelona, Spain",
+    "Start Date": "Aug 23 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "IEEE 14 th Asia-Pacific Conference on Antennas and Propagation (APCAP 2026)",
