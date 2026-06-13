@@ -5350,19 +5350,6 @@
     "link": ""
   },
   {
-    "name": "HAICTA 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Kos, Greece",
-    "Start Date": "Sep 30 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 31 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICNS3",
     "sub": [
       "Network System"
@@ -5903,19 +5890,6 @@
     "link": ""
   },
   {
-    "name": "PRICAI 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Guangzhou, China",
-    "Start Date": "Nov 17 2026",
-    "End Date": "Nov 20 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-06-13T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2026.pricai.org/"
-  },
-  {
     "name": "ABS 2026",
     "sub": [
       "Wireless/Communication"
@@ -5962,6 +5936,19 @@
     ],
     "Location": "Tempe, Arizona, USA, Arizona, United States",
     "Start Date": "Nov 12 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "HAICTA 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Kos, Greece",
+    "Start Date": "Sep 30 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 15 2026",
@@ -6362,6 +6349,19 @@
     "Submission Deadline": "Jun 28 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "PRICAI 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Guangzhou, China",
+    "Start Date": "Nov 17 2026",
+    "End Date": "Nov 20 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-27T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.pricai.org/"
   },
   {
     "name": "CASCON 2026",
@@ -7440,7 +7440,8 @@
   {
     "name": "2026 IDeaS Conference",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Pittsburgh, Pennsylvania, United States",
     "Start Date": "Oct 12 2026",
@@ -7525,8 +7526,8 @@
     "Location": "Disney Springs, Buena Vista, FL, USA",
     "Start Date": "Jan 05 2027",
     "End Date": "Jan 09 2027",
-    "Abstract Deadline": "2026-08-20T23:59:00-12:00",
-    "Submission Deadline": "2026-08-27T23:59:59-12:00",
+    "Abstract Deadline": "2026-08-21T23:59:00-12:00",
+    "Submission Deadline": "2026-08-28T23:59:59-12:00",
     "Notification": "",
     "link": "https://wacv.thecvf.com/"
   },
@@ -9160,7 +9161,8 @@
   {
     "name": "ICR’27",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Barcelona, Spain",
     "Start Date": "Aug 23 2027",
