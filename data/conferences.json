@@ -3769,58 +3769,6 @@
     "link": "https://sgp26.org/"
   },
   {
-    "name": "CHES 2026 - Schedule for TCHES Volume 2026/1",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Türkiye",
-    "Start Date": "Oct 11 2026",
-    "End Date": "Oct 15 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-04-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://ches.iacr.org/2026/"
-  },
-  {
-    "name": "CHES 2026 - Schedule for TCHES Volume 2026/2",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Türkiye",
-    "Start Date": "Oct 11 2026",
-    "End Date": "Oct 15 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-04-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://ches.iacr.org/2026/"
-  },
-  {
-    "name": "CHES 2026 - Schedule for TCHES Volume 2026/3",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Türkiye",
-    "Start Date": "Oct 11 2026",
-    "End Date": "Oct 15 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-04-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://ches.iacr.org/2026/"
-  },
-  {
-    "name": "CHES 2026 - Schedule for TCHES Volume 2026/4",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Türkiye",
-    "Start Date": "Oct 11 2026",
-    "End Date": "Oct 15 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-04-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://ches.iacr.org/2026/"
-  },
-  {
     "name": "JCC 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -6926,6 +6874,19 @@
     "link": ""
   },
   {
+    "name": "CHES 2026 - Schedule for TCHES Volume 2026/1",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "TBD, Americas",
+    "Start Date": "Oct 11 2026",
+    "End Date": "Oct 15 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-07-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ches.iacr.org/2026/"
+  },
+  {
     "name": "AI-SMARTHealth 2026",
     "sub": [
       "Security & Privacy",
@@ -7398,19 +7359,6 @@
     "link": "https://mmm2026.cz/"
   },
   {
-    "name": "WSDM 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Cordis, Hong Kong SAR, China",
-    "Start Date": "Feb 15 2027",
-    "End Date": "Feb 19 2027",
-    "Abstract Deadline": "2026-08-11T23:59:59-12:00",
-    "Submission Deadline": "2026-08-18T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://wsdm-conference.org/2026/"
-  },
-  {
     "name": "ISGT Asia 2026",
     "sub": [
       "Security & Privacy"
@@ -7506,6 +7454,19 @@
     "link": "https://bigdataieee.org/BigData2026/"
   },
   {
+    "name": "WSDM 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Cordis, Hong Kong SAR, China",
+    "Start Date": "Feb 15 2027",
+    "End Date": "Feb 19 2027",
+    "Abstract Deadline": "2026-08-17T23:59:59-12:00",
+    "Submission Deadline": "2026-08-24T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://wsdm-conference.org/2026/"
+  },
+  {
     "name": "WACV 2026 - Second round",
     "sub": [
       "Artificial Intelligence"
@@ -7513,8 +7474,8 @@
     "Location": "Disney Springs, Buena Vista, FL, USA",
     "Start Date": "Jan 05 2027",
     "End Date": "Jan 09 2027",
-    "Abstract Deadline": "2026-08-20T23:59:00-12:00",
-    "Submission Deadline": "2026-08-27T23:59:59-12:00",
+    "Abstract Deadline": "2026-08-21T23:59:00-12:00",
+    "Submission Deadline": "2026-08-28T23:59:59-12:00",
     "Notification": "",
     "link": "https://wacv.thecvf.com/"
   },
@@ -7917,6 +7878,19 @@
     "link": ""
   },
   {
+    "name": "CHES 2026 - Schedule for TCHES Volume 2026/2",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "TBD, Americas",
+    "Start Date": "Oct 11 2026",
+    "End Date": "Oct 15 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ches.iacr.org/2026/"
+  },
+  {
     "name": "SIGMOD 2027 - round 1",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -8111,6 +8085,19 @@
     "Submission Deadline": "2027-01-11T23:59:00-12:00",
     "Notification": "",
     "link": "https://www.sigmetrics.org/sigmetrics2027/"
+  },
+  {
+    "name": "CHES 2026 - Schedule for TCHES Volume 2026/3",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "TBD, Americas",
+    "Start Date": "Oct 11 2026",
+    "End Date": "Oct 15 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ches.iacr.org/2026/"
   },
   {
     "name": "USENIX Security 2026 - Cycle 2 Deadline",
@@ -8321,6 +8308,19 @@
     "Submission Deadline": "Mar 05 2027",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "CHES 2026 - Schedule for TCHES Volume 2026/4",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "TBD, Americas",
+    "Start Date": "Oct 11 2026",
+    "End Date": "Oct 15 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-04-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ches.iacr.org/2026/"
   },
   {
     "name": "6GCTT 2027",
