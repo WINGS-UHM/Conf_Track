@@ -7628,7 +7628,8 @@
   {
     "name": "IMCOM 2027",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Taipei, Taiwan",
     "Start Date": "Jan 04 2027",
@@ -9850,6 +9851,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://2026.softcom.fesb.unist.hr"
+  },
+  {
+    "name": "SPIoT 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Haikou, China",
+    "Start Date": "Nov 06 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "SpliTech 2026",
