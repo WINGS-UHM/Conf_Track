@@ -5695,19 +5695,6 @@
     "link": ""
   },
   {
-    "name": "CSAI 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Beijing, China",
-    "Start Date": "Dec 18 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "Cyber-AI 2026",
     "sub": [
       "Security & Privacy"
@@ -5897,19 +5884,6 @@
     ],
     "Location": "Kos, Greece",
     "Start Date": "Sep 30 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICAISG 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Hangzhou, China",
-    "Start Date": "Nov 20 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 15 2026",
@@ -6652,6 +6626,19 @@
     "link": ""
   },
   {
+    "name": "CSAI 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Beijing, China",
+    "Start Date": "Dec 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "EEET 2026",
     "sub": [
       "Wireless/Communication"
@@ -7238,6 +7225,19 @@
     "Submission Deadline": "2026-08-03T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.eacl.org/"
+  },
+  {
+    "name": "ICAISG 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Hangzhou, China",
+    "Start Date": "Nov 20 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 05 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "CIDR 2026",
