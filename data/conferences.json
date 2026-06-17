@@ -5865,19 +5865,6 @@
     "link": ""
   },
   {
-    "name": "EAI SmartGIFT 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Tempe, Arizona, USA, Arizona, United States",
-    "Start Date": "Nov 12 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "HAICTA 2026",
     "sub": [
       "Wireless/Communication"
@@ -6788,6 +6775,19 @@
     ],
     "Location": "Rabat, Morocco",
     "Start Date": "Nov 25 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "EAI SmartGIFT 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tempe, Arizona, USA, Arizona, United States",
+    "Start Date": "Nov 12 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 15 2026",
@@ -8751,6 +8751,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://ccci.udg.edu"
+  },
+  {
+    "name": "CCNIS 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Chongqing, China",
+    "Start Date": "Sep 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "CERC 2026",
