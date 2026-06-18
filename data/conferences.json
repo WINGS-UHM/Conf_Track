@@ -6457,6 +6457,19 @@
     "link": "https://ictai.computer.org/2026/"
   },
   {
+    "name": "ICPADS 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Tokyo, Japan",
+    "Start Date": "Nov 22 2026",
+    "End Date": "Nov 26 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.cloud-conf.net/icpads2026"
+  },
+  {
     "name": "ICSE 2027 - Single Submission Cycle Deadline",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -7333,19 +7346,6 @@
     "link": ""
   },
   {
-    "name": "APNHR2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Badung Regency, Bali, Indonesia",
-    "Start Date": "Oct 05 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 17 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "MMM 2026",
     "sub": [
       "Graphics"
@@ -7491,6 +7491,19 @@
     "Submission Deadline": "2026-08-28T23:59:59-12:00",
     "Notification": "",
     "link": "https://wacv.thecvf.com/"
+  },
+  {
+    "name": "APNHR2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Badung Regency, Bali, Indonesia",
+    "Start Date": "Oct 05 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 31 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "IEEE VR 2026",
@@ -8962,19 +8975,6 @@
     "link": "http://www.mecoconference.me"
   },
   {
-    "name": "Full Scientific Conference Program Now Available! Secure your Early Bird spot by 22 April.",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://nordic-digihealth.com"
-  },
-  {
     "name": "Global 6G Conference 2026",
     "sub": [
       "Wireless/Communication"
@@ -9903,6 +9903,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://eng.ed.ac.uk/csndsp-2026"
+  },
+  {
+    "name": "Thank you for participating in Nordic Conference on Digital Health and Wireless Solutions 2026!",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://nordic-digihealth.com"
   },
   {
     "name": "The 10th International Conference on Ubiquitous Networking",
