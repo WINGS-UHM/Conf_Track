@@ -145,20 +145,6 @@
     "link": "https://conf.researchr.org/home/icse-2026"
   },
   {
-    "name": "INFOCOM 2026",
-    "sub": [
-      "Network System",
-      "Uncategorized"
-    ],
-    "Location": "Tokyo, Japan",
-    "Start Date": "May 18 2026",
-    "End Date": "May 21 2026",
-    "Abstract Deadline": "2025-07-24T23:59:59-12:00",
-    "Submission Deadline": "2025-07-31T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://infocom2026.ieee-infocom.org/"
-  },
-  {
     "name": "NDSS 2026 - Summer",
     "sub": [
       "Network and System Security",
@@ -6062,20 +6048,6 @@
     "link": ""
   },
   {
-    "name": "CrystalFreeIoT 2026",
-    "sub": [
-      "Wireless/Communication",
-      "Network System"
-    ],
-    "Location": "Dresden, Germany",
-    "Start Date": "Sep 16 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICCC 2026",
     "sub": [
       "Wireless/Communication"
@@ -6392,19 +6364,6 @@
     "link": ""
   },
   {
-    "name": "NAS 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Wuhan, China",
-    "Start Date": "Oct 30 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "EWDTS 2026",
     "sub": [
       "Wireless/Communication"
@@ -6572,6 +6531,20 @@
     "Submission Deadline": "2026-07-05T17:00:00-05:00",
     "Notification": "",
     "link": "https://ieeebibm.org/BIBM2026/"
+  },
+  {
+    "name": "CrystalFreeIoT 2026",
+    "sub": [
+      "Wireless/Communication",
+      "Network System"
+    ],
+    "Location": "Dresden, Germany",
+    "Start Date": "Sep 16 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 06 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICECCS2026",
@@ -6828,6 +6801,19 @@
     ],
     "Location": "Sana'a, Yemen",
     "Start Date": "Dec 01 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "NAS 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Wuhan, China",
+    "Start Date": "Oct 30 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 15 2026",
@@ -7186,6 +7172,20 @@
     "Submission Deadline": "2026-07-31T23:59:59-12:00",
     "Notification": "",
     "link": "https://hpca-conf.org/2026/"
+  },
+  {
+    "name": "INFOCOM 2026",
+    "sub": [
+      "Network System",
+      "Uncategorized"
+    ],
+    "Location": "Honolulu, HI, USA",
+    "Start Date": "May 24 2027",
+    "End Date": "May 27 2027",
+    "Abstract Deadline": "2026-07-24T23:59:59-12:00",
+    "Submission Deadline": "2026-07-31T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://infocom2026.ieee-infocom.org/"
   },
   {
     "name": "ACM SIGCITE 2026",
