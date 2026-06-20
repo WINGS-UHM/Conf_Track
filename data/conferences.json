@@ -471,19 +471,6 @@
     "link": "https://ecir2026.eu/"
   },
   {
-    "name": "EUROCRYPT 2026",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Rome, Italy",
-    "Start Date": "May 10 2026",
-    "End Date": "May 14 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-10-02T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://eurocrypt.iacr.org/2026/"
-  },
-  {
     "name": "PerCom 2026",
     "sub": [
       "Computer-Human Interaction",
@@ -562,19 +549,6 @@
     "Submission Deadline": "2025-10-13T19:59:59+10:00",
     "Notification": "",
     "link": "https://noms2026.ieee-noms.org/"
-  },
-  {
-    "name": "ISCAS 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "SHANGHAI, CHINA",
-    "Start Date": "May 24 2026",
-    "End Date": "May 27 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-10-12T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2026.ieee-iscas.org/"
   },
   {
     "name": "CVM 2026",
@@ -7733,6 +7707,19 @@
     "link": "https://www.usenix.org/conference/nsdi26"
   },
   {
+    "name": "EUROCRYPT 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Eindhoven, Netherlands",
+    "Start Date": "Apr 11 2027",
+    "End Date": "Apr 15 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-17T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://eurocrypt.iacr.org/2026/"
+  },
+  {
     "name": "MMSys 2027",
     "sub": [
       "Network System"
@@ -7890,6 +7877,19 @@
     "Submission Deadline": "Oct 12 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ISCAS 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Bordeaux, France",
+    "Start Date": "Jun 06 2027",
+    "End Date": "Jun 09 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-13T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.ieee-iscas.org/"
   },
   {
     "name": "CHES 2026 - Schedule for TCHES Volume 2026/2",
@@ -9107,12 +9107,12 @@
     "link": "https://icdsg.org/2026"
   },
   {
-    "name": "ICET 2026 The 9th International Conference on Electronics Technology",
+    "name": "ICET 2027 The 10th International Conference on Electronics Technology",
     "sub": [
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "ICET 2025 was successfully held in Chengdu During May 18-20,",
+    "Start Date": "ICET 2026 was successfully held in Chengdu During May 29-31,",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
