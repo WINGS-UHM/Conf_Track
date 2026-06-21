@@ -5655,19 +5655,6 @@
     "link": ""
   },
   {
-    "name": "Cyber-AI 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Bucharest, Romania",
-    "Start Date": "Sep 22 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICCSTE2026",
     "sub": [
       "Network System"
@@ -6579,6 +6566,19 @@
     ],
     "Location": "Beijing, China",
     "Start Date": "Dec 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "Cyber-AI 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Bucharest, Romania",
+    "Start Date": "Sep 22 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 10 2026",
