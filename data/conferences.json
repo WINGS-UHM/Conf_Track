@@ -5865,20 +5865,6 @@
     "link": ""
   },
   {
-    "name": "OGC2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Shenzhen, China",
-    "Start Date": "Sep 08 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "PlattformPrivatheit26",
     "sub": [
       "Security & Privacy"
@@ -5970,91 +5956,12 @@
     "link": "https://attend.ieee.org/slt-2026/"
   },
   {
-    "name": "AAAC 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Hongkong, China",
-    "Start Date": "Aug 21 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "AutonomousCyber 2026",
     "sub": [
       "Security & Privacy"
     ],
     "Location": "Rome, Italy",
     "Start Date": "Sep 14 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "CCET 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Taiyuan, China",
-    "Start Date": "Aug 14 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICCC 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Chengdu, China",
-    "Start Date": "Nov 11 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICCS 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Hangzhou, China",
-    "Start Date": "Sep 18 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICICN 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Xi'an, China",
-    "Start Date": "Sep 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICIT 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Shanghai, China",
-    "Start Date": "Dec 11 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 20 2026",
@@ -6073,19 +5980,6 @@
     "Submission Deadline": "2026-06-20T23:59:59+08:00",
     "Notification": "",
     "link": "http://tcci.ccf.org.cn/conference/2026/"
-  },
-  {
-    "name": "IS'26",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Varna, Bulgaria",
-    "Start Date": "Sep 03 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 22 2026",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "ISC 2026",
@@ -6455,12 +6349,38 @@
     "link": "https://sigcse2026.sigcse.org/"
   },
   {
+    "name": "AAAC 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Hongkong, China",
+    "Start Date": "Aug 21 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 05 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICSPS 2026",
     "sub": [
       "Wireless/Communication"
     ],
     "Location": "Xiamen, China",
     "Start Date": "Oct 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 05 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IS'26",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Varna, Bulgaria",
+    "Start Date": "Sep 03 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 05 2026",
@@ -6553,6 +6473,19 @@
     ],
     "Location": "Astana, Kazakhstan",
     "Start Date": "Oct 16 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CCET 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Taiyuan, China",
+    "Start Date": "Aug 14 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 10 2026",
@@ -6808,6 +6741,20 @@
     "link": ""
   },
   {
+    "name": "OGC2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Shenzhen, China",
+    "Start Date": "Sep 08 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "SoCC 2026 - Second round",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -6887,6 +6834,46 @@
     "link": ""
   },
   {
+    "name": "ICCC 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Chengdu, China",
+    "Start Date": "Nov 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICCS 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Hangzhou, China",
+    "Start Date": "Sep 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICICN 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Xi'an, China",
+    "Start Date": "Sep 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ISS 2026 - Winter round",
     "sub": [
       "Computer–Human Interaction"
@@ -6909,6 +6896,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 24 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICIT 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Shanghai, China",
+    "Start Date": "Dec 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 25 2026",
     "Notification": "",
     "link": ""
   },
@@ -7267,6 +7267,19 @@
     "link": ""
   },
   {
+    "name": "ICTDSE2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Christchurch, New Zealand",
+    "Start Date": "Nov 30 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 11 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "DAI 2026 - Research / Industry Track",
     "sub": [
       "Artificial Intelligence"
@@ -7316,6 +7329,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "Nordsec'26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Aarhus, Denmark",
+    "Start Date": "Nov 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 17 2026",
     "Notification": "",
     "link": ""
   },
@@ -7807,6 +7833,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Sep 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "JCUN 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Bogotá, D.C, Colombia",
+    "Start Date": "Oct 21 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 01 2026",
     "Notification": "",
     "link": ""
   },
