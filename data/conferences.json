@@ -2177,19 +2177,6 @@
     "link": "https://networking.ifip.org/2026/"
   },
   {
-    "name": "SIGKDD 2026 - 1st round of 2 total rounds",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Jeju, Korea",
-    "Start Date": "Aug 09 2026",
-    "End Date": "Aug 13 2026",
-    "Abstract Deadline": "2026-02-01T23:59:59-12:00",
-    "Submission Deadline": "2026-02-08T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://kdd2026.kdd.org/"
-  },
-  {
     "name": "SIGKDD 2026 - 2nd round of 2 total rounds",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -6939,6 +6926,19 @@
     "link": ""
   },
   {
+    "name": "SIGKDD 2026 - 1st round of 2 total rounds",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "San Jose, California, USA",
+    "Start Date": "Aug 09 2026",
+    "End Date": "Aug 13 2026",
+    "Abstract Deadline": "2026-07-19T23:59:59-12:00",
+    "Submission Deadline": "2026-07-26T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://kdd2026.kdd.org/"
+  },
+  {
     "name": "AAAI 2026",
     "sub": [
       "Artificial Intelligence"
@@ -8807,7 +8807,8 @@
   {
     "name": "CCNIS 2026",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Chongqing, China",
     "Start Date": "Sep 18 2026",
