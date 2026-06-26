@@ -315,19 +315,6 @@
     "link": "https://www.usenix.net/conference/fast26"
   },
   {
-    "name": "FC 2026 - Submission deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "St. Kitts",
-    "Start Date": "Mar 02 2026",
-    "End Date": "Mar 06 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-09-16T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://fc26.ifca.ai/"
-  },
-  {
     "name": "ICLR 2026",
     "sub": [
       "Artificial Intelligence"
@@ -5956,19 +5943,6 @@
     "link": "https://isc2026.github.io/"
   },
   {
-    "name": "Thank you for attending ICICSP 2026!",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 25 2026",
-    "Notification": "",
-    "link": "https://www.icsp.org"
-  },
-  {
     "name": "ISPEC2026",
     "sub": [
       "Security & Privacy"
@@ -6887,6 +6861,19 @@
     "link": ""
   },
   {
+    "name": "Thank you for attending ICICSP 2026!",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 25 2026",
+    "Notification": "",
+    "link": "https://www.icsp.org"
+  },
+  {
     "name": "ICAI'26",
     "sub": [
       "Wireless/Communication"
@@ -7731,6 +7718,19 @@
     "Submission Deadline": "2026-09-17T23:59:59-12:00",
     "Notification": "",
     "link": "https://eurocrypt.iacr.org/2026/"
+  },
+  {
+    "name": "FC 2026 - Submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Barbados (tentative)",
+    "Start Date": "Feb 08 2027",
+    "End Date": "Feb 12 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-17T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://fc26.ifca.ai/"
   },
   {
     "name": "MMSys 2027",
