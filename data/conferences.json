@@ -486,19 +486,6 @@
     "link": "https://www2026.thewebconf.org/"
   },
   {
-    "name": "AAMAS 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Paphos, Cyprus",
-    "Start Date": "May 27 2026",
-    "End Date": "May 29 2026",
-    "Abstract Deadline": "2025-10-01T23:59:59-12:00",
-    "Submission Deadline": "2025-10-08T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://cyprusconferences.org/aamas2026"
-  },
-  {
     "name": "EDBT 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -6154,6 +6141,19 @@
     "link": ""
   },
   {
+    "name": "WITCOM 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Oaxaca, Mexico",
+    "Start Date": "Nov 03 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "EWDTS 2026",
     "sub": [
       "Wireless/Communication"
@@ -6558,6 +6558,19 @@
     "link": "https://www.siam.org/conferences-events/siam-conferences/soda26/"
   },
   {
+    "name": "ERN 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Rome, Italy",
+    "Start Date": "Sep 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 11 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ASP-DAC 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -6629,6 +6642,19 @@
     ],
     "Location": "Tempe, Arizona, USA, Arizona, United States",
     "Start Date": "Nov 12 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "EmTech26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Dec 05 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 15 2026",
@@ -7102,6 +7128,19 @@
     ],
     "Location": "Tokyo, Japan",
     "Start Date": "Jan 20 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ITNAC 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Melbourne, Australia",
+    "Start Date": "Nov 25 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 01 2026",
@@ -7892,6 +7931,19 @@
     "link": ""
   },
   {
+    "name": "AAMAS 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Hanoi, Vietnam",
+    "Start Date": "May 03 2027",
+    "End Date": "May 03 2027",
+    "Abstract Deadline": "2026-10-02T11:59:00+00:00",
+    "Submission Deadline": "2026-10-09T11:59:00+00:00",
+    "Notification": "",
+    "link": "https://cyprusconferences.org/aamas2026"
+  },
+  {
     "name": "CAIB 2026",
     "sub": [
       "Wireless/Communication"
@@ -7981,6 +8033,19 @@
     "Submission Deadline": "2026-10-17T23:59:00-12:00",
     "Notification": "",
     "link": "https://2027.sigmod.org/"
+  },
+  {
+    "name": "ICAID 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Paris, France",
+    "Start Date": "Mar 17 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 20 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICCAE 2027",
@@ -8129,7 +8194,8 @@
   {
     "name": "SIGMETRICS 2027 - summer round",
     "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
+      "Computer Architecture/Parallel Programming/Storage Technology",
+      "Uncategorized"
     ],
     "Location": "Atlanta, Georgia, USA",
     "Start Date": "Jun 07 2027",
@@ -8649,6 +8715,19 @@
     "link": "http://www.ai-medtech.eu"
   },
   {
+    "name": "AISecP 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Chengdu, China",
+    "Start Date": "Jun 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "AISMA-2026",
     "sub": [
       "Security & Privacy"
@@ -9121,6 +9200,19 @@
     "link": ""
   },
   {
+    "name": "ICCP 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Cluj-Napoca, Romania",
+    "Start Date": "Oct 22 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICCSP’26",
     "sub": [
       "Wireless/Communication"
@@ -9322,7 +9414,7 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Glasgow, Scotland",
+    "Location": "30 May 2027",
     "Start Date": "May 24 2026",
     "End Date": "",
     "Abstract Deadline": "",
