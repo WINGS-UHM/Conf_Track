@@ -6363,19 +6363,6 @@
     "link": ""
   },
   {
-    "name": "ICECCS2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Brisbane, Australia",
-    "Start Date": "Nov 23 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 06 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ACCV 2026",
     "sub": [
       "Artificial Intelligence"
@@ -6560,7 +6547,8 @@
   {
     "name": "ERN 2026",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Rome, Italy",
     "Start Date": "Sep 29 2026",
@@ -6827,6 +6815,19 @@
     ],
     "Location": "Hangzhou, China",
     "Start Date": "Sep 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICECCS2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Brisbane, Australia",
+    "Start Date": "Nov 23 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 20 2026",
@@ -7137,7 +7138,8 @@
   {
     "name": "ITNAC 2026",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Melbourne, Australia",
     "Start Date": "Nov 25 2026",
