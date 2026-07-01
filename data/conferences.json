@@ -6035,20 +6035,6 @@
     "link": ""
   },
   {
-    "name": "APCC 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Xi'an, China",
-    "Start Date": "Nov 10 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "CSPE 2026",
     "sub": [
       "Security & Privacy"
@@ -6068,32 +6054,6 @@
     ],
     "Location": "Ouarzazate, Morocco",
     "Start Date": "Jul 25 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICITES 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Hangzhou, China",
-    "Start Date": "Sep 18 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICMEE 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Guangzhou, China",
-    "Start Date": "Dec 29 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 30 2026",
@@ -6121,19 +6081,6 @@
     ],
     "Location": "Trento, Italy",
     "Start Date": "Sep 01 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "IICT-2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Bangalore, India",
-    "Start Date": "Oct 02 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 30 2026",
@@ -6402,6 +6349,19 @@
     "link": "https://formal-analysis.com/iceccs/2026/"
   },
   {
+    "name": "IICT-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Bangalore, India",
+    "Start Date": "Oct 02 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 08 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "AIST-2026",
     "sub": [
       "Network System"
@@ -6643,6 +6603,19 @@
     ],
     "Location": "Hong Kong, China",
     "Start Date": "Dec 05 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICITES 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Hangzhou, China",
+    "Start Date": "Sep 18 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 15 2026",
@@ -6953,6 +6926,20 @@
     "link": "https://aaai.org/conference/aaai/aaai-26/"
   },
   {
+    "name": "APCC 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Xi'an, China",
+    "Start Date": "Nov 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICAIT 2026",
     "sub": [
       "Wireless/Communication"
@@ -7116,6 +7103,19 @@
     ],
     "Location": "Dallas, Texas, United States",
     "Start Date": "Nov 06 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICMEE 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Guangzhou, China",
+    "Start Date": "Dec 29 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 01 2026",
@@ -7521,6 +7521,19 @@
     "link": ""
   },
   {
+    "name": "JETNET 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Goa, India",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IEEE VR 2026",
     "sub": [
       "Graphics"
@@ -7850,19 +7863,6 @@
     "Submission Deadline": "2026-09-25T23:59:59-12:00",
     "Notification": "",
     "link": "https://conf.researchr.org/home/saner-2026"
-  },
-  {
-    "name": "JETNET 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Goa, India",
-    "Start Date": "Oct 26 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 30 2026",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "JCUN 2026",
