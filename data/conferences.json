@@ -6075,19 +6075,6 @@
     "link": ""
   },
   {
-    "name": "IDFC2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Trento, Italy",
-    "Start Date": "Sep 01 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "WITCOM 2026",
     "sub": [
       "Security & Privacy"
@@ -6643,6 +6630,19 @@
     ],
     "Location": "Sana'a, Yemen",
     "Start Date": "Dec 01 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IDFC2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Trento, Italy",
+    "Start Date": "Sep 01 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 15 2026",
