@@ -445,19 +445,6 @@
     "link": "https://virtual.aistats.org/Conferences/2026"
   },
   {
-    "name": "ECIR 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Delft, The Netherlands",
-    "Start Date": "Mar 30 2026",
-    "End Date": "Apr 01 2026",
-    "Abstract Deadline": "2025-09-25T23:59:59-12:00",
-    "Submission Deadline": "2025-10-02T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://ecir2026.eu/"
-  },
-  {
     "name": "PerCom 2026",
     "sub": [
       "Computer-Human Interaction",
@@ -6179,19 +6166,6 @@
     "link": "https://inscrypt2026.comp.polyu.edu.hk"
   },
   {
-    "name": "IEEE DETECT 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Syracuse (Sicily), Italy",
-    "Start Date": "Nov 10 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 03 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "WINE 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -6545,6 +6519,19 @@
     "link": ""
   },
   {
+    "name": "UTI 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Beijing, China",
+    "Start Date": "Jul 27 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 12 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "AIMEH'26",
     "sub": [
       "Wireless/Communication"
@@ -6848,6 +6835,19 @@
     "link": ""
   },
   {
+    "name": "IEEE DETECT 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Syracuse (Sicily), Italy",
+    "Start Date": "Nov 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 24 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICIT 2026",
     "sub": [
       "Network System"
@@ -7139,7 +7139,8 @@
     "name": "ITNAC 2026",
     "sub": [
       "Wireless/Communication",
-      "Network System"
+      "Network System",
+      "Security & Privacy"
     ],
     "Location": "Melbourne, Australia",
     "Start Date": "Nov 25 2026",
@@ -7575,6 +7576,19 @@
     "link": ""
   },
   {
+    "name": "IC-ISHCT2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Gandhinagar, India",
+    "Start Date": "Sep 24 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ASPLOS 2027 - September Cycle Submission Deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -7892,6 +7906,19 @@
     "link": "https://datacompressionconference.org/"
   },
   {
+    "name": "ECIR 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Southampton, UK",
+    "Start Date": "Mar 21 2027",
+    "End Date": "Mar 25 2027",
+    "Abstract Deadline": "2026-09-25T23:59:59+00:00",
+    "Submission Deadline": "2026-10-02T23:59:59+00:00",
+    "Notification": "",
+    "link": "https://ecir2026.eu/"
+  },
+  {
     "name": "FSE 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -8073,6 +8100,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "‎‎ICBDAIA27",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Sofia, Bulgaria",
+    "Start Date": "Apr 21 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 31 2026",
     "Notification": "",
     "link": ""
   },
@@ -9735,6 +9775,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "Military Technical College",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.mtc.edu.eg/mtcwebsite/Conference.aspx"
   },
   {
     "name": "Minisite Global",
