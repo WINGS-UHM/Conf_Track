@@ -6101,19 +6101,6 @@
     "link": ""
   },
   {
-    "name": "RelStat-2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Riga, Latvia",
-    "Start Date": "Oct 15 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICTAI 2026",
     "sub": [
       "Artificial Intelligence"
@@ -6696,6 +6683,19 @@
     ],
     "Location": "Detroit, Michigan, United States",
     "Start Date": "Nov 05 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 16 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "RelStat-2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Riga, Latvia",
+    "Start Date": "Oct 15 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 16 2026",
