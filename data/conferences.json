@@ -8156,6 +8156,20 @@
     "link": ""
   },
   {
+    "name": "ICIET 2026",
+    "sub": [
+      "Security & Privacy",
+      "Network System"
+    ],
+    "Location": "Osaka, Japan",
+    "Start Date": "Apr 09 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICDE 2027 - second round",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -8234,6 +8248,19 @@
     "link": "https://asiaccs2026.cse.iitkgp.ac.in/"
   },
   {
+    "name": "ICCAR 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Nanchang, China",
+    "Start Date": "Apr 23 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "SIGMETRICS 2027 - summer round",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology",
@@ -8259,6 +8286,19 @@
     "Submission Deadline": "2027-01-15T23:59:59-12:00",
     "Notification": "",
     "link": "https://ches.iacr.org/2026/"
+  },
+  {
+    "name": "ICET 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Chengdu, China",
+    "Start Date": "May 14 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 25 2027",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "USENIX Security 2026 - Cycle 2 Deadline",
@@ -9301,19 +9341,6 @@
     ],
     "Location": "Izmir, Turkey",
     "Start Date": "Jul 27 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICIET 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Amaravati, India",
-    "Start Date": "Aug 21 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
