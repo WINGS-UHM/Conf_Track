@@ -198,19 +198,6 @@
     "link": "https://www.asplos-conference.org/asplos2026/cfp/"
   },
   {
-    "name": "PPoPP 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Sydney, Australia",
-    "Start Date": "Jan 31 2026",
-    "End Date": "Feb 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-09-01T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://ppopp26.sigplan.org/"
-  },
-  {
     "name": "EDBT 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -6244,20 +6231,6 @@
     "link": "https://ieeebibm.org/BIBM2026/"
   },
   {
-    "name": "CrystalFreeIoT 2026",
-    "sub": [
-      "Wireless/Communication",
-      "Network System"
-    ],
-    "Location": "Dresden, Germany",
-    "Start Date": "Sep 16 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 06 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ACCV 2026",
     "sub": [
       "Artificial Intelligence"
@@ -6407,19 +6380,6 @@
     ],
     "Location": "Berlin, Germany",
     "Start Date": "Nov 02 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "WDSC2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Jeju, South Korea",
-    "Start Date": "Aug 18 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 10 2026",
@@ -6743,6 +6703,20 @@
     "link": "https://conferences.sigcomm.org/hotnets/2026/"
   },
   {
+    "name": "CrystalFreeIoT 2026",
+    "sub": [
+      "Wireless/Communication",
+      "Network System"
+    ],
+    "Location": "Dresden, Germany",
+    "Start Date": "Sep 16 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "FPS'2026",
     "sub": [
       "Security & Privacy"
@@ -6841,6 +6815,19 @@
     ],
     "Location": "Syracuse (Sicily), Italy",
     "Start Date": "Nov 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 24 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "WDSC2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Jeju, South Korea",
+    "Start Date": "Aug 18 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 24 2026",
@@ -7228,6 +7215,19 @@
     "Submission Deadline": "2026-08-03T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.eacl.org/"
+  },
+  {
+    "name": "PPoPP 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Salt Lake City, Utah, USA",
+    "Start Date": "Mar 20 2027",
+    "End Date": "Mar 24 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-03T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ppopp26.sigplan.org/"
   },
   {
     "name": "ICAISG 2026",
