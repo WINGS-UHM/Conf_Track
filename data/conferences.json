@@ -6075,19 +6075,6 @@
     "link": ""
   },
   {
-    "name": "ICCT 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Zhuhai, China",
-    "Start Date": "Oct 16 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICTAI 2026",
     "sub": [
       "Artificial Intelligence"
@@ -6179,19 +6166,6 @@
     "link": ""
   },
   {
-    "name": "ICSPS 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Xiamen, China",
-    "Start Date": "Oct 23 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 05 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "IS'26",
     "sub": [
       "Network System"
@@ -6231,6 +6205,19 @@
     "link": "https://ieeebibm.org/BIBM2026/"
   },
   {
+    "name": "IDFC2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Trento, Italy",
+    "Start Date": "Sep 01 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 06 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ACCV 2026",
     "sub": [
       "Artificial Intelligence"
@@ -6255,19 +6242,6 @@
     "Submission Deadline": "2026-07-05T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.acml-conf.org/2026/"
-  },
-  {
-    "name": "ICECCS 2026 - Full paper submission",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Brisbane, Australia",
-    "Start Date": "Nov 23 2026",
-    "End Date": "Nov 24 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-07-06T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://formal-analysis.com/iceccs/2026/"
   },
   {
     "name": "IICT-2026",
@@ -6571,19 +6545,6 @@
     "link": ""
   },
   {
-    "name": "IDFC2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Trento, Italy",
-    "Start Date": "Sep 01 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "NAS 2026",
     "sub": [
       "Network System"
@@ -6781,6 +6742,19 @@
     "Submission Deadline": "Jul 20 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ICECCS 2026 - Abstract and full paper submission",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Brisbane, Australia",
+    "Start Date": "Nov 23 2026",
+    "End Date": "Nov 24 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-07-20T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://formal-analysis.com/iceccs/2026/"
   },
   {
     "name": "ISS 2026 - Winter round",
@@ -7256,6 +7230,19 @@
     "link": "https://www.cidrdb.org/cidr2026/"
   },
   {
+    "name": "ICCT 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Zhuhai, China",
+    "Start Date": "Oct 16 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "Ucom 2026",
     "sub": [
       "Network System",
@@ -7342,6 +7329,19 @@
     ],
     "Location": "Ho Chi Minh, Viet Nam",
     "Start Date": "Oct 08 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICSPS 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Xiamen, China",
+    "Start Date": "Oct 23 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 15 2026",
