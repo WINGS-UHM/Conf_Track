@@ -6427,19 +6427,6 @@
     "link": "https://hpcn.exeter.ac.uk/ica3pp2026/"
   },
   {
-    "name": "ACM RACS 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Fukuoka, Japan",
-    "Start Date": "Nov 17 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 12 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "UTI 2026",
     "sub": [
       "Security & Privacy"
@@ -6662,6 +6649,19 @@
     "Submission Deadline": "2026-07-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://conferences.sigcomm.org/hotnets/2026/"
+  },
+  {
+    "name": "ACM RACS 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Fukuoka, Japan",
+    "Start Date": "Nov 17 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 19 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "CrystalFreeIoT 2026",
