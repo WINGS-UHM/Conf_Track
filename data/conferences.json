@@ -5917,20 +5917,6 @@
     "link": ""
   },
   {
-    "name": "OTCN 2026",
-    "sub": [
-      "Wireless/Communication",
-      "Network System"
-    ],
-    "Location": "Singapore, Singapore",
-    "Start Date": "Sep 11 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 27 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ADMA 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -6322,32 +6308,6 @@
     "link": ""
   },
   {
-    "name": "IOI-2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Exeter, UK",
-    "Start Date": "Oct 26 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "IUCC-2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Exeter, UK",
-    "Start Date": "Oct 26 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "Nullcon Berlin 2026",
     "sub": [
       "Security & Privacy"
@@ -6412,19 +6372,6 @@
     "Submission Deadline": "2026-07-10T17:00:00-12:00",
     "Notification": "",
     "link": "https://www.aspdac.com/aspdac2026/"
-  },
-  {
-    "name": "ICA3PP 2026 - Paper Submission Due",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Exeter, UK",
-    "Start Date": "Oct 26 2026",
-    "End Date": "Oct 28 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-07-10T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://hpcn.exeter.ac.uk/ica3pp2026/"
   },
   {
     "name": "UTI 2026",
@@ -6822,6 +6769,32 @@
     "link": ""
   },
   {
+    "name": "IOI-2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Exeter, UK",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IUCC-2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Exeter, UK",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "Thank you for attending ICICSP 2026!",
     "sub": [
       "Wireless/Communication"
@@ -6848,12 +6821,39 @@
     "link": ""
   },
   {
+    "name": "ICA3PP 2026 - Paper Submission Due",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Exeter, UK",
+    "Start Date": "Oct 26 2026",
+    "End Date": "Oct 28 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-07-25T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://hpcn.exeter.ac.uk/ica3pp2026/"
+  },
+  {
     "name": "ICISET 2026",
     "sub": [
       "Security & Privacy"
     ],
     "Location": "Windhoek, Namibia",
     "Start Date": "Sep 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 27 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "OTCN 2026",
+    "sub": [
+      "Wireless/Communication",
+      "Network System"
+    ],
+    "Location": "Singapore, Singapore",
+    "Start Date": "Sep 11 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 27 2026",
@@ -7189,6 +7189,19 @@
     "Submission Deadline": "2026-08-03T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.eacl.org/"
+  },
+  {
+    "name": "MMAsia 2026 - Regular Paper / Special Session Submission",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "VinUniversity, Hanoi, Vietnam",
+    "Start Date": "Dec 15 2026",
+    "End Date": "Dec 18 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-03T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.mmasia2026.org/"
   },
   {
     "name": "PPoPP 2026",
@@ -8064,6 +8077,19 @@
     "link": "https://2027.sigmod.org/"
   },
   {
+    "name": "WWW 2027",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Dublin, Ireland",
+    "Start Date": "May 10 2027",
+    "End Date": "May 14 2027",
+    "Abstract Deadline": "2026-10-11T23:59:59-12:00",
+    "Submission Deadline": "2026-10-18T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www2027.thewebconf.org/"
+  },
+  {
     "name": "ICAID 2027",
     "sub": [
       "Security & Privacy"
@@ -8329,6 +8355,19 @@
     "link": "https://www.usenix.org/conference/usenixsecurity27"
   },
   {
+    "name": "2026 8th International Conference on Computer Communication and the Internet (ICCCI)",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "May 25 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 20 2027",
+    "Notification": "",
+    "link": "https://www.iccci.org"
+  },
+  {
     "name": "PETS 2026 - Issue 4 Paper Submission Deadline",
     "sub": [
       "Network and System Security"
@@ -8561,19 +8600,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "http://www.iwcit.com"
-  },
-  {
-    "name": "2026 8th International Conference on Computer Communication and the Internet (ICCCI)",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "May 20th, 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://www.iccci.org"
   },
   {
     "name": "2026 IEEE 11th International Conference on Photonics",
@@ -10443,19 +10469,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "WWW 2027",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Dublin, Ireland",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://www2027.thewebconf.org/"
   },
   {
     "name": "بیست و دومین کنفرانس بین‌المللی انجمن رمز ایران در امنیت اطلاعات و رمزشناسی",
