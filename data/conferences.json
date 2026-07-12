@@ -1927,19 +1927,6 @@
     "link": "https://attend.ieee.org/wcci-2026/ieee-cec-2025/"
   },
   {
-    "name": "IJCNN 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Maastricht Exhibition & Congress Center, Maastricht, The Netherlands",
-    "Start Date": "Jun 21 2026",
-    "End Date": "Jun 26 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-01-31T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://attend.ieee.org/wcci-2026/"
-  },
-  {
     "name": "CARS2026",
     "sub": [
       "Security and Privacy",
@@ -6519,6 +6506,19 @@
     "link": ""
   },
   {
+    "name": "PSCare 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Almaty, Kazakhstan",
+    "Start Date": "Oct 28 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "SoCC 2026 - Second round",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -7309,6 +7309,19 @@
     "link": "https://www.adai.ai/dai/2026/index.html"
   },
   {
+    "name": "Q-Spatial2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Riverside, California, United States",
+    "Start Date": "Nov 03 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 12 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "30th Colloquium",
     "sub": [
       "Security & Privacy"
@@ -7892,6 +7905,19 @@
     "link": "https://conf.researchr.org/home/saner-2026"
   },
   {
+    "name": "CogFinTech 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "JCUN 2026",
     "sub": [
       "Security & Privacy"
@@ -8130,6 +8156,19 @@
     "link": ""
   },
   {
+    "name": "gdс-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Kharkiv, Ukraine",
+    "Start Date": "Oct 21 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 21 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "‎‎ICBDAIA27",
     "sub": [
       "Security & Privacy"
@@ -8301,6 +8340,19 @@
     "link": "https://www.sigmetrics.org/sigmetrics2027/"
   },
   {
+    "name": "ARCI' 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Geneva, Switzerland",
+    "Start Date": "Feb 10 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 15 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CHES 2026 - Schedule for TCHES Volume 2026/3",
     "sub": [
       "Network and System Security"
@@ -8353,6 +8405,19 @@
     "Submission Deadline": "2027-01-26T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/usenixsecurity27"
+  },
+  {
+    "name": "IJCNN 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Cape Town, South Africa",
+    "Start Date": "Jun 14 2027",
+    "End Date": "Jun 18 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-31T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://attend.ieee.org/wcci-2026/"
   },
   {
     "name": "2026 8th International Conference on Computer Communication and the Internet (ICCCI)",
@@ -10299,6 +10364,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://sites.google.com/view/holistic6g"
+  },
+  {
+    "name": "TSSA 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Yogyakarta, Indonesia",
+    "Start Date": "Oct 01 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "USENIX Security - Cycle 2",
