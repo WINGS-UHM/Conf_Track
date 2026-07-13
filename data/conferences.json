@@ -6256,38 +6256,12 @@
     "link": ""
   },
   {
-    "name": "CSAI 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Beijing, China",
-    "Start Date": "Dec 18 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "Cyber-AI 2026",
     "sub": [
       "Security & Privacy"
     ],
     "Location": "Bucharest, Romania",
     "Start Date": "Sep 22 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "EEET 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Tianjin, China",
-    "Start Date": "Dec 04 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 10 2026",
@@ -7241,6 +7215,32 @@
     "Submission Deadline": "2026-08-04T23:59:59-07:00",
     "Notification": "",
     "link": "https://www.cidrdb.org/cidr2026/"
+  },
+  {
+    "name": "CSAI 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Beijing, China",
+    "Start Date": "Dec 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "EEET 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tianjin, China",
+    "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 10 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICCT 2026",
