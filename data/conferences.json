@@ -707,20 +707,6 @@
     "link": "https://dasfaa2026.github.io/"
   },
   {
-    "name": "ICC 2026",
-    "sub": [
-      "Wireless/Communication",
-      "Network System"
-    ],
-    "Location": "Glasgow, Scotland, UK",
-    "Start Date": "May 24 2026",
-    "End Date": "May 28 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-10-31T00:59:59-04:00",
-    "Notification": "",
-    "link": "https://icc2026.ieee-icc.org"
-  },
-  {
     "name": "MLSys 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -6348,19 +6334,6 @@
     "link": ""
   },
   {
-    "name": "CRiSIS26",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Rabat, Morocco",
-    "Start Date": "Nov 25 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "EmTech26",
     "sub": [
       "Security & Privacy"
@@ -6387,19 +6360,6 @@
     "link": ""
   },
   {
-    "name": "ICSGSC 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Guangzhou, China",
-    "Start Date": "Dec 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "IDEASET-2026",
     "sub": [
       "Security & Privacy",
@@ -6407,19 +6367,6 @@
     ],
     "Location": "Sana'a, Yemen",
     "Start Date": "Dec 01 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "NAS 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Wuhan, China",
-    "Start Date": "Oct 30 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 15 2026",
@@ -6539,6 +6486,19 @@
     ],
     "Location": "Fukuoka, Japan",
     "Start Date": "Nov 17 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 19 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "NAS 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Wuhan, China",
+    "Start Date": "Oct 30 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 19 2026",
@@ -6908,6 +6868,19 @@
     ],
     "Location": "Siedlce, Poland",
     "Start Date": "Sep 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CRiSIS26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Rabat, Morocco",
+    "Start Date": "Nov 25 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 31 2026",
@@ -7386,6 +7359,19 @@
     "Submission Deadline": "2026-08-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://mmm2026.cz/"
+  },
+  {
+    "name": "ICSGSC 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Guangzhou, China",
+    "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 20 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ISGT Asia 2026",
@@ -7956,6 +7942,20 @@
     "Submission Deadline": "2026-10-02T23:59:59+00:00",
     "Notification": "",
     "link": "https://ecir2026.eu/"
+  },
+  {
+    "name": "ICC 2026",
+    "sub": [
+      "Wireless/Communication",
+      "Network System"
+    ],
+    "Location": "Washington, DC, USA",
+    "Start Date": "May 30 2027",
+    "End Date": "Jun 03 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-02T23:59:59-04:00",
+    "Notification": "",
+    "link": "https://icc2026.ieee-icc.org"
   },
   {
     "name": "FSE 2026",
