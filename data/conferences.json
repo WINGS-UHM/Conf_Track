@@ -6229,19 +6229,6 @@
     "link": ""
   },
   {
-    "name": "Cyber-AI 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Bucharest, Romania",
-    "Start Date": "Sep 22 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "Nullcon Berlin 2026",
     "sub": [
       "Security & Privacy"
@@ -6881,6 +6868,19 @@
     ],
     "Location": "Rabat, Morocco",
     "Start Date": "Nov 25 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "Cyber-AI 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Bucharest, Romania",
+    "Start Date": "Sep 22 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 31 2026",
