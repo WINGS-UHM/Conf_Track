@@ -1822,19 +1822,6 @@
     "link": "https://csf2026.ieee-security.org/"
   },
   {
-    "name": "CSFW 2026 - Summer",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Lisbon, Portugal",
-    "Start Date": "Jul 26 2026",
-    "End Date": "Jul 29 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-01-29T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://csf2026.ieee-security.org/"
-  },
-  {
     "name": "CSFW 2026 - Winter",
     "sub": [
       "Network and System Security"
@@ -7112,6 +7099,19 @@
     "link": "https://icaif2026.org/index.html"
   },
   {
+    "name": "CSFW 2026 - Summer",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Tokyo, Japan",
+    "Start Date": "Jul 26 2026",
+    "End Date": "Jul 29 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-03T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://csf2026.ieee-security.org/"
+  },
+  {
     "name": "EACL 2026",
     "sub": [
       "Artificial Intelligence"
@@ -8418,6 +8418,19 @@
     "Submission Deadline": "2027-01-26T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/usenixsecurity27"
+  },
+  {
+    "name": "CSFW 2027 - Winter",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Tokyo, Japan",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-28T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.ieee-security.org/TC/CSF2027/"
   },
   {
     "name": "IJCNN 2026",
