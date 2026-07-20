@@ -2826,9 +2826,9 @@
     "sub": [
       "Database/Data Mining/Information Retrieval"
     ],
-    "Location": "Naples, Italy",
-    "Start Date": "Sep 07 2026",
-    "End Date": "Sep 11 2026",
+    "Location": "Eindhoven, The Netherlands",
+    "Start Date": "Sep 20 2027",
+    "End Date": "Sep 24 2027",
     "Abstract Deadline": "2026-03-05T23:59:59-12:00",
     "Submission Deadline": "2026-03-12T23:59:59-12:00",
     "Notification": "",
@@ -3689,6 +3689,19 @@
     "Submission Deadline": "Apr 18 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "SDM 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Salt Lake City, Utah, USA",
+    "Start Date": "Nov 19 2026",
+    "End Date": "Nov 20 2026",
+    "Abstract Deadline": "2026-04-10T23:59:59-12:00",
+    "Submission Deadline": "2026-04-17T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.siam.org/conferences-events/siam-conferences/sdm26/"
   },
   {
     "name": "C2S3-26",
@@ -5864,19 +5877,6 @@
     "link": ""
   },
   {
-    "name": "ADMA 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Hong Kong, China",
-    "Start Date": "Nov 13 2026",
-    "End Date": "Nov 15 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-06-26T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://adma2026.github.io/"
-  },
-  {
     "name": "ISAAC 2026",
     "sub": [
       "Computing Theory"
@@ -6045,6 +6045,19 @@
     "Submission Deadline": "2026-06-30T23:59:59-12:00",
     "Notification": "",
     "link": "https://conf.researchr.org/home/icse-2027"
+  },
+  {
+    "name": "WISE 2026 - Extended submission deadline",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Venice, Italy",
+    "Start Date": "Nov 02 2026",
+    "End Date": "Nov 05 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conferences.sigappfr.org/wise2026/"
   },
   {
     "name": "INSCRYPT 2026 - 1st Round",
@@ -6418,9 +6431,9 @@
     "sub": [
       "Network and System Security"
     ],
-    "Location": "TBD, Americas",
-    "Start Date": "Oct 11 2026",
-    "End Date": "Oct 15 2026",
+    "Location": "Cancún, Mexico",
+    "Start Date": "Sep 06 2027",
+    "End Date": "Sep 09 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-07-15T23:59:59-12:00",
     "Notification": "",
@@ -6513,19 +6526,6 @@
     ],
     "Location": "Chengdu, China",
     "Start Date": "Nov 11 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICCS 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Hangzhou, China",
-    "Start Date": "Sep 18 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 20 2026",
@@ -7203,6 +7203,19 @@
     "link": ""
   },
   {
+    "name": "ICCS 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Hangzhou, China",
+    "Start Date": "Sep 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICCT 2026",
     "sub": [
       "Wireless/Communication"
@@ -7680,6 +7693,19 @@
     "link": "https://conf.researchr.org/home/cgo-2027"
   },
   {
+    "name": "ADMA 2026 - Special Session Paper",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Nov 13 2026",
+    "End Date": "Nov 15 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-11T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://adma2026.github.io/"
+  },
+  {
     "name": "KIMC 2026",
     "sub": [
       "Wireless/Communication"
@@ -8042,9 +8068,9 @@
     "sub": [
       "Network and System Security"
     ],
-    "Location": "TBD, Americas",
-    "Start Date": "Oct 11 2026",
-    "End Date": "Oct 15 2026",
+    "Location": "Cancún, Mexico",
+    "Start Date": "Sep 06 2027",
+    "End Date": "Sep 09 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-10-15T23:59:59-12:00",
     "Notification": "",
@@ -8370,9 +8396,9 @@
     "sub": [
       "Network and System Security"
     ],
-    "Location": "TBD, Americas",
-    "Start Date": "Oct 11 2026",
-    "End Date": "Oct 15 2026",
+    "Location": "Cancún, Mexico",
+    "Start Date": "Sep 06 2027",
+    "End Date": "Sep 09 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2027-01-15T23:59:59-12:00",
     "Notification": "",
@@ -8645,9 +8671,9 @@
     "sub": [
       "Network and System Security"
     ],
-    "Location": "TBD, Americas",
-    "Start Date": "Oct 11 2026",
-    "End Date": "Oct 15 2026",
+    "Location": "Cancún, Mexico",
+    "Start Date": "Sep 06 2027",
+    "End Date": "Sep 09 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2027-04-15T23:59:59-12:00",
     "Notification": "",
