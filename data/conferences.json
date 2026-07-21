@@ -7073,6 +7073,19 @@
     "link": ""
   },
   {
+    "name": "SATNAC 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Ballito, KZN, South Africa",
+    "Start Date": "Oct 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 02 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CSCloud 2026",
     "sub": [
       "Network and System Security"
@@ -7482,6 +7495,19 @@
     "link": "https://bigdataieee.org/BigData2026/"
   },
   {
+    "name": "COMBINE 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Newcastle under Lyme, UK",
+    "Start Date": "Sep 07 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 23 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "WSDM 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -7493,6 +7519,19 @@
     "Submission Deadline": "2026-08-24T23:59:59-12:00",
     "Notification": "",
     "link": "https://wsdm-conference.org/2026/"
+  },
+  {
+    "name": "RIC-2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Chinsali, Zambia",
+    "Start Date": "Sep 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 28 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "3DV 2027 - Supplementary material due Sep 2, 2026. All deadlines are 11:00 am PDT.",
@@ -7850,6 +7889,19 @@
     "Submission Deadline": "2026-09-17T23:59:59-12:00",
     "Notification": "",
     "link": "https://2027.acmmmsys.org"
+  },
+  {
+    "name": "IC5G 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Jaipur, India",
+    "Start Date": "Sep 28 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 20 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "DATE 2026",
@@ -8300,6 +8352,19 @@
     "link": "https://sp2027.ieee-security.org/index.html"
   },
   {
+    "name": "ICEEE 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Ankara, Turkey",
+    "Start Date": "Apr 16 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "PETS 2026 - Issue 3 Paper Submission Deadline",
     "sub": [
       "Network and System Security"
@@ -8339,6 +8404,19 @@
     "link": "https://www.usenix.org/conference/osdi26"
   },
   {
+    "name": "ICBDA2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Bangkok, Thailand",
+    "Start Date": "Apr 26 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "AsiaCCS 2026 - 2nd round Deadline",
     "sub": [
       "Network and System Security"
@@ -8350,6 +8428,19 @@
     "Submission Deadline": "2026-12-11T23:59:59-12:00",
     "Notification": "",
     "link": "https://asiaccs2026.cse.iitkgp.ac.in/"
+  },
+  {
+    "name": "ICCECE 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Kolkata, India",
+    "Start Date": "Feb 05 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 15 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICCAR 2027",
@@ -9418,6 +9509,19 @@
     ],
     "Location": "Honolulu, Hawaii, United States",
     "Start Date": "Jul 27 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICCFN 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Prague, Czechia",
+    "Start Date": "Nov 25 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
