@@ -446,6 +446,19 @@
     "link": "https://percom.org/"
   },
   {
+    "name": "EACL 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Rabat, Morocco",
+    "Start Date": "Mar 24 2026",
+    "End Date": "Mar 29 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2025-10-06T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.eacl.org/"
+  },
+  {
     "name": "WWW 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging",
@@ -4996,7 +5009,7 @@
     "link": ""
   },
   {
-    "name": "EMNLP 2026",
+    "name": "EMNLP 2026 - ARR Submission; commitment deadline: 2026-08-02",
     "sub": [
       "Artificial Intelligence"
     ],
@@ -5009,11 +5022,11 @@
     "link": "https://2026.emnlp.org/"
   },
   {
-    "name": "IJCNLP 2026 - ARR Submission; AACL-IJCNLP 2026 (the 5th AACL & 15th IJCNLP)",
+    "name": "IJCNLP 2026 - ARR Submission; commitment deadline: 2026-08-02; AACL-IJCNLP 2026 (the 5th AACL & 15th IJCNLP)",
     "sub": [
       "Artificial Intelligence"
     ],
-    "Location": "Hengqin, China",
+    "Location": "Hengqin, Zhuhai, China",
     "Start Date": "Nov 06 2026",
     "End Date": "Nov 10 2026",
     "Abstract Deadline": "",
@@ -6520,39 +6533,12 @@
     "link": ""
   },
   {
-    "name": "ICCC 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Chengdu, China",
-    "Start Date": "Nov 11 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICECCS2026",
     "sub": [
       "Security & Privacy"
     ],
     "Location": "Brisbane, Australia",
     "Start Date": "Nov 23 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICICN 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Xi'an, China",
-    "Start Date": "Sep 04 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 20 2026",
@@ -6901,6 +6887,20 @@
     "link": ""
   },
   {
+    "name": "ICICN 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Xi'an, China",
+    "Start Date": "Sep 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICONDBTM 2026",
     "sub": [
       "Wireless/Communication"
@@ -7125,7 +7125,7 @@
     "link": "https://csf2026.ieee-security.org/"
   },
   {
-    "name": "EACL 2026",
+    "name": "EACL 2027 - ARR Submission; commitment deadline: 2026-10-11",
     "sub": [
       "Artificial Intelligence"
     ],
@@ -7135,7 +7135,7 @@
     "Abstract Deadline": "",
     "Submission Deadline": "2026-08-03T23:59:59-12:00",
     "Notification": "",
-    "link": "https://2026.eacl.org/"
+    "link": "https://2027.eacl.org/"
   },
   {
     "name": "MMAsia 2026 - Regular Paper / Special Session Submission",
@@ -7385,6 +7385,19 @@
     "Submission Deadline": "2026-08-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://mmm2026.cz/"
+  },
+  {
+    "name": "ICCC 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Chengdu, China",
+    "Start Date": "Nov 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 20 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICSGSC 2026",
@@ -7758,6 +7771,19 @@
     "link": ""
   },
   {
+    "name": "Network Flows 2.0",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Bethlehem, Pennsylvania, United States",
+    "Start Date": "Jan 28 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IMCOM 2027",
     "sub": [
       "Wireless/Communication",
@@ -8101,6 +8127,19 @@
     "Submission Deadline": "Oct 12 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "NAACL 2027 - ARR Submission",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "San Francisco, California, USA",
+    "Start Date": "Jun 01 2027",
+    "End Date": "Jun 05 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-12T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2027.naacl.org/"
   },
   {
     "name": "ISCAS 2026",
@@ -8875,6 +8914,19 @@
     "link": ""
   },
   {
+    "name": "ACL 2027 - ARR Submission",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Kyoto, Japan",
+    "Start Date": "Aug 17 2027",
+    "End Date": "Aug 22 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://2027.aclweb.org/"
+  },
+  {
     "name": "ACM AsiaCCS - Cycle 2",
     "sub": [
       "Uncategorized"
@@ -9253,6 +9305,19 @@
     "link": "https://cits.udg.edu"
   },
   {
+    "name": "COLING 2027 - ARR Submission",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Macau SAR, China",
+    "Start Date": "May 09 2027",
+    "End Date": "May 14 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://2027.coling-iccl.org/"
+  },
+  {
     "name": "Connecting the world and beyond",
     "sub": [
       "Wireless/Communication"
@@ -9518,7 +9583,8 @@
   {
     "name": "ICCFN 2026",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Wireless/Communication"
     ],
     "Location": "Prague, Czechia",
     "Start Date": "Nov 25 2026",
