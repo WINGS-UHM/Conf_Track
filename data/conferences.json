@@ -7075,7 +7075,8 @@
   {
     "name": "SATNAC 2026",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Ballito, KZN, South Africa",
     "Start Date": "Oct 11 2026",
@@ -9514,6 +9515,19 @@
     "link": "http://www.ietcint.com"
   },
   {
+    "name": "https://www.ieee.org",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.ieee.org"
+  },
+  {
     "name": "https://www.ieeewamicon.org",
     "sub": [
       "Wireless/Communication"
@@ -9584,7 +9598,8 @@
     "name": "ICCFN 2026",
     "sub": [
       "Security & Privacy",
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Prague, Czechia",
     "Start Date": "Nov 25 2026",
