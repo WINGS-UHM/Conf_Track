@@ -2848,19 +2848,6 @@
     "link": "https://ecmlpkdd.org/2026/"
   },
   {
-    "name": "MobiCom 2026 - Summer Deadlines",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Austin, Texas, USA",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "2026-03-06T23:59:59-12:00",
-    "Submission Deadline": "2026-03-13T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://sigmobile.org/mobicom/2026/"
-  },
-  {
     "name": "MobiCom 2026 - Winter Deadlines",
     "sub": [
       "Network System"
@@ -7637,6 +7624,19 @@
     "Submission Deadline": "2026-08-31T23:59:59-12:00",
     "Notification": "",
     "link": "https://petsymposium.org/cfp26.php"
+  },
+  {
+    "name": "MobiCom 2026 - Summer Deadlines",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "TBD",
+    "Start Date": "Oct 18 2027",
+    "End Date": "Oct 22 2027",
+    "Abstract Deadline": "2026-08-26T23:59:59-12:00",
+    "Submission Deadline": "2026-09-02T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://sigmobile.org/mobicom/2026/"
   },
   {
     "name": "SECITC 2026",
