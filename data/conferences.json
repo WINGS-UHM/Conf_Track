@@ -486,19 +486,6 @@
     "link": "https://edbticdt2026.github.io/"
   },
   {
-    "name": "IPDPS 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "New Orleans, USA",
-    "Start Date": "May 25 2026",
-    "End Date": "May 29 2026",
-    "Abstract Deadline": "2025-10-02T23:59:59-12:00",
-    "Submission Deadline": "2025-10-09T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.ipdps.org/"
-  },
-  {
     "name": "NOMS 2026",
     "sub": [
       "Network and System Security"
@@ -1332,19 +1319,6 @@
     "Submission Deadline": "Dec 30 2025",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "SECON 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Abu Dhabi, UAE",
-    "Start Date": "Apr 27 2026",
-    "End Date": "Apr 29 2026",
-    "Abstract Deadline": "2025-12-08T23:59:59-12:00",
-    "Submission Deadline": "2025-12-30T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://secon2026.ieee-secon.org/important-dates"
   },
   {
     "name": "ICME 2026",
@@ -2268,6 +2242,19 @@
     "link": "https://www.ihmmsec.org/cms/home/home2026.html"
   },
   {
+    "name": "PODC 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Egham, England",
+    "Start Date": "Jul 06 2026",
+    "End Date": "Jul 10 2026",
+    "Abstract Deadline": "2026-02-11T23:59:59-12:00",
+    "Submission Deadline": "2026-02-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.podc.org/podc2026/"
+  },
+  {
     "name": "DIMVA 2026 - Cycle 1 submission deadline",
     "sub": [
       "Network and System Security"
@@ -2715,19 +2702,6 @@
     "link": "https://ecscw.eusset.eu/2026"
   },
   {
-    "name": "Euro-Par 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Pisa, Italy",
-    "Start Date": "Aug 24 2026",
-    "End Date": "Aug 28 2026",
-    "Abstract Deadline": "2026-02-27T23:59:59-12:00",
-    "Submission Deadline": "2026-03-06T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2026.euro-par.org/"
-  },
-  {
     "name": "ICSME 2026 - Research Papers Track",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -2846,6 +2820,19 @@
     "Submission Deadline": "2026-03-12T23:59:59-12:00",
     "Notification": "",
     "link": "https://ecmlpkdd.org/2026/"
+  },
+  {
+    "name": "Euro-Par 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Pisa, Italy",
+    "Start Date": "Aug 24 2026",
+    "End Date": "Aug 28 2026",
+    "Abstract Deadline": "2026-03-06T23:59:59-12:00",
+    "Submission Deadline": "2026-03-13T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.euro-par.org/"
   },
   {
     "name": "MobiCom 2026 - Winter Deadlines",
@@ -3464,6 +3451,19 @@
     "Submission Deadline": "2026-04-13T23:59:59-12:00",
     "Notification": "",
     "link": "https://conf.researchr.org/home/RE-2026"
+  },
+  {
+    "name": "MSST 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Santa Clara University, Santa Clara, CA, USA",
+    "Start Date": "Jun 01 2026",
+    "End Date": "Jun 05 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-14T23:59:59+00:00",
+    "Notification": "",
+    "link": "https://msstconference.org/2026/index.html"
   },
   {
     "name": "CITA 2026",
@@ -4271,6 +4271,19 @@
     "Submission Deadline": "2026-04-30T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.nspw.org/2026"
+  },
+  {
+    "name": "PACT 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Chicago, Illinois, USA",
+    "Start Date": "Oct 19 2026",
+    "End Date": "Oct 22 2026",
+    "Abstract Deadline": "2026-04-23T23:59:59-12:00",
+    "Submission Deadline": "2026-04-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://pact2026.github.io/"
   },
   {
     "name": "STSIVA 2026",
@@ -6347,20 +6360,6 @@
     "link": ""
   },
   {
-    "name": "IDEASET-2026",
-    "sub": [
-      "Security & Privacy",
-      "Network System"
-    ],
-    "Location": "Sana'a, Yemen",
-    "Start Date": "Dec 01 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "NCRAEC2026",
     "sub": [
       "Wireless/Communication"
@@ -6637,19 +6636,6 @@
     "link": ""
   },
   {
-    "name": "Thank you for attending ICICSP 2026!",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 25 2026",
-    "Notification": "",
-    "link": "https://www.icsp.org"
-  },
-  {
     "name": "ICAI'26",
     "sub": [
       "Wireless/Communication"
@@ -6894,6 +6880,20 @@
     ],
     "Location": "Bandung, Indonesia",
     "Start Date": "Nov 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jul 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IDEASET-2026",
+    "sub": [
+      "Security & Privacy",
+      "Network System"
+    ],
+    "Location": "Sana'a, Yemen",
+    "Start Date": "Dec 01 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 31 2026",
@@ -7347,6 +7347,19 @@
     "Submission Deadline": "Aug 15 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "Thank you for attending ICICSP 2026!",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 15 2026",
+    "Notification": "",
+    "link": "https://www.icsp.org"
   },
   {
     "name": "Nordsec'26",
@@ -8117,6 +8130,19 @@
     "link": "https://cyprusconferences.org/aamas2026"
   },
   {
+    "name": "IPDPS 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Seattle, USA",
+    "Start Date": "Jun 01 2027",
+    "End Date": "Jun 05 2027",
+    "Abstract Deadline": "2026-10-01T23:59:59-12:00",
+    "Submission Deadline": "2026-10-08T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.ipdps.org/"
+  },
+  {
     "name": "CAIB 2026",
     "sub": [
       "Wireless/Communication"
@@ -8403,6 +8429,19 @@
     "Submission Deadline": "Dec 01 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "SECON 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Lisbon, Portugal",
+    "Start Date": "May 05 2027",
+    "End Date": "May 07 2027",
+    "Abstract Deadline": "2025-12-08T23:59:59-12:00",
+    "Submission Deadline": "2026-11-30T23:59:59-05:00",
+    "Notification": "",
+    "link": "https://secon2026.ieee-secon.org/important-dates"
   },
   {
     "name": "PETS 2026 - Issue 3 Paper Submission Deadline",
