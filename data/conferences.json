@@ -6597,19 +6597,6 @@
     "link": ""
   },
   {
-    "name": "ICIT 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Shanghai, China",
-    "Start Date": "Dec 11 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 25 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "IOI-2026",
     "sub": [
       "Network System"
@@ -6632,19 +6619,6 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 25 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICAI'26",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Varna, Bulgaria",
-    "Start Date": "Oct 08 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 26 2026",
     "Notification": "",
     "link": ""
   },
@@ -7362,6 +7336,19 @@
     "link": "https://www.icsp.org"
   },
   {
+    "name": "ICAI'26",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Varna, Bulgaria",
+    "Start Date": "Oct 08 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 16 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "Nordsec'26",
     "sub": [
       "Security & Privacy"
@@ -7522,6 +7509,19 @@
     "link": ""
   },
   {
+    "name": "ICIT 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Shanghai, China",
+    "Start Date": "Dec 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "WSDM 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -7585,19 +7585,6 @@
     "Submission Deadline": "2026-08-28T23:59:59-12:00",
     "Notification": "",
     "link": "https://wacv.thecvf.com/"
-  },
-  {
-    "name": "APNHR2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Badung Regency, Bali, Indonesia",
-    "Start Date": "Oct 05 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 31 2026",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "JETNET 2026",
@@ -7849,6 +7836,19 @@
     "Submission Deadline": "2026-09-15T23:59:59-12:00",
     "Notification": "",
     "link": "https://wcnc2026.ieee-wcnc.org/group/21"
+  },
+  {
+    "name": "APNHR2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Badung Regency, Bali, Indonesia",
+    "Start Date": "Oct 05 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 17 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICASSP 2026",
