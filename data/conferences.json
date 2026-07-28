@@ -250,19 +250,6 @@
     "link": "https://conf.researchr.org/home/cgo-2026"
   },
   {
-    "name": "ICRA 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Vienna, Austria",
-    "Start Date": "Jun 01 2026",
-    "End Date": "Jun 05 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-09-15T23:59:00-08:00",
-    "Notification": "",
-    "link": "https://2026.ieee-icra.org/"
-  },
-  {
     "name": "VMCAI 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -6334,19 +6321,6 @@
     "link": ""
   },
   {
-    "name": "EmTech26",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Hong Kong, China",
-    "Start Date": "Dec 05 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICITES 2026",
     "sub": [
       "Wireless/Communication"
@@ -7535,6 +7509,19 @@
     "link": "https://wsdm-conference.org/2026/"
   },
   {
+    "name": "EmTech26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Dec 05 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 26 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "RIC-2026",
     "sub": [
       "Wireless/Communication"
@@ -7797,6 +7784,19 @@
     "Submission Deadline": "Sep 16 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ICRA 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Seoul, Republic of Korea",
+    "Start Date": "May 24 2027",
+    "End Date": "May 28 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-15T23:59:59-07:00",
+    "Notification": "",
+    "link": "https://2026.ieee-icra.org/"
   },
   {
     "name": "FAST 2027 - Spring deadline",
