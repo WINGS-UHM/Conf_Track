@@ -289,19 +289,6 @@
     "link": "https://www.usenix.net/conference/fast26"
   },
   {
-    "name": "ICLR 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Brazil",
-    "Start Date": "May 01 2026",
-    "End Date": "May 05 2026",
-    "Abstract Deadline": "2025-09-19T23:59:59-12:00",
-    "Submission Deadline": "2025-09-24T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://iclr.cc/Conferences/2026"
-  },
-  {
     "name": "SATML 2026",
     "sub": [
       "Network and System Security"
@@ -5101,19 +5088,6 @@
     "link": "https://bmvc2026.bmva.org/"
   },
   {
-    "name": "ASPAI' 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Palma de Mallorca, Spain",
-    "Start Date": "Jun 24 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "SIGSPATIAL 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -7574,6 +7548,32 @@
     "link": "https://wacv.thecvf.com/"
   },
   {
+    "name": "CTEA 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tunja, Colombia",
+    "Start Date": "Oct 21 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CCISC 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Wuxi, China",
+    "Start Date": "Sep 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "JETNET 2026",
     "sub": [
       "Network System"
@@ -7864,6 +7864,19 @@
     "link": "https://2026.ieeeicassp.org/"
   },
   {
+    "name": "ICLR 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "San Francisco, CA, USA",
+    "Start Date": "Apr 27 2027",
+    "End Date": "Apr 30 2027",
+    "Abstract Deadline": "2026-09-11T23:59:59-12:00",
+    "Submission Deadline": "2026-09-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://iclr.cc/Conferences/2026"
+  },
+  {
     "name": "NSDI - Cycle Spring",
     "sub": [
       "Network System",
@@ -7937,6 +7950,19 @@
     ],
     "Location": "Jaipur, India",
     "Start Date": "Sep 28 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "MobiSec 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Taichung, Taiwan",
+    "Start Date": "Dec 15 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Sep 20 2026",
@@ -8313,6 +8339,19 @@
     "link": ""
   },
   {
+    "name": "PDP 2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Barcelona, Spain",
+    "Start Date": "Mar 17 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 26 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "‎‎ICBDAIA27",
     "sub": [
       "Security & Privacy"
@@ -8535,6 +8574,19 @@
     "link": ""
   },
   {
+    "name": "CCAI2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Shanghai, China",
+    "Start Date": "May 21 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 10 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "SIGMETRICS 2027 - summer round",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology",
@@ -8653,6 +8705,19 @@
     "Submission Deadline": "Feb 20 2027",
     "Notification": "",
     "link": "https://www.iccci.org"
+  },
+  {
+    "name": "ASPAI' 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Malé, Maldives",
+    "Start Date": "Mar 23 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 28 2027",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "PETS 2026 - Issue 4 Paper Submission Deadline",
@@ -10341,6 +10406,19 @@
     "link": "https://ondm2026.de"
   },
   {
+    "name": "ONNNC 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Oct 09 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "Overture Tool",
     "sub": [
       "Wireless/Communication"
@@ -10675,6 +10753,19 @@
     ],
     "Location": "Ha Noi, Viet Nam",
     "Start Date": "Oct 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "WCNPS2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "",
+    "Start Date": "Dec 03 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
