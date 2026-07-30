@@ -6969,33 +6969,6 @@
     "link": "https://infocom2026.ieee-infocom.org/"
   },
   {
-    "name": "ACM SIGCITE 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Wilmington, North Carolina, United States",
-    "Start Date": "Nov 12 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 02 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "SATNAC 2026",
-    "sub": [
-      "Wireless/Communication",
-      "Network System"
-    ],
-    "Location": "Ballito, KZN, South Africa",
-    "Start Date": "Oct 11 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 02 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "CSCloud 2026",
     "sub": [
       "Network and System Security"
@@ -7218,6 +7191,20 @@
     "link": ""
   },
   {
+    "name": "SATNAC 2026",
+    "sub": [
+      "Wireless/Communication",
+      "Network System"
+    ],
+    "Location": "Ballito, KZN, South Africa",
+    "Start Date": "Oct 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 14 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "30th Colloquium",
     "sub": [
       "Security & Privacy"
@@ -7282,6 +7269,19 @@
     "Submission Deadline": "Aug 15 2026",
     "Notification": "",
     "link": "https://www.icsp.org"
+  },
+  {
+    "name": "ACM SIGCITE 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Wilmington, North Carolina, United States",
+    "Start Date": "Nov 12 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 16 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICAI'26",
@@ -7563,7 +7563,8 @@
   {
     "name": "CCISC 2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Security & Privacy"
     ],
     "Location": "Wuxi, China",
     "Start Date": "Sep 18 2026",
@@ -7864,19 +7865,6 @@
     "link": "https://2026.ieeeicassp.org/"
   },
   {
-    "name": "ICLR 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "San Francisco, CA, USA",
-    "Start Date": "Apr 27 2027",
-    "End Date": "Apr 30 2027",
-    "Abstract Deadline": "2026-09-11T23:59:59-12:00",
-    "Submission Deadline": "2026-09-16T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://iclr.cc/Conferences/2026"
-  },
-  {
     "name": "NSDI - Cycle Spring",
     "sub": [
       "Network System",
@@ -7959,7 +7947,8 @@
   {
     "name": "MobiSec 2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Security & Privacy"
     ],
     "Location": "Taichung, Taiwan",
     "Start Date": "Dec 15 2026",
@@ -8020,6 +8009,19 @@
     "Submission Deadline": "2026-09-24T23:59:59-12:00",
     "Notification": "",
     "link": "https://2027.eurosys.org/"
+  },
+  {
+    "name": "ICLR 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "San Francisco, CA, USA",
+    "Start Date": "May 01 2026",
+    "End Date": "May 05 2026",
+    "Abstract Deadline": "2026-09-18T23:59:59-12:00",
+    "Submission Deadline": "2026-09-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://iclr.cc/Conferences/2026"
   },
   {
     "name": "SANER 2026 - Research Track Paper submission deadline",
