@@ -159,6 +159,19 @@
     "link": "https://www.ndss-symposium.org/ndss2026/"
   },
   {
+    "name": "WSDM 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Boise, Idaho, USA",
+    "Start Date": "Feb 22 2026",
+    "End Date": "Feb 26 2026",
+    "Abstract Deadline": "2025-08-07T23:59:59-12:00",
+    "Submission Deadline": "2025-08-14T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://wsdm-conference.org/2026/"
+  },
+  {
     "name": "3DV 2026",
     "sub": [
       "Graphics"
@@ -6769,19 +6782,6 @@
     "link": ""
   },
   {
-    "name": "I2COMSAPP'26",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Nouakchott, Mauritania",
-    "Start Date": "Dec 14 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 31 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICICN 2026",
     "sub": [
       "Network System",
@@ -7092,6 +7092,19 @@
     ],
     "Location": "Tianjin, China",
     "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "I2COMSAPP'26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Nouakchott, Mauritania",
+    "Start Date": "Dec 14 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 10 2026",
@@ -7470,19 +7483,6 @@
     "link": ""
   },
   {
-    "name": "WSDM 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Cordis, Hong Kong SAR, China",
-    "Start Date": "Feb 15 2027",
-    "End Date": "Feb 19 2027",
-    "Abstract Deadline": "2026-08-17T23:59:59-12:00",
-    "Submission Deadline": "2026-08-24T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://wsdm-conference.org/2026/"
-  },
-  {
     "name": "EmTech26",
     "sub": [
       "Security & Privacy"
@@ -7564,7 +7564,8 @@
     "name": "CCISC 2026",
     "sub": [
       "Network System",
-      "Security & Privacy"
+      "Security & Privacy",
+      "Wireless/Communication"
     ],
     "Location": "Wuxi, China",
     "Start Date": "Sep 18 2026",
@@ -8457,6 +8458,19 @@
     "Submission Deadline": "2026-11-17T23:59:59-12:00",
     "Notification": "",
     "link": "https://sp2027.ieee-security.org/index.html"
+  },
+  {
+    "name": "WSDM 2027 - Short Paper",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Cordis, Hong Kong SAR, China",
+    "Start Date": "Feb 15 2027",
+    "End Date": "Feb 19 2027",
+    "Abstract Deadline": "2026-08-17T23:59:59-12:00",
+    "Submission Deadline": "2026-11-17T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://wsdm-conference.org/2027/"
   },
   {
     "name": "ICEEE 2027",
@@ -10764,7 +10778,8 @@
   {
     "name": "WCNPS2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Wireless/Communication"
     ],
     "Location": "",
     "Start Date": "Dec 03 2026",
