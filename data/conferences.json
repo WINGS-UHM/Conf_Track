@@ -642,19 +642,6 @@
     "link": "https://conference.wsu.edu/ct-rsa-2026/"
   },
   {
-    "name": "PKC 2026",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "West Palm Beach, USA",
-    "Start Date": "May 25 2026",
-    "End Date": "May 28 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-10-24T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://pkc.iacr.org/2026/"
-  },
-  {
     "name": "ICDE 2026 - second round",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -7334,6 +7321,19 @@
     "Submission Deadline": "2026-08-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://mmm2026.cz/"
+  },
+  {
+    "name": "PKC 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Taipei, Taiwan",
+    "Start Date": "Mar 01 2027",
+    "End Date": "Mar 04 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://pkc.iacr.org/2026/"
   },
   {
     "name": "ICCC 2026",
