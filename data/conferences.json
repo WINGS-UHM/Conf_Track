@@ -5682,19 +5682,6 @@
     "link": ""
   },
   {
-    "name": "Welcome to attend ICSIP 2026!",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 15 2026",
-    "Notification": "",
-    "link": "https://www.icsip.org"
-  },
-  {
     "name": "Welcome to ICCCM 2026 ( CFP Flyer Download )",
     "sub": [
       "Wireless/Communication"
@@ -8721,6 +8708,19 @@
     "Submission Deadline": "2027-01-31T23:59:59-12:00",
     "Notification": "",
     "link": "https://attend.ieee.org/wcci-2026/"
+  },
+  {
+    "name": "Welcome to attend ICSIP 2026!",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 05 2027",
+    "Notification": "",
+    "link": "https://www.icsip.org"
   },
   {
     "name": "2026 8th International Conference on Computer Communication and the Internet (ICCCI)",
