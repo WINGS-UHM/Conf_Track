@@ -6890,19 +6890,6 @@
     "link": "https://ppopp26.sigplan.org/"
   },
   {
-    "name": "ICAISG 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Hangzhou, China",
-    "Start Date": "Nov 20 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 05 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "CIDR 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -7694,6 +7681,19 @@
     "Submission Deadline": "2026-09-11T23:59:59-12:00",
     "Notification": "",
     "link": "https://adma2026.github.io/"
+  },
+  {
+    "name": "ICAISG 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Hangzhou, China",
+    "Start Date": "Nov 20 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 15 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "KIMC 2026",
