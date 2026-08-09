@@ -6995,19 +6995,6 @@
     "link": ""
   },
   {
-    "name": "ICTDSE2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Christchurch, New Zealand",
-    "Start Date": "Nov 30 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 11 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "DAI 2026 - Research / Industry Track",
     "sub": [
       "Artificial Intelligence"
@@ -7094,6 +7081,19 @@
     ],
     "Location": "Ho Chi Minh, Viet Nam",
     "Start Date": "Oct 08 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICAI 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Hangzhou, China",
+    "Start Date": "Sep 27 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 15 2026",
@@ -7203,6 +7203,19 @@
     "Submission Deadline": "2026-08-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://pkc.iacr.org/2026/"
+  },
+  {
+    "name": "ICTDSE2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Christchurch, New Zealand",
+    "Start Date": "Nov 30 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 18 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "CRiSIS26",
@@ -7352,6 +7365,19 @@
     "link": ""
   },
   {
+    "name": "IEEE AIoT 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Kobe, Japan",
+    "Start Date": "Dec 14 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 24 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICIT 2026",
     "sub": [
       "Network System"
@@ -7485,6 +7511,19 @@
     "link": ""
   },
   {
+    "name": "ICDIACS 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Raipur, India",
+    "Start Date": "Oct 27 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "JETNET 2026",
     "sub": [
       "Network System"
@@ -7548,6 +7587,19 @@
     "Submission Deadline": "2026-08-31T23:59:59-12:00",
     "Notification": "",
     "link": "https://petsymposium.org/cfp26.php"
+  },
+  {
+    "name": "SOCTHADICKconf'26",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Ibadan, Nigeria",
+    "Start Date": "Oct 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 02 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "MobiCom 2026 - Summer Deadlines",
@@ -7960,6 +8012,19 @@
     "link": "https://2027.eurosys.org/"
   },
   {
+    "name": "ICNGN 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Dec 12 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 26 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICLR 2026",
     "sub": [
       "Artificial Intelligence"
@@ -8342,6 +8407,19 @@
     "link": ""
   },
   {
+    "name": "ICSIC 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "amman, Jordan",
+    "Start Date": "Nov 24 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "PDP 2027",
     "sub": [
       "Network System"
@@ -8586,6 +8664,32 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Dec 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "Cyber Science 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Jun 16 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICCCAS2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Chengdu, China",
+    "Start Date": "May 21 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 01 2027",
     "Notification": "",
     "link": ""
   },
