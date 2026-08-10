@@ -263,19 +263,6 @@
     "link": "https://conf.researchr.org/home/cgo-2026"
   },
   {
-    "name": "VMCAI 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Rennes, France",
-    "Start Date": "Jan 12 2026",
-    "End Date": "Jan 13 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-09-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conf.researchr.org/home/VMCAI-2026"
-  },
-  {
     "name": "FAST 2026 - Spring deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -2109,19 +2096,6 @@
     "Submission Deadline": "2026-02-13T23:59:59-12:00",
     "Notification": "",
     "link": "https://eusipco2026.org/"
-  },
-  {
-    "name": "ICMR 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Amsterdam, Netherlands",
-    "Start Date": "Jun 16 2026",
-    "End Date": "Jun 19 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-02-13T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://icmr2026.org/calls.html"
   },
   {
     "name": "KR 2026",
@@ -4133,8 +4107,8 @@
       "Network System"
     ],
     "Location": "Karlsruhe, Germany",
-    "Start Date": "Nov 03 2026",
-    "End Date": "Nov 06 2026",
+    "Start Date": "Oct 12 2026",
+    "End Date": "Oct 16 2026",
     "Abstract Deadline": "2026-04-22T23:59:59-12:00",
     "Submission Deadline": "2026-04-29T23:59:59-12:00",
     "Notification": "",
@@ -4970,6 +4944,19 @@
     "link": "https://2026.aaclnet.org/"
   },
   {
+    "name": "SYSTOR 2026 - Full and Short Papers Track",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Virtual",
+    "Start Date": "Sep 08 2026",
+    "End Date": "Sep 09 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.systor.org/2026/"
+  },
+  {
     "name": "CoDis 2026",
     "sub": [
       "Wireless/Communication"
@@ -5363,6 +5350,19 @@
     "Submission Deadline": "2026-06-05T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.hotstorage.org/2026/"
+  },
+  {
+    "name": "Middleware 2026 - Round 1",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Universitat Rovira i Virgili, Tarragona, Spain",
+    "Start Date": "Dec 14 2026",
+    "End Date": "Dec 18 2026",
+    "Abstract Deadline": "2026-05-29T23:59:59-12:00",
+    "Submission Deadline": "2026-06-05T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://middleware-conf.github.io/2026/"
   },
   {
     "name": "ATS 2026",
@@ -7061,19 +7061,6 @@
     "link": ""
   },
   {
-    "name": "CISSE 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Indianapolis, Indiana, United States",
-    "Start Date": "Oct 26 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "FAIR'2026",
     "sub": [
       "Security & Privacy",
@@ -7591,7 +7578,8 @@
   {
     "name": "SOCTHADICKconf'26",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Security & Privacy"
     ],
     "Location": "Ibadan, Nigeria",
     "Start Date": "Oct 18 2026",
@@ -7735,6 +7723,19 @@
     "link": "https://adma2026.github.io/"
   },
   {
+    "name": "CISSE 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Indianapolis, Indiana, United States",
+    "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICAISG 2026",
     "sub": [
       "Security & Privacy"
@@ -7864,6 +7865,19 @@
     "Submission Deadline": "2026-09-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.ieeeicassp.org/"
+  },
+  {
+    "name": "VMCAI 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Mexico City, Mexico",
+    "Start Date": "Jan 11 2027",
+    "End Date": "Jan 12 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/VMCAI-2026"
   },
   {
     "name": "NSDI - Cycle Spring",
@@ -8289,6 +8303,19 @@
     "link": "https://ches.iacr.org/2026/"
   },
   {
+    "name": "FG 2027",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Marrakesh, Morocco",
+    "Start Date": "Apr 26 2027",
+    "End Date": "Apr 30 2027",
+    "Abstract Deadline": "2026-10-09T23:59:59-12:00",
+    "Submission Deadline": "2026-10-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://fg2027.ieee-biometrics.org/"
+  },
+  {
     "name": "SIGMOD 2027 - round 1",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -8470,6 +8497,19 @@
     "Submission Deadline": "Nov 05 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "RTAS 2027 - Submission Deadline (Firm)",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Boulder, Colorado",
+    "Start Date": "May 17 2027",
+    "End Date": "May 20 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-05T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2027.rtas.org/"
   },
   {
     "name": "ICDIP 2027",
@@ -8799,6 +8839,19 @@
     "Submission Deadline": "2027-01-28T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.ieee-security.org/TC/CSF2027/"
+  },
+  {
+    "name": "ICMR 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Singapore",
+    "Start Date": "Jun 07 2027",
+    "End Date": "Jun 10 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-31T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icmr2026.org/calls.html"
   },
   {
     "name": "IJCNN 2026",
@@ -9779,19 +9832,6 @@
     "link": ""
   },
   {
-    "name": "IAICT'2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "Authors Registration Deadline : May 30, 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "http://iaict.org"
-  },
-  {
     "name": "ICBIR2026 – 11th International Conference on Business and Industrial Research – ICBIR2026",
     "sub": [
       "Wireless/Communication"
@@ -9858,19 +9898,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://iccsp.apec.edu.in"
-  },
-  {
-    "name": "ICDSG 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://icdsg.org/2026"
   },
   {
     "name": "ICET 2027 The 10th International Conference on Electronics Technology",
@@ -10526,6 +10553,45 @@
     "link": "https://ondm2026.de"
   },
   {
+    "name": "One moment, please...",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "Authors Registration Deadline : May 30, 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "http://iaict.org"
+  },
+  {
+    "name": "One moment, please...",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://icdsg.org/2026"
+  },
+  {
+    "name": "One moment, please...",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "May 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://iccerec.com"
+  },
+  {
     "name": "ONNNC 2026",
     "sub": [
       "Network System"
@@ -10996,19 +11062,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://wiopt2026.github.io"
-  },
-  {
-    "name": "Welcoming Speech",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "May 11 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://iccerec.com"
   },
   {
     "name": "WISE2026",
