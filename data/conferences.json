@@ -6598,20 +6598,6 @@
     "link": "https://aaai.org/conference/aaai/aaai-26/"
   },
   {
-    "name": "APCC 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Xi'an, China",
-    "Start Date": "Nov 10 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "MCETS2026",
     "sub": [
       "Security & Privacy"
@@ -6903,32 +6889,6 @@
     "link": "https://www.cidrdb.org/cidr2026/"
   },
   {
-    "name": "CSAI 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Beijing, China",
-    "Start Date": "Dec 18 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "EEET 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Tianjin, China",
-    "Start Date": "Dec 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "I2COMSAPP'26",
     "sub": [
       "Security & Privacy"
@@ -6948,33 +6908,6 @@
     ],
     "Location": "Hangzhou, China",
     "Start Date": "Sep 18 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICCT 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Zhuhai, China",
-    "Start Date": "Oct 16 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "Ucom 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Hong Kong, China",
-    "Start Date": "Dec 16 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 10 2026",
@@ -7075,19 +7008,6 @@
     "link": ""
   },
   {
-    "name": "ICAI 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Hangzhou, China",
-    "Start Date": "Sep 27 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICSPS 2026",
     "sub": [
       "Wireless/Communication"
@@ -7112,19 +7032,6 @@
     "Submission Deadline": "Aug 15 2026",
     "Notification": "",
     "link": "https://www.icsp.org"
-  },
-  {
-    "name": "MMAsia 2026 - Regular Paper / Special Session Submission",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "VinUniversity, Hanoi, Vietnam",
-    "Start Date": "Dec 15 2026",
-    "End Date": "Dec 18 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-08-14T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.mmasia2026.org/"
   },
   {
     "name": "ACM SIGCITE 2026",
@@ -7483,6 +7390,20 @@
     "link": ""
   },
   {
+    "name": "APCC 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Xi'an, China",
+    "Start Date": "Nov 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CCISC 2026",
     "sub": [
       "Network System",
@@ -7491,6 +7412,19 @@
     ],
     "Location": "Wuxi, China",
     "Start Date": "Sep 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICAI 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Hangzhou, China",
+    "Start Date": "Sep 28 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 31 2026",
@@ -7520,6 +7454,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICCT 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Zhuhai, China",
+    "Start Date": "Oct 16 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 01 2026",
     "Notification": "",
     "link": ""
   },
@@ -7590,6 +7537,19 @@
     "link": ""
   },
   {
+    "name": "MMAsia 2026 - Regular Paper / Special Session Submission",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "VinUniversity, Hanoi, Vietnam",
+    "Start Date": "Dec 15 2026",
+    "End Date": "Dec 18 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.mmasia2026.org/"
+  },
+  {
     "name": "MobiCom 2026 - Summer Deadlines",
     "sub": [
       "Network System"
@@ -7618,12 +7578,52 @@
     "link": ""
   },
   {
+    "name": "CSAI 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Beijing, China",
+    "Start Date": "Dec 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "EEET 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tianjin, China",
+    "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IC-ISHCT2026",
     "sub": [
       "Security & Privacy"
     ],
     "Location": "Gandhinagar, India",
     "Start Date": "Sep 24 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "Ucom 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Dec 16 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Sep 10 2026",
@@ -8028,7 +8028,8 @@
   {
     "name": "ICNGN 2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Wireless/Communication"
     ],
     "Location": "Hong Kong, China",
     "Start Date": "Dec 12 2026",
@@ -8723,7 +8724,8 @@
   {
     "name": "ICCCAS2027",
     "sub": [
-      "Network System"
+      "Network System",
+      "Wireless/Communication"
     ],
     "Location": "Chengdu, China",
     "Start Date": "May 21 2027",
