@@ -341,19 +341,6 @@
     "link": "http://www.ifip119.org/Conferences/"
   },
   {
-    "name": "ALT 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Fields Institute, Toronto, Canada",
-    "Start Date": "Feb 23 2026",
-    "End Date": "Feb 26 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-10-02T09:59:59+00:00",
-    "Notification": "",
-    "link": "https://algorithmiclearningtheory.org/alt2026/"
-  },
-  {
     "name": "AISTATS 2026",
     "sub": [
       "Artificial Intelligence"
@@ -577,19 +564,6 @@
     "link": "https://2026.msrconf.org/"
   },
   {
-    "name": "CT-RSA 2026 - Paper submission deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "San Francisco, California, USA",
-    "Start Date": "Mar 23 2026",
-    "End Date": "Mar 26 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-10-24T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conference.wsu.edu/ct-rsa-2026/"
-  },
-  {
     "name": "ICDE 2026 - second round",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -731,19 +705,6 @@
     "Submission Deadline": "2025-11-13T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.isis.vanderbilt.edu/events/hscciccps-2026"
-  },
-  {
-    "name": "PLDI 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Boulder, Colorado, United States",
-    "Start Date": "Jun 15 2026",
-    "End Date": "Jun 19 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-11-13T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://pldi26.sigplan.org/"
   },
   {
     "name": "S&P 2026 - Second Paper submission deadline",
@@ -1585,19 +1546,6 @@
     "Submission Deadline": "2026-01-22T23:59:59-12:00",
     "Notification": "",
     "link": "https://sigir2026.org/en-AU"
-  },
-  {
-    "name": "ACNS 2026 - Cycle 1 Submission deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "New York, United States",
-    "Start Date": "Jun 22 2026",
-    "End Date": "Jun 25 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-01-23T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://acns2026.github.io/index.html"
   },
   {
     "name": "ACNS 2026 - Cycle 2 Submission deadline",
@@ -6572,19 +6520,6 @@
     "link": "https://kdd2026.kdd.org/"
   },
   {
-    "name": "PSCare 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Almaty, Kazakhstan",
-    "Start Date": "Oct 28 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 28 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "AAAI 2026",
     "sub": [
       "Artificial Intelligence"
@@ -6963,6 +6898,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 13 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "PSCare 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Almaty, Kazakhstan",
+    "Start Date": "Oct 28 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 14 2026",
     "Notification": "",
     "link": ""
   },
@@ -8252,6 +8200,19 @@
     "link": ""
   },
   {
+    "name": "ALT 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Leiden, Netherlands",
+    "Start Date": "Mar 09 2027",
+    "End Date": "Mar 12 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-12T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://algorithmiclearningtheory.org/alt2026/"
+  },
+  {
     "name": "COLING 2027 - ARR Submission",
     "sub": [
       "Artificial Intelligence"
@@ -8435,6 +8396,19 @@
     "link": ""
   },
   {
+    "name": "CT-RSA 2026 - Paper submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "San Francisco, California, USA",
+    "Start Date": "Apr 05 2027",
+    "End Date": "Apr 08 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conference.wsu.edu/ct-rsa-2026/"
+  },
+  {
     "name": "ICSIC 2026",
     "sub": [
       "Security & Privacy"
@@ -8551,6 +8525,19 @@
     "Submission Deadline": "2026-11-11T17:00:00-07:00",
     "Notification": "",
     "link": "https://icde2027.github.io/"
+  },
+  {
+    "name": "PLDI 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Atlanta, Georgia, USA",
+    "Start Date": "Jun 05 2027",
+    "End Date": "Jun 11 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-12T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://pldi26.sigplan.org/"
   },
   {
     "name": "REFSQ 2026",
@@ -8787,6 +8774,19 @@
     "Submission Deadline": "2027-01-15T23:59:59-12:00",
     "Notification": "",
     "link": "https://ches.iacr.org/2026/"
+  },
+  {
+    "name": "ACNS 2026 - Cycle 1 Submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Royal Holloway, Egham, UK",
+    "Start Date": "Jun 28 2027",
+    "End Date": "Jul 01 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-21T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://acns2026.github.io/index.html"
   },
   {
     "name": "ICET 2027",
