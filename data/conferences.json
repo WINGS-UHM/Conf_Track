@@ -1548,19 +1548,6 @@
     "link": "https://sigir2026.org/en-AU"
   },
   {
-    "name": "ACNS 2026 - Cycle 2 Submission deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "New York, United States",
-    "Start Date": "Jun 22 2026",
-    "End Date": "Jun 25 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-01-23T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://acns2026.github.io/index.html"
-  },
-  {
     "name": "EASE 2026 - Research Papers",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -6876,19 +6863,6 @@
     "link": "https://www.adai.ai/dai/2026/index.html"
   },
   {
-    "name": "Q-Spatial2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Riverside, California, United States",
-    "Start Date": "Nov 03 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 12 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICDCN2027",
     "sub": [
       "Network System"
@@ -7242,6 +7216,32 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 26 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "Q-Spatial2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Riverside, California, United States",
+    "Start Date": "Nov 03 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 26 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "DMCIS 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Busan, South Korea",
+    "Start Date": "Oct 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 28 2026",
     "Notification": "",
     "link": ""
   },
@@ -8027,6 +8027,19 @@
     "link": ""
   },
   {
+    "name": "EOCON26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "",
+    "Start Date": "Nov 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "JCUN 2026",
     "sub": [
       "Security & Privacy"
@@ -8777,6 +8790,19 @@
   },
   {
     "name": "ACNS 2026 - Cycle 1 Submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Royal Holloway, Egham, UK",
+    "Start Date": "Jun 28 2027",
+    "End Date": "Jul 01 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-21T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://acns2026.github.io/index.html"
+  },
+  {
+    "name": "ACNS 2026 - Cycle 2 Submission deadline",
     "sub": [
       "Network and System Security"
     ],
