@@ -6889,20 +6889,6 @@
     "link": ""
   },
   {
-    "name": "SATNAC 2026",
-    "sub": [
-      "Wireless/Communication",
-      "Network System"
-    ],
-    "Location": "Ballito, KZN, South Africa",
-    "Start Date": "Oct 11 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 14 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "30th Colloquium",
     "sub": [
       "Security & Privacy"
@@ -6975,6 +6961,20 @@
     ],
     "Location": "Varna, Bulgaria",
     "Start Date": "Oct 08 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 16 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "SATNAC 2026",
+    "sub": [
+      "Wireless/Communication",
+      "Network System"
+    ],
+    "Location": "Drakensberg, KwaZulu-Natal, South Africa, South Africa",
+    "Start Date": "Oct 11 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 16 2026",
