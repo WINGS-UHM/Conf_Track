@@ -8345,7 +8345,8 @@
   {
     "name": "WWW 2027",
     "sub": [
-      "Interdiscipline/Mixture/Emerging"
+      "Interdiscipline/Mixture/Emerging",
+      "Uncategorized"
     ],
     "Location": "Dublin, Ireland",
     "Start Date": "May 10 2027",
@@ -9285,14 +9286,14 @@
     "link": "https://www.sigsac.org/ccs/CCS2025/"
   },
   {
-    "name": "ACM MobiCom - Cycle 2",
+    "name": "ACM MobiCom 2026 - Cycle 2",
     "sub": [
       "Uncategorized"
     ],
     "Location": "Austin, Texas",
-    "Start Date": "Oct 26 2026",
+    "Start Date": "Oct 26 2027",
     "End Date": "",
-    "Abstract Deadline": "Mar 06 2026",
+    "Abstract Deadline": "Aug 26 2026",
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.sigmobile.org/mobicom/2026/"
@@ -10038,10 +10039,10 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Charlotte NC",
-    "Start Date": "Jun 22 2026",
+    "Location": "Berlin, Germany",
+    "Start Date": "Jun 22 2027",
     "End Date": "",
-    "Abstract Deadline": "Nov 27 2025",
+    "Abstract Deadline": "Nov 25 2026",
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://dsn2026.github.io/"
@@ -10090,8 +10091,8 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "30 May 2027",
-    "Start Date": "May 24 2026",
+    "Location": "Washington, DC",
+    "Start Date": "May 30 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
