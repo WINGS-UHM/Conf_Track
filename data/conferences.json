@@ -6916,32 +6916,6 @@
     "link": ""
   },
   {
-    "name": "ICSPS 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Xiamen, China",
-    "Start Date": "Oct 23 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "Thank you for attending ICICSP 2026!",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 15 2026",
-    "Notification": "",
-    "link": "https://www.icsp.org"
-  },
-  {
     "name": "ACM SIGCITE 2026",
     "sub": [
       "Security & Privacy"
@@ -7084,6 +7058,19 @@
     "Submission Deadline": "Aug 20 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "Thank you for attending ICICSP 2026!",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 20 2026",
+    "Notification": "",
+    "link": "https://www.icsp.org"
   },
   {
     "name": "NDSS 2027 - Summer",
@@ -7558,6 +7545,19 @@
     ],
     "Location": "Gandhinagar, India",
     "Start Date": "Sep 24 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICSPS 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Xiamen, China",
+    "Start Date": "Oct 23 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Sep 10 2026",
@@ -9364,6 +9364,19 @@
     "link": "https://www.sigmetrics.org/sigmetrics2025/"
   },
   {
+    "name": "ACM SIGMIS CPR 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Saint Louis, Missouri, United States",
+    "Start Date": "May 19 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ACM WiSec - Cycle 1",
     "sub": [
       "Uncategorized"
@@ -10653,6 +10666,19 @@
     ],
     "Location": "Padova, Italy",
     "Start Date": "Oct 26 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "QCNC 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Hokkaido, Japan",
+    "Start Date": "Mar 22 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
