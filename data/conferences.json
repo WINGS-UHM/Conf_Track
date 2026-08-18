@@ -10675,7 +10675,8 @@
   {
     "name": "QCNC 2027",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Hokkaido, Japan",
     "Start Date": "Mar 22 2027",
