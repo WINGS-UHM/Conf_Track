@@ -7115,19 +7115,6 @@
     "link": "https://iui.hosting.acm.org/2026/"
   },
   {
-    "name": "MSN 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Ningbo, China",
-    "Start Date": "Dec 18 2026",
-    "End Date": "Dec 20 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-08-20T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://ieee-msn.org/2026"
-  },
-  {
     "name": "AsiaCCS 2026 - 1st round Deadline",
     "sub": [
       "Network and System Security",
@@ -7391,6 +7378,19 @@
     "Submission Deadline": "Aug 31 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "MSN 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Ningbo, China",
+    "Start Date": "Dec 18 2026",
+    "End Date": "Dec 20 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ieee-msn.org/2026"
   },
   {
     "name": "ICCT 2026",
