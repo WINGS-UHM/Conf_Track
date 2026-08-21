@@ -7155,6 +7155,19 @@
     "link": ""
   },
   {
+    "name": "ICSCI 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Rockville, Maryland, United States",
+    "Start Date": "Oct 12 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Aug 23 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IEEE AIoT 2026",
     "sub": [
       "Security & Privacy"
@@ -7605,6 +7618,32 @@
     "link": "https://www.asplos-conference.org/asplos2027/cfp/"
   },
   {
+    "name": "AID 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Hong Kong SAR, Hong Kong",
+    "Start Date": "Dec 02 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 11 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICICT 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "London, UK",
+    "Start Date": "Feb 23 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 11 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CHI 2026",
     "sub": [
       "Computer-Human Interaction",
@@ -8014,6 +8053,19 @@
     "link": "https://conf.researchr.org/home/saner-2026"
   },
   {
+    "name": "CRCI 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Cork, Ireland",
+    "Start Date": "Dec 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 28 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CogFinTech 2026",
     "sub": [
       "Security & Privacy"
@@ -8033,6 +8085,19 @@
     ],
     "Location": "",
     "Start Date": "Nov 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ISC 12",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Istanbul, Turkey",
+    "Start Date": "Nov 19 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Sep 30 2026",
@@ -8933,6 +8998,19 @@
     "Submission Deadline": "Feb 28 2027",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "Call for Papers — Now Open!",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 01 2027",
+    "Notification": "",
+    "link": "https://ewh.ieee.org/conf/stem"
   },
   {
     "name": "PETS 2026 - Issue 4 Paper Submission Deadline",
@@ -10698,19 +10776,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "Registration Now Open!",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://ewh.ieee.org/conf/stem"
   },
   {
     "name": "SCN 2026",
