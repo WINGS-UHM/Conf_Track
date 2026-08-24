@@ -7021,45 +7021,6 @@
     "link": ""
   },
   {
-    "name": "ICCC 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Chengdu, China",
-    "Start Date": "Dec 11 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICSGSC 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Guangzhou, China",
-    "Start Date": "Dec 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ISGT Asia 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Wuhan, China",
-    "Start Date": "Oct 30 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "Thank you for attending ICICSP 2026!",
     "sub": [
       "Wireless/Communication"
@@ -7593,6 +7554,19 @@
     "link": ""
   },
   {
+    "name": "ISGT Asia 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Wuhan, China",
+    "Start Date": "Oct 30 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "Ucom 2026",
     "sub": [
       "Network System",
@@ -7956,6 +7930,32 @@
     ],
     "Location": "Jaipur, India",
     "Start Date": "Sep 28 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICCC 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Chengdu, China",
+    "Start Date": "Dec 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICSGSC 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Guangzhou, China",
+    "Start Date": "Dec 04 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Sep 20 2026",
