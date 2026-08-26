@@ -6499,8 +6499,8 @@
       "Database/Data Mining/Information Retrieval"
     ],
     "Location": "San Jose, California, USA",
-    "Start Date": "Aug 09 2026",
-    "End Date": "Aug 13 2026",
+    "Start Date": "Aug 01 2027",
+    "End Date": "Aug 05 2027",
     "Abstract Deadline": "2026-07-19T23:59:59-12:00",
     "Submission Deadline": "2026-07-26T23:59:59-12:00",
     "Notification": "",
@@ -7138,19 +7138,6 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Aug 24 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICIT 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Shanghai, China",
-    "Start Date": "Dec 11 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 25 2026",
     "Notification": "",
     "link": ""
   },
@@ -7996,6 +7983,19 @@
     ],
     "Location": "Vienna, Austria",
     "Start Date": "Jan 19 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICIT 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Shanghai, China",
+    "Start Date": "Dec 11 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Sep 25 2026",
