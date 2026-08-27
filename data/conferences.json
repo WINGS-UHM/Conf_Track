@@ -421,19 +421,6 @@
     "link": "https://noms2026.ieee-noms.org/"
   },
   {
-    "name": "CVM 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Seoul, Korea",
-    "Start Date": "Apr 10 2026",
-    "End Date": "Apr 12 2026",
-    "Abstract Deadline": "2025-10-10T23:59:59+00:00",
-    "Submission Deadline": "2025-10-13T23:59:59+00:00",
-    "Notification": "",
-    "link": "http://iccvm.org/2026/"
-  },
-  {
     "name": "PAM 2026",
     "sub": [
       "Network and System Security"
@@ -601,19 +588,6 @@
     "Submission Deadline": "2025-10-27T23:59:59-12:00",
     "Notification": "",
     "link": "https://dasfaa2026.github.io/"
-  },
-  {
-    "name": "MLSys 2026",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Bellevue, Washington, USA",
-    "Start Date": "May 17 2026",
-    "End Date": "May 22 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-10-30T20:00:00-12:00",
-    "Notification": "",
-    "link": "https://mlsys.org/"
   },
   {
     "name": "STOC 2026",
@@ -1679,19 +1653,6 @@
     "link": "https://csf2026.ieee-security.org/"
   },
   {
-    "name": "ISSTA 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Oakland, California, United States",
-    "Start Date": "Oct 03 2026",
-    "End Date": "Oct 09 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-01-29T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conf.researchr.org/home/issta-2026"
-  },
-  {
     "name": "RSS 2026",
     "sub": [
       "Artificial Intelligence"
@@ -1716,19 +1677,6 @@
     "Submission Deadline": "2026-01-31T23:59:59-12:00",
     "Notification": "",
     "link": "https://ieeecompsac.computer.org/2026/"
-  },
-  {
-    "name": "IEEE CEC 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Maastricht Exhibition & Congress Centre (MECC), The Netherlands",
-    "Start Date": "Jun 22 2026",
-    "End Date": "Jun 26 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-01-31T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://attend.ieee.org/wcci-2026/ieee-cec-2025/"
   },
   {
     "name": "CARS2026",
@@ -5617,19 +5565,6 @@
     "link": ""
   },
   {
-    "name": "Welcome to ICCCM 2026 ( CFP Flyer Download )",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 15 2026",
-    "Notification": "",
-    "link": "https://www.icccm.org"
-  },
-  {
     "name": "APBC 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -7474,6 +7409,19 @@
     "link": "https://sigmobile.org/mobicom/2026/"
   },
   {
+    "name": "CICPS 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Kolkata, India",
+    "Start Date": "Jan 29 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 07 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "SECITC 2026",
     "sub": [
       "Network System",
@@ -8214,6 +8162,19 @@
     "link": ""
   },
   {
+    "name": "CSAF26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Pomona, California, United States",
+    "Start Date": "Oct 13 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 07 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ITNG 2027",
     "sub": [
       "Network System",
@@ -8530,6 +8491,32 @@
     "link": ""
   },
   {
+    "name": "CVM 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Nanyang Technological University, Singapore",
+    "Start Date": "Apr 09 2027",
+    "End Date": "Apr 11 2027",
+    "Abstract Deadline": "2026-10-23T23:59:59+00:00",
+    "Submission Deadline": "2026-10-26T23:59:59+00:00",
+    "Notification": "",
+    "link": "http://iccvm.org/2026/"
+  },
+  {
+    "name": "MLSys 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Bellevue, Washington, USA",
+    "Start Date": "May 17 2026",
+    "End Date": "May 22 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-30T20:00:00+00:00",
+    "Notification": "",
+    "link": "https://mlsys.org/"
+  },
+  {
     "name": "‎‎ICBDAIA27",
     "sub": [
       "Security & Privacy"
@@ -8646,6 +8633,19 @@
     "Submission Deadline": "2026-11-12T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.refsq.org/"
+  },
+  {
+    "name": "MARLOG16",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Alexandria, Egypt",
+    "Start Date": "Apr 04 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 15 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "S&P 2027 - Second Paper submission deadline",
@@ -8845,6 +8845,19 @@
     "link": "https://www.sigmetrics.org/sigmetrics2027/"
   },
   {
+    "name": "ISSTA 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Singapore",
+    "Start Date": "Sep 07 2027",
+    "End Date": "Sep 10 2027",
+    "Abstract Deadline": "2027-01-08T23:59:59-12:00",
+    "Submission Deadline": "2027-01-11T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/issta-2026"
+  },
+  {
     "name": "ARCI' 2027",
     "sub": [
       "Wireless/Communication"
@@ -8856,6 +8869,19 @@
     "Submission Deadline": "Jan 15 2027",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "Welcome to ICCCM 2026 ( CFP Flyer Download )",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 15 2027",
+    "Notification": "",
+    "link": "https://www.icccm.org"
   },
   {
     "name": "CHES 2026 - Schedule for TCHES Volume 2026/3",
@@ -9027,6 +9053,19 @@
     "Submission Deadline": "Mar 01 2027",
     "Notification": "",
     "link": "https://ewh.ieee.org/conf/stem"
+  },
+  {
+    "name": "IEEE CEC 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Edinburgh, Scotland, UK",
+    "Start Date": "Jul 25 2027",
+    "End Date": "Jul 28 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-02-28T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://attend.ieee.org/wcci-2026/ieee-cec-2025/"
   },
   {
     "name": "PETS 2026 - Issue 4 Paper Submission Deadline",
@@ -9207,6 +9246,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Mar 05 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "AQTI' 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Geneva, Switzerland",
+    "Start Date": "May 03 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 05 2027",
     "Notification": "",
     "link": ""
   },
