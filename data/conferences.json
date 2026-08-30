@@ -3932,19 +3932,6 @@
     "link": ""
   },
   {
-    "name": "Intelligent Integrated Systems: From Embedded Multicore Computing to Neuromorphic and Humanoid Technologies",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "Dec 14–17, 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Apr 30 2026",
-    "Notification": "",
-    "link": "https://mcsoc-forum.org"
-  },
-  {
     "name": "NAMSP2026",
     "sub": [
       "Wireless/Communication"
@@ -8675,6 +8662,19 @@
     "link": "https://wsdm-conference.org/2027/"
   },
   {
+    "name": "Intelligent Integrated Systems: From Embedded Multicore Computing to Neuromorphic and Humanoid Technologies",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "May 12–15, 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 30 2026",
+    "Notification": "",
+    "link": "https://mcsoc-forum.org"
+  },
+  {
     "name": "ICEEE 2027",
     "sub": [
       "Wireless/Communication"
@@ -10341,7 +10341,7 @@
       "Uncategorized"
     ],
     "Location": "Montreal, Canada",
-    "Start Date": "May 18 2026",
+    "Start Date": "May 17 2027",
     "End Date": "",
     "Abstract Deadline": "Nov 10 2026",
     "Submission Deadline": "",
