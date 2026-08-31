@@ -7168,33 +7168,6 @@
     "link": ""
   },
   {
-    "name": "ICAIT 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Auckland, New Zealand",
-    "Start Date": "Nov 23 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICNCC 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Kuala Lumper, Malaysia",
-    "Start Date": "Dec 10 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "APCC 2026",
     "sub": [
       "Network System",
@@ -8037,6 +8010,33 @@
     ],
     "Location": "",
     "Start Date": "Nov 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICAIT 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Auckland, New Zealand",
+    "Start Date": "Nov 23 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICNCC 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Kuala Lumper, Malaysia",
+    "Start Date": "Dec 10 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Sep 30 2026",
