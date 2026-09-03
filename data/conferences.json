@@ -646,26 +646,13 @@
     "sub": [
       "Artificial Intelligence"
     ],
-    "Location": "Denver, Colorado, United States",
-    "Start Date": "Jun 03 2026",
-    "End Date": "Jun 07 2026",
+    "Location": "Seattle, WA, United States",
+    "Start Date": "Jun 20 2027",
+    "End Date": "Jun 24 2027",
     "Abstract Deadline": "2025-11-06T23:59:00-12:00",
     "Submission Deadline": "2025-11-13T23:59:00-12:00",
     "Notification": "",
     "link": "https://cvpr.thecvf.com/Conferences/2026"
-  },
-  {
-    "name": "SenSys 2026 - 2nd deadline",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "New York, USA",
-    "Start Date": "May 17 2027",
-    "End Date": "May 20 2027",
-    "Abstract Deadline": "2025-11-06T23:59:00-12:00",
-    "Submission Deadline": "2025-11-13T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://sensys.acm.org/2026/"
   },
   {
     "name": "HSCC 2026",
@@ -5174,7 +5161,7 @@
       "Network System",
       "Uncategorized"
     ],
-    "Location": "New York, USA",
+    "Location": "Boulder, CO, USA",
     "Start Date": "May 17 2027",
     "End Date": "May 20 2027",
     "Abstract Deadline": "2026-05-29T23:59:00-12:00",
@@ -8544,6 +8531,19 @@
     "link": ""
   },
   {
+    "name": "SenSys 2026 - 2nd deadline",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Boulder, CO, USA",
+    "Start Date": "May 17 2027",
+    "End Date": "May 20 2027",
+    "Abstract Deadline": "2026-10-29T23:59:00-12:00",
+    "Submission Deadline": "2026-11-05T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://sensys.acm.org/2026/"
+  },
+  {
     "name": "RTAS 2027 - Submission Deadline (Firm)",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -10516,6 +10516,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.icmmts.org/home"
+  },
+  {
+    "name": "Know About VNIT, Nagpur",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://vnit.ac.in/ISAMET-26"
   },
   {
     "name": "LCR2026",
