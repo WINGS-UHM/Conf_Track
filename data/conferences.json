@@ -642,19 +642,6 @@
     "link": "https://2026.rtas.org/"
   },
   {
-    "name": "CVPR 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Seattle, WA, United States",
-    "Start Date": "Jun 20 2027",
-    "End Date": "Jun 24 2027",
-    "Abstract Deadline": "2025-11-06T23:59:00-12:00",
-    "Submission Deadline": "2025-11-13T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://cvpr.thecvf.com/Conferences/2026"
-  },
-  {
     "name": "HSCC 2026",
     "sub": [
       "Computing Theory"
@@ -4408,20 +4395,6 @@
     "link": "https://asia.siggraph.org/2026/"
   },
   {
-    "name": "AsiaJCIS 2026",
-    "sub": [
-      "Network System",
-      "Security & Privacy"
-    ],
-    "Location": "Guangdong, China",
-    "Start Date": "Aug 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "May 14 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "IISWC 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -7873,6 +7846,19 @@
     "link": "https://www.date-conference.com/call-for-papers"
   },
   {
+    "name": "WCITDAIS-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Trichy, Tamilnadu, India",
+    "Start Date": "Sep 25 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 23 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ComForEn2027",
     "sub": [
       "Wireless/Communication"
@@ -8068,6 +8054,19 @@
     "Submission Deadline": "2026-10-01T23:59:59+00:00",
     "Notification": "",
     "link": "https://eg2026.github.io/"
+  },
+  {
+    "name": "ICISS PhD Forum 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Chennai, India",
+    "Start Date": "Oct 02 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 02 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "DCC 2027",
@@ -8360,20 +8359,6 @@
     "link": "https://2027.sigmod.org/"
   },
   {
-    "name": "WWW 2027",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging",
-      "Uncategorized"
-    ],
-    "Location": "Dublin, Ireland",
-    "Start Date": "May 10 2027",
-    "End Date": "May 14 2027",
-    "Abstract Deadline": "2026-10-11T23:59:59-12:00",
-    "Submission Deadline": "2026-10-18T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www2027.thewebconf.org/"
-  },
-  {
     "name": "ICAID 2027",
     "sub": [
       "Security & Privacy"
@@ -8464,6 +8449,20 @@
     "Submission Deadline": "Oct 26 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "WWW 2027",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging",
+      "Uncategorized"
+    ],
+    "Location": "Dublin, Ireland",
+    "Start Date": "May 10 2027",
+    "End Date": "May 14 2027",
+    "Abstract Deadline": "2026-10-18T23:59:59-12:00",
+    "Submission Deadline": "2026-10-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www2027.thewebconf.org/"
   },
   {
     "name": "CVM 2026",
@@ -8634,6 +8633,19 @@
     "Submission Deadline": "Nov 15 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "CVPR 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Seattle, WA, United States",
+    "Start Date": "Jun 20 2027",
+    "End Date": "Jun 24 2027",
+    "Abstract Deadline": "2026-11-10T23:59:00-12:00",
+    "Submission Deadline": "2026-11-16T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://cvpr.thecvf.com/Conferences/2026"
   },
   {
     "name": "S&P 2027 - Second Paper submission deadline",
@@ -9004,6 +9016,19 @@
     "link": "https://attend.ieee.org/wcci-2026/"
   },
   {
+    "name": "ICSIP 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Nantong, China",
+    "Start Date": "Jul 16 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 05 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "Welcome to attend ICSIP 2026!",
     "sub": [
       "Wireless/Communication"
@@ -9260,6 +9285,20 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 05 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "AsiaJCIS 2026",
+    "sub": [
+      "Network System",
+      "Security & Privacy"
+    ],
+    "Location": "Urayasu, Japan",
+    "Start Date": "Aug 03 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 16 2027",
     "Notification": "",
     "link": ""
   },
@@ -10310,6 +10349,19 @@
     "link": "https://infocom2025.ieee-infocom.org/"
   },
   {
+    "name": "IEEE ISPA 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Kuala Lumpur, Malaysia",
+    "Start Date": "Sep 15 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IEEE Menus",
     "sub": [
       "Wireless/Communication"
@@ -10386,6 +10438,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.ieeespace.org"
+  },
+  {
+    "name": "IEEE SPI 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Riva del Garda, Italy",
+    "Start Date": "May 16 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "IFIP IoT 2026",
