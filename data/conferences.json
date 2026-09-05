@@ -341,19 +341,6 @@
     "link": "http://www.ifip119.org/Conferences/"
   },
   {
-    "name": "AISTATS 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Morocco",
-    "Start Date": "May 02 2026",
-    "End Date": "May 05 2026",
-    "Abstract Deadline": "2025-09-25T23:59:59-12:00",
-    "Submission Deadline": "2025-10-02T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://virtual.aistats.org/Conferences/2026"
-  },
-  {
     "name": "PerCom 2026",
     "sub": [
       "Computer-Human Interaction",
@@ -5734,19 +5721,6 @@
     "link": ""
   },
   {
-    "name": "EWDTS 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Samarkand, Uzbekistan",
-    "Start Date": "Sep 25 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICTAI 2026",
     "sub": [
       "Artificial Intelligence"
@@ -7740,19 +7714,6 @@
     "link": "https://eurocrypt.iacr.org/2026/"
   },
   {
-    "name": "FC 2026 - Submission deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Barbados (tentative)",
-    "Start Date": "Feb 08 2027",
-    "End Date": "Feb 12 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-09-17T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://fc26.ifca.ai/"
-  },
-  {
     "name": "MMSys 2027",
     "sub": [
       "Network System"
@@ -7909,6 +7870,19 @@
     "Submission Deadline": "2026-09-24T23:59:59-12:00",
     "Notification": "",
     "link": "https://2027.eurosys.org/"
+  },
+  {
+    "name": "FC 2026 - Submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Barbados",
+    "Start Date": "Feb 08 2027",
+    "End Date": "Feb 12 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-24T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://fc26.ifca.ai/"
   },
   {
     "name": "ICNGN 2026",
@@ -8147,6 +8121,19 @@
     "Submission Deadline": "Oct 07 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "AISTATS 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Montréal, Canada",
+    "Start Date": "May 03 2027",
+    "End Date": "May 03 2027",
+    "Abstract Deadline": "2026-09-29T23:59:59-12:00",
+    "Submission Deadline": "2026-10-06T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://virtual.aistats.org/Conferences/2026"
   },
   {
     "name": "ITNG 2027",
@@ -8476,6 +8463,19 @@
     "Submission Deadline": "2026-10-26T23:59:59+00:00",
     "Notification": "",
     "link": "http://iccvm.org/2026/"
+  },
+  {
+    "name": "EWDTS 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Batumi, Georgia",
+    "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 30 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "MLSys 2026",
@@ -9018,7 +9018,8 @@
   {
     "name": "ICSIP 2027",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Nantong, China",
     "Start Date": "Jul 16 2027",
