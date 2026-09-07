@@ -7158,32 +7158,6 @@
     "link": ""
   },
   {
-    "name": "ICMEE 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Guangzhou, China",
-    "Start Date": "Dec 29 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICSIM 2027",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Tokyo, Japan",
-    "Start Date": "Jan 20 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "IEEE VR 2026",
     "sub": [
       "Graphics"
@@ -7938,6 +7912,19 @@
     "link": ""
   },
   {
+    "name": "ICMEE 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Guangzhou, China",
+    "Start Date": "Dec 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICNCC 2026",
     "sub": [
       "Network System",
@@ -8067,6 +8054,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 04 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICSIM 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tokyo, Japan",
+    "Start Date": "Jan 20 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 05 2026",
     "Notification": "",
     "link": ""
   },
@@ -10316,8 +10316,8 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Seoul, South Korea",
-    "Start Date": "Jun 22 2026",
+    "Location": "Melbourne, Australia",
+    "Start Date": "Jul 05 2027",
     "End Date": "",
     "Abstract Deadline": "Dec 04 2024",
     "Submission Deadline": "",
