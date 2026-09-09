@@ -564,19 +564,6 @@
     "link": "https://icde2026.github.io/"
   },
   {
-    "name": "DASFAA 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Jeju Island, South Korea",
-    "Start Date": "Apr 21 2026",
-    "End Date": "Apr 24 2026",
-    "Abstract Deadline": "2025-10-20T23:59:59-12:00",
-    "Submission Deadline": "2025-10-27T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://dasfaa2026.github.io/"
-  },
-  {
     "name": "STOC 2026",
     "sub": [
       "Computing Theory"
@@ -7318,20 +7305,6 @@
     "link": ""
   },
   {
-    "name": "Ucom 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Hong Kong, China",
-    "Start Date": "Dec 16 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ASPLOS 2027 - September Cycle Submission Deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -8164,6 +8137,20 @@
     "link": "https://www.ipdps.org/"
   },
   {
+    "name": "Ucom 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Dec 16 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CAIB 2026",
     "sub": [
       "Wireless/Communication"
@@ -8647,6 +8634,19 @@
     "Submission Deadline": "2026-11-17T23:59:59-12:00",
     "Notification": "",
     "link": "https://wsdm-conference.org/2027/"
+  },
+  {
+    "name": "DASFAA 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Shenyang, China",
+    "Start Date": "May 27 2027",
+    "End Date": "May 30 2027",
+    "Abstract Deadline": "2025-10-20T23:59:59-12:00",
+    "Submission Deadline": "2026-11-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://dasfaa2026.github.io/"
   },
   {
     "name": "Intelligent Integrated Systems: From Embedded Multicore Computing to Neuromorphic and Humanoid Technologies",
