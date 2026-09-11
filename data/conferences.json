@@ -7240,32 +7240,6 @@
     "link": ""
   },
   {
-    "name": "CSAI 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Beijing, China",
-    "Start Date": "Dec 18 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "EEET 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Tianjin, China",
-    "Start Date": "Dec 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "IC-ISHCT2026",
     "sub": [
       "Security & Privacy"
@@ -7951,6 +7925,19 @@
     "link": "https://eg2026.github.io/"
   },
   {
+    "name": "ICISHCT 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Gandhinagar, India",
+    "Start Date": "Oct 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 02 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICISS PhD Forum 2026",
     "sub": [
       "Security & Privacy"
@@ -8027,6 +8014,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 04 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "EEET 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tianjin, China",
+    "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 05 2026",
     "Notification": "",
     "link": ""
   },
@@ -8135,6 +8135,19 @@
     "Submission Deadline": "2026-10-08T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.ipdps.org/"
+  },
+  {
+    "name": "CSAI 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Beijing, China",
+    "Start Date": "Dec 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 10 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "Ucom 2026",
