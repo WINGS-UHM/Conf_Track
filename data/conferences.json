@@ -707,19 +707,6 @@
     "link": "https://iscaconf.org/isca2026/"
   },
   {
-    "name": "DAC 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Long Beach, CA",
-    "Start Date": "Jul 26 2026",
-    "End Date": "Jul 29 2026",
-    "Abstract Deadline": "2025-11-11T17:00:00-08:00",
-    "Submission Deadline": "2025-11-18T17:00:00-08:00",
-    "Notification": "",
-    "link": "https://dac.com/2026/call-for-contributions"
-  },
-  {
     "name": "ESANN 2026",
     "sub": [
       "Artificial Intelligence"
@@ -7437,19 +7424,6 @@
     "link": ""
   },
   {
-    "name": "Network Flows 2.0",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Bethlehem, Pennsylvania, United States",
-    "Start Date": "Jan 28 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "IMCOM 2027",
     "sub": [
       "Wireless/Communication",
@@ -7607,6 +7581,19 @@
     "Submission Deadline": "2026-09-17T23:59:59-12:00",
     "Notification": "",
     "link": "https://2027.acmmmsys.org"
+  },
+  {
+    "name": "Network Flows 2.0",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Bethlehem, Pennsylvania, United States",
+    "Start Date": "Jan 28 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 19 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "APCC 2026",
@@ -8647,6 +8634,19 @@
     "Submission Deadline": "2026-11-17T23:59:59-12:00",
     "Notification": "",
     "link": "https://wsdm-conference.org/2027/"
+  },
+  {
+    "name": "DAC 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "San Jose, CA",
+    "Start Date": "Jul 11 2027",
+    "End Date": "Jul 14 2027",
+    "Abstract Deadline": "2025-11-11T17:00:00-08:00",
+    "Submission Deadline": "2026-11-18T17:00:00-08:00",
+    "Notification": "",
+    "link": "https://dac.com/2026/call-for-contributions"
   },
   {
     "name": "DASFAA 2026",
