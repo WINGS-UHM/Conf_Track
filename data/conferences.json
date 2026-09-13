@@ -4114,7 +4114,7 @@
     ],
     "Location": "Sydney, Australia",
     "Start Date": "Dec 06 2026",
-    "End Date": "Dec 06 2026",
+    "End Date": "Dec 12 2026",
     "Abstract Deadline": "2026-05-05T11:59:00+00:00",
     "Submission Deadline": "2026-05-07T11:59:00+00:00",
     "Notification": "",
@@ -7803,6 +7803,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Sep 28 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ACST’26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Saida, Algeria",
+    "Start Date": "Dec 06 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 30 2026",
     "Notification": "",
     "link": ""
   },
