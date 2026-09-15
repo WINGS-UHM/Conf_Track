@@ -720,19 +720,6 @@
     "link": "https://www.esann.org/"
   },
   {
-    "name": "EuroS&P 2026",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Lisbon, Portugal",
-    "Start Date": "Jul 06 2026",
-    "End Date": "Jul 10 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-11-20T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://eurosp2026.ieee-security.org/"
-  },
-  {
     "name": "MMSys 2026 - Round 2 deadline",
     "sub": [
       "Network System"
@@ -4382,6 +4369,19 @@
     "link": "https://2026.eurosys.org/"
   },
   {
+    "name": "IEEE CoG 2026 - Auxiliary Paper",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Madrid, Spain",
+    "Start Date": "Sep 01 2026",
+    "End Date": "Sep 04 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-14T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://cog2026.org/"
+  },
+  {
     "name": "AI4TCI",
     "sub": [
       "Security & Privacy"
@@ -5489,7 +5489,8 @@
     "name": "ISC 2026",
     "sub": [
       "Network and System Security",
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Rennes, France",
     "Start Date": "Oct 28 2026",
@@ -6999,19 +7000,6 @@
     "link": "https://wacv.thecvf.com/"
   },
   {
-    "name": "CTEA 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Tunja, Colombia",
-    "Start Date": "Oct 21 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "CCISC 2026",
     "sub": [
       "Network System",
@@ -7504,6 +7492,19 @@
     "link": "https://conf.researchr.org/home/VMCAI-2026"
   },
   {
+    "name": "CTEA 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tunja, Colombia",
+    "Start Date": "Oct 21 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 18 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "NSDI - Cycle Spring",
     "sub": [
       "Network System",
@@ -7797,7 +7798,8 @@
   {
     "name": "ACST’26",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Saida, Algeria",
     "Start Date": "Dec 06 2026",
@@ -8025,6 +8027,20 @@
     ],
     "Location": "Leuven, Belgium",
     "Start Date": "Oct 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 04 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "WCNPS2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "Dec 03 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 04 2026",
@@ -8884,6 +8900,19 @@
     "link": "https://dsn2026.github.io"
   },
   {
+    "name": "EuroS&P 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Madrid, Spain",
+    "Start Date": "Jul 05 2027",
+    "End Date": "Jul 09 2027",
+    "Abstract Deadline": "2026-11-25T23:59:59-12:00",
+    "Submission Deadline": "2026-12-02T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://eurosp2026.ieee-security.org/"
+  },
+  {
     "name": "SAND 2027",
     "sub": [
       "Network System"
@@ -9552,6 +9581,19 @@
     "Submission Deadline": "Apr 30 2027",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "IEEE CoG 2027 - Full Technical Paper",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Aizuwakamatsu, Japan",
+    "Start Date": "Aug 02 2027",
+    "End Date": "Aug 05 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-05-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://cog2027.u-aizu.ac.jp/"
   },
   {
     "name": "ICSSS2027",
@@ -11443,20 +11485,6 @@
     ],
     "Location": "Ha Noi, Viet Nam",
     "Start Date": "Oct 29 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "WCNPS2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "Dec 03 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
