@@ -315,32 +315,6 @@
     "link": "https://2026.eurosys.org/"
   },
   {
-    "name": "DFRWS 2026",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Linköping, Sweden",
-    "Start Date": "Mar 24 2026",
-    "End Date": "Mar 27 2026",
-    "Abstract Deadline": "2025-09-19T23:59:59-12:00",
-    "Submission Deadline": "2025-09-26T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://dfrws.org/conferences/dfrws-eu-2026/"
-  },
-  {
-    "name": "IFIP WG 11.9 2026 - Submission Deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "New Delhi, India",
-    "Start Date": "Jan 05 2026",
-    "End Date": "Jan 06 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-09-30T23:59:59-12:00",
-    "Notification": "",
-    "link": "http://www.ifip119.org/Conferences/"
-  },
-  {
     "name": "PerCom 2026",
     "sub": [
       "Computer-Human Interaction",
@@ -1045,19 +1019,6 @@
     "Submission Deadline": "2025-12-22T23:59:59-12:00",
     "Notification": "",
     "link": "https://conf.researchr.org/home/icst-2026"
-  },
-  {
-    "name": "CODASPY 2026",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Frankfurt am Main, Germany",
-    "Start Date": "Jun 23 2026",
-    "End Date": "Jun 25 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-12-26T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.codaspy.org/2026/"
   },
   {
     "name": "NetCompute 2026",
@@ -7067,21 +7028,6 @@
     "link": "https://ieee-msn.org/2026"
   },
   {
-    "name": "ICCFN 2026",
-    "sub": [
-      "Security & Privacy",
-      "Wireless/Communication",
-      "Network System"
-    ],
-    "Location": "Prague, Czechia",
-    "Start Date": "Nov 25 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICCT 2026",
     "sub": [
       "Wireless/Communication"
@@ -7466,19 +7412,6 @@
     "link": ""
   },
   {
-    "name": "ICASSP 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Toronto, Canada",
-    "Start Date": "May 16 2027",
-    "End Date": "May 21 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-09-16T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2026.ieeeicassp.org/"
-  },
-  {
     "name": "VMCAI 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -7665,6 +7598,19 @@
     "link": ""
   },
   {
+    "name": "ICASSP 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Toronto, Canada",
+    "Start Date": "May 16 2027",
+    "End Date": "May 21 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-23T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.ieeeicassp.org/"
+  },
+  {
     "name": "ComForEn2027",
     "sub": [
       "Wireless/Communication"
@@ -7755,6 +7701,19 @@
     "Submission Deadline": "Sep 26 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "DFRWS 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Edinburgh, Scotland",
+    "Start Date": "Mar 30 2027",
+    "End Date": "Apr 02 2027",
+    "Abstract Deadline": "2026-09-18T23:59:59-12:00",
+    "Submission Deadline": "2026-09-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://dfrws.org/conferences/dfrws-eu-2026/"
   },
   {
     "name": "ICLR 2026",
@@ -7885,6 +7844,21 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Sep 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICCFN 2026",
+    "sub": [
+      "Security & Privacy",
+      "Wireless/Communication",
+      "Network System"
+    ],
+    "Location": "Prague, Czechia",
+    "Start Date": "Nov 25 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 01 2026",
     "Notification": "",
     "link": ""
   },
@@ -8192,6 +8166,19 @@
     "Submission Deadline": "Oct 10 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "IFIP WG 11.9 2026 - Submission Deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "New Delhi, India",
+    "Start Date": "Jan 07 2027",
+    "End Date": "Jan 08 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "http://www.ifip119.org/Conferences/"
   },
   {
     "name": "CAIB 2026",
@@ -8770,6 +8757,19 @@
     "link": "https://dac.com/2026/call-for-contributions"
   },
   {
+    "name": "CODASPY 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Fort Collins, Colorado, USA",
+    "Start Date": "Jun 14 2027",
+    "End Date": "Jun 17 2027",
+    "Abstract Deadline": "2026-11-16T23:59:59-12:00",
+    "Submission Deadline": "2026-11-23T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.codaspy.org/2026/"
+  },
+  {
     "name": "DASFAA 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -8785,7 +8785,8 @@
   {
     "name": "IEEE LatinIoT 2027",
     "sub": [
-      "Network System"
+      "Network System",
+      "Wireless/Communication"
     ],
     "Location": "Santiago, Chile",
     "Start Date": "Apr 28 2027",
@@ -8978,6 +8979,19 @@
     "link": ""
   },
   {
+    "name": "ICDF2C 2027 - Full Paper Submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "New York, USA",
+    "Start Date": "Jun 25 2027",
+    "End Date": "Jun 27 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-12-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icdf2c.eai-conferences.org/2027/"
+  },
+  {
     "name": "ICCAR 2027",
     "sub": [
       "Wireless/Communication"
@@ -9073,7 +9087,8 @@
   {
     "name": "ICCCM 2027",
     "sub": [
-      "Network System"
+      "Network System",
+      "Wireless/Communication"
     ],
     "Location": "Tokyo, Japan",
     "Start Date": "Jul 09 2027",
@@ -9255,6 +9270,19 @@
     "Submission Deadline": "Feb 05 2027",
     "Notification": "",
     "link": "https://www.icsip.org"
+  },
+  {
+    "name": "SACMAT 2027 - Second Cycle",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Durham, England, United Kingdom",
+    "Start Date": "Jul 19 2027",
+    "End Date": "Jul 21 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-02-12T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.sacmat.org/2027/"
   },
   {
     "name": "2026 8th International Conference on Computer Communication and the Internet (ICCCI)",
@@ -9489,6 +9517,19 @@
     "Submission Deadline": "2027-03-01T23:59:59-12:00",
     "Notification": "",
     "link": "https://acisp-conference.github.io/acisp2026/index.html"
+  },
+  {
+    "name": "SecureComm 2027 - Full Paper Submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Hefei, China",
+    "Start Date": "Oct 15 2027",
+    "End Date": "Oct 18 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-03-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://securecomm.eai-conferences.org/2027/"
   },
   {
     "name": "MLET 2027",
