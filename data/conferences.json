@@ -7307,19 +7307,6 @@
     "link": ""
   },
   {
-    "name": "ICAISG 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Hangzhou, China",
-    "Start Date": "Nov 20 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "KIMC 2026",
     "sub": [
       "Wireless/Communication"
@@ -7795,6 +7782,19 @@
     "link": ""
   },
   {
+    "name": "FPS2026 - Posters",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Gatineau, Canada",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICAIT 2026",
     "sub": [
       "Wireless/Communication"
@@ -8244,6 +8244,19 @@
     "Submission Deadline": "2026-10-13T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.ieee-iscas.org/"
+  },
+  {
+    "name": "ICAISG 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Hangzhou, China",
+    "Start Date": "Nov 20 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 15 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "OOPSLA 2026 - Submission Deadline Round 1",
@@ -10897,6 +10910,19 @@
     ],
     "Location": "Oldenburg, Germany",
     "Start Date": "Jul 13 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ITASEC27",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Siena, Italy",
+    "Start Date": "Feb 08 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
