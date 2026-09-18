@@ -538,19 +538,6 @@
     "link": "https://icde2026.github.io/"
   },
   {
-    "name": "STOC 2026",
-    "sub": [
-      "Computing Theory"
-    ],
-    "Location": "Salt Lake City, Utah, USA",
-    "Start Date": "Jun 22 2026",
-    "End Date": "Jun 26 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-11-04T16:59:59-05:00",
-    "Notification": "",
-    "link": "https://acm-stoc.org/stoc2026/"
-  },
-  {
     "name": "PacificVis 2026 - Conference track",
     "sub": [
       "Graphics"
@@ -8600,6 +8587,19 @@
     "link": "https://www.ubicomp.org/ubicomp-iswc-2026"
   },
   {
+    "name": "STOC 2026",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Atlanta, Georgia, USA",
+    "Start Date": "Jun 06 2027",
+    "End Date": "Jun 11 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-02T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://acm-stoc.org/stoc2026/"
+  },
+  {
     "name": "ICAIE’2026",
     "sub": [
       "Security & Privacy"
@@ -10919,7 +10919,8 @@
   {
     "name": "ITASEC27",
     "sub": [
-      "Network System"
+      "Network System",
+      "Security & Privacy"
     ],
     "Location": "Siena, Italy",
     "Start Date": "Feb 08 2027",
