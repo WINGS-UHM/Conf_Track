@@ -8220,6 +8220,19 @@
     "link": "https://2027.naacl.org/"
   },
   {
+    "name": "WISP2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Lisbon, Portugal",
+    "Start Date": "Dec 12 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 14 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ISCAS 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -8239,6 +8252,19 @@
     ],
     "Location": "Hangzhou, China",
     "Start Date": "Nov 20 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ISPhOA 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Batusangkar, Indonesia",
+    "Start Date": "Dec 02 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 15 2026",
@@ -8501,8 +8527,8 @@
       "Interdiscipline/Mixture/Emerging"
     ],
     "Location": "Bellevue, Washington, USA",
-    "Start Date": "May 17 2026",
-    "End Date": "May 22 2026",
+    "Start Date": "Jun 21 2027",
+    "End Date": "Jun 25 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-10-30T20:00:00+00:00",
     "Notification": "",
@@ -8518,6 +8544,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "Sicherheit 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Salzburg, Austria",
+    "Start Date": "Feb 23 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 01 2026",
     "Notification": "",
     "link": ""
   },
@@ -8770,6 +8809,19 @@
     "link": "https://dac.com/2026/call-for-contributions"
   },
   {
+    "name": "SCSN27-AI",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Laguna Hills, California, United States",
+    "Start Date": "Feb 01 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 23 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CODASPY 2026",
     "sub": [
       "Network and System Security"
@@ -8953,6 +9005,19 @@
     "link": "https://www.usenix.org/conference/osdi26"
   },
   {
+    "name": "AvioSE'27",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Dortmund, Germany",
+    "Start Date": "Feb 23 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 09 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICBDA2027",
     "sub": [
       "Security & Privacy"
@@ -9003,6 +9068,19 @@
     "Submission Deadline": "2026-12-15T23:59:59-12:00",
     "Notification": "",
     "link": "https://icdf2c.eai-conferences.org/2027/"
+  },
+  {
+    "name": "SVCC 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "San Jose, California, United States",
+    "Start Date": "Jun 21 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 18 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICCAR 2027",
@@ -9223,8 +9301,8 @@
       "Network and System Security"
     ],
     "Location": "Tokyo, Japan",
-    "Start Date": "",
-    "End Date": "",
+    "Start Date": "Sep 13 2027",
+    "End Date": "Sep 17 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2027-01-28T23:59:59-12:00",
     "Notification": "",
@@ -10931,6 +11009,19 @@
     "link": ""
   },
   {
+    "name": "IWANN-2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Tenerife, Spain",
+    "Start Date": "Jun 14 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "Keynote Speakers",
     "sub": [
       "Wireless/Communication"
@@ -11264,6 +11355,19 @@
     ],
     "Location": "Maastricht, Netherlands",
     "Start Date": "Jun 21 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "SAFECOMP 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "York, UK",
+    "Start Date": "Sep 07 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
