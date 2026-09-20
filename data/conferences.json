@@ -1673,9 +1673,9 @@
       "Network System",
       "Uncategorized"
     ],
-    "Location": "Denver, Colorado, USA",
-    "Start Date": "Aug 17 2026",
-    "End Date": "Aug 21 2026",
+    "Location": "Bangkok, Thailand",
+    "Start Date": "Aug 08 2027",
+    "End Date": "Aug 12 2027",
     "Abstract Deadline": "2026-01-30T23:59:59-12:00",
     "Submission Deadline": "2026-02-06T23:59:59-12:00",
     "Notification": "",
@@ -7360,19 +7360,6 @@
     "link": "https://www.usenix.org/conference/fast27"
   },
   {
-    "name": "WCNC 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Panama City, Panama",
-    "Start Date": "Apr 05 2027",
-    "End Date": "Apr 08 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-09-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://wcnc2026.ieee-wcnc.org/group/21"
-  },
-  {
     "name": "APNHR2026",
     "sub": [
       "Network System"
@@ -8033,6 +8020,19 @@
     "Submission Deadline": "Oct 05 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "WCNC 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Panama City, Panama",
+    "Start Date": "Apr 05 2027",
+    "End Date": "Apr 08 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-05T23:59:59-04:00",
+    "Notification": "",
+    "link": "https://wcnc2026.ieee-wcnc.org/group/21"
   },
   {
     "name": "CSAF26",
@@ -9010,7 +9010,7 @@
       "Security & Privacy"
     ],
     "Location": "Dortmund, Germany",
-    "Start Date": "Feb 23 2027",
+    "Start Date": "Feb 22 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Dec 09 2026",
@@ -9072,7 +9072,8 @@
   {
     "name": "SVCC 2027",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Security & Privacy"
     ],
     "Location": "San Jose, California, United States",
     "Start Date": "Jun 21 2027",
