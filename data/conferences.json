@@ -538,6 +538,19 @@
     "link": "https://icde2026.github.io/"
   },
   {
+    "name": "RECOMB 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Toronto, Canada",
+    "Start Date": "May 17 2027",
+    "End Date": "May 20 2027",
+    "Abstract Deadline": "2025-10-28T23:59:59-12:00",
+    "Submission Deadline": "2025-11-04T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://recomb.org/recomb2026/"
+  },
+  {
     "name": "PacificVis 2026 - Conference track",
     "sub": [
       "Graphics"
@@ -614,19 +627,6 @@
     "Submission Deadline": "2025-11-13T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.ieee-security.org/TC/SP2026/"
-  },
-  {
-    "name": "RECOMB 2026",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Thessaloniki, Greece",
-    "Start Date": "May 26 2026",
-    "End Date": "May 29 2026",
-    "Abstract Deadline": "2025-11-07T23:59:59-12:00",
-    "Submission Deadline": "2025-11-14T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://recomb.org/recomb2026/"
   },
   {
     "name": "PAKDD 2026",
@@ -7493,32 +7493,6 @@
     "link": ""
   },
   {
-    "name": "ICCC 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Chengdu, China",
-    "Start Date": "Dec 11 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICSGSC 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Guangzhou, China",
-    "Start Date": "Dec 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "MobiSec 2026",
     "sub": [
       "Network System",
@@ -7758,7 +7732,8 @@
   {
     "name": "FPS2026 - Posters",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Gatineau, Canada",
     "Start Date": "",
@@ -8403,12 +8378,38 @@
     "link": ""
   },
   {
+    "name": "ICCC 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Chengdu, China",
+    "Start Date": "Dec 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICCCS2027",
     "sub": [
       "Wireless/Communication"
     ],
     "Location": "Shenzhen, China",
     "Start Date": "Apr 16 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICSGSC 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Guangzhou, China",
+    "Start Date": "Dec 04 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 20 2026",
@@ -9073,7 +9074,8 @@
     "name": "SVCC 2027",
     "sub": [
       "Wireless/Communication",
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "San Jose, California, United States",
     "Start Date": "Jun 21 2027",
