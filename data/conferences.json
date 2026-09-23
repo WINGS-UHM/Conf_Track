@@ -8456,6 +8456,20 @@
     "link": ""
   },
   {
+    "name": "QCCS 2026",
+    "sub": [
+      "Network System",
+      "Security & Privacy"
+    ],
+    "Location": "Evanston, Illinois, United States",
+    "Start Date": "Nov 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "PDP 2027",
     "sub": [
       "Network System"
@@ -8502,20 +8516,6 @@
     ],
     "Location": "Batumi, Georgia",
     "Start Date": "Dec 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "QCCS 2026",
-    "sub": [
-      "Network System",
-      "Security & Privacy"
-    ],
-    "Location": "Evanston, Illinois, United States",
-    "Start Date": "Nov 11 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 30 2026",
@@ -11567,7 +11567,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "11 & 12 Nov 2026",
+    "Start Date": "The 2nd International Conference on Emerging Systems and Advanced Technology is an international forum that aims to give researchers, scholars, and professionals a platform to share and discuss cutting-edge advancements and innovative research in the fields of applied computer science, electronics, and information technology. This conference will provide an excellent opportunity for knowledge sharing and research ideas exchange in the abovementioned disciplines for a better quality of life to meet future challenges. This conference is open to all researchers, postgraduates and post-doctoral students from all over the world. ICoESAT 2026 will be held in a hybrid format, on Nov 11-12, 2026. ICoESAT 2026 hosted by Gulf Colleges, Saudi Arabia",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
