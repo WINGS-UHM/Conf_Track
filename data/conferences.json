@@ -289,19 +289,6 @@
     "link": "https://www.usenix.net/conference/fast26"
   },
   {
-    "name": "SATML 2026",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Munich, Germany",
-    "Start Date": "Mar 23 2026",
-    "End Date": "Mar 25 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-09-24T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.satml.org"
-  },
-  {
     "name": "EuroSys 2026 - Spring Submission Deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -629,19 +616,6 @@
     "link": "https://www.ieee-security.org/TC/SP2026/"
   },
   {
-    "name": "PAKDD 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Hong Kong, China",
-    "Start Date": "Jun 09 2026",
-    "End Date": "Jun 12 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-11-15T23:59:59-08:00",
-    "Notification": "",
-    "link": "https://www.pakdd2026.org/"
-  },
-  {
     "name": "ISCA 2026 - full paper deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -836,19 +810,6 @@
     "Submission Deadline": "2025-12-05T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.cs.unibo.it/wowmom2026/"
-  },
-  {
-    "name": "ICAPS 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Dublin, Ireland",
-    "Start Date": "Jun 27 2026",
-    "End Date": "Jul 02 2026",
-    "Abstract Deadline": "2025-12-02T23:59:59-12:00",
-    "Submission Deadline": "2025-12-08T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://icaps26.icaps-conference.org/"
   },
   {
     "name": "MICETC-25-1",
@@ -1344,9 +1305,9 @@
     "sub": [
       "Graphics"
     ],
-    "Location": "Los Angeles, California",
-    "Start Date": "Jul 19 2026",
-    "End Date": "Jul 23 2026",
+    "Location": "Anaheim, California",
+    "Start Date": "Aug 08 2027",
+    "End Date": "Aug 12 2027",
     "Abstract Deadline": "2026-01-15T22:00:00+00:00",
     "Submission Deadline": "2026-01-22T22:00:00+00:00",
     "Notification": "",
@@ -1814,7 +1775,8 @@
   {
     "name": "EUSIPCO 2026",
     "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
+      "Software Engineering/Operating System/Programming Language Design",
+      "Graphics"
     ],
     "Location": "Bruges, Belgium",
     "Start Date": "Aug 31 2026",
@@ -4217,9 +4179,9 @@
     "sub": [
       "Graphics"
     ],
-    "Location": "KLCC, Kuala Lumpur, Malaysia",
-    "Start Date": "Dec 01 2026",
-    "End Date": "Dec 04 2026",
+    "Location": "Tokyo International Forum, Tokyo, Japan",
+    "Start Date": "Nov 30 2027",
+    "End Date": "Dec 03 2027",
     "Abstract Deadline": "2026-05-05T23:59:00-12:00",
     "Submission Deadline": "2026-05-12T23:59:00-12:00",
     "Notification": "",
@@ -4775,6 +4737,19 @@
     "link": "https://www.prcv.cn/web/#/home"
   },
   {
+    "name": "UIC 2026",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Rende, Italy",
+    "Start Date": "Sep 07 2026",
+    "End Date": "Sep 11 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-31T23:59:59+02:00",
+    "Notification": "",
+    "link": "https://swc-ieee-2026.github.io/uic/"
+  },
+  {
     "name": "INDEL 2026",
     "sub": [
       "Wireless/Communication"
@@ -5296,20 +5271,6 @@
     ],
     "Location": "Kos, Greece",
     "Start Date": "Sep 30 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 15 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICCSN 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Shenzhen, China",
-    "Start Date": "Jul 24 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jun 15 2026",
@@ -7797,6 +7758,19 @@
     "link": ""
   },
   {
+    "name": "SATML 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Reykjavik, Iceland",
+    "Start Date": "Mar 23 2026",
+    "End Date": "Mar 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-29T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.satml.org"
+  },
+  {
     "name": "ICCFN 2026",
     "sub": [
       "Security & Privacy",
@@ -8234,6 +8208,19 @@
     "link": ""
   },
   {
+    "name": "IEEE-IC4",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Indore, India",
+    "Start Date": "Mar 18 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ISPhOA 2026",
     "sub": [
       "Wireless/Communication"
@@ -8562,6 +8549,19 @@
     "link": ""
   },
   {
+    "name": "CSCWD 2026",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Brisbane, Australia",
+    "Start Date": "May 26 2027",
+    "End Date": "May 28 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-31T23:59:59-12:00",
+    "Notification": "",
+    "link": "http://2026.cscwd.org"
+  },
+  {
     "name": "EuroGP 2027 - Full papers",
     "sub": [
       "Artificial Intelligence"
@@ -8808,6 +8808,19 @@
     "Submission Deadline": "2026-11-18T17:00:00-08:00",
     "Notification": "",
     "link": "https://dac.com/2026/call-for-contributions"
+  },
+  {
+    "name": "PAKDD 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Wellington, New Zealand",
+    "Start Date": "Jun 29 2027",
+    "End Date": "Jul 02 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-20T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.pakdd2026.org/"
   },
   {
     "name": "SCSN27-AI",
@@ -9058,6 +9071,19 @@
     "link": ""
   },
   {
+    "name": "ICAPS 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Columbia, SC, USA",
+    "Start Date": "Jun 27 2027",
+    "End Date": "Jul 02 2027",
+    "Abstract Deadline": "2026-12-07T23:59:59-12:00",
+    "Submission Deadline": "2026-12-14T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icaps26.icaps-conference.org/"
+  },
+  {
     "name": "ICDF2C 2027 - Full Paper Submission deadline",
     "sub": [
       "Network and System Security"
@@ -9172,6 +9198,19 @@
     ],
     "Location": "Geneva, Switzerland",
     "Start Date": "Feb 10 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 15 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "BMSB 2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Sydney, Australia",
+    "Start Date": "Jul 07 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jan 15 2027",
@@ -9312,6 +9351,19 @@
     "link": "https://www.ieee-security.org/TC/CSF2027/"
   },
   {
+    "name": "EAI SecureComm 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Hefei, China, China",
+    "Start Date": "Oct 15 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 01 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICMR 2026",
     "sub": [
       "Graphics"
@@ -9364,6 +9416,20 @@
     "Submission Deadline": "Feb 05 2027",
     "Notification": "",
     "link": "https://www.icsip.org"
+  },
+  {
+    "name": "ICCSN 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Chengdu, China",
+    "Start Date": "Jul 09 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 10 2027",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "SACMAT 2027 - Second Cycle",
