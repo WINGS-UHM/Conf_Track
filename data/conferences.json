@@ -1,96 +1,5 @@
 [
   {
-    "name": "EuroVis 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Nottingham, United Kingdom",
-    "Start Date": "Jun 08 2026",
-    "End Date": "Jun 12 2026",
-    "Abstract Deadline": "2025-11-26T23:59:59-12:00",
-    "Submission Deadline": "2024-12-03T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.eurovis.org.uk/"
-  },
-  {
-    "name": "IJCAR 2026",
-    "sub": [
-      "Computing Theory"
-    ],
-    "Location": "Lisbon, Portugal",
-    "Start Date": "Jul 26 2026",
-    "End Date": "Jul 29 2026",
-    "Abstract Deadline": "2026-02-06T23:59:59-12:00",
-    "Submission Deadline": "2025-02-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.floc26.org/ijcar"
-  },
-  {
-    "name": "COCOON 2026",
-    "sub": [
-      "Computing Theory"
-    ],
-    "Location": "Singapore",
-    "Start Date": "Jul 23 2026",
-    "End Date": "Jul 25 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-03-04T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://event.ntu.edu.sg/cocoon2026"
-  },
-  {
-    "name": "ICWS 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Sydney, Australia",
-    "Start Date": "Jul 13 2026",
-    "End Date": "Jul 18 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-03-22T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://services.conferences.computer.org/2026/icws-2026/"
-  },
-  {
-    "name": "Hot Chips 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Memorial Auditorium, Stanford, Palo Alto, CA",
-    "Start Date": "Aug 23 2026",
-    "End Date": "Aug 25 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-03-29T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.hotchips.org/"
-  },
-  {
-    "name": "ISSRE 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Limassol, Cyprus",
-    "Start Date": "Oct 20 2026",
-    "End Date": "Oct 23 2026",
-    "Abstract Deadline": "2026-04-10T23:59:59-12:00",
-    "Submission Deadline": "2025-04-17T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://cyprusconferences.org/issre2026/"
-  },
-  {
-    "name": "SAC 2026 - Paper submission deadline (cycle 2)",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Ottawa, Ontario, Canada",
-    "Start Date": "Aug 24 2026",
-    "End Date": "Aug 28 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-05-11T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://sacworkshop.org/SAC26/"
-  },
-  {
     "name": "CSCW 2026 - MAY 2025 SUBMISSION CYCLE",
     "sub": [
       "Computer-Human Interaction",
@@ -103,20 +12,6 @@
     "Submission Deadline": "2025-05-13T23:59:59-12:00",
     "Notification": "",
     "link": "https://cscw.acm.org/2026/"
-  },
-  {
-    "name": "GROUP 2027 - Full Paper First Wave Submissions",
-    "sub": [
-      "Computer-Human Interaction",
-      "Computer–Human Interaction"
-    ],
-    "Location": "St Simons Island, Georgia, USA",
-    "Start Date": "Jan 10 2027",
-    "End Date": "Jan 13 2027",
-    "Abstract Deadline": "2025-07-08T23:59:59-12:00",
-    "Submission Deadline": "2025-07-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://group.acm.org/conferences/group27/"
   },
   {
     "name": "ICSE 2026 - Second Cycle: Submission",
@@ -263,6 +158,45 @@
     "link": "https://conf.researchr.org/home/cgo-2026"
   },
   {
+    "name": "WCNC 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Kuala Lumpur, Malaysia",
+    "Start Date": "Apr 13 2026",
+    "End Date": "Apr 16 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2025-09-14T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://wcnc2026.ieee-wcnc.org/group/21"
+  },
+  {
+    "name": "ICRA 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Vienna, Austria",
+    "Start Date": "Jun 01 2026",
+    "End Date": "Jun 05 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2025-09-15T23:59:00-08:00",
+    "Notification": "",
+    "link": "https://2026.ieee-icra.org/"
+  },
+  {
+    "name": "VMCAI 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Rennes, France",
+    "Start Date": "Jan 12 2026",
+    "End Date": "Jan 13 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2025-09-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/VMCAI-2026"
+  },
+  {
     "name": "FAST 2026 - Spring deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -302,18 +236,17 @@
     "link": "https://2026.eurosys.org/"
   },
   {
-    "name": "PerCom 2026",
+    "name": "DFRWS 2026",
     "sub": [
-      "Computer-Human Interaction",
-      "Computer–Human Interaction"
+      "Network and System Security"
     ],
-    "Location": "Pisa, Italy",
-    "Start Date": "Mar 16 2026",
-    "End Date": "Mar 20 2026",
-    "Abstract Deadline": "2025-10-03T23:59:00-12:00",
-    "Submission Deadline": "2025-10-03T23:59:00-12:00",
+    "Location": "Linköping, Sweden",
+    "Start Date": "Mar 24 2026",
+    "End Date": "Mar 27 2026",
+    "Abstract Deadline": "2025-09-19T23:59:59-12:00",
+    "Submission Deadline": "2025-09-26T23:59:59-12:00",
     "Notification": "",
-    "link": "https://percom.org/"
+    "link": "https://dfrws.org/conferences/dfrws-eu-2026/"
   },
   {
     "name": "EACL 2026",
@@ -356,17 +289,17 @@
     "link": "https://edbticdt2026.github.io/"
   },
   {
-    "name": "NOMS 2026",
+    "name": "ISCAS 2026",
     "sub": [
-      "Network and System Security"
+      "Computer Architecture/Parallel Programming/Storage Technology"
     ],
-    "Location": "Rome, Italy",
-    "Start Date": "May 18 2026",
-    "End Date": "May 22 2026",
+    "Location": "Shanghai, China",
+    "Start Date": "May 24 2026",
+    "End Date": "May 27 2026",
     "Abstract Deadline": "",
-    "Submission Deadline": "2025-10-13T19:59:59+10:00",
+    "Submission Deadline": "2025-10-12T23:59:59-12:00",
     "Notification": "",
-    "link": "https://noms2026.ieee-noms.org/"
+    "link": "https://2026.ieee-iscas.org/"
   },
   {
     "name": "PAM 2026",
@@ -376,7 +309,7 @@
     "Location": "Virtual",
     "Start Date": "Mar 23 2026",
     "End Date": "Mar 25 2026",
-    "Abstract Deadline": "",
+    "Abstract Deadline": "2025-10-15T23:59:59-12:00",
     "Submission Deadline": "2025-10-15T23:59:59-12:00",
     "Notification": "",
     "link": "https://pam2026.at/"
@@ -473,32 +406,6 @@
     "link": "https://2026.sigmod.org/"
   },
   {
-    "name": "ICPC 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Rio de Janeiro, Brazil",
-    "Start Date": "Apr 12 2026",
-    "End Date": "Apr 13 2026",
-    "Abstract Deadline": "2025-10-19T23:59:59-12:00",
-    "Submission Deadline": "2025-10-23T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conf.researchr.org/home/icpc-2026"
-  },
-  {
-    "name": "MSR 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Rio de Janeiro, Brazil",
-    "Start Date": "Apr 13 2026",
-    "End Date": "Apr 14 2026",
-    "Abstract Deadline": "2025-10-20T23:59:59-12:00",
-    "Submission Deadline": "2025-10-23T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2026.msrconf.org/"
-  },
-  {
     "name": "ICDE 2026 - second round",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -523,19 +430,6 @@
     "Submission Deadline": "2025-10-27T17:00:00-07:00",
     "Notification": "",
     "link": "https://icde2026.github.io/"
-  },
-  {
-    "name": "RECOMB 2026",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Toronto, Canada",
-    "Start Date": "May 17 2027",
-    "End Date": "May 20 2027",
-    "Abstract Deadline": "2025-10-28T23:59:59-12:00",
-    "Submission Deadline": "2025-11-04T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://recomb.org/recomb2026/"
   },
   {
     "name": "PacificVis 2026 - Conference track",
@@ -577,19 +471,6 @@
     "link": "https://2026.rtas.org/"
   },
   {
-    "name": "HSCC 2026",
-    "sub": [
-      "Computing Theory"
-    ],
-    "Location": "Saint Malo, France",
-    "Start Date": "May 11 2026",
-    "End Date": "May 14 2026",
-    "Abstract Deadline": "2025-11-06T23:59:59-12:00",
-    "Submission Deadline": "2025-11-13T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.isis.vanderbilt.edu/events/hscciccps-2026"
-  },
-  {
     "name": "S&P 2026 - Second Paper submission deadline",
     "sub": [
       "Network and System Security"
@@ -640,19 +521,6 @@
     "Submission Deadline": "2025-11-17T23:59:59-12:00",
     "Notification": "",
     "link": "https://iscaconf.org/isca2026/"
-  },
-  {
-    "name": "ESANN 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Bruges, Belgium and Online",
-    "Start Date": "Apr 22 2026",
-    "End Date": "Apr 24 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-11-19T23:59:59-08:00",
-    "Notification": "",
-    "link": "https://www.esann.org/"
   },
   {
     "name": "MMSys 2026 - Round 2 deadline",
@@ -694,40 +562,14 @@
     "link": "https://fse.iacr.org/2026/"
   },
   {
-    "name": "FSE 2026 - ToSC, Volume 2025, Issue 4 Submission deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Singapore, Singapore",
-    "Start Date": "Mar 23 2026",
-    "End Date": "Mar 27 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-11-23T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://fse.iacr.org/2026/"
-  },
-  {
-    "name": "FSE 2026 - ToSC, Volume 2026, Issue 1 Submission deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Singapore, Singapore",
-    "Start Date": "Mar 23 2026",
-    "End Date": "Mar 27 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-11-23T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://fse.iacr.org/2026/"
-  },
-  {
     "name": "CAiSE 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
     ],
-    "Location": "Verona, Italy",
-    "Start Date": "Jun 08 2026",
-    "End Date": "Jun 12 2026",
-    "Abstract Deadline": "2025-11-14T23:59:59-12:00",
+    "Location": "Seville, Spain",
+    "Start Date": "Jun 07 2027",
+    "End Date": "Jun 11 2027",
+    "Abstract Deadline": "2025-11-21T23:59:59-12:00",
     "Submission Deadline": "2025-11-28T23:59:59-12:00",
     "Notification": "",
     "link": "https://caise26.polimi.it/"
@@ -750,9 +592,9 @@
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
     ],
-    "Location": "Tokyo, Japan",
-    "Start Date": "May 18 2026",
-    "End Date": "May 22 2026",
+    "Location": "Athens, Greece",
+    "Start Date": "Oct 18 2027",
+    "End Date": "Oct 22 2027",
     "Abstract Deadline": "2025-11-25T23:59:00-12:00",
     "Submission Deadline": "2025-12-02T23:59:00-12:00",
     "Notification": "",
@@ -763,53 +605,26 @@
     "sub": [
       "Computing Theory"
     ],
-    "Location": "New Brunswick, New Jersey, USA",
-    "Start Date": "Jun 02 2026",
-    "End Date": "Jun 05 2026",
+    "Location": "Bengaluru, India",
+    "Start Date": "Jun 21 2027",
+    "End Date": "Jun 25 2027",
     "Abstract Deadline": "2025-11-25T23:59:00-12:00",
     "Submission Deadline": "2025-12-02T23:59:00-12:00",
     "Notification": "",
     "link": "https://cgweek26.computational-geometry.org/contribute/"
   },
   {
-    "name": "CPAL 2026",
+    "name": "EuroVis 2026",
     "sub": [
-      "Artificial Intelligence"
+      "Graphics"
     ],
-    "Location": "Tübingen, Germany",
-    "Start Date": "Mar 23 2026",
-    "End Date": "Mar 27 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-12-05T23:59:59-12:00",
+    "Location": "Nottingham, United Kingdom",
+    "Start Date": "Jun 08 2026",
+    "End Date": "Jun 12 2026",
+    "Abstract Deadline": "2025-11-26T23:59:59-12:00",
+    "Submission Deadline": "2025-12-03T23:59:59-12:00",
     "Notification": "",
-    "link": "https://cpal.cc/"
-  },
-  {
-    "name": "MobiSys 2026",
-    "sub": [
-      "Network System",
-      "Uncategorized"
-    ],
-    "Location": "Cambridge, UK",
-    "Start Date": "Jun 21 2026",
-    "End Date": "Jun 25 2026",
-    "Abstract Deadline": "2025-11-28T23:59:59-12:00",
-    "Submission Deadline": "2025-12-05T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.sigmobile.org/mobisys/2026/"
-  },
-  {
-    "name": "WoWMoM 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Bologna, Italy",
-    "Start Date": "Jun 16 2026",
-    "End Date": "Jun 19 2026",
-    "Abstract Deadline": "2025-11-18T23:59:59-12:00",
-    "Submission Deadline": "2025-12-05T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.cs.unibo.it/wowmom2026/"
+    "link": "https://www.eurovis.org.uk/"
   },
   {
     "name": "MICETC-25-1",
@@ -832,8 +647,8 @@
     "Location": "Seoul, South Korea",
     "Start Date": "Apr 26 2026",
     "End Date": "Apr 28 2026",
-    "Abstract Deadline": "2025-12-05T23:59:59-12:00",
-    "Submission Deadline": "2025-12-12T23:59:59-12:00",
+    "Abstract Deadline": "2025-12-08T17:00:00-05:00",
+    "Submission Deadline": "2025-12-15T17:00:00-05:00",
     "Notification": "",
     "link": "https://ispass.org/ispass2026/"
   },
@@ -878,19 +693,6 @@
     "link": ""
   },
   {
-    "name": "GMP 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Pilsen, Czech Republic",
-    "Start Date": "May 27 2026",
-    "End Date": "May 29 2026",
-    "Abstract Deadline": "2025-12-16T23:59:59+00:00",
-    "Submission Deadline": "2025-12-18T23:59:59+00:00",
-    "Notification": "",
-    "link": "https://gmp2026.kma.zcu.cz/"
-  },
-  {
     "name": "GIIS2026",
     "sub": [
       "Wireless/Communication"
@@ -930,19 +732,6 @@
     "link": "https://ifipsec.org/index.html"
   },
   {
-    "name": "ICPR 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Lyon, France",
-    "Start Date": "Aug 17 2026",
-    "End Date": "Aug 21 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-12-20T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://icpr2026.org/"
-  },
-  {
     "name": "TAIC26",
     "sub": [
       "Security & Privacy"
@@ -954,19 +743,6 @@
     "Submission Deadline": "Dec 23 2025",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "ICST 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Daejeon, South Korea",
-    "Start Date": "May 18 2026",
-    "End Date": "May 22 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-12-22T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conf.researchr.org/home/icst-2026"
   },
   {
     "name": "NetCompute 2026",
@@ -1000,9 +776,9 @@
     "sub": [
       "Graphics"
     ],
-    "Location": "Bangkok, Thailand",
-    "Start Date": "Jul 06 2026",
-    "End Date": "Jul 10 2026",
+    "Location": "Xiamen, China",
+    "Start Date": "Jul 13 2027",
+    "End Date": "Jul 17 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2025-12-31T23:59:59-12:00",
     "Notification": "",
@@ -1049,11 +825,24 @@
     "link": ""
   },
   {
+    "name": "ICPR 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Lyon, France",
+    "Start Date": "Aug 17 2026",
+    "End Date": "Aug 21 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-01-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icpr2026.org/"
+  },
+  {
     "name": "ETS 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
     ],
-    "Location": "Chania, Greec",
+    "Location": "Chania, Greece",
     "Start Date": "May 25 2026",
     "End Date": "May 29 2026",
     "Abstract Deadline": "2025-12-15T23:59:59-12:00",
@@ -1128,19 +917,6 @@
     "link": "https://ksem2026.rosc.org.cn/"
   },
   {
-    "name": "FG 2026 - Round 1",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Kyoto, Japan",
-    "Start Date": "May 25 2026",
-    "End Date": "May 29 2026",
-    "Abstract Deadline": "2026-01-09T23:59:59-08:00",
-    "Submission Deadline": "2026-01-15T23:59:59-08:00",
-    "Notification": "",
-    "link": "https://fg2026.ieee-biometrics.org/"
-  },
-  {
     "name": "FG 2026 - Round 2",
     "sub": [
       "Artificial Intelligence"
@@ -1154,71 +930,30 @@
     "link": "https://fg2026.ieee-biometrics.org/"
   },
   {
-    "name": "ICWSM 2026 - 1st Full-paper Deadline",
-    "sub": [
-      "Computer-Human Interaction",
-      "Computer–Human Interaction"
-    ],
-    "Location": "Los Angeles, CA, USA",
-    "Start Date": "May 27 2026",
-    "End Date": "May 29 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-01-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.icwsm.org/2026/index.html"
-  },
-  {
-    "name": "ICWSM 2026 - 2nd Full-paper Deadline",
-    "sub": [
-      "Computer-Human Interaction",
-      "Computer–Human Interaction"
-    ],
-    "Location": "Los Angeles, CA, USA",
-    "Start Date": "May 27 2026",
-    "End Date": "May 29 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-01-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.icwsm.org/2026/index.html"
-  },
-  {
-    "name": "ICWSM 2026 - 3rd Full-paper Deadline",
-    "sub": [
-      "Computer-Human Interaction"
-    ],
-    "Location": "Los Angeles, CA, USA",
-    "Start Date": "May 27 2026",
-    "End Date": "May 29 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-01-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.icwsm.org/2026/index.html"
-  },
-  {
-    "name": "ISIT 2026",
-    "sub": [
-      "Computing Theory"
-    ],
-    "Location": "Guangzhou, China",
-    "Start Date": "Jun 28 2026",
-    "End Date": "Jul 03 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-01-16T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2026.ieee-isit.org/"
-  },
-  {
     "name": "NOSSDAV 2026",
     "sub": [
       "Network System"
     ],
-    "Location": "Hong Kong, China",
+    "Location": "Ghent, Belgium",
     "Start Date": "Apr 08 2026",
     "End Date": "Apr 08 2026",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-01-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://nossdav.org/2026/"
+  },
+  {
+    "name": "FCCM 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Atlanta, Georgia, USA",
+    "Start Date": "May 13 2026",
+    "End Date": "May 16 2026",
+    "Abstract Deadline": "2026-01-10T23:59:59-12:00",
+    "Submission Deadline": "2026-01-17T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.fccm.org/past/2026/"
   },
   {
     "name": "AI-SS 2026",
@@ -1235,38 +970,11 @@
     "link": ""
   },
   {
-    "name": "CF 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Catania, Sicily, Italy",
-    "Start Date": "May 19 2026",
-    "End Date": "May 21 2026",
-    "Abstract Deadline": "2026-01-12T23:59:59-12:00",
-    "Submission Deadline": "2026-01-19T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.computingfrontiers.org/2026/"
-  },
-  {
-    "name": "DIS 2026",
-    "sub": [
-      "Computer-Human Interaction",
-      "Computer–Human Interaction"
-    ],
-    "Location": "Singapore",
-    "Start Date": "Jun 13 2026",
-    "End Date": "Jun 17 2026",
-    "Abstract Deadline": "2026-01-09T23:59:59-12:00",
-    "Submission Deadline": "2026-01-19T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://dis.acm.org/2026/"
-  },
-  {
     "name": "IJCAI 2026",
     "sub": [
       "Artificial Intelligence"
     ],
-    "Location": "Bremen, Germany",
+    "Location": "Kyoto, Japan and Hengqin, China",
     "Start Date": "Aug 15 2026",
     "End Date": "Aug 21 2026",
     "Abstract Deadline": "2026-01-12T23:59:59-12:00",
@@ -1292,9 +1000,9 @@
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
     ],
-    "Location": "Seoul, South Korea",
-    "Start Date": "Jun 22 2026",
-    "End Date": "Jun 25 2026",
+    "Location": "Melbourne, Australia",
+    "Start Date": "Jul 05 2027",
+    "End Date": "Jul 08 2027",
     "Abstract Deadline": "2026-01-21T23:59:59-12:00",
     "Submission Deadline": "2026-01-21T23:59:59-12:00",
     "Notification": "",
@@ -1318,39 +1026,13 @@
     "sub": [
       "Computing Theory"
     ],
-    "Location": "Lisbon, Portugal",
-    "Start Date": "Jul 20 2026",
-    "End Date": "Jul 23 2026",
+    "Location": "Montréal, Canada",
+    "Start Date": "Jun 21 2027",
+    "End Date": "Jun 24 2027",
     "Abstract Deadline": "2026-01-15T23:59:59-12:00",
     "Submission Deadline": "2026-01-22T23:59:59-12:00",
     "Notification": "",
     "link": "https://lics.siglog.org/lics26/"
-  },
-  {
-    "name": "SIGIR 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Melbourne, Australia",
-    "Start Date": "Jul 20 2026",
-    "End Date": "Jul 24 2026",
-    "Abstract Deadline": "2026-01-15T23:59:59-12:00",
-    "Submission Deadline": "2026-01-22T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://sigir2026.org/en-AU"
-  },
-  {
-    "name": "EASE 2026 - Research Papers",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Glasgow, United Kingdom",
-    "Start Date": "Jun 09 2026",
-    "End Date": "Jun 12 2026",
-    "Abstract Deadline": "2026-01-16T23:59:59-12:00",
-    "Submission Deadline": "2026-01-23T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conf.researchr.org/home/ease-2026"
   },
   {
     "name": "http://smartnets.ieee.tn",
@@ -1380,17 +1062,17 @@
     "link": ""
   },
   {
-    "name": "BIS 2026",
+    "name": "FG 2026 - Round 2 (paper deadline extended)",
     "sub": [
-      "Interdiscipline/Mixture/Emerging"
+      "Artificial Intelligence"
     ],
-    "Location": "Prague, Czech Republic",
-    "Start Date": "Jun 10 2026",
-    "End Date": "Jun 12 2026",
-    "Abstract Deadline": "",
+    "Location": "Kyoto, Japan",
+    "Start Date": "May 25 2026",
+    "End Date": "May 29 2026",
+    "Abstract Deadline": "2026-01-09T23:59:59-12:00",
     "Submission Deadline": "2026-01-25T23:59:59-12:00",
     "Notification": "",
-    "link": "https://bisconf.org/2026/"
+    "link": "https://fg2026.ieee-biometrics.org/"
   },
   {
     "name": "GECCO 2026 - Full papers (traditional category)",
@@ -1425,7 +1107,7 @@
     ],
     "Location": "Seoul, Korea",
     "Start Date": "Jul 06 2026",
-    "End Date": "Jul 12 2026",
+    "End Date": "Jul 11 2026",
     "Abstract Deadline": "2026-01-24T11:59:59+00:00",
     "Submission Deadline": "2026-01-29T11:59:59+00:00",
     "Notification": "",
@@ -1462,26 +1144,13 @@
     "sub": [
       "Artificial Intelligence"
     ],
-    "Location": "Sydney, Australia",
-    "Start Date": "Jul 13 2026",
-    "End Date": "Jul 17 2026",
+    "Location": "Athens, Greece",
+    "Start Date": "Jul 06 2027",
+    "End Date": "Jul 11 2027",
     "Abstract Deadline": "2026-01-23T23:59:00-12:00",
     "Submission Deadline": "2026-01-30T23:59:00-12:00",
     "Notification": "",
     "link": "https://roboticsconference.org"
-  },
-  {
-    "name": "COMPSAC 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Madrid, Spain",
-    "Start Date": "Jul 07 2026",
-    "End Date": "Jul 10 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-01-31T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://ieeecompsac.computer.org/2026/"
   },
   {
     "name": "CARS2026",
@@ -1522,6 +1191,19 @@
     "Submission Deadline": "Feb 02 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "CF 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Catania, Sicily, Italy",
+    "Start Date": "May 19 2026",
+    "End Date": "May 21 2026",
+    "Abstract Deadline": "2026-02-01T23:59:59-12:00",
+    "Submission Deadline": "2026-02-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.computingfrontiers.org/2026/"
   },
   {
     "name": "CogSci 2026",
@@ -1567,9 +1249,9 @@
     "sub": [
       "Artificial Intelligence"
     ],
-    "Location": "San Diego, California",
-    "Start Date": "Jun 29 2026",
-    "End Date": "Jul 03 2026",
+    "Location": "Tokyo, Japan",
+    "Start Date": "Jun 28 2027",
+    "End Date": "Jul 02 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-02-04T16:59:59-12:00",
     "Notification": "",
@@ -1673,7 +1355,7 @@
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
     ],
-    "Location": "Belfast, Northern Ireland, United Kingdom",
+    "Location": "Atlanta, Georgia, USA",
     "Start Date": "Jul 06 2026",
     "End Date": "Jul 09 2026",
     "Abstract Deadline": "2026-02-02T23:59:59-12:00",
@@ -1706,6 +1388,19 @@
     "Submission Deadline": "2026-02-09T23:59:59-12:00",
     "Notification": "",
     "link": "https://iwqos2026.ieee-iwqos.org/"
+  },
+  {
+    "name": "CASA 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Geneva, Switzerland",
+    "Start Date": "Jun 01 2026",
+    "End Date": "Jun 03 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-02-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://cgs-network.org/CASAXR26/"
   },
   {
     "name": "DoCEIS 2026",
@@ -1773,25 +1468,11 @@
     "link": "http://www.icccn.org/ICCCN26/"
   },
   {
-    "name": "EUSIPCO 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design",
-      "Graphics"
-    ],
-    "Location": "Bruges, Belgium",
-    "Start Date": "Aug 31 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-02-13T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://eusipco2026.org/"
-  },
-  {
     "name": "KR 2026",
     "sub": [
       "Artificial Intelligence"
     ],
-    "Location": "Lisbon, Portugal",
+    "Location": "Buenos Aires, Argentina",
     "Start Date": "Jul 20 2026",
     "End Date": "Jul 23 2026",
     "Abstract Deadline": "2026-02-08T23:59:59-12:00",
@@ -1825,6 +1506,32 @@
     "Submission Deadline": "Feb 16 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "IJCAR 2026",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Lisbon, Portugal",
+    "Start Date": "Jul 26 2026",
+    "End Date": "Jul 29 2026",
+    "Abstract Deadline": "2026-02-06T23:59:59-12:00",
+    "Submission Deadline": "2026-02-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.floc26.org/ijcar"
+  },
+  {
+    "name": "SPM 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Istanbul, Türkiye",
+    "Start Date": "Jul 06 2026",
+    "End Date": "Jul 09 2026",
+    "Abstract Deadline": "2026-02-08T23:59:59-12:00",
+    "Submission Deadline": "2026-02-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://spmconf2026.github.io/"
   },
   {
     "name": "IH&MMSec 2026 - Submission Deadline",
@@ -1918,19 +1625,6 @@
     "link": "https://www.conll.org/"
   },
   {
-    "name": "ICFP 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Indiana University Indianapolis, United States",
-    "Start Date": "Aug 24 2026",
-    "End Date": "Aug 29 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-02-19T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://icfp26.sigplan.org/"
-  },
-  {
     "name": "SOUPS 2026 - Mandatory Paper Registration Deadline",
     "sub": [
       "Network and System Security"
@@ -1995,19 +1689,6 @@
     "Submission Deadline": "Feb 24 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "InterSpeech 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Sydney, Australia",
-    "Start Date": "Sep 27 2026",
-    "End Date": "Oct 01 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-02-25T23:59:59+00:00",
-    "Notification": "",
-    "link": "https://interspeech2026.org/"
   },
   {
     "name": "ACISP 2026",
@@ -2075,19 +1756,6 @@
     "link": "https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html"
   },
   {
-    "name": "ICDAR 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Vienna, Austria",
-    "Start Date": "Aug 30 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "2026-02-13T23:59:59+00:00",
-    "Submission Deadline": "2026-02-27T23:59:59+00:00",
-    "Notification": "",
-    "link": "https://icdar2026.org/"
-  },
-  {
     "name": "ICICS2026",
     "sub": [
       "Wireless/Communication",
@@ -2113,19 +1781,6 @@
     "Submission Deadline": "Feb 28 2026",
     "Notification": "",
     "link": "https://icadeis.org"
-  },
-  {
-    "name": "SPAA 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "London, UK",
-    "Start Date": "Jul 06 2026",
-    "End Date": "Jul 10 2026",
-    "Abstract Deadline": "2026-02-20T23:59:59-12:00",
-    "Submission Deadline": "2026-02-27T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://spaa.acm.org/"
   },
   {
     "name": "INW2026",
@@ -2171,9 +1826,9 @@
     "sub": [
       "Artificial Intelligence"
     ],
-    "Location": "Pittsburgh, PA, USA",
-    "Start Date": "Sep 27 2026",
-    "End Date": "Oct 01 2026",
+    "Location": "Florence, Italy",
+    "Start Date": "Sep 26 2027",
+    "End Date": "Oct 01 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-03-02T23:59:59-08:00",
     "Notification": "",
@@ -2247,6 +1902,19 @@
     "link": ""
   },
   {
+    "name": "COCOON 2026",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Singapore",
+    "Start Date": "Jul 23 2026",
+    "End Date": "Jul 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-04T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://event.ntu.edu.sg/cocoon2026"
+  },
+  {
     "name": "ECCV 2026",
     "sub": [
       "Artificial Intelligence"
@@ -2274,19 +1942,6 @@
     "link": "https://ecscw.eusset.eu/2026"
   },
   {
-    "name": "ICSME 2026 - Research Papers Track",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Benevento, Italy",
-    "Start Date": "Sep 14 2026",
-    "End Date": "Sep 18 2026",
-    "Abstract Deadline": "2026-02-27T23:59:59-12:00",
-    "Submission Deadline": "2026-03-06T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conf.researchr.org/home/icsme-2026"
-  },
-  {
     "name": "ICORIA 2026",
     "sub": [
       "Wireless/Communication"
@@ -2298,6 +1953,19 @@
     "Submission Deadline": "Mar 08 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "TASE 2026 - Extended deadlines",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Shanghai, China",
+    "Start Date": "Jul 04 2026",
+    "End Date": "Jul 06 2026",
+    "Abstract Deadline": "2026-03-01T23:59:59-12:00",
+    "Submission Deadline": "2026-03-07T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://tase2026.github.io/"
   },
   {
     "name": "ARES 2026",
@@ -2472,19 +2140,6 @@
     "link": "https://cp2026.a4cp.org/"
   },
   {
-    "name": "WASA 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Xi'an, China",
-    "Start Date": "Jul 06 2026",
-    "End Date": "Jul 09 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "http://wasa-conference.org/WASA2026/"
-  },
-  {
     "name": "GLSVLSI 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -2509,6 +2164,19 @@
     "Submission Deadline": "2026-03-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.ieeeismar.net/2026/"
+  },
+  {
+    "name": "NETYS 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Agadir, Morocco",
+    "Start Date": "Jun 10 2026",
+    "End Date": "Jun 12 2026",
+    "Abstract Deadline": "2026-03-11T23:59:59-12:00",
+    "Submission Deadline": "2026-03-18T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://netys.net/"
   },
   {
     "name": "DTISD 2026",
@@ -2547,22 +2215,22 @@
     "Start Date": "Jul 05 2026",
     "End Date": "Jul 05 2026",
     "Abstract Deadline": "",
-    "Submission Deadline": "2026-03-20T11:59:00-12:00",
+    "Submission Deadline": "2026-03-20T23:59:00-12:00",
     "Notification": "",
     "link": "https://probml.cc"
   },
   {
-    "name": "ICCBR 2026",
+    "name": "LCTES 2026 - Extended deadlines",
     "sub": [
-      "Artificial Intelligence"
+      "Software Engineering/Operating System/Programming Language Design"
     ],
-    "Location": "Bremen, Germany",
-    "Start Date": "Aug 13 2026",
-    "End Date": "Aug 16 2026",
-    "Abstract Deadline": "",
+    "Location": "Boulder, Colorado, USA",
+    "Start Date": "Jun 15 2026",
+    "End Date": "Jun 16 2026",
+    "Abstract Deadline": "2026-03-13T23:59:59-12:00",
     "Submission Deadline": "2026-03-20T23:59:59-12:00",
     "Notification": "",
-    "link": "https://2026.iccbr.org/"
+    "link": "https://pldi26.sigplan.org/home/LCTES-2026"
   },
   {
     "name": "DPDAHS-26",
@@ -2591,6 +2259,45 @@
     "link": "https://services.conferences.computer.org/2026/cloud/"
   },
   {
+    "name": "ICWS 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Sydney, Australia",
+    "Start Date": "Jul 13 2026",
+    "End Date": "Jul 18 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://services.conferences.computer.org/2026/icws-2026/"
+  },
+  {
+    "name": "ISBRA 2026 - Extended submission deadline",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Macau, China",
+    "Start Date": "Jul 22 2026",
+    "End Date": "Jul 24 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://isbra2026.scimeeting.cn/"
+  },
+  {
+    "name": "SSE 2026 - Extended and firm paper submission deadline",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Sydney, Australia",
+    "Start Date": "Jul 13 2026",
+    "End Date": "Jul 18 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://services.conferences.computer.org/2026/sse/"
+  },
+  {
     "name": "SDW26",
     "sub": [
       "Wireless/Communication"
@@ -2617,6 +2324,32 @@
     "link": "https://conf.researchr.org/home/ase-2026"
   },
   {
+    "name": "ICCBR 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Bremen, Germany",
+    "Start Date": "Aug 13 2026",
+    "End Date": "Aug 16 2026",
+    "Abstract Deadline": "2026-03-20T23:59:59-12:00",
+    "Submission Deadline": "2026-03-27T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.iccbr.org/"
+  },
+  {
+    "name": "MoDELS 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Málaga, Spain",
+    "Start Date": "Oct 04 2026",
+    "End Date": "Oct 09 2026",
+    "Abstract Deadline": "2026-03-20T23:59:59-12:00",
+    "Submission Deadline": "2026-03-27T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/models-2026"
+  },
+  {
     "name": "PPSN 2026",
     "sub": [
       "Artificial Intelligence"
@@ -2628,6 +2361,19 @@
     "Submission Deadline": "2026-03-28T23:59:59-12:00",
     "Notification": "",
     "link": "https://ppsn2026.disi.unitn.it/"
+  },
+  {
+    "name": "SMI 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Singapore",
+    "Start Date": "Jun 21 2027",
+    "End Date": "Jun 25 2027",
+    "Abstract Deadline": "2026-03-23T23:59:59+00:00",
+    "Submission Deadline": "2026-03-30T23:59:59+00:00",
+    "Notification": "",
+    "link": "https://smiconf.github.io/2026/"
   },
   {
     "name": "ICABCD2026",
@@ -2802,6 +2548,20 @@
     "link": "https://colmweb.org"
   },
   {
+    "name": "GROUP 2027 - Full Paper Second Wave Submissions (extended)",
+    "sub": [
+      "Computer-Human Interaction",
+      "Computer–Human Interaction"
+    ],
+    "Location": "St Simons Island, Georgia, USA",
+    "Start Date": "Jan 10 2027",
+    "End Date": "Jan 13 2027",
+    "Abstract Deadline": "2026-03-24T23:59:59-12:00",
+    "Submission Deadline": "2026-03-31T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://group.acm.org/conferences/group27/"
+  },
+  {
     "name": "IEEE VIS 2026",
     "sub": [
       "Graphics"
@@ -2973,6 +2733,19 @@
     "link": "https://sc26.supercomputing.org/"
   },
   {
+    "name": "Hot Chips 2026 - Extended submission deadline",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Memorial Auditorium, Stanford, Palo Alto, CA",
+    "Start Date": "Aug 23 2026",
+    "End Date": "Aug 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-08T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.hotchips.org/"
+  },
+  {
     "name": "APPT 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -2984,6 +2757,19 @@
     "Submission Deadline": "2026-04-10T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.appt-conference.com/2026"
+  },
+  {
+    "name": "WASA 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Xi'an, China",
+    "Start Date": "Jun 26 2026",
+    "End Date": "Jun 29 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "http://wasa-conference.org/WASA2026/"
   },
   {
     "name": "RE 2026 - Research Papers",
@@ -3003,9 +2789,9 @@
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
     ],
-    "Location": "Santa Clara University, Santa Clara, CA, USA",
-    "Start Date": "Jun 01 2026",
-    "End Date": "Jun 05 2026",
+    "Location": "TBD",
+    "Start Date": "May 17 2027",
+    "End Date": "May 21 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-04-14T23:59:59+00:00",
     "Notification": "",
@@ -3303,20 +3089,6 @@
     "link": "https://blocksys.info/2026/"
   },
   {
-    "name": "ICMI 2026",
-    "sub": [
-      "Computer-Human Interaction",
-      "Computer–Human Interaction"
-    ],
-    "Location": "Napoli, Italy",
-    "Start Date": "Oct 05 2026",
-    "End Date": "Oct 09 2026",
-    "Abstract Deadline": "2026-04-13T23:59:59+07:00",
-    "Submission Deadline": "2026-04-20T23:59:59+07:00",
-    "Notification": "",
-    "link": "https://icmi.acm.org/2026/"
-  },
-  {
     "name": "CGI 2026 - Second Track: Call for papers with final publication in LNCS Book published by Springer or in The Visual Computer journal or Computer Animation and Virtual Worlds Journal",
     "sub": [
       "Graphics"
@@ -3368,19 +3140,6 @@
     "Submission Deadline": "Apr 21 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "LCN 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Coimbra, Portugal",
-    "Start Date": "Oct 07 2026",
-    "End Date": "Oct 09 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-04-20T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.ieeelcn.org/"
   },
   {
     "name": "MobiHoc 2026",
@@ -3441,9 +3200,9 @@
     "sub": [
       "Database/Data Mining/Information Retrieval"
     ],
-    "Location": "Minneapolis, Minnesota, USA",
-    "Start Date": "Sep 28 2026",
-    "End Date": "Oct 02 2026",
+    "Location": "Honolulu, O‘ahu, Hawaii, USA",
+    "Start Date": "Aug 23 2027",
+    "End Date": "Aug 27 2027",
     "Abstract Deadline": "2026-04-14T23:59:59-12:00",
     "Submission Deadline": "2026-04-21T23:59:59-12:00",
     "Notification": "",
@@ -3463,6 +3222,32 @@
     "link": ""
   },
   {
+    "name": "ASSETS 2026",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Porto, Portugal",
+    "Start Date": "Oct 25 2026",
+    "End Date": "Oct 28 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://assets26.sigaccess.org/"
+  },
+  {
+    "name": "QRS 2026 - Regular and Short Papers (extended)",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "University of Florence, Florence, Italy",
+    "Start Date": "Jul 22 2026",
+    "End Date": "Jul 25 2026",
+    "Abstract Deadline": "2026-04-08T23:59:59-12:00",
+    "Submission Deadline": "2026-04-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://qrs26.techconf.org/"
+  },
+  {
     "name": "ESA 2026",
     "sub": [
       "Computing Theory"
@@ -3474,6 +3259,20 @@
     "Submission Deadline": "2026-04-23T23:59:59-12:00",
     "Notification": "",
     "link": "https://algo-conference.org/2026/esa/"
+  },
+  {
+    "name": "ICMI 2026 - Paper deadline extended to Apr 23, 23:59 AoE; normalized to UTC-7",
+    "sub": [
+      "Computer-Human Interaction",
+      "Computer–Human Interaction"
+    ],
+    "Location": "Napoli, Italy",
+    "Start Date": "Oct 05 2026",
+    "End Date": "Oct 09 2026",
+    "Abstract Deadline": "2026-04-13T23:59:59-07:00",
+    "Submission Deadline": "2026-04-24T04:59:59-07:00",
+    "Notification": "",
+    "link": "https://icmi.acm.org/2026/"
   },
   {
     "name": "2nd ICACCD-2026.",
@@ -3501,6 +3300,19 @@
     "Submission Deadline": "Apr 25 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ISSRE 2026 - Extended Research Track deadlines",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Taipa, Macao SAR, China",
+    "Start Date": "Oct 19 2027",
+    "End Date": "Oct 22 2027",
+    "Abstract Deadline": "2026-04-24T23:59:59-12:00",
+    "Submission Deadline": "2026-04-24T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://cyprusconferences.org/issre2026/"
   },
   {
     "name": "ITC 2026",
@@ -3566,19 +3378,6 @@
     "Submission Deadline": "Apr 27 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "FMCAD 2026",
-    "sub": [
-      "Computing Theory"
-    ],
-    "Location": "Graz, Austria",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "2026-05-03T23:59:59-12:00",
-    "Submission Deadline": "2026-04-26T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://fmcad.forsyte.at/FMCAD26/"
   },
   {
     "name": "PST 2026",
@@ -3767,15 +3566,16 @@
   {
     "name": "CCS 2026",
     "sub": [
-      "Network System"
+      "Network System",
+      "Network and System Security"
     ],
-    "Location": "Binghamton, NY, New York, United States",
-    "Start Date": "Oct 09 2026",
-    "End Date": "",
+    "Location": "Atlanta, USA",
+    "Start Date": "Oct 11 2027",
+    "End Date": "Oct 15 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "May 01 2026",
     "Notification": "",
-    "link": ""
+    "link": "https://www.sigsac.org/ccs/CCS2027/"
   },
   {
     "name": "MCCSAI'2026",
@@ -3886,19 +3686,6 @@
     "link": "https://icpp2026.github.io/"
   },
   {
-    "name": "SEC 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Santa Clara University, CA, USA",
-    "Start Date": "Oct 13 2026",
-    "End Date": "Oct 16 2026",
-    "Abstract Deadline": "2026-04-24T23:59:59-12:00",
-    "Submission Deadline": "2026-05-01T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://acm-ieee-sec.org/2026/"
-  },
-  {
     "name": "DCS-CI 2026",
     "sub": [
       "Security & Privacy"
@@ -3964,6 +3751,19 @@
     "Submission Deadline": "2026-05-04T23:59:59-12:00",
     "Notification": "",
     "link": "https://conf.researchr.org/home/internetware-2026"
+  },
+  {
+    "name": "LCN 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Coimbra, Portugal",
+    "Start Date": "Oct 07 2026",
+    "End Date": "Oct 09 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-04T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.ieeelcn.org/"
   },
   {
     "name": "NETGCOOP 2026",
@@ -4032,6 +3832,19 @@
     "link": "https://iswc2026.semanticweb.org/"
   },
   {
+    "name": "SAS 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Oakland, California, USA",
+    "Start Date": "Oct 06 2026",
+    "End Date": "Oct 08 2026",
+    "Abstract Deadline": "2026-05-01T23:59:59-12:00",
+    "Submission Deadline": "2026-05-07T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/splash-issta-2026/sas-2026"
+  },
+  {
     "name": "CCCG 2026 - Submission Deadline",
     "sub": [
       "Graphics"
@@ -4043,6 +3856,20 @@
     "Submission Deadline": "2026-05-08T23:59:59-12:00",
     "Notification": "",
     "link": "https://sites.google.com/view/cccg-2026/home"
+  },
+  {
+    "name": "SEC 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology",
+      "Network and System Security"
+    ],
+    "Location": "Linköping, Sweden",
+    "Start Date": "Oct 13 2026",
+    "End Date": "Oct 16 2026",
+    "Abstract Deadline": "2026-05-08T23:59:59-12:00",
+    "Submission Deadline": "2026-05-08T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://acm-ieee-sec.org/2026/"
   },
   {
     "name": "SRDS 2026 - Full Paper Submission",
@@ -4141,8 +3968,8 @@
       "Software Engineering/Operating System/Programming Language Design"
     ],
     "Location": "Toronto, Canada & Virtual",
-    "Start Date": "",
-    "End Date": "",
+    "Start Date": "Oct 01 2026",
+    "End Date": "Oct 07 2026",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-05-10T23:59:00-05:00",
     "Notification": "",
@@ -4160,6 +3987,32 @@
     "Submission Deadline": "May 12 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "FMCAD 2026",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Graz, Austria",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "2026-05-04T23:59:59-12:00",
+    "Submission Deadline": "2026-05-11T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://fmcad.forsyte.at/FMCAD26/"
+  },
+  {
+    "name": "SAC 2026 - Paper submission deadline (cycle 2)",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Ottawa, Ontario, Canada",
+    "Start Date": "Aug 26 2026",
+    "End Date": "Aug 28 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-11T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://sacworkshop.org/SAC26/"
   },
   {
     "name": "C&ESAR 2026",
@@ -4290,6 +4143,20 @@
     "Submission Deadline": "2026-05-14T23:59:59-12:00",
     "Notification": "",
     "link": "https://cog2026.org/"
+  },
+  {
+    "name": "ICWSM 2026 - 1st Full-paper Deadline",
+    "sub": [
+      "Computer-Human Interaction",
+      "Computer–Human Interaction"
+    ],
+    "Location": "Edinburgh, Scotland",
+    "Start Date": "May 27 2026",
+    "End Date": "May 29 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.icwsm.org/2026/index.html"
   },
   {
     "name": "AI4TCI",
@@ -4462,17 +4329,17 @@
     "link": "https://asiacrypt.iacr.org/2026/"
   },
   {
-    "name": "RTSS 2026",
+    "name": "ATVA 2026",
     "sub": [
-      "Interdiscipline/Mixture/Emerging"
+      "Software Engineering/Operating System/Programming Language Design"
     ],
-    "Location": "Yokohama, Japan",
-    "Start Date": "Dec 09 2026",
-    "End Date": "Dec 11 2026",
-    "Abstract Deadline": "",
+    "Location": "Hong Kong SAR, China",
+    "Start Date": "Dec 01 2026",
+    "End Date": "Dec 04 2026",
+    "Abstract Deadline": "2026-05-19T23:59:59-12:00",
     "Submission Deadline": "2026-05-21T23:59:59-12:00",
     "Notification": "",
-    "link": "http://2026.rtss.org/"
+    "link": "https://conf.researchr.org/track/aplas-atva-2026/atva-2026"
   },
   {
     "name": "ICNP 2026",
@@ -4567,7 +4434,7 @@
     "link": "https://2026.emnlp.org/"
   },
   {
-    "name": "IJCNLP 2026 - ARR Submission; commitment deadline: 2026-08-02; AACL-IJCNLP 2026 (the 5th AACL & 15th IJCNLP)",
+    "name": "IJCNLP 2026 - ARR Submission; commitment deadline: 2026-08-07; second-round commitment: 2026-08-25; AACL-IJCNLP 2026 (the 5th AACL & 15th IJCNLP)",
     "sub": [
       "Artificial Intelligence"
     ],
@@ -4620,6 +4487,19 @@
     "link": "https://www.acsac.org/"
   },
   {
+    "name": "RTSS 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Yokohama, Japan",
+    "Start Date": "Dec 09 2026",
+    "End Date": "Dec 11 2026",
+    "Abstract Deadline": "2026-05-21T23:59:59-12:00",
+    "Submission Deadline": "2026-05-26T23:59:59-12:00",
+    "Notification": "",
+    "link": "http://2026.rtss.org/"
+  },
+  {
     "name": "AFT 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -4670,19 +4550,6 @@
     "Submission Deadline": "2026-05-29T23:59:59+00:00",
     "Notification": "",
     "link": "https://bmvc2026.bmva.org/"
-  },
-  {
-    "name": "SIGSPATIAL 2026",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Riverside, CA, USA",
-    "Start Date": "Nov 03 2026",
-    "End Date": "Nov 06 2026",
-    "Abstract Deadline": "2026-05-22T23:59:59-07:00",
-    "Submission Deadline": "2026-05-29T23:59:59-07:00",
-    "Notification": "",
-    "link": "https://sigspatial2026.sigspatial.org/"
   },
   {
     "name": "CNIB2026",
@@ -4935,6 +4802,19 @@
     "link": "https://euvip2026.github.io/"
   },
   {
+    "name": "SIGSPATIAL 2026 - Extended Research Track deadlines",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Riverside, CA, USA",
+    "Start Date": "Nov 03 2026",
+    "End Date": "Nov 06 2026",
+    "Abstract Deadline": "2026-05-29T23:59:59-07:00",
+    "Submission Deadline": "2026-06-05T23:59:59-07:00",
+    "Notification": "",
+    "link": "https://sigspatial2026.sigspatial.org/"
+  },
+  {
     "name": "ICCD 2026 - abstract and full paper deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -4986,6 +4866,19 @@
     "Submission Deadline": "2026-06-05T23:59:59-12:00",
     "Notification": "",
     "link": "https://conferences.sigcomm.org/co-next/2026/#!/home"
+  },
+  {
+    "name": "DFRWS APAC 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Singapore",
+    "Start Date": "Oct 19 2026",
+    "End Date": "Oct 22 2026",
+    "Abstract Deadline": "2026-05-29T23:59:59-12:00",
+    "Submission Deadline": "2026-06-05T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://dfrws.org/conferences/dfrws-apac-2026/"
   },
   {
     "name": "HotStorage 2026",
@@ -5199,19 +5092,6 @@
     "link": "https://conf.researchr.org/home/scam-2026"
   },
   {
-    "name": "FPT 2026 - Title and Abstract Due (Conference Track)",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Honolulu, Hawaii, USA",
-    "Start Date": "Dec 07 2026",
-    "End Date": "Dec 10 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-06-12T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://fpt2026.uark.edu"
-  },
-  {
     "name": "ARTIIS 2026",
     "sub": [
       "Security & Privacy"
@@ -5382,6 +5262,19 @@
     "link": ""
   },
   {
+    "name": "FPT 2026 - Title and Abstract Due (Conference Track)",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Honolulu, Hawaii, USA",
+    "Start Date": "Dec 07 2026",
+    "End Date": "Dec 10 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-19T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://fpt2026.uark.edu"
+  },
+  {
     "name": "NLPCC 2026",
     "sub": [
       "Artificial Intelligence"
@@ -5395,19 +5288,30 @@
     "link": "http://tcci.ccf.org.cn/conference/2026/"
   },
   {
-    "name": "ISC 2026",
+    "name": "APLAS 2026",
     "sub": [
-      "Network and System Security",
-      "Security & Privacy",
-      "Network System"
+      "Software Engineering/Operating System/Programming Language Design"
     ],
-    "Location": "Rennes, France",
-    "Start Date": "Oct 28 2026",
-    "End Date": "Oct 30 2026",
+    "Location": "Hong Kong SAR, China",
+    "Start Date": "Dec 01 2026",
+    "End Date": "Dec 04 2026",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-06-22T23:59:59-12:00",
     "Notification": "",
-    "link": "https://isc2026.github.io/"
+    "link": "https://conf.researchr.org/track/aplas-atva-2026/aplas-2026"
+  },
+  {
+    "name": "ICFEM 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Southampton, UK",
+    "Start Date": "Nov 17 2026",
+    "End Date": "Nov 20 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icfem2026.github.io/"
   },
   {
     "name": "ISPEC2026",
@@ -5541,19 +5445,6 @@
     "link": ""
   },
   {
-    "name": "ICTAI 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Boca Raton FL, USA",
-    "Start Date": "Nov 02 2026",
-    "End Date": "Nov 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-06-30T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://ictai.computer.org/2026/"
-  },
-  {
     "name": "ICPADS 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -5604,6 +5495,21 @@
     "Submission Deadline": "2026-07-01T23:59:59-08:00",
     "Notification": "",
     "link": "https://inscrypt2026.comp.polyu.edu.hk"
+  },
+  {
+    "name": "ISC 2026",
+    "sub": [
+      "Network and System Security",
+      "Security & Privacy",
+      "Network System"
+    ],
+    "Location": "Rennes, France",
+    "Start Date": "Oct 28 2026",
+    "End Date": "Oct 30 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-07-02T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://isc2026.github.io/"
   },
   {
     "name": "WINE 2026",
@@ -5684,6 +5590,19 @@
     "link": "https://ieeebibm.org/BIBM2026/"
   },
   {
+    "name": "ACCV 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Osaka, Japan",
+    "Start Date": "Dec 14 2026",
+    "End Date": "Dec 18 2026",
+    "Abstract Deadline": "2026-07-03T23:59:59+00:00",
+    "Submission Deadline": "2026-07-05T23:59:59+00:00",
+    "Notification": "",
+    "link": "https://accv2026.org/"
+  },
+  {
     "name": "IDFC2026",
     "sub": [
       "Security & Privacy"
@@ -5695,19 +5614,6 @@
     "Submission Deadline": "Jul 06 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "ACCV 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Osaka, Japan",
-    "Start Date": "Dec 14 2026",
-    "End Date": "Dec 18 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-07-05T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://accv2026.org/"
   },
   {
     "name": "ACML 2026 - Conference Track",
@@ -5813,19 +5719,6 @@
     "Submission Deadline": "Jul 11 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "ASP-DAC 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Hitotsubashi Hall, Tokyo, Japan",
-    "Start Date": "Jan 25 2027",
-    "End Date": "Jan 28 2027",
-    "Abstract Deadline": "2026-07-03T17:00:00-12:00",
-    "Submission Deadline": "2026-07-10T17:00:00-12:00",
-    "Notification": "",
-    "link": "https://www.aspdac.com/aspdac2026/"
   },
   {
     "name": "UTI 2026",
@@ -5999,6 +5892,19 @@
     "link": ""
   },
   {
+    "name": "ASP-DAC 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Hitotsubashi Hall, Tokyo, Japan",
+    "Start Date": "Jan 25 2027",
+    "End Date": "Jan 28 2027",
+    "Abstract Deadline": "2026-07-11T17:00:00-12:00",
+    "Submission Deadline": "2026-07-18T17:00:00-12:00",
+    "Notification": "",
+    "link": "https://www.aspdac.com/aspdac2026/"
+  },
+  {
     "name": "CrystalFreeIoT 2026",
     "sub": [
       "Wireless/Communication",
@@ -6039,6 +5945,32 @@
     "link": ""
   },
   {
+    "name": "ICSOC 2026 - Regular and industrial papers",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Lodz, Poland",
+    "Start Date": "Dec 01 2026",
+    "End Date": "Dec 04 2026",
+    "Abstract Deadline": "2026-07-12T23:59:59-12:00",
+    "Submission Deadline": "2026-07-19T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icsoc2026.it.p.lodz.pl/"
+  },
+  {
+    "name": "APSEC 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Bali, Indonesia",
+    "Start Date": "Dec 07 2026",
+    "End Date": "Dec 10 2026",
+    "Abstract Deadline": "2026-07-13T23:59:59-12:00",
+    "Submission Deadline": "2026-07-20T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/apsec-2026"
+  },
+  {
     "name": "ICECCS 2026 - Abstract and full paper submission",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -6052,7 +5984,20 @@
     "link": "https://formal-analysis.com/iceccs/2026/"
   },
   {
-    "name": "ISS 2026 - Winter round",
+    "name": "ICTAI 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Boca Raton FL, USA",
+    "Start Date": "Nov 02 2026",
+    "End Date": "Nov 04 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-07-21T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://ictai.computer.org/2026/"
+  },
+  {
+    "name": "ISS 2026 - Second round 2025",
     "sub": [
       "Computer–Human Interaction"
     ],
@@ -6207,6 +6152,19 @@
     "Submission Deadline": "Jul 30 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "VINCI 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Hangzhou, China",
+    "Start Date": "Nov 01 2026",
+    "End Date": "Nov 04 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-07-29T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://vinci-symp.org/"
   },
   {
     "name": "CISIT 2026",
@@ -6485,6 +6443,32 @@
     "Submission Deadline": "2026-08-04T23:59:59-07:00",
     "Notification": "",
     "link": "https://www.cidrdb.org/cidr2026/"
+  },
+  {
+    "name": "HPCC 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Luoyang, Henan, China",
+    "Start Date": "Oct 29 2026",
+    "End Date": "Nov 02 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-05T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ieee-hyper-intelligence.org/2026/hpcc/"
+  },
+  {
+    "name": "LOG 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Northeastern University, Boston, USA",
+    "Start Date": "Nov 20 2026",
+    "End Date": "Nov 22 2026",
+    "Abstract Deadline": "2026-08-05T23:59:59-12:00",
+    "Submission Deadline": "2026-08-07T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://logconference.org/"
   },
   {
     "name": "I2COMSAPP'26",
@@ -6805,6 +6789,19 @@
     "link": ""
   },
   {
+    "name": "ICVRV 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Valparaíso, Chile",
+    "Start Date": "Dec 18 2026",
+    "End Date": "Dec 20 2026",
+    "Abstract Deadline": "2026-08-15T23:59:59-12:00",
+    "Submission Deadline": "2026-08-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icvrv2026.aconf.org/"
+  },
+  {
     "name": "IEEE AIoT 2026",
     "sub": [
       "Security & Privacy"
@@ -6816,6 +6813,19 @@
     "Submission Deadline": "Aug 24 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "SETTA 2026 - Round 1 (extended)",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Singapore",
+    "Start Date": "Dec 02 2026",
+    "End Date": "Dec 04 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-24T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.setta2026.sg/"
   },
   {
     "name": "EmTech26",
@@ -6870,15 +6880,28 @@
     "link": ""
   },
   {
-    "name": "3DV 2027 - Supplementary material due Sep 2, 2026. All deadlines are 11:00 am PDT.",
+    "name": "INDOCRYPT 2026 - Extended submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Bengaluru, India",
+    "Start Date": "Dec 13 2026",
+    "End Date": "Dec 16 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-27T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://indocrypt2026.cdacb.in/"
+  },
+  {
+    "name": "3DV 2027 - Abstract registration and paper submission are both due Aug 28; supplementary material is due Sep 2.",
     "sub": [
       "Graphics"
     ],
     "Location": "Thessaloniki, Greece",
     "Start Date": "Apr 06 2027",
     "End Date": "Apr 09 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-08-28T11:00:00-07:00",
+    "Abstract Deadline": "2026-08-28T23:59:59-12:00",
+    "Submission Deadline": "2026-08-28T23:59:59-12:00",
     "Notification": "",
     "link": "https://3dvconf.github.io/2027/"
   },
@@ -6888,8 +6911,8 @@
       "Artificial Intelligence"
     ],
     "Location": "Disney Springs, Buena Vista, FL, USA",
-    "Start Date": "Jan 05 2027",
-    "End Date": "Jan 09 2027",
+    "Start Date": "Jan 04 2027",
+    "End Date": "Jan 08 2027",
     "Abstract Deadline": "2026-08-21T23:59:00-12:00",
     "Submission Deadline": "2026-08-28T23:59:59-12:00",
     "Notification": "",
@@ -7027,6 +7050,19 @@
     "Submission Deadline": "Sep 02 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "FSE 2026 - ToSC, Volume 2025, Issue 4 Submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Maastricht, Netherlands",
+    "Start Date": "May 24 2027",
+    "End Date": "May 28 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://fse.iacr.org/2026/"
   },
   {
     "name": "MMAsia 2026 - Regular Paper / Special Session Submission",
@@ -7282,19 +7318,6 @@
     "link": ""
   },
   {
-    "name": "ICRA 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Seoul, Republic of Korea",
-    "Start Date": "May 24 2027",
-    "End Date": "May 28 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-09-15T23:59:59-07:00",
-    "Notification": "",
-    "link": "https://2026.ieee-icra.org/"
-  },
-  {
     "name": "FAST 2027 - Spring deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -7319,6 +7342,33 @@
     "Submission Deadline": "2026-09-15T23:59:00-12:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/fast27"
+  },
+  {
+    "name": "ICALP 2027 - Track B first round; Track A and Track B second round TBA",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Kraków, Poland",
+    "Start Date": "Jul 05 2027",
+    "End Date": "Jul 09 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icalp.uj.edu.pl/"
+  },
+  {
+    "name": "ICWSM 2026 - 2nd Full-paper Deadline",
+    "sub": [
+      "Computer-Human Interaction",
+      "Computer–Human Interaction"
+    ],
+    "Location": "Edinburgh, Scotland",
+    "Start Date": "May 27 2026",
+    "End Date": "May 29 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.icwsm.org/2026/index.html"
   },
   {
     "name": "APNHR2026",
@@ -7334,17 +7384,17 @@
     "link": ""
   },
   {
-    "name": "VMCAI 2026",
+    "name": "ICRA 2027 - Extended submission deadline",
     "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
+      "Artificial Intelligence"
     ],
-    "Location": "Mexico City, Mexico",
-    "Start Date": "Jan 11 2027",
-    "End Date": "Jan 12 2027",
+    "Location": "Seoul, Republic of Korea",
+    "Start Date": "May 24 2027",
+    "End Date": "May 28 2027",
     "Abstract Deadline": "",
-    "Submission Deadline": "2026-09-16T23:59:59-12:00",
+    "Submission Deadline": "2026-09-16T23:59:59-08:00",
     "Notification": "",
-    "link": "https://conf.researchr.org/home/VMCAI-2026"
+    "link": "https://2027.ieee-icra.org/"
   },
   {
     "name": "CTEA 2026",
@@ -7401,19 +7451,6 @@
     "link": "https://eurocrypt.iacr.org/2026/"
   },
   {
-    "name": "MMSys 2027",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Ghent, Belgium",
-    "Start Date": "Mar 30 2027",
-    "End Date": "Apr 02 2027",
-    "Abstract Deadline": "2026-09-10T23:59:59-12:00",
-    "Submission Deadline": "2026-09-17T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2027.acmmmsys.org"
-  },
-  {
     "name": "Network Flows 2.0",
     "sub": [
       "Network System"
@@ -7425,6 +7462,20 @@
     "Submission Deadline": "Sep 19 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "PerCom 2027 - Extended deadlines",
+    "sub": [
+      "Computer-Human Interaction",
+      "Computer–Human Interaction"
+    ],
+    "Location": "Goa, India",
+    "Start Date": "Mar 08 2027",
+    "End Date": "Mar 12 2027",
+    "Abstract Deadline": "2026-09-11T23:59:59-12:00",
+    "Submission Deadline": "2026-09-18T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://percom.org/"
   },
   {
     "name": "APCC 2026",
@@ -7498,9 +7549,9 @@
     "sub": [
       "Graphics"
     ],
-    "Location": "Toronto, Canada",
-    "Start Date": "May 16 2027",
-    "End Date": "May 21 2027",
+    "Location": "Tokyo, Japan",
+    "Start Date": "May 28 2028",
+    "End Date": "Jun 02 2028",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-09-23T23:59:59-12:00",
     "Notification": "",
@@ -7565,7 +7616,7 @@
     ],
     "Location": "Rabat, Morocco",
     "Start Date": "Apr 19 2027",
-    "End Date": "Apr 24 2027",
+    "End Date": "Apr 23 2027",
     "Abstract Deadline": "2026-09-17T23:59:59-12:00",
     "Submission Deadline": "2026-09-24T23:59:59-12:00",
     "Notification": "",
@@ -7597,19 +7648,6 @@
     "Submission Deadline": "Sep 26 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "DFRWS 2026",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Edinburgh, Scotland",
-    "Start Date": "Mar 30 2027",
-    "End Date": "Apr 02 2027",
-    "Abstract Deadline": "2026-09-18T23:59:59-12:00",
-    "Submission Deadline": "2026-09-25T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://dfrws.org/conferences/dfrws-eu-2026/"
   },
   {
     "name": "ICLR 2026",
@@ -7649,6 +7687,19 @@
     "Submission Deadline": "Sep 28 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ISPD 2027",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Taipei, Taiwan",
+    "Start Date": "Mar 30 2027",
+    "End Date": "Apr 02 2027",
+    "Abstract Deadline": "2026-09-21T23:59:59-12:00",
+    "Submission Deadline": "2026-09-28T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ispd.cc/ispd2027/"
   },
   {
     "name": "ACST’26",
@@ -7765,7 +7816,7 @@
     "Location": "Reykjavik, Iceland",
     "Start Date": "Mar 23 2026",
     "End Date": "Mar 25 2026",
-    "Abstract Deadline": "",
+    "Abstract Deadline": "2026-09-22T23:59:59-12:00",
     "Submission Deadline": "2026-09-29T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.satml.org"
@@ -7797,6 +7848,32 @@
     "Submission Deadline": "Oct 01 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ISPA 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Kuala Lumpur, Malaysia",
+    "Start Date": "Dec 27 2026",
+    "End Date": "Dec 30 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ieee-ai-for-science.org/2026/ispa/"
+  },
+  {
+    "name": "VMCAI 2027 - Paper Registration",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Mexico City, Mexico",
+    "Start Date": "Jan 11 2027",
+    "End Date": "Jan 12 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/VMCAI-2027"
   },
   {
     "name": "Eurographics 2026",
@@ -7838,19 +7915,6 @@
     "link": ""
   },
   {
-    "name": "CVC 2027",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Amsterdam, Netherlands",
-    "Start Date": "Apr 15 2027",
-    "End Date": "Apr 16 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-10-01T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://saiconference.com/CVC"
-  },
-  {
     "name": "SAI Computing Conference 2027",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -7862,6 +7926,19 @@
     "Submission Deadline": "2026-10-01T23:59:00-12:00",
     "Notification": "",
     "link": "https://saiconference.com/Computing"
+  },
+  {
+    "name": "CVC 2027 - Round 1",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Amsterdam, Netherlands",
+    "Start Date": "Apr 15 2027",
+    "End Date": "Apr 16 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://saiconference.com/CVC"
   },
   {
     "name": "DCC 2027",
@@ -7876,19 +7953,6 @@
     "Submission Deadline": "2026-10-02T23:59:59+00:00",
     "Notification": "",
     "link": "https://datacompressionconference.org/"
-  },
-  {
-    "name": "ECIR 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Southampton, UK",
-    "Start Date": "Mar 21 2027",
-    "End Date": "Mar 25 2027",
-    "Abstract Deadline": "2026-09-25T23:59:59+00:00",
-    "Submission Deadline": "2026-10-02T23:59:59+00:00",
-    "Notification": "",
-    "link": "https://ecir2026.eu/"
   },
   {
     "name": "ICC 2026",
@@ -7971,17 +8035,17 @@
     "link": ""
   },
   {
-    "name": "WCNC 2026",
+    "name": "ECIR 2026",
     "sub": [
-      "Network System"
+      "Database/Data Mining/Information Retrieval"
     ],
-    "Location": "Panama City, Panama",
-    "Start Date": "Apr 05 2027",
-    "End Date": "Apr 08 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-10-05T23:59:59-04:00",
+    "Location": "Southampton, UK",
+    "Start Date": "Mar 21 2027",
+    "End Date": "Mar 25 2027",
+    "Abstract Deadline": "2026-09-21T23:59:59+00:00",
+    "Submission Deadline": "2026-10-05T23:59:59+00:00",
     "Notification": "",
-    "link": "https://wcnc2026.ieee-wcnc.org/group/21"
+    "link": "https://ecir2026.eu/"
   },
   {
     "name": "CSAF26",
@@ -8003,7 +8067,7 @@
     ],
     "Location": "Montréal, Canada",
     "Start Date": "May 03 2027",
-    "End Date": "May 03 2027",
+    "End Date": "May 06 2027",
     "Abstract Deadline": "2026-09-29T23:59:59-12:00",
     "Submission Deadline": "2026-10-06T23:59:59-12:00",
     "Notification": "",
@@ -8031,9 +8095,9 @@
     ],
     "Location": "Hanoi, Vietnam",
     "Start Date": "May 03 2027",
-    "End Date": "May 03 2027",
-    "Abstract Deadline": "2026-10-02T11:59:00+00:00",
-    "Submission Deadline": "2026-10-09T11:59:00+00:00",
+    "End Date": "May 07 2027",
+    "Abstract Deadline": "2026-10-01T23:59:59-12:00",
+    "Submission Deadline": "2026-10-08T23:59:59-12:00",
     "Notification": "",
     "link": "https://cyprusconferences.org/aamas2026"
   },
@@ -8102,6 +8166,19 @@
     "Submission Deadline": "Oct 10 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "DFRWS 2027 - Extended deadlines",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Edinburgh, Scotland",
+    "Start Date": "Mar 30 2027",
+    "End Date": "Apr 02 2027",
+    "Abstract Deadline": "2026-10-02T23:59:59-12:00",
+    "Submission Deadline": "2026-10-09T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://dfrws.org/conferences/dfceurope2027/"
   },
   {
     "name": "IFIP WG 11.9 2026 - Submission Deadline",
@@ -8180,19 +8257,6 @@
     "Submission Deadline": "Oct 14 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "ISCAS 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Bordeaux, France",
-    "Start Date": "Jun 06 2027",
-    "End Date": "Jun 09 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-10-13T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2026.ieee-iscas.org/"
   },
   {
     "name": "ICAISG 2026",
@@ -8417,6 +8481,19 @@
     "link": ""
   },
   {
+    "name": "PDCAT 2026 - Second Cycle",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Changsha, China",
+    "Start Date": "Dec 04 2026",
+    "End Date": "Dec 06 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-20T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.pd-cat.org/2026/"
+  },
+  {
     "name": "CT-RSA 2026 - Paper submission deadline",
     "sub": [
       "Network and System Security"
@@ -8428,6 +8505,32 @@
     "Submission Deadline": "2026-10-22T23:59:59-12:00",
     "Notification": "",
     "link": "https://conference.wsu.edu/ct-rsa-2026/"
+  },
+  {
+    "name": "MSR 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Dublin, Ireland",
+    "Start Date": "Apr 26 2027",
+    "End Date": "Apr 27 2027",
+    "Abstract Deadline": "2026-10-20T23:59:59-12:00",
+    "Submission Deadline": "2026-10-23T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.msrconf.org/"
+  },
+  {
+    "name": "PEPM 2027",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Mexico City, Mexico",
+    "Start Date": "Jan 12 2027",
+    "End Date": "Jan 12 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-23T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://popl27.sigplan.org/home/pepm-2027"
   },
   {
     "name": "ICSIC 2026",
@@ -8627,6 +8730,19 @@
     "link": "https://www.ubicomp.org/ubicomp-iswc-2026"
   },
   {
+    "name": "ICST 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "San Sebastian, Spain",
+    "Start Date": "May 17 2027",
+    "End Date": "May 21 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-02T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/icst-2026"
+  },
+  {
     "name": "STOC 2026",
     "sub": [
       "Computing Theory"
@@ -8653,6 +8769,19 @@
     "link": ""
   },
   {
+    "name": "RECOMB 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Toronto, Canada",
+    "Start Date": "May 17 2027",
+    "End Date": "May 20 2027",
+    "Abstract Deadline": "2026-10-28T23:59:59-12:00",
+    "Submission Deadline": "2026-11-04T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://recomb.org/recomb2026/"
+  },
+  {
     "name": "SenSys 2026 - 2nd deadline",
     "sub": [
       "Network System"
@@ -8664,6 +8793,32 @@
     "Submission Deadline": "2026-11-05T23:59:00-12:00",
     "Notification": "",
     "link": "https://sensys.acm.org/2026/"
+  },
+  {
+    "name": "HSCC 2026",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Boulder, Colorado, USA",
+    "Start Date": "May 17 2027",
+    "End Date": "May 20 2027",
+    "Abstract Deadline": "2026-10-29T23:59:59-12:00",
+    "Submission Deadline": "2026-11-05T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.isis.vanderbilt.edu/events/hscciccps-2026"
+  },
+  {
+    "name": "ICPC 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Dublin, Ireland",
+    "Start Date": "Apr 25 2027",
+    "End Date": "Apr 26 2027",
+    "Abstract Deadline": "2025-10-19T23:59:59-12:00",
+    "Submission Deadline": "2026-11-05T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/icpc-2026"
   },
   {
     "name": "RTAS 2027 - Submission Deadline (Firm)",
@@ -8706,6 +8861,32 @@
     "link": ""
   },
   {
+    "name": "NOMS 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Montreal, Canada",
+    "Start Date": "May 10 2027",
+    "End Date": "May 14 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-09T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://noms2026.ieee-noms.org/"
+  },
+  {
+    "name": "PacificVis 2027 - TVCG journal track",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Busan, South Korea",
+    "Start Date": "Apr 19 2027",
+    "End Date": "Apr 22 2027",
+    "Abstract Deadline": "2026-11-02T23:59:59-12:00",
+    "Submission Deadline": "2026-11-09T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://pacificvis2027.github.io/"
+  },
+  {
     "name": "ICDE 2027 - second round",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -8714,7 +8895,7 @@
     "Start Date": "May 17 2027",
     "End Date": "May 21 2027",
     "Abstract Deadline": "",
-    "Submission Deadline": "2026-11-11T17:00:00-07:00",
+    "Submission Deadline": "2026-11-11T17:00:00+00:00",
     "Notification": "",
     "link": "https://icde2027.github.io/"
   },
@@ -8808,6 +8989,45 @@
     "Submission Deadline": "2026-11-18T17:00:00-08:00",
     "Notification": "",
     "link": "https://dac.com/2026/call-for-contributions"
+  },
+  {
+    "name": "ESANN 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Bruges, Belgium and Online",
+    "Start Date": "Apr 21 2027",
+    "End Date": "Apr 23 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-18T23:59:59-08:00",
+    "Notification": "",
+    "link": "https://www.esann.org/"
+  },
+  {
+    "name": "ECOOP 2026 - Submission R1",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Turin, Italy",
+    "Start Date": "Jun 28 2027",
+    "End Date": "Jul 02 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-19T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.ecoop.org/"
+  },
+  {
+    "name": "MMSys 2027 - Research Track - First Round (extended)",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Ghent, Belgium",
+    "Start Date": "Mar 30 2027",
+    "End Date": "Apr 02 2027",
+    "Abstract Deadline": "2026-11-12T23:59:59-12:00",
+    "Submission Deadline": "2026-11-19T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2027.acmmmsys.org"
   },
   {
     "name": "PAKDD 2026",
@@ -8967,6 +9187,32 @@
     "link": "https://www.ccgrid2026.org/"
   },
   {
+    "name": "FSE 2026 - ToSC, Volume 2026, Issue 1 Submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Maastricht, Netherlands",
+    "Start Date": "May 24 2027",
+    "End Date": "May 28 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-12-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://fse.iacr.org/2026/"
+  },
+  {
+    "name": "WoWMoM 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Irvine, California, USA",
+    "Start Date": "Jun 21 2027",
+    "End Date": "Jun 24 2027",
+    "Abstract Deadline": "2025-11-18T23:59:59-12:00",
+    "Submission Deadline": "2026-12-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.cs.unibo.it/wowmom2026/"
+  },
+  {
     "name": "DSN 2026",
     "sub": [
       "Network and System Security"
@@ -8991,6 +9237,33 @@
     "Submission Deadline": "2026-12-02T23:59:59-12:00",
     "Notification": "",
     "link": "https://eurosp2026.ieee-security.org/"
+  },
+  {
+    "name": "MobiSys 2026",
+    "sub": [
+      "Network System",
+      "Uncategorized"
+    ],
+    "Location": "Ho Chi Minh City, Vietnam",
+    "Start Date": "Jun 21 2027",
+    "End Date": "Jun 25 2027",
+    "Abstract Deadline": "2026-11-27T23:59:59-12:00",
+    "Submission Deadline": "2026-12-04T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.sigmobile.org/mobisys/2026/"
+  },
+  {
+    "name": "CPAL 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Tokyo, Japan",
+    "Start Date": "Mar 23 2027",
+    "End Date": "Mar 26 2027",
+    "Abstract Deadline": "2026-11-23T23:59:59-12:00",
+    "Submission Deadline": "2026-12-05T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://cpal.cc/"
   },
   {
     "name": "SAND 2027",
@@ -9112,6 +9385,19 @@
     "link": ""
   },
   {
+    "name": "GMP 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Singapore",
+    "Start Date": "Jun 21 2027",
+    "End Date": "Jun 25 2027",
+    "Abstract Deadline": "2026-12-14T23:59:59+00:00",
+    "Submission Deadline": "2026-12-21T23:59:59+00:00",
+    "Notification": "",
+    "link": "https://gmp2026.kma.zcu.cz/"
+  },
+  {
     "name": "ICCAR 2027",
     "sub": [
       "Wireless/Communication"
@@ -9165,6 +9451,19 @@
     "link": ""
   },
   {
+    "name": "ISIT 2026",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Sorrento, Italy",
+    "Start Date": "Jun 27 2027",
+    "End Date": "Jul 02 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.ieee-isit.org/"
+  },
+  {
     "name": "SIGMETRICS 2027 - summer round",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology",
@@ -9177,6 +9476,19 @@
     "Submission Deadline": "2027-01-11T23:59:00-12:00",
     "Notification": "",
     "link": "https://www.sigmetrics.org/sigmetrics2027/"
+  },
+  {
+    "name": "BIS 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Poznań, Poland",
+    "Start Date": "Jun 23 2027",
+    "End Date": "Jun 25 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-11T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://bisconf.org/2026/"
   },
   {
     "name": "ISSTA 2026",
@@ -9207,7 +9519,8 @@
   {
     "name": "BMSB 2027",
     "sub": [
-      "Network System"
+      "Network System",
+      "Wireless/Communication"
     ],
     "Location": "Sydney, Australia",
     "Start Date": "Jul 07 2027",
@@ -9258,6 +9571,34 @@
     "link": "https://ches.iacr.org/2026/"
   },
   {
+    "name": "ICWSM 2026 - 3rd Full-paper Deadline",
+    "sub": [
+      "Computer-Human Interaction",
+      "Computer–Human Interaction"
+    ],
+    "Location": "Edinburgh, Scotland",
+    "Start Date": "May 27 2026",
+    "End Date": "May 29 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.icwsm.org/2026/index.html"
+  },
+  {
+    "name": "DIS 2026",
+    "sub": [
+      "Computer-Human Interaction",
+      "Computer–Human Interaction"
+    ],
+    "Location": "Stockholm, Sweden",
+    "Start Date": "Jun 28 2027",
+    "End Date": "Jul 02 2027",
+    "Abstract Deadline": "2027-01-11T23:59:59-12:00",
+    "Submission Deadline": "2027-01-18T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://dis.acm.org/2026/"
+  },
+  {
     "name": "CAV 2026",
     "sub": [
       "Computing Theory"
@@ -9295,6 +9636,32 @@
     "Submission Deadline": "2027-01-21T23:59:59-12:00",
     "Notification": "",
     "link": "https://acns2026.github.io/index.html"
+  },
+  {
+    "name": "SIGIR 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "San Jose, California, USA",
+    "Start Date": "Jul 18 2027",
+    "End Date": "Jul 24 2027",
+    "Abstract Deadline": "2027-01-14T23:59:59-12:00",
+    "Submission Deadline": "2027-01-21T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://sigir2026.org/en-AU"
+  },
+  {
+    "name": "EASE 2026 - Research Papers",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Hanoi, Vietnam",
+    "Start Date": "Jun 15 2027",
+    "End Date": "Jun 18 2027",
+    "Abstract Deadline": "2027-01-15T23:59:59-12:00",
+    "Submission Deadline": "2027-01-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/ease-2026"
   },
   {
     "name": "ICET 2027",
@@ -9351,9 +9718,36 @@
     "link": "https://www.ieee-security.org/TC/CSF2027/"
   },
   {
+    "name": "SPAA 2027 - Cycle 1",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Atlanta, GA, USA",
+    "Start Date": "Jun 05 2027",
+    "End Date": "Jun 11 2027",
+    "Abstract Deadline": "2027-01-22T23:59:59-12:00",
+    "Submission Deadline": "2027-01-29T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://spaa.acm.org/"
+  },
+  {
+    "name": "WHC 2027",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Boston, Massachusetts, USA",
+    "Start Date": "Jul 12 2027",
+    "End Date": "Jul 15 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-29T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2027.worldhaptics.org/"
+  },
+  {
     "name": "EAI SecureComm 2027",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Wireless/Communication"
     ],
     "Location": "Hefei, China, China",
     "Start Date": "Oct 15 2027",
@@ -9362,6 +9756,19 @@
     "Submission Deadline": "Feb 01 2027",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "COMPSAC 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Tokyo, Japan",
+    "Start Date": "Jul 13 2027",
+    "End Date": "Jul 16 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-31T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ieeecompsac.computer.org/2026/"
   },
   {
     "name": "ICMR 2026",
@@ -9388,6 +9795,19 @@
     "Submission Deadline": "2027-01-31T23:59:59-12:00",
     "Notification": "",
     "link": "https://attend.ieee.org/wcci-2026/"
+  },
+  {
+    "name": "INTERACT 2027",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Tallinn, Estonia",
+    "Start Date": "Aug 23 2027",
+    "End Date": "Aug 27 2027",
+    "Abstract Deadline": "2027-01-25T23:59:59-12:00",
+    "Submission Deadline": "2027-02-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://interact2027.org/"
   },
   {
     "name": "ICSIP 2027",
@@ -9418,6 +9838,33 @@
     "link": "https://www.icsip.org"
   },
   {
+    "name": "EUSIPCO 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design",
+      "Graphics"
+    ],
+    "Location": "Darmstadt, Germany",
+    "Start Date": "Aug 30 2027",
+    "End Date": "Sep 03 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-02-06T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://eusipco2026.org/"
+  },
+  {
+    "name": "InterSpeech 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "São Paulo, Brazil",
+    "Start Date": "Aug 29 2027",
+    "End Date": "Sep 02 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-02-09T23:59:59+00:00",
+    "Notification": "",
+    "link": "https://interspeech2026.org/"
+  },
+  {
     "name": "ICCSN 2026",
     "sub": [
       "Network System",
@@ -9430,6 +9877,19 @@
     "Submission Deadline": "Feb 10 2027",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ECOOP 2027 - Submission R2",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Turin, Italy",
+    "Start Date": "Jun 28 2027",
+    "End Date": "Jul 02 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-02-11T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2027.ecoop.org/"
   },
   {
     "name": "SACMAT 2027 - Second Cycle",
@@ -9445,6 +9905,19 @@
     "link": "https://www.sacmat.org/2027/"
   },
   {
+    "name": "MobileHCI 2027",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Limassol, Cyprus",
+    "Start Date": "Sep 20 2027",
+    "End Date": "Sep 23 2027",
+    "Abstract Deadline": "2027-02-10T23:59:59-12:00",
+    "Submission Deadline": "2027-02-17T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://mobilehci.acm.org/2027/"
+  },
+  {
     "name": "2026 8th International Conference on Computer Communication and the Internet (ICCCI)",
     "sub": [
       "Wireless/Communication"
@@ -9456,6 +9929,45 @@
     "Submission Deadline": "Feb 20 2027",
     "Notification": "",
     "link": "https://www.iccci.org"
+  },
+  {
+    "name": "ICDAR 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Kuala Lumpur, Malaysia",
+    "Start Date": "Aug 18 2027",
+    "End Date": "Aug 22 2027",
+    "Abstract Deadline": "2027-01-31T23:59:59-12:00",
+    "Submission Deadline": "2027-02-20T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icdar2026.org/"
+  },
+  {
+    "name": "CADE 2027",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Nijmegen, Netherlands",
+    "Start Date": "Aug 23 2027",
+    "End Date": "Aug 26 2027",
+    "Abstract Deadline": "2027-02-15T23:59:59-12:00",
+    "Submission Deadline": "2027-02-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://fscd-cade.science.ru.nl/"
+  },
+  {
+    "name": "ICFP 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Nijmegen, Netherlands",
+    "Start Date": "Sep 26 2027",
+    "End Date": "Oct 01 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-02-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icfp26.sigplan.org/"
   },
   {
     "name": "ASPAI' 2026",
@@ -9679,19 +10191,6 @@
     "link": "https://acisp-conference.github.io/acisp2026/index.html"
   },
   {
-    "name": "SecureComm 2027 - Full Paper Submission deadline",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Hefei, China",
-    "Start Date": "Oct 15 2027",
-    "End Date": "Oct 18 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2027-03-01T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://securecomm.eai-conferences.org/2027/"
-  },
-  {
     "name": "MLET 2027",
     "sub": [
       "Security & Privacy"
@@ -9703,6 +10202,19 @@
     "Submission Deadline": "Mar 05 2027",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ICSME 2026 - Research Papers Track",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Toronto, Canada",
+    "Start Date": "Sep 07 2027",
+    "End Date": "Sep 11 2027",
+    "Abstract Deadline": "2026-02-27T23:59:59-12:00",
+    "Submission Deadline": "2027-03-05T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/icsme-2026"
   },
   {
     "name": "ICACTE 2027",
@@ -9744,6 +10256,19 @@
     "link": "https://conf.researchr.org/track/splash-2026/oopsla-2026"
   },
   {
+    "name": "ECAI 2027",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Oct 02 2027",
+    "End Date": "Oct 07 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-04-14T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ecai2027.org/"
+  },
+  {
     "name": "AsiaJCIS 2026",
     "sub": [
       "Network System",
@@ -9769,6 +10294,32 @@
     "Submission Deadline": "2027-04-15T23:59:59-12:00",
     "Notification": "",
     "link": "https://ches.iacr.org/2026/"
+  },
+  {
+    "name": "SecureComm 2027 - Full Paper Submission deadline (Cycle 1)",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Hefei, China",
+    "Start Date": "Oct 15 2027",
+    "End Date": "Oct 18 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-04-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://securecomm.eai-conferences.org/2027/"
+  },
+  {
+    "name": "CGI 2027 - Second Track: Call for papers with final publication in LNCS Book published by Springer",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Cairns, Australia",
+    "Start Date": "Jul 05 2027",
+    "End Date": "Jul 09 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-04-20T23:59:59+00:00",
+    "Notification": "",
+    "link": "https://cgs-network.org/cgi27/"
   },
   {
     "name": "6GCTT 2027",
@@ -10239,6 +10790,19 @@
     "link": "http://www.comsnets.org"
   },
   {
+    "name": "CCC 2027",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Seattle, Washington, USA",
+    "Start Date": "Jul 19 2027",
+    "End Date": "Jul 22 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://computationalcomplexity.org/"
+  },
+  {
     "name": "CCCI 2026",
     "sub": [
       "Wireless/Communication"
@@ -10423,6 +10987,19 @@
     "link": "https://sites.google.com/di.uniroma1.it/esorics2026/"
   },
   {
+    "name": "ETS 2027 - Official CFP lists Dec 8 / Dec 15, 2026; exact time and timezone are not specified",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "London, UK",
+    "Start Date": "May 24 2027",
+    "End Date": "May 28 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.ets2027.co.uk/"
+  },
+  {
     "name": "FACTUM27",
     "sub": [
       "Wireless/Communication"
@@ -10462,6 +11039,32 @@
     "link": "http://www.mecoconference.me"
   },
   {
+    "name": "GECCO 2027",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Kraków, Poland",
+    "Start Date": "Jul 12 2027",
+    "End Date": "Jul 16 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://gecco-2027.sigevo.org/HomePage"
+  },
+  {
+    "name": "GI 2027",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Winnipeg, Canada",
+    "Start Date": "Jun 15 2027",
+    "End Date": "Jun 18 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://conferences.graphicsinterface.org/2027"
+  },
+  {
     "name": "Global 6G Conference 2026",
     "sub": [
       "Wireless/Communication"
@@ -10486,6 +11089,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "HotOS 2027",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Burghausen, Bavaria, Germany",
+    "Start Date": "May 24 2027",
+    "End Date": "May 26 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://sigops.org/s/conferences/hotos/2027/"
   },
   {
     "name": "http://www.ietcint.com",
@@ -10607,6 +11223,19 @@
     "link": "https://iccsp.apec.edu.in"
   },
   {
+    "name": "ICCV 2027",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Oct 02 2027",
+    "End Date": "Oct 08 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://iccv.thecvf.com/Conferences/2027"
+  },
+  {
     "name": "ICET 2027 The 10th International Conference on Electronics Technology",
     "sub": [
       "Wireless/Communication"
@@ -10672,6 +11301,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "IDC 2027",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Seattle, Washington, USA",
+    "Start Date": "Jun 21 2027",
+    "End Date": "Jun 24 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://idc.acm.org/2027/"
   },
   {
     "name": "IEEE 14 th Asia-Pacific Conference on Antennas and Propagation (APCAP 2026)",
@@ -10960,6 +11602,19 @@
     "link": ""
   },
   {
+    "name": "IMC 2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Atlanta, GA, USA",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.sigcomm.org/news/november-2025-sigcomm-newsletter"
+  },
+  {
     "name": "IMIS-2026",
     "sub": [
       "Wireless/Communication"
@@ -11038,6 +11693,32 @@
     "link": "https://conferences.tiu.edu.iq/iec"
   },
   {
+    "name": "ISCA 2027",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Atlanta, Georgia, USA",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.iscaconf.org/"
+  },
+  {
+    "name": "ISCAS 2027 - Regular paper submission deadline: October 13, 2026; exact cutoff time and timezone not specified on the official conference page",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Bordeaux, France",
+    "Start Date": "Jun 06 2027",
+    "End Date": "Jun 09 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://2027.ieee-iscas.org/"
+  },
+  {
     "name": "ISIA2026",
     "sub": [
       "Network System"
@@ -11049,6 +11730,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ISMB 2027 - Proceedings",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Copenhagen, Denmark",
+    "Start Date": "Jul 18 2027",
+    "End Date": "Jul 22 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.iscb.org/ismbeccb2027/"
   },
   {
     "name": "issac2026poster",
@@ -11431,6 +12125,19 @@
     "link": ""
   },
   {
+    "name": "RE 2027",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Milan, Italy",
+    "Start Date": "Aug 23 2027",
+    "End Date": "Aug 27 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/RE-2027"
+  },
+  {
     "name": "SAFECOMP 2027",
     "sub": [
       "Security & Privacy"
@@ -11472,6 +12179,19 @@
     "link": ""
   },
   {
+    "name": "SGP 2027",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Singapore",
+    "Start Date": "Jun 21 2027",
+    "End Date": "Jun 25 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://igs2027singapore.github.io/"
+  },
+  {
     "name": "Smartcomp 2026",
     "sub": [
       "Wireless/Communication"
@@ -11496,6 +12216,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://2026.softcom.fesb.unist.hr"
+  },
+  {
+    "name": "SOUPS 2027",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Denver, Colorado, USA",
+    "Start Date": "Aug 08 2027",
+    "End Date": "Aug 10 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.usenix.org/conference/soups2027"
   },
   {
     "name": "SPIoT 2026",
@@ -11731,6 +12464,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "WCNC 2027 - Technical paper deadline: September 15, 2026; exact cutoff time and timezone not specified on the official IEEE ComSoc event page",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Panama City, Panama",
+    "Start Date": "Apr 05 2027",
+    "End Date": "Apr 08 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://wcnc2027.ieee-wcnc.org/"
   },
   {
     "name": "WDC ’26",
