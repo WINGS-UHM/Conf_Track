@@ -27,7 +27,7 @@
     "link": "https://conf.researchr.org/home/icse-2026"
   },
   {
-    "name": "ICSE 2026 - Second Cycle: Submission",
+    "name": "ICSE 2026 - Second Cycle: Submission; optional abstract registration",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
     ],
@@ -354,14 +354,14 @@
     "link": "https://etaps.org/2026"
   },
   {
-    "name": "SANER 2026 - Research Track Abstract submission (mandatory)",
+    "name": "SANER 2026 - Regular research papers; abstract submission is mandatory",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
     ],
     "Location": "Limassol, Cyprus",
     "Start Date": "Mar 17 2026",
     "End Date": "Mar 20 2026",
-    "Abstract Deadline": "",
+    "Abstract Deadline": "2025-10-09T23:59:59-12:00",
     "Submission Deadline": "2025-10-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://conf.researchr.org/home/saner-2026"
@@ -417,6 +417,19 @@
     "Submission Deadline": "2025-10-17T23:59:00-12:00",
     "Notification": "",
     "link": "https://2026.sigmod.org/"
+  },
+  {
+    "name": "REFSQ 2026 - Regular research papers; abstract submission is optional",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Poznań, Poland",
+    "Start Date": "Mar 23 2026",
+    "End Date": "Mar 26 2026",
+    "Abstract Deadline": "2025-10-10T23:59:59-12:00",
+    "Submission Deadline": "2025-10-17T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.refsq.org/"
   },
   {
     "name": "ICDE 2026 - second round",
@@ -657,9 +670,9 @@
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
     ],
-    "Location": "Athens, Greece",
-    "Start Date": "Oct 18 2027",
-    "End Date": "Oct 22 2027",
+    "Location": "Tokyo, Japan",
+    "Start Date": "May 18 2026",
+    "End Date": "May 22 2026",
     "Abstract Deadline": "2025-11-25T23:59:00-12:00",
     "Submission Deadline": "2025-12-02T23:59:00-12:00",
     "Notification": "",
@@ -1074,7 +1087,7 @@
     "link": "http://icdcs2026.icdcs.org/"
   },
   {
-    "name": "ACM SIGGRAPH 2026",
+    "name": "ACM SIGGRAPH 2026 - Regular conference papers; submission form registration and initial full paper",
     "sub": [
       "Graphics"
     ],
@@ -1887,6 +1900,19 @@
     "link": "https://icadeis.org"
   },
   {
+    "name": "ICDAR 2026 - Conference papers",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Vienna, Austria",
+    "Start Date": "Aug 30 2026",
+    "End Date": "Sep 04 2026",
+    "Abstract Deadline": "2026-02-13T23:59:59-12:00",
+    "Submission Deadline": "2026-02-27T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icdar2026.org/"
+  },
+  {
     "name": "Networking 2026",
     "sub": [
       "Network System"
@@ -2692,7 +2718,7 @@
     "link": "https://group.acm.org/conferences/group27/"
   },
   {
-    "name": "IEEE VIS 2026",
+    "name": "IEEE VIS 2026 - Regular full papers; mandatory abstract and initial submission",
     "sub": [
       "Graphics"
     ],
@@ -3126,6 +3152,19 @@
     "link": "https://raid2026.org"
   },
   {
+    "name": "SCA 2026 - Submission deadline (posters)",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Barcelona, Spain",
+    "Start Date": "Jul 08 2026",
+    "End Date": "Jul 10 2026",
+    "Abstract Deadline": "2026-04-10T23:59:00+00:00",
+    "Submission Deadline": "2026-04-17T23:59:00+00:00",
+    "Notification": "",
+    "link": "https://computeranimation.org/"
+  },
+  {
     "name": "ICISCCNGS-2026",
     "sub": [
       "Wireless/Communication",
@@ -3138,19 +3177,6 @@
     "Submission Deadline": "Apr 18 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "SCA 2026 - Submission deadline (posters)",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Barcelona, Spain",
-    "Start Date": "Jul 08 2026",
-    "End Date": "Jul 10 2026",
-    "Abstract Deadline": "2026-04-10T23:59:59-12:00",
-    "Submission Deadline": "2026-04-17T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://computeranimation.org/"
   },
   {
     "name": "SDM 2026",
@@ -4066,7 +4092,7 @@
     "link": ""
   },
   {
-    "name": "SEKE 2026",
+    "name": "SEKE 2026 - Regular papers; midnight EST",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
     ],
@@ -4074,7 +4100,7 @@
     "Start Date": "Oct 01 2026",
     "End Date": "Oct 07 2026",
     "Abstract Deadline": "",
-    "Submission Deadline": "2026-05-10T23:59:00-05:00",
+    "Submission Deadline": "2026-05-10T23:59:59-05:00",
     "Notification": "",
     "link": "https://ksiresearch.org/seke/seke26.html"
   },
@@ -7688,32 +7714,6 @@
     "link": ""
   },
   {
-    "name": "ICIT 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Shanghai, China",
-    "Start Date": "Dec 11 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 25 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICMLC 2027",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Hong Kong, China",
-    "Start Date": "Feb 26 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 25 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "EuroSys 2027 - Spring Submission Deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -7893,19 +7893,6 @@
     ],
     "Location": "Kuala Lumper, Malaysia",
     "Start Date": "Dec 10 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ISC 12",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Istanbul, Turkey",
-    "Start Date": "Nov 19 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Sep 30 2026",
@@ -8226,7 +8213,7 @@
     "Location": "Monterey, California, USA",
     "Start Date": "Mar 14 2027",
     "End Date": "Mar 16 2027",
-    "Abstract Deadline": "2025-09-24T23:59:59-12:00",
+    "Abstract Deadline": "2026-10-01T23:59:59-12:00",
     "Submission Deadline": "2026-10-08T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.isfpga.org/"
@@ -8572,6 +8559,19 @@
     "link": ""
   },
   {
+    "name": "ICIT 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Shanghai, China",
+    "Start Date": "Dec 11 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 20 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICSGSC 2026",
     "sub": [
       "Security & Privacy"
@@ -8650,6 +8650,19 @@
     "link": "https://popl27.sigplan.org/home/pepm-2027"
   },
   {
+    "name": "ICMLC 2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Feb 26 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICSIC 2026",
     "sub": [
       "Security & Privacy"
@@ -8723,6 +8736,19 @@
     ],
     "Location": "Batumi, Georgia",
     "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ISC 12",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Istanbul, Turkey",
+    "Start Date": "Nov 19 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 30 2026",
@@ -9030,7 +9056,7 @@
     "link": "https://pldi26.sigplan.org/"
   },
   {
-    "name": "REFSQ 2026",
+    "name": "REFSQ 2027 - Regular research papers; abstract submission is optional",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
     ],
@@ -9040,7 +9066,7 @@
     "Abstract Deadline": "2026-11-05T23:59:59-12:00",
     "Submission Deadline": "2026-11-12T23:59:59-12:00",
     "Notification": "",
-    "link": "https://2026.refsq.org/"
+    "link": "https://2027.refsq.org/"
   },
   {
     "name": "MARLOG16",
@@ -10075,7 +10101,7 @@
     "link": "https://www.iccci.org"
   },
   {
-    "name": "ICDAR 2026 - Conference papers",
+    "name": "ICDAR 2027",
     "sub": [
       "Artificial Intelligence"
     ],
@@ -10085,7 +10111,7 @@
     "Abstract Deadline": "2027-01-31T23:59:59-12:00",
     "Submission Deadline": "2027-02-20T23:59:59-12:00",
     "Notification": "",
-    "link": "https://icdar2026.org/"
+    "link": "https://icdar2027.org/"
   },
   {
     "name": "CADE 2027",
@@ -11155,6 +11181,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "FM 2027",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Oct 18 2027",
+    "End Date": "Oct 22 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.fmeurope.org/feature/upcoming_conferences/"
   },
   {
     "name": "FROM JUNE 09th-13th, 2026, BUDVA, MONTENEGRO",
