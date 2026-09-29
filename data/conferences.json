@@ -14,7 +14,7 @@
     "link": "https://cscw.acm.org/2026/"
   },
   {
-    "name": "ICSE 2026 - Second Cycle: Submission",
+    "name": "ICSE 2026 - Second Cycle: Submission; optional abstract registration",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
     ],
@@ -1091,9 +1091,9 @@
     "sub": [
       "Graphics"
     ],
-    "Location": "Anaheim, California",
-    "Start Date": "Aug 08 2027",
-    "End Date": "Aug 12 2027",
+    "Location": "Los Angeles, California",
+    "Start Date": "Jul 19 2026",
+    "End Date": "Jul 23 2026",
     "Abstract Deadline": "2026-01-15T22:00:00+00:00",
     "Submission Deadline": "2026-01-22T22:00:00+00:00",
     "Notification": "",
@@ -10737,6 +10737,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://conferences.sigcomm.org/sigcomm/2025"
+  },
+  {
+    "name": "ACM SIGGRAPH 2027",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Anaheim, California",
+    "Start Date": "Aug 08 2027",
+    "End Date": "Aug 12 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://s2027.siggraph.org/"
   },
   {
     "name": "ACM SIGMETRICS",
