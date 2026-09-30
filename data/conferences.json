@@ -80,19 +80,6 @@
     "link": "https://3dvconf.github.io/2026/"
   },
   {
-    "name": "MMM 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Prague, Czech Republic",
-    "Start Date": "Jan 29 2026",
-    "End Date": "Jan 31 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-08-19T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://mmm2026.cz/"
-  },
-  {
     "name": "ASPLOS 2026 - Spring Submission Deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -119,6 +106,19 @@
     "link": "https://www.asplos-conference.org/asplos2026/cfp/"
   },
   {
+    "name": "MMM 2026 - Regular papers; extended deadline",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Prague, Czech Republic",
+    "Start Date": "Jan 29 2026",
+    "End Date": "Jan 31 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2025-09-02T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://mmm2026.cz/"
+  },
+  {
     "name": "EDBT 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -169,19 +169,6 @@
     "Submission Deadline": "2025-09-11T23:59:59-12:00",
     "Notification": "",
     "link": "https://conf.researchr.org/home/cgo-2026"
-  },
-  {
-    "name": "WCNC 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Kuala Lumpur, Malaysia",
-    "Start Date": "Apr 13 2026",
-    "End Date": "Apr 16 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-09-14T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://wcnc2026.ieee-wcnc.org/group/21"
   },
   {
     "name": "ICRA 2026",
@@ -432,6 +419,19 @@
     "link": "https://2026.refsq.org/"
   },
   {
+    "name": "WCNC 2026 - Regular papers; final deadline. Cutoff clock and timezone unpublished. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Kuala Lumpur, Malaysia",
+    "Start Date": "Apr 13 2026",
+    "End Date": "Apr 16 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2025-10-26T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://wcnc2026.ieee-wcnc.org/group/21"
+  },
+  {
     "name": "ICDE 2026 - second round",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -456,6 +456,19 @@
     "Submission Deadline": "2025-10-27T17:00:00-07:00",
     "Notification": "",
     "link": "https://icde2026.github.io/"
+  },
+  {
+    "name": "DASFAA 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Jeju Island, South Korea",
+    "Start Date": "Apr 21 2026",
+    "End Date": "Apr 24 2026",
+    "Abstract Deadline": "2025-10-20T23:59:59-12:00",
+    "Submission Deadline": "2025-10-27T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://dasfaa2026.github.io/"
   },
   {
     "name": "PacificVis 2026 - Conference track",
@@ -582,8 +595,8 @@
     "Location": "Raleigh, USA",
     "Start Date": "Jun 27 2026",
     "End Date": "Jul 01 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-11-17T23:59:59-12:00",
+    "Abstract Deadline": "2025-11-10T23:59:00-12:00",
+    "Submission Deadline": "2025-11-17T23:59:00-12:00",
     "Notification": "",
     "link": "https://iscaconf.org/isca2026/"
   },
@@ -929,19 +942,6 @@
     "link": "https://icpr2026.org/"
   },
   {
-    "name": "ETS 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Chania, Greece",
-    "Start Date": "May 25 2026",
-    "End Date": "May 29 2026",
-    "Abstract Deadline": "2025-12-15T23:59:59-12:00",
-    "Submission Deadline": "2026-01-12T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://ets2026.uniwa.gr/"
-  },
-  {
     "name": "SIGMETRICS 2026 - summer round",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology",
@@ -995,17 +995,17 @@
     "link": "https://icoeins.telkomuniversity.ac.id"
   },
   {
-    "name": "KSEM 2026",
+    "name": "ETS 2026 - Regular research papers; full-paper extension. Cutoff clocks and timezone unpublished. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.",
     "sub": [
-      "Artificial Intelligence"
+      "Computer Architecture/Parallel Programming/Storage Technology"
     ],
-    "Location": "Beijing, China",
-    "Start Date": "Jul 17 2026",
-    "End Date": "Jul 19 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-01-15T23:59:59+00:00",
+    "Location": "Chania, Greece",
+    "Start Date": "May 25 2026",
+    "End Date": "May 29 2026",
+    "Abstract Deadline": "2025-12-15T23:59:00-12:00",
+    "Submission Deadline": "2026-01-14T23:59:00-12:00",
     "Notification": "",
-    "link": "https://ksem2026.rosc.org.cn/"
+    "link": "https://ets2026.uniwa.gr/"
   },
   {
     "name": "NOSSDAV 2026",
@@ -1349,15 +1349,15 @@
     "link": "https://2026.ieeeicip.org/"
   },
   {
-    "name": "HPDC 2026 - abstract registration deadline",
+    "name": "HPDC 2026 - Dates and AoE verified; 23:59:00 is the repository default for the unpublished cutoff time.",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
     ],
     "Location": "Cleveland, OH, USA",
     "Start Date": "Jul 13 2026",
     "End Date": "Jul 16 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-02-05T23:59:59-12:00",
+    "Abstract Deadline": "2026-01-29T23:59:00-12:00",
+    "Submission Deadline": "2026-02-05T23:59:00-12:00",
     "Notification": "",
     "link": "https://hpdc.sci.utah.edu/2026/"
   },
@@ -1913,6 +1913,19 @@
     "link": "https://icdar2026.org/"
   },
   {
+    "name": "KSEM 2026 - Regular papers; cutoff clock and timezone unpublished. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Beijing, China",
+    "Start Date": "Jul 17 2026",
+    "End Date": "Jul 19 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-02-28T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://ksem2026.rosc.org.cn/"
+  },
+  {
     "name": "Networking 2026",
     "sub": [
       "Network System"
@@ -2307,6 +2320,19 @@
     "Submission Deadline": "2026-03-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.ieeeismar.net/2026/"
+  },
+  {
+    "name": "IEEE CoG 2026 - Regular full technical papers; official AoE date. Clock 23:59:00 uses the repository default because no exact clock is published.",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Madrid, Spain",
+    "Start Date": "Sep 01 2026",
+    "End Date": "Sep 04 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-17T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://cog2026.org/"
   },
   {
     "name": "NETYS 2026",
@@ -3776,9 +3802,7 @@
   {
     "name": "CollaborateCom 2026",
     "sub": [
-      "Network and System Security",
-      "Computer-Human Interaction",
-      "Computer–Human Interaction"
+      "Computer-Human Interaction"
     ],
     "Location": "Hong Kong SAR, China",
     "Start Date": "Nov 14 2026",
@@ -3789,15 +3813,17 @@
     "link": "https://collaboratecom.eai-conferences.org/2026/"
   },
   {
-    "name": "CollaborateCom 2026",
+    "name": "CollaborateCom 2026 - Regular track; cutoff clock and timezone unpublished. Separate late track excluded. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.",
     "sub": [
-      "Computer-Human Interaction"
+      "Network and System Security",
+      "Computer-Human Interaction",
+      "Computer–Human Interaction"
     ],
     "Location": "Hong Kong SAR, China",
     "Start Date": "Nov 14 2026",
     "End Date": "Nov 15 2026",
     "Abstract Deadline": "",
-    "Submission Deadline": "2026-05-01T23:59:59-08:00",
+    "Submission Deadline": "2026-05-01T23:59:00-12:00",
     "Notification": "",
     "link": "https://collaboratecom.eai-conferences.org/2026/"
   },
@@ -4261,19 +4287,6 @@
     "link": "https://2026.eurosys.org/"
   },
   {
-    "name": "IEEE CoG 2026 - Auxiliary Paper",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Madrid, Spain",
-    "Start Date": "Sep 01 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-05-14T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://cog2026.org/"
-  },
-  {
     "name": "NSPW 2026",
     "sub": [
       "Security & Privacy",
@@ -4352,6 +4365,19 @@
     "Submission Deadline": "May 19 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "CNS 2026 - Regular papers; official extended deadline. Clock 23:59:00 and timezone AoE are repository defaults because neither is published.",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Newark, Delaware, USA",
+    "Start Date": "Sep 14 2026",
+    "End Date": "Sep 16 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-18T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://cns2026.ieee-cns.org/"
   },
   {
     "name": "ESEM 2026",
@@ -4810,20 +4836,6 @@
     "Submission Deadline": "2026-05-31T23:59:59-12:00",
     "Notification": "",
     "link": "https://petsymposium.org/cfp26.php"
-  },
-  {
-    "name": "MSWIM'2026",
-    "sub": [
-      "Wireless/Communication",
-      "Network System"
-    ],
-    "Location": "Paris, France",
-    "Start Date": "Oct 26 2026",
-    "End Date": "Oct 30 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-06-01T23:59:59+01:00",
-    "Notification": "",
-    "link": "https://mswimconf.com/2026/"
   },
   {
     "name": "FICTA-2026",
@@ -5301,19 +5313,6 @@
     "link": ""
   },
   {
-    "name": "APBC 2026",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Hsinchu, Taiwan， China",
-    "Start Date": "Oct 21 2026",
-    "End Date": "Oct 24 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-06-15T23:59:59+00:00",
-    "Notification": "",
-    "link": "https://www.apbc2026.com/home"
-  },
-  {
     "name": "HICSS 2027 - Paper Submission Deadline",
     "sub": [
       "Computer–Human Interaction"
@@ -5325,6 +5324,20 @@
     "Submission Deadline": "2026-06-15T23:59:59-10:00",
     "Notification": "",
     "link": "https://hicss.hawaii.edu/"
+  },
+  {
+    "name": "MSWiM 2026 - Regular papers; extended abstract registration and full-paper dates. Cutoff clocks and timezone unpublished. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.",
+    "sub": [
+      "Wireless/Communication",
+      "Network System"
+    ],
+    "Location": "Paris, France",
+    "Start Date": "Oct 26 2026",
+    "End Date": "Oct 30 2026",
+    "Abstract Deadline": "2026-06-14T23:59:00-12:00",
+    "Submission Deadline": "2026-06-15T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://mswimconf.com/2026/"
   },
   {
     "name": "EUVIP 2026",
@@ -5575,19 +5588,6 @@
     "link": ""
   },
   {
-    "name": "ICPADS 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Tokyo, Japan",
-    "Start Date": "Nov 22 2026",
-    "End Date": "Nov 26 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-06-30T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.cloud-conf.net/icpads2026"
-  },
-  {
     "name": "ICSE 2027 - Single Submission Cycle Deadline",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -5679,19 +5679,6 @@
     "Submission Deadline": "Jul 05 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "NCMMSC 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Hengqin, China",
-    "Start Date": "Nov 05 2026",
-    "End Date": "Nov 08 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-07-05T23:59:59+08:00",
-    "Notification": "",
-    "link": "https://www.ncmmsc.org.cn/"
   },
   {
     "name": "BIBM 2026",
@@ -5864,6 +5851,19 @@
     "link": ""
   },
   {
+    "name": "NCMMSC 2026 - Regular full papers; full-paper extension. Cutoff clocks and timezone unpublished; special sessions excluded. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Hengqin, China",
+    "Start Date": "Nov 05 2026",
+    "End Date": "Nov 08 2026",
+    "Abstract Deadline": "2026-07-05T23:59:00-12:00",
+    "Submission Deadline": "2026-07-12T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://www.ncmmsc.org.cn/"
+  },
+  {
     "name": "AIMEH'26",
     "sub": [
       "Wireless/Communication"
@@ -5994,6 +5994,19 @@
     "Submission Deadline": "2026-07-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://conferences.sigcomm.org/hotnets/2026/"
+  },
+  {
+    "name": "APBC 2026 - Regular full papers; extended submission deadline in the organizer EasyChair CFP. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Hsinchu, Taiwan， China",
+    "Start Date": "Oct 21 2026",
+    "End Date": "Oct 24 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-07-17T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://www.apbc2026.com/home"
   },
   {
     "name": "ADMA 2026 - Special Session Paper",
@@ -6772,6 +6785,19 @@
     "link": ""
   },
   {
+    "name": "ICPADS 2026 - Research papers; extended firm deadline. Cutoff clock and timezone unpublished. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Tokyo, Japan",
+    "Start Date": "Nov 22 2026",
+    "End Date": "Nov 26 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-08-15T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://www.cloud-conf.net/icpads2026"
+  },
+  {
     "name": "Nordsec'26",
     "sub": [
       "Security & Privacy"
@@ -7382,6 +7408,19 @@
     "link": "https://chi2026.acm.org/"
   },
   {
+    "name": "EDBT 2027 - Official February cutoff is 17:00 PST (UTC-8), represented as the equivalent 13:00 AoE.",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Lille, France",
+    "Start Date": "Apr 06 2027",
+    "End Date": "Apr 09 2027",
+    "Abstract Deadline": "2026-09-03T23:59:59-12:00",
+    "Submission Deadline": "2026-09-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://edbticdt2027.github.io/"
+  },
+  {
     "name": "ICDT 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -7485,6 +7524,19 @@
     "Submission Deadline": "2026-09-15T23:59:00-12:00",
     "Notification": "",
     "link": "https://www.usenix.org/conference/fast27"
+  },
+  {
+    "name": "WCNC 2027 - Technical papers; official IEEE ComSoc calendar date. Clock 23:59:00 and timezone AoE are repository defaults, not published cutoff precision.",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Panama City, Panama",
+    "Start Date": "Apr 05 2027",
+    "End Date": "Apr 08 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-15T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://wcnc2027.ieee-wcnc.org/"
   },
   {
     "name": "ICALP 2027 - Track B first round; Track A and Track B second round TBA",
@@ -8032,7 +8084,7 @@
     "link": "https://saiconference.com/CVC"
   },
   {
-    "name": "DCC 2027",
+    "name": "DCC 2026 - Regular full papers; official CFP date. Clock 23:59:00 and timezone AoE use repository defaults because neither is specified.",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology",
       "Graphics"
@@ -8285,7 +8337,7 @@
     "link": "https://dfrws.org/conferences/dfceurope2027/"
   },
   {
-    "name": "IFIP WG 11.9 2026 - Submission Deadline",
+    "name": "IFIP WG 11.9 2026 - Regular paper submission; unspecified clock and timezone use repository defaults 23:59:00 and AoE",
     "sub": [
       "Network and System Security"
     ],
@@ -8951,7 +9003,7 @@
     "link": "https://www.isis.vanderbilt.edu/events/hscciccps-2026"
   },
   {
-    "name": "ICPC 2026",
+    "name": "ICPC 2026 - Research track abstract deadline conflict: CFP October 19, 2025 AoE; public HotCRP October 20, 2025 09:00 AoE.",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
     ],
@@ -9004,7 +9056,7 @@
     "link": ""
   },
   {
-    "name": "NOMS 2026",
+    "name": "NOMS 2026 - Regular full technical paper final deadline: November 10, 2025; 23:59:00 and AoE are repository defaults; the source publishes the date only.",
     "sub": [
       "Network and System Security"
     ],
@@ -9184,19 +9236,6 @@
     "Submission Deadline": "2026-11-23T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.codaspy.org/2026/"
-  },
-  {
-    "name": "DASFAA 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Shenyang, China",
-    "Start Date": "May 27 2027",
-    "End Date": "May 30 2027",
-    "Abstract Deadline": "2025-10-20T23:59:59-12:00",
-    "Submission Deadline": "2026-11-25T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://dasfaa2026.github.io/"
   },
   {
     "name": "IEEE LatinIoT 2027",
@@ -9498,6 +9537,19 @@
     "Submission Deadline": "2026-12-14T23:59:59-12:00",
     "Notification": "",
     "link": "https://icaps26.icaps-conference.org/"
+  },
+  {
+    "name": "ETS 2027 - Regular papers; official CFP dates. Clock 23:59:00 and timezone AoE are repository defaults, not published cutoff precision.",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "London, UK",
+    "Start Date": "May 24 2027",
+    "End Date": "May 28 2027",
+    "Abstract Deadline": "2026-12-08T23:59:00-12:00",
+    "Submission Deadline": "2026-12-15T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://www.ets2027.co.uk/"
   },
   {
     "name": "ICDF2C 2027 - Full Paper Submission deadline",
@@ -11092,6 +11144,19 @@
     "link": ""
   },
   {
+    "name": "DASFAA 2027 - Regular papers; CFP/home give November 25, 2026 at 23:59 AoE; important-dates page gives June 6, 2027 at 23:59 AoE; final date unresolved",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Shenyang, China",
+    "Start Date": "May 27 2027",
+    "End Date": "May 30 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://dasfaa2027.github.io/"
+  },
+  {
     "name": "DIFCON - DIGITAL FUTURES INTERNATIONAL CONGRESS",
     "sub": [
       "Wireless/Communication"
@@ -11155,19 +11220,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://sites.google.com/di.uniroma1.it/esorics2026/"
-  },
-  {
-    "name": "ETS 2027 - Official CFP lists Dec 8 / Dec 15, 2026; exact time and timezone are not specified",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "London, UK",
-    "Start Date": "May 24 2027",
-    "End Date": "May 28 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://www.ets2027.co.uk/"
   },
   {
     "name": "FACTUM27",
@@ -12660,19 +12712,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "WCNC 2027 - Technical paper deadline: September 15, 2026; exact cutoff time and timezone not specified on the official IEEE ComSoc event page",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Panama City, Panama",
-    "Start Date": "Apr 05 2027",
-    "End Date": "Apr 08 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://wcnc2027.ieee-wcnc.org/"
   },
   {
     "name": "WDC ’26",
