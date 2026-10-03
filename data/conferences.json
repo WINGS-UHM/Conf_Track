@@ -1060,6 +1060,19 @@
     "link": "https://ets2026.uniwa.gr/"
   },
   {
+    "name": "NOSSDAV 2026 - Published registration and full cutoff; portal full close later",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Apr 08 2026",
+    "End Date": "Apr 08 2026",
+    "Abstract Deadline": "2026-01-16T23:59:00-12:00",
+    "Submission Deadline": "2026-01-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://nossdav.org/2026/"
+  },
+  {
     "name": "FCCM 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -1492,19 +1505,6 @@
     "Submission Deadline": "2026-02-08T23:59:59-12:00",
     "Notification": "",
     "link": "https://kdd2026.kdd.org/"
-  },
-  {
-    "name": "ICS 2026 - Cycle 2",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Belfast, Northern Ireland, United Kingdom",
-    "Start Date": "Jul 06 2026",
-    "End Date": "Jul 09 2026",
-    "Abstract Deadline": "2026-02-02T23:59:59-12:00",
-    "Submission Deadline": "2026-02-09T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://dipsa-qub.github.io/ICS2026-webpage/"
   },
   {
     "name": "CASA 2026",
@@ -5236,6 +5236,19 @@
     "link": ""
   },
   {
+    "name": "ACM TURC 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Hangzhou, China",
+    "Start Date": "Jul 11 2026",
+    "End Date": "Jul 12 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-06-10T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://www.acmturc.com/2026/en/"
+  },
+  {
     "name": "ICCD 2026 - abstract and full paper deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -8177,19 +8190,6 @@
     "link": ""
   },
   {
-    "name": "ICISS PhD Forum 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Chennai, India",
-    "Start Date": "Oct 02 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 02 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "Eurographics 2026",
     "sub": [
       "Graphics"
@@ -8214,20 +8214,6 @@
     "Submission Deadline": "2026-10-01T23:59:59-12:00",
     "Notification": "",
     "link": "https://saiconference.com/CVC"
-  },
-  {
-    "name": "ICC 2026",
-    "sub": [
-      "Wireless/Communication",
-      "Network System"
-    ],
-    "Location": "Washington, DC, USA",
-    "Start Date": "May 30 2027",
-    "End Date": "Jun 03 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-10-02T23:59:59-04:00",
-    "Notification": "",
-    "link": "https://icc2026.ieee-icc.org"
   },
   {
     "name": "FSE 2026",
@@ -8599,6 +8585,19 @@
     "link": "https://conf.researchr.org/track/splash-2026/oopsla-2026"
   },
   {
+    "name": "ICISS PhD Forum 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Chennai, India",
+    "Start Date": "Dec 16 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 16 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CHES 2026 - Schedule for TCHES Volume 2026/2",
     "sub": [
       "Network and System Security"
@@ -8623,6 +8622,20 @@
     "Submission Deadline": "2026-10-15T23:59:59-12:00",
     "Notification": "",
     "link": "https://etaps.org/2027"
+  },
+  {
+    "name": "ICC 2026",
+    "sub": [
+      "Wireless/Communication",
+      "Network System"
+    ],
+    "Location": "Washington, DC, USA",
+    "Start Date": "May 30 2027",
+    "End Date": "Jun 03 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-16T23:59:59-07:00",
+    "Notification": "",
+    "link": "https://icc2026.ieee-icc.org"
   },
   {
     "name": "FG 2027",
@@ -9606,6 +9619,19 @@
     "link": "https://dipsa-qub.github.io/ICS2026-webpage/"
   },
   {
+    "name": "ICS 2026 - Cycle 2",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Atlanta, Georgia, USA",
+    "Start Date": "Jul 07 2026",
+    "End Date": "Jul 09 2026",
+    "Abstract Deadline": "2026-12-01T23:59:00-12:00",
+    "Submission Deadline": "2026-12-07T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://dipsa-qub.github.io/ICS2026-webpage/"
+  },
+  {
     "name": "OSDI 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -9828,17 +9854,17 @@
     "link": "https://2026.ieee-isit.org/"
   },
   {
-    "name": "NOSSDAV 2026 - Published registration and full cutoff; portal full close later",
+    "name": "NOSSDAV 2027",
     "sub": [
       "Network System"
     ],
     "Location": "Ghent, Belgium",
-    "Start Date": "Apr 08 2026",
-    "End Date": "Apr 08 2026",
-    "Abstract Deadline": "2026-01-16T23:59:00-12:00",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
     "Submission Deadline": "2027-01-11T23:59:00-12:00",
     "Notification": "",
-    "link": "https://nossdav.org/2026/"
+    "link": "https://nossdav.org/"
   },
   {
     "name": "SIGMETRICS 2027 - summer round",
@@ -12568,6 +12594,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://conf.researchr.org/home/RE-2027"
+  },
+  {
+    "name": "REV-ECIT 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "HA NOI, Viet Nam",
+    "Start Date": "Dec 19 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "SAFECOMP 2027",
