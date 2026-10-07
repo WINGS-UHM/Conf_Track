@@ -218,7 +218,7 @@
     "Start Date": "Feb 24 2026",
     "End Date": "Feb 26 2026",
     "Abstract Deadline": "",
-    "Submission Deadline": "2025-09-16T23:59:00-12:00",
+    "Submission Deadline": "2025-09-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.usenix.net/conference/fast26"
   },
@@ -367,19 +367,6 @@
     "link": "https://conf.researchr.org/home/saner-2026"
   },
   {
-    "name": "SIGMOD 2026 - round 2",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Bangalore, India",
-    "Start Date": "May 31 2026",
-    "End Date": "Jun 05 2026",
-    "Abstract Deadline": "2025-10-10T23:59:00-12:00",
-    "Submission Deadline": "2025-10-17T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://2026.sigmod.org/"
-  },
-  {
     "name": "SIGMOD 2026 - round 3",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -402,6 +389,19 @@
     "End Date": "Jun 05 2026",
     "Abstract Deadline": "2025-10-10T23:59:00-12:00",
     "Submission Deadline": "2025-10-17T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://2026.sigmod.org/"
+  },
+  {
+    "name": "PODS 2026 - Second submission cycle",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Bangalore, India",
+    "Start Date": "May 31 2026",
+    "End Date": "Jun 03 2026",
+    "Abstract Deadline": "2025-10-10T23:59:59-12:00",
+    "Submission Deadline": "2025-10-17T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.sigmod.org/"
   },
@@ -528,10 +528,10 @@
       "Graphics"
     ],
     "Location": "Sydney, Australia",
-    "Start Date": "Apr 20 2026",
+    "Start Date": "Apr 21 2026",
     "End Date": "Apr 23 2026",
-    "Abstract Deadline": "2025-11-01T23:59:00-12:00",
-    "Submission Deadline": "2025-11-08T23:59:00-12:00",
+    "Abstract Deadline": "2025-11-01T23:59:59-12:00",
+    "Submission Deadline": "2025-11-08T23:59:59-12:00",
     "Notification": "",
     "link": "https://pacificvis2026.github.io/"
   },
@@ -994,23 +994,23 @@
     "link": "https://icpr2026.org/"
   },
   {
-    "name": "SIGMETRICS 2026 - winter round",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Ann Arbor, Michigan, USA",
-    "Start Date": "Jun 08 2026",
-    "End Date": "Jun 12 2026",
-    "Abstract Deadline": "2026-01-06T23:59:00-12:00",
-    "Submission Deadline": "2026-01-13T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://www.sigmetrics.org/sigmetrics2026/"
-  },
-  {
     "name": "SIGMETRICS 2026 - summer round",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology",
       "Uncategorized"
+    ],
+    "Location": "Ann Arbor, Michigan, USA",
+    "Start Date": "Jun 09 2026",
+    "End Date": "Jun 11 2026",
+    "Abstract Deadline": "2026-01-06T23:59:59-12:00",
+    "Submission Deadline": "2026-01-13T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.sigmetrics.org/sigmetrics2026/"
+  },
+  {
+    "name": "SIGMETRICS 2026 - winter round",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
     ],
     "Location": "Ann Arbor, Michigan, USA",
     "Start Date": "Jun 09 2026",
@@ -1236,10 +1236,10 @@
       "Artificial Intelligence"
     ],
     "Location": "San José, Costa Rica (hybrid)",
-    "Start Date": "Jul 13 2026",
+    "Start Date": "Jul 15 2026",
     "End Date": "Jul 17 2026",
-    "Abstract Deadline": "2026-01-19T23:59:00-12:00",
-    "Submission Deadline": "2026-01-26T23:59:00-12:00",
+    "Abstract Deadline": "2026-01-19T23:59:59-12:00",
+    "Submission Deadline": "2026-01-26T23:59:59-12:00",
     "Notification": "",
     "link": "https://gecco-2026.sigevo.org/HomePage"
   },
@@ -3878,9 +3878,8 @@
     "link": ""
   },
   {
-    "name": "CollaborateCom 2026 - Regular track; cutoff clock and timezone unpublished. Separate late track excluded. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.",
+    "name": "CollaborateCom 2026",
     "sub": [
-      "Network and System Security",
       "Computer-Human Interaction",
       "Computer–Human Interaction"
     ],
@@ -3888,13 +3887,14 @@
     "Start Date": "Nov 14 2026",
     "End Date": "Nov 15 2026",
     "Abstract Deadline": "",
-    "Submission Deadline": "2026-05-01T23:59:00-12:00",
+    "Submission Deadline": "2026-05-01T23:59:59-12:00",
     "Notification": "",
     "link": "https://collaboratecom.eai-conferences.org/2026/"
   },
   {
-    "name": "CollaborateCom 2026",
+    "name": "CollaborateCom 2026 - Regular track; cutoff clock and timezone unpublished. Separate late track excluded. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.",
     "sub": [
+      "Network and System Security",
       "Computer-Human Interaction",
       "Computer–Human Interaction"
     ],
@@ -7632,19 +7632,6 @@
     "link": ""
   },
   {
-    "name": "FAST 2027 - Spring deadline",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Renton, WA, USA",
-    "Start Date": "Feb 23 2027",
-    "End Date": "Feb 25 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-09-15T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://www.usenix.org/conference/fast27"
-  },
-  {
     "name": "CSCloud 2026",
     "sub": [
       "Network and System Security"
@@ -7656,6 +7643,19 @@
     "Submission Deadline": "2026-09-15T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.cloud-conf.net/cscloud/2026/cscloud/"
+  },
+  {
+    "name": "FAST 2027 - Spring deadline",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Renton, WA, USA",
+    "Start Date": "Feb 23 2027",
+    "End Date": "Feb 25 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-09-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.usenix.org/conference/fast27"
   },
   {
     "name": "FAST 2027 - Spring deadline",
@@ -8651,19 +8651,6 @@
     "link": "https://fg2027.ieee-biometrics.org/"
   },
   {
-    "name": "SIGMOD 2027 - round 2",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Huntington Beach, CA, USA",
-    "Start Date": "Jun 13 2027",
-    "End Date": "Jun 19 2027",
-    "Abstract Deadline": "2026-10-10T23:59:00-12:00",
-    "Submission Deadline": "2026-10-17T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://2027.sigmod.org/"
-  },
-  {
     "name": "SIGMOD 2027 - round 3",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -8686,6 +8673,19 @@
     "End Date": "Jun 19 2027",
     "Abstract Deadline": "2026-10-10T23:59:00-12:00",
     "Submission Deadline": "2026-10-17T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://2027.sigmod.org/"
+  },
+  {
+    "name": "PODS 2027 - Second Submission Cycle",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Huntington Beach, CA, USA",
+    "Start Date": "Jun 13 2027",
+    "End Date": "Jun 19 2027",
+    "Abstract Deadline": "2026-10-10T23:59:59-12:00",
+    "Submission Deadline": "2026-10-17T23:59:59-12:00",
     "Notification": "",
     "link": "https://2027.sigmod.org/"
   },
@@ -9606,20 +9606,20 @@
     "link": ""
   },
   {
-    "name": "ICS 2026 - Cycle 2",
+    "name": "ICS 2026 - Cycle 1",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
     ],
     "Location": "Atlanta, Georgia, USA",
     "Start Date": "Jul 07 2026",
     "End Date": "Jul 09 2026",
-    "Abstract Deadline": "2026-12-01T23:59:00-12:00",
-    "Submission Deadline": "2026-12-07T23:59:00-12:00",
+    "Abstract Deadline": "2026-12-01T23:59:59-12:00",
+    "Submission Deadline": "2026-12-07T23:59:59-12:00",
     "Notification": "",
     "link": "https://dipsa-qub.github.io/ICS2026-webpage/"
   },
   {
-    "name": "ICS 2026 - Cycle 1",
+    "name": "ICS 2026 - Cycle 2",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
     ],
