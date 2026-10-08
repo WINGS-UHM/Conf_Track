@@ -367,7 +367,7 @@
     "link": "https://conf.researchr.org/home/saner-2026"
   },
   {
-    "name": "SIGMOD 2026 - round 3",
+    "name": "SIGMOD 2026 - round 4",
     "sub": [
       "Database/Data Mining/Information Retrieval"
     ],
@@ -380,15 +380,15 @@
     "link": "https://2026.sigmod.org/"
   },
   {
-    "name": "SIGMOD 2026 - round 4",
+    "name": "PODS 2026 - Second submission cycle",
     "sub": [
       "Database/Data Mining/Information Retrieval"
     ],
     "Location": "Bangalore, India",
     "Start Date": "May 31 2026",
-    "End Date": "Jun 05 2026",
-    "Abstract Deadline": "2025-10-10T23:59:00-12:00",
-    "Submission Deadline": "2025-10-17T23:59:00-12:00",
+    "End Date": "Jun 03 2026",
+    "Abstract Deadline": "2025-10-10T23:59:59-12:00",
+    "Submission Deadline": "2025-10-17T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.sigmod.org/"
   },
@@ -8070,33 +8070,6 @@
     "link": ""
   },
   {
-    "name": "ICMEE 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Guangzhou, China",
-    "Start Date": "Dec 29 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICNCC 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Kuala Lumper, Malaysia",
-    "Start Date": "Dec 10 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "SATML 2026",
     "sub": [
       "Network and System Security"
@@ -8238,32 +8211,6 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 04 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "EEET 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Tianjin, China",
-    "Start Date": "Dec 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 05 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICSIM 2027",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Tokyo, Japan",
-    "Start Date": "Jan 20 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 05 2026",
     "Notification": "",
     "link": ""
   },
@@ -8651,19 +8598,6 @@
     "link": "https://fg2027.ieee-biometrics.org/"
   },
   {
-    "name": "SIGMOD 2027 - round 3",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Huntington Beach, CA, USA",
-    "Start Date": "Jun 13 2027",
-    "End Date": "Jun 19 2027",
-    "Abstract Deadline": "2026-10-10T23:59:00-12:00",
-    "Submission Deadline": "2026-10-17T23:59:00-12:00",
-    "Notification": "",
-    "link": "https://2027.sigmod.org/"
-  },
-  {
     "name": "SIGMOD 2027 - round 4",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -8701,6 +8635,32 @@
     "Submission Deadline": "2026-10-17T23:59:59-12:00",
     "Notification": "",
     "link": "https://2027.sigmod.org/"
+  },
+  {
+    "name": "PODS 2027 - Second Submission Cycle",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Huntington Beach, CA, USA",
+    "Start Date": "Jun 13 2027",
+    "End Date": "Jun 19 2027",
+    "Abstract Deadline": "2026-10-10T23:59:59-12:00",
+    "Submission Deadline": "2026-10-17T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2027.sigmod.org/"
+  },
+  {
+    "name": "EEET 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tianjin, China",
+    "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 20 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICAID 2027",
@@ -8940,6 +8900,33 @@
     "link": ""
   },
   {
+    "name": "ICMEE 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Guangzhou, China",
+    "Start Date": "Dec 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICNCC 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Kuala Lumper, Malaysia",
+    "Start Date": "Dec 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ISC 12",
     "sub": [
       "Security & Privacy"
@@ -9089,6 +9076,19 @@
     ],
     "Location": "Ouarzazate, Morocco",
     "Start Date": "Nov 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 05 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICSIM 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tokyo, Japan",
+    "Start Date": "Jan 20 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Nov 05 2026",
@@ -9262,6 +9262,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Nov 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "CCFL 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Al Khobar, Saudi Arabia",
+    "Start Date": "Feb 02 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 16 2026",
     "Notification": "",
     "link": ""
   },
@@ -10123,6 +10136,19 @@
     "link": "https://www.usenix.org/conference/usenixsecurity27"
   },
   {
+    "name": "EIGN-2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Mexico City, Mexico",
+    "Start Date": "Feb 11 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 29 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CSFW 2027 - Winter",
     "sub": [
       "Network and System Security"
@@ -10162,6 +10188,19 @@
     "link": "https://2027.worldhaptics.org/"
   },
   {
+    "name": "SecWeb3",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Springer, UK",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 31 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "EAI SecureComm 2027",
     "sub": [
       "Security & Privacy",
@@ -10170,6 +10209,19 @@
     ],
     "Location": "Hefei, China, China",
     "Start Date": "Oct 15 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 01 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "OCIAN27",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Delft, Netherlands",
+    "Start Date": "Apr 13 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Feb 01 2027",
@@ -12149,6 +12201,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://conferences.tiu.edu.iq/iec"
+  },
+  {
+    "name": "INTRICATE-SEC-2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Tirana, Albania",
+    "Start Date": "Mar 24 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ISCA 2027",
