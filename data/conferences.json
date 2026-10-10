@@ -1104,7 +1104,7 @@
     "sub": [
       "Artificial Intelligence"
     ],
-    "Location": "Kyoto, Japan and Hengqin, China",
+    "Location": "Bremen, Germany",
     "Start Date": "Aug 18 2026",
     "End Date": "Aug 21 2026",
     "Abstract Deadline": "2026-01-12T23:59:59-12:00",
@@ -1412,19 +1412,6 @@
     "Submission Deadline": "2026-02-04T23:59:59-12:00",
     "Notification": "",
     "link": "https://learningtheory.org/colt2026/"
-  },
-  {
-    "name": "ICIP 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Tampere, Finland",
-    "Start Date": "Sep 14 2026",
-    "End Date": "Sep 16 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-02-04T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2026.ieeeicip.org/"
   },
   {
     "name": "HPDC 2026 - Dates and AoE verified; 23:59:00 is the repository default for the unpublished cutoff time.",
@@ -9880,6 +9867,19 @@
     "link": "https://2026.ieee-isit.org/"
   },
   {
+    "name": "IJCAI 2027 - Separate satellite event: August 15-17, 2027, Hengqin, China",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Kyoto, Japan",
+    "Start Date": "Aug 07 2027",
+    "End Date": "Aug 13 2027",
+    "Abstract Deadline": "2027-01-04T23:59:00-12:00",
+    "Submission Deadline": "2027-01-11T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://2027.ijcai.org/"
+  },
+  {
     "name": "BIS 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -10779,6 +10779,19 @@
     "link": ""
   },
   {
+    "name": "ICIP 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Singapore",
+    "Start Date": "Nov 29 2027",
+    "End Date": "Dec 03 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-03-31T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.ieeeicip.org/"
+  },
+  {
     "name": "AQTI' 2027",
     "sub": [
       "Wireless/Communication"
@@ -10895,6 +10908,19 @@
     "Submission Deadline": "2027-05-15T23:59:59-12:00",
     "Notification": "",
     "link": "https://cog2027.u-aizu.ac.jp/"
+  },
+  {
+    "name": "ICDM 2027 - Full papers; dates are tentative and subject to change",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Brisbane, Australia",
+    "Start Date": "Nov 15 2027",
+    "End Date": "Nov 18 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-06-06T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://icdm2027-website.onrender.com/"
   },
   {
     "name": "ICSSS2027",
@@ -11549,6 +11575,19 @@
     "link": "https://sites.google.com/di.uniroma1.it/esorics2026/"
   },
   {
+    "name": "EuroVis 2027 - Full papers; submission deadline not yet announced",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Stuttgart, Germany",
+    "Start Date": "May 31 2027",
+    "End Date": "Jun 04 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://eurovis27.github.io/web/"
+  },
+  {
     "name": "FACTUM27",
     "sub": [
       "Wireless/Communication"
@@ -11797,6 +11836,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ICIC 2027 - Submission deadline to be confirmed",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Jinan, China",
+    "Start Date": "Jul 22 2027",
+    "End Date": "Jul 26 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "http://ic-icc.cn/2027/index.php"
   },
   {
     "name": "ICIN 2027 - 30th Conference on Innovation in Clouds, Internet and Networks",
