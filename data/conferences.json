@@ -1576,7 +1576,7 @@
     "sub": [
       "Artificial Intelligence"
     ],
-    "Location": "Buenos Aires, Argentina",
+    "Location": "Lisbon, Portugal",
     "Start Date": "Jul 20 2026",
     "End Date": "Jul 23 2026",
     "Abstract Deadline": "2026-02-08T23:59:59-12:00",
@@ -1753,19 +1753,6 @@
     "Submission Deadline": "2026-02-20T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.discotec.org/2026/forte"
-  },
-  {
-    "name": "I4CS 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Copenhagen, Denmark",
-    "Start Date": "Jun 15 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Feb 22 2026",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "TDI 2026",
@@ -8375,20 +8362,6 @@
     "link": "https://dfrws.org/conferences/dfceurope2027/"
   },
   {
-    "name": "WCNPS2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "Dec 03 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 11 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "IFIP WG 11.9 2027 - Submission Deadline",
     "sub": [
       "Network and System Security"
@@ -8408,6 +8381,20 @@
     ],
     "Location": "Concepción, Chile",
     "Start Date": "Nov 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 12 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "WCNPS2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "Dec 03 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 12 2026",
@@ -9987,6 +9974,19 @@
     "link": "https://www.icccm.org"
   },
   {
+    "name": "ISMB 2027 - Proceedings; conditional acceptance: March 2, 2027; revised papers due: March 18, 2027, 23:59 AoE; no extensions to submission or revision deadlines",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Copenhagen, Denmark",
+    "Start Date": "Jul 18 2027",
+    "End Date": "Jul 22 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-14T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://www.iscb.org/ismbeccb2027/"
+  },
+  {
     "name": "SVCC 2027",
     "sub": [
       "Wireless/Communication",
@@ -10199,6 +10199,19 @@
     "Submission Deadline": "2027-01-29T23:59:59-12:00",
     "Notification": "",
     "link": "https://2027.worldhaptics.org/"
+  },
+  {
+    "name": "I4CS 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Ingolstadt, Germany",
+    "Start Date": "Jun 14 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 31 2027",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "SecWeb3",
@@ -10884,6 +10897,19 @@
     "link": "https://cgs-network.org/cgi27/"
   },
   {
+    "name": "KR 2027 - Main track; author response period: June 15-18, 2027",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Buenos Aires, Argentina",
+    "Start Date": "Sep 21 2027",
+    "End Date": "Sep 24 2027",
+    "Abstract Deadline": "2027-04-23T23:59:59-12:00",
+    "Submission Deadline": "2027-04-28T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://kr.org/KR2027/"
+  },
+  {
     "name": "6GCTT 2027",
     "sub": [
       "Wireless/Communication"
@@ -11202,6 +11228,19 @@
     ],
     "Location": "Dublin, Ireland",
     "Start Date": "Jul 12 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "AIDLNN 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Edingburgh, UK",
+    "Start Date": "Dec 18 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
@@ -12305,19 +12344,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "ISMB 2027 - Proceedings",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Copenhagen, Denmark",
-    "Start Date": "Jul 18 2027",
-    "End Date": "Jul 22 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://www.iscb.org/ismbeccb2027/"
   },
   {
     "name": "issac2026poster",
