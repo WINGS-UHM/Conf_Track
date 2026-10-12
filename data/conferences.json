@@ -783,6 +783,19 @@
     "link": "https://www.eurovis.org.uk/"
   },
   {
+    "name": "ESWC 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Limassol, Cyprus",
+    "Start Date": "May 23 2027",
+    "End Date": "May 27 2027",
+    "Abstract Deadline": "2025-11-27T23:59:00-12:00",
+    "Submission Deadline": "2025-12-04T23:59:00-12:00",
+    "Notification": "",
+    "link": "https://2026.eswc-conferences.org/"
+  },
+  {
     "name": "MICETC-25-1",
     "sub": [
       "Network System"
@@ -4053,7 +4066,7 @@
     "link": "https://clustercomp.org/2026"
   },
   {
-    "name": "ISWC 2026 - ESWC transfer",
+    "name": "ISWC 2026 - ESWC resubmissions must be committed by April 11, 2026",
     "sub": [
       "Database/Data Mining/Information Retrieval"
     ],
@@ -5035,32 +5048,6 @@
     "Submission Deadline": "2026-06-05T23:59:59-07:00",
     "Notification": "",
     "link": "https://sigspatial2026.sigspatial.org/"
-  },
-  {
-    "name": "CoNEXT 2026 - December Cycle",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Utrecht, The Netherlands",
-    "Start Date": "Dec 07 2026",
-    "End Date": "Dec 10 2026",
-    "Abstract Deadline": "2026-05-29T23:59:59-12:00",
-    "Submission Deadline": "2026-06-05T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conferences.sigcomm.org/co-next/2026/#!/home"
-  },
-  {
-    "name": "CoNEXT 2026 - June Cycle",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Utrecht, The Netherlands",
-    "Start Date": "Dec 07 2026",
-    "End Date": "Dec 10 2026",
-    "Abstract Deadline": "2026-05-29T23:59:59-12:00",
-    "Submission Deadline": "2026-06-05T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conferences.sigcomm.org/co-next/2026/#!/home"
   },
   {
     "name": "DFRWS APAC 2026",
@@ -8241,21 +8228,6 @@
     "link": ""
   },
   {
-    "name": "ITNG 2027",
-    "sub": [
-      "Network System",
-      "Wireless/Communication",
-      "Security & Privacy"
-    ],
-    "Location": "LAS VEGAS, Nevada, United States",
-    "Start Date": "Apr 11 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 09 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "AAMAS 2027",
     "sub": [
       "Artificial Intelligence"
@@ -8320,19 +8292,6 @@
     "Submission Deadline": "2026-10-09T23:59:59+00:00",
     "Notification": "",
     "link": "https://datacompressionconference.org/"
-  },
-  {
-    "name": "CSAI 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Beijing, China",
-    "Start Date": "Dec 18 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 10 2026",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "Ucom 2026",
@@ -8914,6 +8873,21 @@
     "link": ""
   },
   {
+    "name": "ITNG 2027",
+    "sub": [
+      "Network System",
+      "Wireless/Communication",
+      "Security & Privacy"
+    ],
+    "Location": "LAS VEGAS, Nevada, United States",
+    "Start Date": "Apr 11 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "MLSys 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -9042,6 +9016,19 @@
     "Submission Deadline": "2026-11-02T23:59:59-12:00",
     "Notification": "",
     "link": "https://acm-stoc.org/stoc2026/"
+  },
+  {
+    "name": "CSAI 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Beijing, China",
+    "Start Date": "Dec 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 05 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICAIE’2026",
@@ -9551,6 +9538,19 @@
     "Submission Deadline": "2026-12-02T23:59:59-12:00",
     "Notification": "",
     "link": "https://eurosp2026.ieee-security.org/"
+  },
+  {
+    "name": "CoNEXT 2026 - December Cycle",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Rio de Janeiro, Brazil",
+    "Start Date": "Dec 07 2026",
+    "End Date": "Dec 10 2026",
+    "Abstract Deadline": "2026-11-27T23:59:59-12:00",
+    "Submission Deadline": "2026-12-04T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conferences.sigcomm.org/co-next/2026/#!/home"
   },
   {
     "name": "MobiSys 2026",
@@ -10934,6 +10934,19 @@
     "Submission Deadline": "2027-05-15T23:59:59-12:00",
     "Notification": "",
     "link": "https://cog2027.u-aizu.ac.jp/"
+  },
+  {
+    "name": "CoNEXT 2026 - June Cycle",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Rio de Janeiro, Brazil",
+    "Start Date": "Dec 07 2026",
+    "End Date": "Dec 10 2026",
+    "Abstract Deadline": "2027-05-28T23:59:59-12:00",
+    "Submission Deadline": "2027-06-04T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conferences.sigcomm.org/co-next/2026/#!/home"
   },
   {
     "name": "ICDM 2027 - Full papers; dates are tentative and subject to change",
