@@ -1270,19 +1270,6 @@
     "link": "https://gecco-2026.sigevo.org/HomePage"
   },
   {
-    "name": "IDC 2027",
-    "sub": [
-      "Computer–Human Interaction"
-    ],
-    "Location": "Seattle, Washington, USA",
-    "Start Date": "Jun 21 2027",
-    "End Date": "Jun 24 2027",
-    "Abstract Deadline": "2026-01-21T00:00:00-12:00",
-    "Submission Deadline": "2026-01-28T00:00:00-12:00",
-    "Notification": "",
-    "link": "https://idc.acm.org/2027/"
-  },
-  {
     "name": "ICML 2026 - Paper Submissions Open on OpenReview Jan 08 2026 12:00AM UTC-0",
     "sub": [
       "Artificial Intelligence"
@@ -3017,6 +3004,19 @@
     "Submission Deadline": "2026-04-10T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.asap-conf.org/"
+  },
+  {
+    "name": "DEXA 2026 - Final and firm main conference deadline",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Graz, Austria",
+    "Start Date": "Aug 11 2026",
+    "End Date": "Aug 13 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.dexa.org/2026/dexa2026.html"
   },
   {
     "name": "WASA 2026",
@@ -7859,19 +7859,6 @@
     "link": ""
   },
   {
-    "name": "ICACS’27",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Lahore, Pakistan",
-    "Start Date": "Feb 02 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 25 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "EuroSys 2027 - Spring Submission Deadline",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -8583,6 +8570,19 @@
     "link": "https://2027.sigmod.org/"
   },
   {
+    "name": "ICACS’27",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Lahore, Pakistan",
+    "Start Date": "Feb 02 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 19 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "EEET 2026",
     "sub": [
       "Wireless/Communication"
@@ -9264,6 +9264,19 @@
     "Submission Deadline": "2026-11-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://cvpr.thecvf.com/Conferences/2026"
+  },
+  {
+    "name": "ISCA 2027 - Main Track; rebuttal/revision period: February 16-March 8, 2027",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Atlanta, Georgia, USA",
+    "Start Date": "Jun 05 2027",
+    "End Date": "Jun 09 2027",
+    "Abstract Deadline": "2026-11-09T23:59:59-12:00",
+    "Submission Deadline": "2026-11-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://iscaconf.org/isca2027/"
   },
   {
     "name": "S&P 2027 - Second Paper submission deadline",
@@ -10121,6 +10134,19 @@
     "link": ""
   },
   {
+    "name": "IDC 2027 - Full and Short Papers; abstract deadline includes author information",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Seattle, Washington, USA",
+    "Start Date": "Jun 21 2027",
+    "End Date": "Jun 24 2027",
+    "Abstract Deadline": "2027-01-18T23:59:59-12:00",
+    "Submission Deadline": "2027-01-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://idc.acm.org/2027/"
+  },
+  {
     "name": "USENIX Security 2026 - Cycle 2 Deadline",
     "sub": [
       "Network and System Security",
@@ -10725,6 +10751,19 @@
     "Submission Deadline": "2027-03-01T23:59:59-12:00",
     "Notification": "",
     "link": "https://2027.ieee-iros.org/"
+  },
+  {
+    "name": "RE 2027 - Research Papers",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Milan, Italy",
+    "Start Date": "Aug 23 2027",
+    "End Date": "Aug 27 2027",
+    "Abstract Deadline": "2027-02-22T23:59:59-12:00",
+    "Submission Deadline": "2027-03-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/RE-2027"
   },
   {
     "name": "MLET 2027",
@@ -12750,19 +12789,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "RE 2027",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Milan, Italy",
-    "Start Date": "Aug 23 2027",
-    "End Date": "Aug 27 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://conf.researchr.org/home/RE-2027"
   },
   {
     "name": "REV-ECIT 2026",
