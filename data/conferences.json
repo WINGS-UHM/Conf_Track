@@ -4526,6 +4526,19 @@
     "link": ""
   },
   {
+    "name": "ER 2026 - Main conference full and short papers; extended deadlines; abstract mandatory",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "St. John's, NL, Canada",
+    "Start Date": "Oct 06 2026",
+    "End Date": "Oct 08 2026",
+    "Abstract Deadline": "2026-05-12T23:59:59-12:00",
+    "Submission Deadline": "2026-05-19T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.er2026.org/"
+  },
+  {
     "name": "TCC 2026",
     "sub": [
       "Network and System Security"
@@ -8846,19 +8859,6 @@
     "link": ""
   },
   {
-    "name": "ICMEE 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Guangzhou, China",
-    "Start Date": "Dec 29 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICNCC 2026",
     "sub": [
       "Network System",
@@ -9416,6 +9416,19 @@
     ],
     "Location": "Flic en Flac, Mauritius",
     "Start Date": "Jul 22 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICMEE 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Guangzhou, China",
+    "Start Date": "Dec 29 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Nov 30 2026",
@@ -10870,6 +10883,19 @@
     "link": ""
   },
   {
+    "name": "ICIC 2027 - Regular papers; rebuttal notification April 15, 2027",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Jinan, China",
+    "Start Date": "Jul 22 2027",
+    "End Date": "Jul 26 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-03-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "http://ic-icc.cn/2027/index.php"
+  },
+  {
     "name": "ICIP 2026",
     "sub": [
       "Graphics"
@@ -11966,19 +11992,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "ICIC 2027 - Submission deadline to be confirmed",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Jinan, China",
-    "Start Date": "Jul 22 2027",
-    "End Date": "Jul 26 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "http://ic-icc.cn/2027/index.php"
   },
   {
     "name": "ICIN 2027 - 30th Conference on Innovation in Clouds, Internet and Networks",
@@ -13142,6 +13155,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "UbiComp/ISWC 2027",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Seoul, Republic of Korea",
+    "Start Date": "Oct 03 2027",
+    "End Date": "Oct 07 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://sigchi.org/events/ubicomp-2027/"
   },
   {
     "name": "USENIX Security - Cycle 2",
