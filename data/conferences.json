@@ -8307,20 +8307,6 @@
     "link": "https://datacompressionconference.org/"
   },
   {
-    "name": "Ucom 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Hong Kong, China",
-    "Start Date": "Dec 16 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "DFRWS 2027 - Extended deadlines",
     "sub": [
       "Network and System Security"
@@ -8894,6 +8880,20 @@
     ],
     "Location": "LAS VEGAS, Nevada, United States",
     "Start Date": "Apr 11 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "Ucom 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Dec 16 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 30 2026",
