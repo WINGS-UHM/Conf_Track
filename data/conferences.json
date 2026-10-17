@@ -2124,6 +2124,19 @@
     "link": "https://ecscw.eusset.eu/2026"
   },
   {
+    "name": "MDM 2026 - Research track regular and short papers; extended deadline",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Athens, Greece",
+    "Start Date": "Jun 30 2026",
+    "End Date": "Jul 02 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-03-06T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://mdm-2026.github.io/index.html"
+  },
+  {
     "name": "SACMAT 2026 - Second Cycle",
     "sub": [
       "Network and System Security"
@@ -2268,19 +2281,6 @@
     "Submission Deadline": "2026-03-12T23:59:59-12:00",
     "Notification": "",
     "link": "https://ecmlpkdd.org/2026/"
-  },
-  {
-    "name": "ICCCN 2026",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Honolulu, Hawaii, USA",
-    "Start Date": "Jul 27 2026",
-    "End Date": "Jul 30 2026",
-    "Abstract Deadline": "2026-03-07T23:59:59-10:00",
-    "Submission Deadline": "2026-03-13T23:59:59-10:00",
-    "Notification": "",
-    "link": "http://www.icccn.org/ICCCN26/"
   },
   {
     "name": "Euro-Par 2026",
@@ -8914,12 +8914,12 @@
     "link": "https://mlsys.org/"
   },
   {
-    "name": "‎‎ICBDAIA27",
+    "name": "NETSCIX2027",
     "sub": [
-      "Security & Privacy"
+      "Network System"
     ],
-    "Location": "Sofia, Bulgaria",
-    "Start Date": "Apr 21 2027",
+    "Location": "Hong Kong, China",
+    "Start Date": "Jan 24 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 31 2026",
@@ -9070,6 +9070,19 @@
     "link": ""
   },
   {
+    "name": "‎‎ICBDAIA27",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Sofia, Bulgaria",
+    "Start Date": "Apr 21 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 05 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "RECOMB 2026",
     "sub": [
       "Interdiscipline/Mixture/Emerging"
@@ -9133,6 +9146,19 @@
     "Submission Deadline": "2026-11-05T23:59:59-12:00",
     "Notification": "",
     "link": "https://sensys.acm.org/2026/"
+  },
+  {
+    "name": "CAIDS-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Islamabad, Pakistan",
+    "Start Date": "Dec 24 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 10 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICDIP 2027",
@@ -9225,6 +9251,19 @@
     "Submission Deadline": "2026-11-12T23:59:59-12:00",
     "Notification": "",
     "link": "https://2027.refsq.org/"
+  },
+  {
+    "name": "JIMSCON2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "New Delhi, India",
+    "Start Date": "Jan 29 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 15 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "MARLOG16",
@@ -10240,6 +10279,19 @@
     "link": "https://www.ieee-security.org/TC/CSF2027/"
   },
   {
+    "name": "WCSE 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Seoul, North Korea",
+    "Start Date": "Jun 25 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 30 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "SPAA 2027 - Cycle 1",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -10530,6 +10582,19 @@
     "Submission Deadline": "Feb 20 2027",
     "Notification": "",
     "link": "https://www.iccci.org"
+  },
+  {
+    "name": "ICCCN 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Rome, Italy",
+    "Start Date": "Jul 12 2027",
+    "End Date": "Jul 15 2027",
+    "Abstract Deadline": "2027-02-12T23:59:59-12:00",
+    "Submission Deadline": "2027-02-19T23:59:59-12:00",
+    "Notification": "",
+    "link": "http://www.icccn.org/ICCCN26/"
   },
   {
     "name": "ICDAR 2027",
@@ -11428,6 +11493,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://cs-conferences.acadiau.ca/ant-26"
+  },
+  {
+    "name": "ANT-27",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Delft, Netherlands",
+    "Start Date": "Apr 13 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "Antonio Franchi",
