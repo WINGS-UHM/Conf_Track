@@ -8490,20 +8490,6 @@
     "link": "https://etaps.org/2027"
   },
   {
-    "name": "ICC 2026",
-    "sub": [
-      "Wireless/Communication",
-      "Network System"
-    ],
-    "Location": "Washington, DC, USA",
-    "Start Date": "May 30 2027",
-    "End Date": "Jun 03 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-10-16T23:59:59-07:00",
-    "Notification": "",
-    "link": "https://icc2026.ieee-icc.org"
-  },
-  {
     "name": "FG 2027",
     "sub": [
       "Artificial Intelligence"
@@ -8925,6 +8911,20 @@
     "Submission Deadline": "Oct 31 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ICC 2026",
+    "sub": [
+      "Wireless/Communication",
+      "Network System"
+    ],
+    "Location": "Washington, DC, USA",
+    "Start Date": "May 30 2027",
+    "End Date": "Jun 03 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-30T23:59:59-07:00",
+    "Notification": "",
+    "link": "https://icc2026.ieee-icc.org"
   },
   {
     "name": "Sicherheit 2027",
@@ -11794,6 +11794,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://ecmlpkdd.org/2027/"
+  },
+  {
+    "name": "ECTI-CON 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "May 27-30, 2026",
+    "Start Date": "ECTI-CON 2026 - Chonburi, Thailand",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://eng.buu.ac.th/ecti-con2026"
   },
   {
     "name": "ESORICS - Cycle 1",
