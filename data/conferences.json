@@ -954,19 +954,6 @@
     "link": ""
   },
   {
-    "name": "ICME 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Xiamen, China",
-    "Start Date": "Jul 13 2027",
-    "End Date": "Jul 17 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2025-12-31T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2026.ieeeicme.org/"
-  },
-  {
     "name": "CSS 2026",
     "sub": [
       "Security & Privacy"
@@ -8913,6 +8900,19 @@
     "link": ""
   },
   {
+    "name": "wctp26",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Mexico City, Mexico",
+    "Start Date": "Nov 19 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Oct 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICC 2026",
     "sub": [
       "Wireless/Communication",
@@ -9890,6 +9890,19 @@
     "Submission Deadline": "Dec 31 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ICME 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Xiamen, China",
+    "Start Date": "Jul 13 2027",
+    "End Date": "Jul 17 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-12-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2026.ieeeicme.org/"
   },
   {
     "name": "ICCCAS2027",
@@ -10985,6 +10998,19 @@
     "Submission Deadline": "Apr 05 2027",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "IMC 2027 - Cycle 1; rebuttal period January 26-February 2, 2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Atlanta, GA, USA",
+    "Start Date": "Oct 25 2027",
+    "End Date": "Oct 29 2027",
+    "Abstract Deadline": "2027-03-31T23:59:59-12:00",
+    "Submission Deadline": "2027-04-07T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conferences.sigcomm.org/imc/2027/"
   },
   {
     "name": "OOPSLA 2026 - Submission Deadline Round 2",
