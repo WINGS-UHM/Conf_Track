@@ -1467,20 +1467,6 @@
     "link": "https://icalppodcspaa2026.cs.rhul.ac.uk/"
   },
   {
-    "name": "SIGCOMM 2026",
-    "sub": [
-      "Network System",
-      "Uncategorized"
-    ],
-    "Location": "Bangkok, Thailand",
-    "Start Date": "Aug 08 2027",
-    "End Date": "Aug 12 2027",
-    "Abstract Deadline": "2026-01-30T23:59:59-12:00",
-    "Submission Deadline": "2026-02-06T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conferences.sigcomm.org/sigcomm/2026/"
-  },
-  {
     "name": "SIGKDD 2026 - 2nd round of 2 total rounds",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -3241,6 +3227,19 @@
     "Submission Deadline": "Apr 17 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "ICTIR 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Melbourne, Australia",
+    "Start Date": "Jul 25 2026",
+    "End Date": "Jul 25 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-04-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://sigir-ictir.github.io/ictir2026/"
   },
   {
     "name": "RAID 2026",
@@ -6416,6 +6415,19 @@
     "link": ""
   },
   {
+    "name": "SIGIR-AP 2026 - Extended deadlines",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Singapore",
+    "Start Date": "Dec 13 2026",
+    "End Date": "Dec 15 2026",
+    "Abstract Deadline": "2026-07-22T23:59:59-12:00",
+    "Submission Deadline": "2026-07-29T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.sigir-ap.org/sigir-ap-2026/"
+  },
+  {
     "name": "VINCI 2026",
     "sub": [
       "Graphics"
@@ -8464,6 +8476,19 @@
     "link": "https://ches.iacr.org/2026/"
   },
   {
+    "name": "CHIIR 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Berlin, Germany",
+    "Start Date": "Mar 07 2027",
+    "End Date": "Mar 11 2027",
+    "Abstract Deadline": "2026-10-08T23:59:59-12:00",
+    "Submission Deadline": "2026-10-15T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://chiir2026.github.io/"
+  },
+  {
     "name": "ETAPS 2027 - ESOP round 2, FoSSaCS, TACAS, iFS",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -8568,32 +8593,6 @@
     "link": ""
   },
   {
-    "name": "ICAID 2027",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Paris, France",
-    "Start Date": "Mar 17 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICSGSC 2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Guangzhou, China",
-    "Start Date": "Dec 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "gdс-2026",
     "sub": [
       "Security & Privacy"
@@ -8618,19 +8617,6 @@
     "Submission Deadline": "2026-10-20T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.pd-cat.org/2026/"
-  },
-  {
-    "name": "ISCAS 2027 - Regular paper submission deadline: October 13, 2026; exact cutoff time and timezone not specified on the official conference page",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Bordeaux, France",
-    "Start Date": "Jun 06 2027",
-    "End Date": "Jun 09 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-10-22T23:59:59-05:00",
-    "Notification": "",
-    "link": "https://2027.ieee-iscas.org/"
   },
   {
     "name": "CT-RSA 2026 - Paper submission deadline",
@@ -8750,6 +8736,19 @@
     "Submission Deadline": "2026-10-26T23:59:59+00:00",
     "Notification": "",
     "link": "http://iccvm.org/2026/"
+  },
+  {
+    "name": "ISCAS 2027 - Regular paper submission deadline: October 13, 2026; exact cutoff time and timezone not specified on the official conference page",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Bordeaux, France",
+    "Start Date": "Jun 06 2027",
+    "End Date": "Jun 09 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-26T23:59:59-05:00",
+    "Notification": "",
+    "link": "https://2027.ieee-iscas.org/"
   },
   {
     "name": "EWDTS 2026",
@@ -8997,6 +8996,19 @@
     ],
     "Location": "Ouarzazate, Morocco",
     "Start Date": "Nov 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 05 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICSGSC 2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Guangzhou, China",
+    "Start Date": "Dec 04 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Nov 05 2026",
@@ -9341,6 +9353,19 @@
     "Submission Deadline": "2026-11-18T23:59:59-08:00",
     "Notification": "",
     "link": "https://www.esann.org/"
+  },
+  {
+    "name": "ICAID 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Paris, France",
+    "Start Date": "Mar 17 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 20 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "MMSys 2027 - Research Track - First Round (extended)",
@@ -9825,6 +9850,19 @@
     "Submission Deadline": "2026-12-17T23:59:59-12:00",
     "Notification": "",
     "link": "https://2027.eswc-conferences.org/"
+  },
+  {
+    "name": "PDSF 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Paris, France",
+    "Start Date": "Mar 08 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 21 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "GMP 2026",
@@ -10463,6 +10501,20 @@
     "link": "https://interact2027.org/"
   },
   {
+    "name": "SIGCOMM 2026",
+    "sub": [
+      "Network System",
+      "Uncategorized"
+    ],
+    "Location": "Bangkok, Thailand",
+    "Start Date": "Aug 08 2027",
+    "End Date": "Aug 12 2027",
+    "Abstract Deadline": "2026-01-30T23:59:59-12:00",
+    "Submission Deadline": "2027-02-02T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conferences.sigcomm.org/sigcomm/2026/"
+  },
+  {
     "name": "ICSIP 2027",
     "sub": [
       "Security & Privacy",
@@ -10489,6 +10541,19 @@
     "Submission Deadline": "Feb 05 2027",
     "Notification": "",
     "link": "https://www.icsip.org"
+  },
+  {
+    "name": "SAIS 2027 - Paper submission deadline",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Santa Clara, CA, USA",
+    "Start Date": "Jun 07 2027",
+    "End Date": "Jun 08 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-02-04T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.usenix.org/conference/sais27"
   },
   {
     "name": "GI 2027",
