@@ -4721,6 +4721,19 @@
     "link": "https://conferences.sigappfr.org/apweb2026/"
   },
   {
+    "name": "CLEF 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Bucharest, Romania",
+    "Start Date": "Sep 14 2027",
+    "End Date": "Sep 17 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-05-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://clef2026.clef-initiative.eu/"
+  },
+  {
     "name": "SYSTOR 2026 - Full and Short Papers Track",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
