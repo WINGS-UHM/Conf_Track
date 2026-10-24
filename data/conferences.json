@@ -8082,21 +8082,6 @@
     "link": "https://wicon.eai-conferences.org/2026/"
   },
   {
-    "name": "ICCFN 2026",
-    "sub": [
-      "Security & Privacy",
-      "Wireless/Communication",
-      "Network System"
-    ],
-    "Location": "Prague, Czechia",
-    "Start Date": "Nov 25 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "JCUN 2026",
     "sub": [
       "Security & Privacy"
@@ -9009,6 +8994,21 @@
     ],
     "Location": "Ouarzazate, Morocco",
     "Start Date": "Nov 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 05 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICCFN 2026",
+    "sub": [
+      "Security & Privacy",
+      "Wireless/Communication",
+      "Network System"
+    ],
+    "Location": "Prague, Czechia",
+    "Start Date": "Nov 25 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Nov 05 2026",
@@ -12043,19 +12043,6 @@
     "link": "http://www.ietcint.com"
   },
   {
-    "name": "https://impgroup.org/imp-conference-2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://impgroup.org/imp-conference-2026"
-  },
-  {
     "name": "https://www.ieee.org",
     "sub": [
       "Wireless/Communication"
@@ -12539,6 +12526,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "http://voyager.ce.fit.ac.jp/conf/imis/2026"
+  },
+  {
+    "name": "IMP Conference 2026 Building a Sustainable World Through Business Relationships and Networks",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "May 2025",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://impgroup.org/imp-conference-2026"
   },
   {
     "name": "INCoS-2026",
