@@ -8147,19 +8147,6 @@
     "link": "https://eg2026.github.io/"
   },
   {
-    "name": "CVC 2027 - Round 1",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Amsterdam, Netherlands",
-    "Start Date": "Apr 15 2027",
-    "End Date": "Apr 16 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-10-01T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://saiconference.com/CVC"
-  },
-  {
     "name": "FSE 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -8895,6 +8882,19 @@
     "Submission Deadline": "2026-10-31T23:59:59-12:00",
     "Notification": "",
     "link": "http://2026.cscwd.org"
+  },
+  {
+    "name": "CVC 2027 - Round 1",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Amsterdam, Netherlands",
+    "Start Date": "Apr 15 2027",
+    "End Date": "Apr 16 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://saiconference.com/CVC"
   },
   {
     "name": "EuroGP 2027 - Full papers",
