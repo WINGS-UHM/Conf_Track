@@ -1405,9 +1405,9 @@
     "sub": [
       "Artificial Intelligence"
     ],
-    "Location": "Tokyo, Japan",
-    "Start Date": "Jun 28 2027",
-    "End Date": "Jul 02 2027",
+    "Location": "San Diego, California",
+    "Start Date": "Jun 30 2026",
+    "End Date": "Jul 03 2026",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-02-04T23:59:59-12:00",
     "Notification": "",
@@ -3797,10 +3797,11 @@
     "link": "https://www.cgs-network.org/cgi26/"
   },
   {
-    "name": "CCS 2026",
+    "name": "ACM CCS - Cycle 1",
     "sub": [
       "Network System",
-      "Network and System Security"
+      "Network and System Security",
+      "Uncategorized"
     ],
     "Location": "Atlanta, USA",
     "Start Date": "Oct 11 2027",
@@ -7404,6 +7405,20 @@
     "link": "https://sigmobile.org/mobicom/2026/"
   },
   {
+    "name": "MobiCom 2027 - Summer Deadlines",
+    "sub": [
+      "Uncategorized",
+      "Network System"
+    ],
+    "Location": "TBD",
+    "Start Date": "Oct 18 2027",
+    "End Date": "Oct 22 2027",
+    "Abstract Deadline": "2026-08-26T23:59:59-12:00",
+    "Submission Deadline": "2026-09-02T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.sigmobile.org/mobicom/2027/"
+  },
+  {
     "name": "CICPS 2027",
     "sub": [
       "Security & Privacy",
@@ -8643,19 +8658,6 @@
     "link": "https://popl27.sigplan.org/home/pepm-2027"
   },
   {
-    "name": "ICMLC 2027",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Hong Kong, China",
-    "Start Date": "Feb 26 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 25 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICSIC 2026",
     "sub": [
       "Security & Privacy"
@@ -8717,7 +8719,7 @@
     "Location": "Nanyang Technological University, Singapore",
     "Start Date": "Apr 09 2027",
     "End Date": "Apr 11 2027",
-    "Abstract Deadline": "2026-10-23T23:59:59+00:00",
+    "Abstract Deadline": "2026-10-26T23:59:59+00:00",
     "Submission Deadline": "2026-10-26T23:59:59+00:00",
     "Notification": "",
     "link": "http://iccvm.org/2026/"
@@ -9068,6 +9070,19 @@
     "link": "https://recomb.org/recomb2026/"
   },
   {
+    "name": "ICGHIT 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Depok, Greater Jakarta, Indonesia",
+    "Start Date": "Jan 20 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 06 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "HSCC 2026",
     "sub": [
       "Computing Theory"
@@ -9240,7 +9255,8 @@
   {
     "name": "ICCC 2026",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Security & Privacy"
     ],
     "Location": "Chengdu, China",
     "Start Date": "Dec 11 2026",
@@ -9460,6 +9476,19 @@
     "link": ""
   },
   {
+    "name": "ICMLC 2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Hong Kong, China",
+    "Start Date": "Feb 26 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "DASFAA 2027 - Regular papers; CFP/home give November 25, 2026 at 23:59 AoE; important-dates page gives June 6, 2027 at 23:59 AoE; final date unresolved",
     "sub": [
       "Database/Data Mining/Information Retrieval"
@@ -9471,6 +9500,19 @@
     "Submission Deadline": "2026-11-25T23:59:00-12:00",
     "Notification": "",
     "link": "https://dasfaa2027.github.io/"
+  },
+  {
+    "name": "CPAL 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Tokyo, Japan",
+    "Start Date": "Mar 23 2027",
+    "End Date": "Mar 26 2027",
+    "Abstract Deadline": "2026-11-13T23:59:59-12:00",
+    "Submission Deadline": "2026-11-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://cpal.cc/"
   },
   {
     "name": "IEEE LatinIoT 2027",
@@ -9696,19 +9738,6 @@
     "link": "https://roboticsconference.org/"
   },
   {
-    "name": "CPAL 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Tokyo, Japan",
-    "Start Date": "Mar 23 2027",
-    "End Date": "Mar 26 2027",
-    "Abstract Deadline": "2026-11-23T23:59:59-12:00",
-    "Submission Deadline": "2026-12-05T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://cpal.cc/"
-  },
-  {
     "name": "SAND 2027",
     "sub": [
       "Network System"
@@ -9895,7 +9924,7 @@
     "sub": [
       "Artificial Intelligence"
     ],
-    "Location": "Macau SAR, China",
+    "Location": "Macau SAR, China / Online",
     "Start Date": "May 09 2027",
     "End Date": "May 14 2027",
     "Abstract Deadline": "",
@@ -10354,6 +10383,19 @@
     "Submission Deadline": "Jan 30 2027",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "COLT 2027 - Expected rebuttal March 29 - April 2; author notification on or before May 3.",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Tokyo, Japan",
+    "Start Date": "Jun 28 2027",
+    "End Date": "Jul 02 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-29T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://learningtheory.org/colt2027/"
   },
   {
     "name": "SPAA 2027 - Cycle 1",
@@ -11196,6 +11238,19 @@
     "link": ""
   },
   {
+    "name": "GLECC2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Manchester, UK",
+    "Start Date": "Jul 27 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IEEE CoG 2027 - Full Technical Paper",
     "sub": [
       "Graphics"
@@ -11272,6 +11327,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "http://www.iwcit.com"
+  },
+  {
+    "name": "17th ICCCNT 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Denton, Texas, United States",
+    "Start Date": "Dec 19 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "2026 IEEE 11th International Conference on Photonics",
@@ -11395,10 +11463,10 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Anaheim, CA",
-    "Start Date": "Jun 23 2025",
+    "Location": "Ho Chi Minh City, Vietnam",
+    "Start Date": "Jun 21 2027",
     "End Date": "",
-    "Abstract Deadline": "Dec 02 2024",
+    "Abstract Deadline": "Nov 27 2026",
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.sigmobile.org/mobisys/2025/"
@@ -11434,8 +11502,8 @@
     "sub": [
       "Uncategorized"
     ],
-    "Location": "Coimbra, Portugal",
-    "Start Date": "Sep 08 2025",
+    "Location": "Bangkok, Thailand",
+    "Start Date": "Aug 08 2027",
     "End Date": "",
     "Abstract Deadline": "Jan 24 2025",
     "Submission Deadline": "",
@@ -11924,6 +11992,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://sites.google.com/di.uniroma1.it/esorics2026/"
+  },
+  {
+    "name": "ESORICS - Winter",
+    "sub": [
+      "Uncategorized"
+    ],
+    "Location": "Vienna, Austria",
+    "Start Date": "Sep 13 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.esorics2027.org/"
   },
   {
     "name": "EuroVis 2027 - Full papers; submission deadline not yet announced",
