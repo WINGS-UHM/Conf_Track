@@ -3812,6 +3812,19 @@
     "link": "https://www.sigsac.org/ccs/CCS2027/"
   },
   {
+    "name": "CCS 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Binghamton, NY, New York, United States",
+    "Start Date": "Oct 09 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 01 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "MCCSAI'2026",
     "sub": [
       "Security and Privacy",
@@ -7769,9 +7782,9 @@
       "Network System",
       "Uncategorized"
     ],
-    "Location": "Providence, RI, USA",
-    "Start Date": "May 11 2027",
-    "End Date": "May 13 2027",
+    "Location": "Santa Clara, CA, USA",
+    "Start Date": "May 09 2028",
+    "End Date": "May 11 2028",
     "Abstract Deadline": "2026-09-10T23:59:59-04:00",
     "Submission Deadline": "2026-09-17T23:59:59-04:00",
     "Notification": "",
@@ -8685,19 +8698,6 @@
     "link": ""
   },
   {
-    "name": "PDP 2027",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Barcelona, Spain",
-    "Start Date": "Mar 17 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 26 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "WWW 2027",
     "sub": [
       "Interdiscipline/Mixture/Emerging",
@@ -9072,7 +9072,8 @@
   {
     "name": "ICGHIT 2027",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Network System"
     ],
     "Location": "Depok, Greater Jakarta, Indonesia",
     "Start Date": "Jan 20 2027",
@@ -9133,6 +9134,19 @@
     "Submission Deadline": "2026-11-05T23:59:59-12:00",
     "Notification": "",
     "link": "https://sensys.acm.org/2026/"
+  },
+  {
+    "name": "PDP 2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Barcelona, Spain",
+    "Start Date": "Mar 17 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 09 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "CAIDS-2026",
@@ -11331,7 +11345,8 @@
   {
     "name": "17th ICCCNT 2026",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Denton, Texas, United States",
     "Start Date": "Dec 19 2026",
