@@ -3839,19 +3839,6 @@
     "link": ""
   },
   {
-    "name": "IJCB 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Rome, Italy",
-    "Start Date": "Sep 01 2026",
-    "End Date": "Sep 04 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-04-30T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://ijcb2026.ieee-biometrics.org/"
-  },
-  {
     "name": "PACT 2026",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
@@ -7129,19 +7116,6 @@
     "link": "https://www.setta2026.sg/"
   },
   {
-    "name": "WSDM 2027 - Short Paper",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Cordis, Hong Kong SAR, China",
-    "Start Date": "Feb 15 2027",
-    "End Date": "Feb 19 2027",
-    "Abstract Deadline": "2026-08-17T23:59:59-12:00",
-    "Submission Deadline": "2026-08-24T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://wsdm-conference.org/2027/"
-  },
-  {
     "name": "EmTech26",
     "sub": [
       "Security & Privacy"
@@ -8398,6 +8372,19 @@
     "link": "https://algorithmiclearningtheory.org/alt2026/"
   },
   {
+    "name": "COLING 2027 - COLING commitment after ARR meta-reviews; reviewed papers only",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Macau SAR, China / Online",
+    "Start Date": "May 09 2027",
+    "End Date": "May 14 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-10-12T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2027.coling-iccl.org/"
+  },
+  {
     "name": "WISP2026",
     "sub": [
       "Security & Privacy"
@@ -8589,19 +8576,6 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Oct 19 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "EEET 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Tianjin, China",
-    "Start Date": "Dec 04 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 20 2026",
     "Notification": "",
     "link": ""
   },
@@ -9162,6 +9136,19 @@
     "link": ""
   },
   {
+    "name": "EEET 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Tianjin, China",
+    "Start Date": "Dec 04 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICDIP 2027",
     "sub": [
       "Wireless/Communication"
@@ -9228,7 +9215,7 @@
     "link": "https://pacificvis2027.github.io/"
   },
   {
-    "name": "ICDE 2027 - second round",
+    "name": "ICDE 2027 - second round; notification date is approximate",
     "sub": [
       "Database/Data Mining/Information Retrieval"
     ],
@@ -9346,19 +9333,6 @@
     "link": "https://cvpr.thecvf.com/Conferences/2026"
   },
   {
-    "name": "ISCA 2027 - Main Track; rebuttal/revision period: February 16-March 8, 2027",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Atlanta, Georgia, USA",
-    "Start Date": "Jun 05 2027",
-    "End Date": "Jun 09 2027",
-    "Abstract Deadline": "2026-11-09T23:59:59-12:00",
-    "Submission Deadline": "2026-11-16T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://iscaconf.org/isca2027/"
-  },
-  {
     "name": "S&P 2027 - Second Paper submission deadline",
     "sub": [
       "Network and System Security"
@@ -9370,6 +9344,19 @@
     "Submission Deadline": "2026-11-17T23:59:59-12:00",
     "Notification": "",
     "link": "https://sp2027.ieee-security.org/index.html"
+  },
+  {
+    "name": "WSDM 2027 - Short Paper",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Cordis, Hong Kong SAR, China",
+    "Start Date": "Feb 15 2027",
+    "End Date": "Feb 19 2027",
+    "Abstract Deadline": "2026-08-17T23:59:59-12:00",
+    "Submission Deadline": "2026-11-17T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://wsdm-conference.org/2027/"
   },
   {
     "name": "DAC 2026",
@@ -9843,6 +9830,19 @@
     "link": "https://asiaccs2026.cse.iitkgp.ac.in/"
   },
   {
+    "name": "ISCA 2027 - Main Track; rebuttal/revision period: February 16-March 8, 2027",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Atlanta, Georgia, USA",
+    "Start Date": "Jun 05 2027",
+    "End Date": "Jun 09 2027",
+    "Abstract Deadline": "2026-12-06T23:59:59-12:00",
+    "Submission Deadline": "2026-12-13T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://iscaconf.org/isca2027/"
+  },
+  {
     "name": "ICCECE 2027",
     "sub": [
       "Wireless/Communication"
@@ -9932,19 +9932,6 @@
     "Submission Deadline": "2026-12-21T23:59:59+00:00",
     "Notification": "",
     "link": "https://gmp2026.kma.zcu.cz/"
-  },
-  {
-    "name": "COLING 2027 - COLING commitment after ARR meta-reviews; reviewed papers only",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Macau SAR, China / Online",
-    "Start Date": "May 09 2027",
-    "End Date": "May 14 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-12-23T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2027.coling-iccl.org/"
   },
   {
     "name": "NAACL 2027 - NAACL commitment after ARR meta-reviews; reviewed papers only",
@@ -10317,6 +10304,19 @@
     "Submission Deadline": "Jan 25 2027",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "GECCO 2027",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Kraków, Poland",
+    "Start Date": "Jul 12 2027",
+    "End Date": "Jul 16 2027",
+    "Abstract Deadline": "2027-01-18T23:59:59-12:00",
+    "Submission Deadline": "2027-01-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://gecco-2027.sigevo.org/HomePage"
   },
   {
     "name": "IDC 2027 - Full and Short Papers; abstract deadline includes author information",
@@ -11158,6 +11158,19 @@
     "Submission Deadline": "2027-04-07T23:59:59-12:00",
     "Notification": "",
     "link": "https://conf.researchr.org/track/splash-2026/oopsla-2026"
+  },
+  {
+    "name": "IJCB 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Foz do Iguaçu, Brazil",
+    "Start Date": "Sep 13 2027",
+    "End Date": "Sep 17 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-04-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://ijcb2026.ieee-biometrics.org/"
   },
   {
     "name": "ECAI 2027",
@@ -12087,19 +12100,6 @@
     "link": "http://www.mecoconference.me"
   },
   {
-    "name": "GECCO 2027",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Kraków, Poland",
-    "Start Date": "Jul 12 2027",
-    "End Date": "Jul 16 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://gecco-2027.sigevo.org/HomePage"
-  },
-  {
     "name": "Global 6G Conference 2026",
     "sub": [
       "Wireless/Communication"
@@ -12538,7 +12538,7 @@
       "Wireless/Communication"
     ],
     "Location": "",
-    "Start Date": "",
+    "Start Date": "a national strike is called in France the day after SiPS 2026, including at SNCF. The conference itself is not affected, but return trains on 5 November may be disrupted. If you travel by train on 5 November, we strongly advise rescheduling your return trip if possible.",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
