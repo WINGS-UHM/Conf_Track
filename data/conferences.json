@@ -744,6 +744,19 @@
     "link": ""
   },
   {
+    "name": "CSCWD 2026",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Fuzhou, China",
+    "Start Date": "May 13 2026",
+    "End Date": "May 15 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2025-11-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "http://2026.cscwd.org"
+  },
+  {
     "name": "FM 2026 - Optional abstract registration",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -8847,19 +8860,6 @@
     "link": ""
   },
   {
-    "name": "CSCWD 2026",
-    "sub": [
-      "Computer–Human Interaction"
-    ],
-    "Location": "Brisbane, Australia",
-    "Start Date": "May 26 2027",
-    "End Date": "May 28 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-10-31T23:59:59-12:00",
-    "Notification": "",
-    "link": "http://2026.cscwd.org"
-  },
-  {
     "name": "CVC 2027 - Round 1",
     "sub": [
       "Artificial Intelligence"
@@ -9380,7 +9380,7 @@
     "Start Date": "Apr 21 2027",
     "End Date": "Apr 23 2027",
     "Abstract Deadline": "",
-    "Submission Deadline": "2026-11-18T23:59:59-08:00",
+    "Submission Deadline": "2026-11-19T03:59:59-08:00",
     "Notification": "",
     "link": "https://www.esann.org/"
   },
@@ -9606,6 +9606,19 @@
     "Submission Deadline": "2026-11-30T23:59:59-12:00",
     "Notification": "",
     "link": "https://acisp-conference.github.io/acisp2026/index.html"
+  },
+  {
+    "name": "CSCWD 2027 - Paper submission due (extended)",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Brisbane, Australia",
+    "Start Date": "May 26 2027",
+    "End Date": "May 28 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "http://2027.cscwd.org"
   },
   {
     "name": "PETS 2026 - Issue 3 Paper Submission Deadline",
@@ -11315,6 +11328,19 @@
     "Submission Deadline": "2027-06-06T23:59:00-12:00",
     "Notification": "",
     "link": "https://icdm2027-website.onrender.com/"
+  },
+  {
+    "name": "Welcome to IEEE MENACOMM 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "12-14 May 2026 // Hammamet, Tunisia",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jun 15 2027",
+    "Notification": "",
+    "link": "https://menacomm.org"
   },
   {
     "name": "ICSSS2027",
@@ -13538,19 +13564,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://itc-cscc2026.ecti-thailand.org"
-  },
-  {
-    "name": "Welcome to MENACOMM 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "12-14 May 2026 // Hammamet, Tunisia",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://menacomm.org"
   },
   {
     "name": "WELCOME TO SIML 2026 - International Conference on Smart Computing, IoT, and Machine Learning",
