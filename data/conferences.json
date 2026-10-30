@@ -1366,8 +1366,8 @@
     "sub": [
       "Security & Privacy"
     ],
-    "Location": "Canterbury, UK",
-    "Start Date": "Apr 07 2026",
+    "Location": "Trondheim, Norway",
+    "Start Date": "Apr 06 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Feb 02 2026",
@@ -8847,19 +8847,6 @@
     "link": "https://icc2026.ieee-icc.org"
   },
   {
-    "name": "Sicherheit 2027",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Salzburg, Austria",
-    "Start Date": "Feb 23 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 01 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "CVC 2027 - Round 1",
     "sub": [
       "Artificial Intelligence"
@@ -8871,58 +8858,6 @@
     "Submission Deadline": "2026-11-01T23:59:59-12:00",
     "Notification": "",
     "link": "https://saiconference.com/CVC"
-  },
-  {
-    "name": "EuroGP 2027 - Full papers",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Mainz, Germany (hybrid)",
-    "Start Date": "Mar 31 2027",
-    "End Date": "Apr 02 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-11-01T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.evostar.org/2027/eurogp/"
-  },
-  {
-    "name": "EvoApplications 2027 - Full papers",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Mainz, Germany (hybrid)",
-    "Start Date": "Mar 31 2027",
-    "End Date": "Apr 02 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-11-01T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.evostar.org/2027/evoapps/"
-  },
-  {
-    "name": "EvoCOP 2027 - Full papers",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Mainz, Germany (hybrid)",
-    "Start Date": "Mar 31 2027",
-    "End Date": "Apr 02 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-11-01T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.evostar.org/2027/evocop/"
-  },
-  {
-    "name": "EvoMUSART 2027 - Full papers",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Mainz, Germany (hybrid)",
-    "Start Date": "Mar 31 2027",
-    "End Date": "Apr 02 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-11-01T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.evostar.org/2027/evomusart/"
   },
   {
     "name": "ICST 2026",
@@ -9084,7 +9019,7 @@
     "link": "https://conf.researchr.org/home/icpc-2027"
   },
   {
-    "name": "RTAS 2027 - Submission Deadline (Firm)",
+    "name": "RTAS 2027 - Submission Deadline (Firm); Author notification date is tentative.",
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
     ],
@@ -9294,6 +9229,19 @@
     "link": ""
   },
   {
+    "name": "Sicherheit 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Salzburg, Austria",
+    "Start Date": "Feb 23 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 15 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CCFL 2027",
     "sub": [
       "Security & Privacy"
@@ -9331,6 +9279,58 @@
     "Submission Deadline": "2026-11-16T23:59:59-12:00",
     "Notification": "",
     "link": "https://cvpr.thecvf.com/Conferences/2026"
+  },
+  {
+    "name": "EuroGP 2027 - Full papers",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Mainz, Germany (hybrid)",
+    "Start Date": "Mar 31 2027",
+    "End Date": "Apr 02 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.evostar.org/2027/eurogp/"
+  },
+  {
+    "name": "EvoApplications 2027 - Full papers",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Mainz, Germany (hybrid)",
+    "Start Date": "Mar 31 2027",
+    "End Date": "Apr 02 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.evostar.org/2027/evoapps/"
+  },
+  {
+    "name": "EvoCOP 2027 - Full papers",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Mainz, Germany (hybrid)",
+    "Start Date": "Mar 31 2027",
+    "End Date": "Apr 02 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.evostar.org/2027/evocop/"
+  },
+  {
+    "name": "EvoMUSART 2027 - Full papers",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Mainz, Germany (hybrid)",
+    "Start Date": "Mar 31 2027",
+    "End Date": "Apr 02 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-16T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.evostar.org/2027/evomusart/"
   },
   {
     "name": "S&P 2027 - Second Paper submission deadline",
@@ -9514,6 +9514,19 @@
     "Submission Deadline": "2026-11-25T23:59:59-12:00",
     "Notification": "",
     "link": "https://cpal.cc/"
+  },
+  {
+    "name": "TrustSecAI 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Delft, Netherlands",
+    "Start Date": "Apr 13 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 27 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "IEEE LatinIoT 2027",
@@ -9823,6 +9836,19 @@
     ],
     "Location": "Bangkok, Thailand",
     "Start Date": "Apr 26 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "MICETC-26-1",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Karachi, Pakistan",
+    "Start Date": "Dec 18 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Dec 10 2026",
@@ -10729,6 +10755,19 @@
     "Submission Deadline": "2027-02-17T23:59:59-12:00",
     "Notification": "",
     "link": "https://mobilehci.acm.org/2027/"
+  },
+  {
+    "name": "SiMLA'27",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Egham, UK",
+    "Start Date": "Jun 28 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 19 2027",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "2026 8th International Conference on Computer Communication and the Internet (ICCCI)",
@@ -11928,6 +11967,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "CSCW 2027 - There is no secret deadline! If your paper is accepted before the program is set, you'll be invited to present at CSCW 2027.",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Philadelphia, USA",
+    "Start Date": "Oct 16 2027",
+    "End Date": "Oct 20 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://cscw.acm.org/2027/"
   },
   {
     "name": "CSRIS2026",
@@ -13611,6 +13663,19 @@
     ],
     "Location": "Perth, Australia",
     "Start Date": "Jun 09 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "WISE2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Linköping, Sweden",
+    "Start Date": "Jun 14 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
