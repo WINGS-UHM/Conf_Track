@@ -1418,9 +1418,9 @@
     "sub": [
       "Interdiscipline/Mixture/Emerging"
     ],
-    "Location": "Rio de Janeiro, Brazil (Hybrid)",
-    "Start Date": "Jul 23 2026",
-    "End Date": "Jul 25 2026",
+    "Location": "Euskalduna Bilbao Convention Centre, Bilbao, Spain",
+    "Start Date": "Jul 28 2027",
+    "End Date": "Jul 31 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-02-02T23:59:59-12:00",
     "Notification": "",
@@ -3193,9 +3193,9 @@
     "sub": [
       "Graphics"
     ],
-    "Location": "Bordeaux, France",
-    "Start Date": "Jul 01 2026",
-    "End Date": "Jul 03 2026",
+    "Location": "Università della Svizzera italiana, Lugano, Switzerland",
+    "Start Date": "Jul 05 2027",
+    "End Date": "Jul 07 2027",
     "Abstract Deadline": "2026-04-08T23:59:59-12:00",
     "Submission Deadline": "2026-04-15T23:59:59-12:00",
     "Notification": "",
@@ -8832,19 +8832,6 @@
     "link": ""
   },
   {
-    "name": "wctp26",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Mexico City, Mexico",
-    "Start Date": "Nov 19 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 31 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICC 2026",
     "sub": [
       "Wireless/Communication",
@@ -9031,15 +9018,15 @@
     "link": "https://sensys.acm.org/2026/"
   },
   {
-    "name": "PDP 2027",
+    "name": "wctp26",
     "sub": [
-      "Network System"
+      "Security & Privacy"
     ],
-    "Location": "Barcelona, Spain",
-    "Start Date": "Mar 17 2027",
+    "Location": "Mexico City, Mexico",
+    "Start Date": "Nov 19 2026",
     "End Date": "",
     "Abstract Deadline": "",
-    "Submission Deadline": "Nov 09 2026",
+    "Submission Deadline": "Nov 07 2026",
     "Notification": "",
     "link": ""
   },
@@ -9248,6 +9235,19 @@
     ],
     "Location": "Al Khobar, Saudi Arabia",
     "Start Date": "Feb 02 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 16 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "PDP 2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Barcelona, Spain",
+    "Start Date": "Mar 17 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Nov 16 2026",
@@ -10337,12 +10337,25 @@
       "Computing Theory"
     ],
     "Location": "KIT, Amsterdam, The Netherlands",
-    "Start Date": "Jul 19 2027",
+    "Start Date": "Jul 21 2027",
     "End Date": "Jul 23 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2027-01-20T23:59:59-12:00",
     "Notification": "",
     "link": "https://conferences.i-cav.org/2026/"
+  },
+  {
+    "name": "EDT 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Sibiu, Romania",
+    "Start Date": "Mar 26 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 22 2027",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ACNS 2026 - Cycle 1 Submission deadline",
@@ -10434,6 +10447,19 @@
     "Submission Deadline": "2027-01-25T23:59:59-12:00",
     "Notification": "",
     "link": "https://idc.acm.org/2027/"
+  },
+  {
+    "name": "MDM 2027",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Hamilton, New Zealand",
+    "Start Date": "Jun 28 2027",
+    "End Date": "Jul 01 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-25T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://mdm2027.github.io/index.html"
   },
   {
     "name": "USENIX Security 2026 - Cycle 2 Deadline",
@@ -10874,6 +10900,19 @@
     "link": "http://www.icccn.org/ICCCN26/"
   },
   {
+    "name": "EDCC 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Trondheim, Norway",
+    "Start Date": "Apr 06 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 21 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "CADE 2027",
     "sub": [
       "Computing Theory"
@@ -11173,6 +11212,19 @@
     "link": ""
   },
   {
+    "name": "SEGE 2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Oshawa, Canada",
+    "Start Date": "Aug 17 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 05 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICSME 2026 - Research Papers Track",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -11406,6 +11458,19 @@
     "Submission Deadline": "Apr 30 2027",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "APWeb-WAIM 2027",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Guiyang, China / Online",
+    "Start Date": "Aug 29 2027",
+    "End Date": "Aug 31 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-05-14T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conferences.sigappfr.org/apweb2027/"
   },
   {
     "name": "IEEE CoG 2027 - Full Technical Paper",
@@ -12008,6 +12073,19 @@
     "link": "https://cits.udg.edu"
   },
   {
+    "name": "CONCUR 2027 - Part of CONQEST 2027",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Lucca, Italy",
+    "Start Date": "Sep 06 2027",
+    "End Date": "Sep 10 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.cs.vu.nl/~wanf/profactivities.html"
+  },
+  {
     "name": "Connecting the world and beyond",
     "sub": [
       "Wireless/Communication"
@@ -12189,6 +12267,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "FAST 2028",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Seattle, WA, USA",
+    "Start Date": "Feb 28 2028",
+    "End Date": "Mar 01 2028",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.usenix.org/conference/fast28"
   },
   {
     "name": "FDTC 2026",
@@ -12908,6 +12999,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://conf.researchr.org/home/issre-2027"
+  },
+  {
+    "name": "ISWC 2027",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Montevideo, Uruguay",
+    "Start Date": "Oct 24 2027",
+    "End Date": "Oct 28 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://iswc2027.semanticweb.org/"
   },
   {
     "name": "ITASEC27",
