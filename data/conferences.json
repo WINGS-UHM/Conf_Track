@@ -1506,19 +1506,6 @@
     "link": "https://kdd2026.kdd.org/"
   },
   {
-    "name": "CASA 2026",
-    "sub": [
-      "Graphics"
-    ],
-    "Location": "Geneva, Switzerland (Hybrid)",
-    "Start Date": "Jun 01 2026",
-    "End Date": "Jun 03 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-02-10T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://cgs-network.org/CASAXR26/"
-  },
-  {
     "name": "CRYPTO 2026",
     "sub": [
       "Network and System Security"
@@ -7187,7 +7174,7 @@
     ],
     "Location": "Hengqin, Zhuhai, China (Hybrid)",
     "Start Date": "Nov 06 2026",
-    "End Date": "Nov 10 2026",
+    "End Date": "Nov 08 2026",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-08-25T23:59:59-12:00",
     "Notification": "",
@@ -9712,6 +9699,19 @@
     "link": "https://www.cs.unibo.it/wowmom2026/"
   },
   {
+    "name": "AI4SC 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Montréal, Canada",
+    "Start Date": "Feb 16 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 03 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "DSN 2026",
     "sub": [
       "Network and System Security"
@@ -10070,6 +10070,19 @@
     ],
     "Location": "London, UK",
     "Start Date": "Jun 16 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 31 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "SPICE 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Taichung, Taiwan",
+    "Start Date": "Mar 20 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Dec 31 2026",
@@ -10740,6 +10753,19 @@
     "link": "https://conferences.sigcomm.org/sigcomm/2026/"
   },
   {
+    "name": "CASA 2026",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Xi'an, China",
+    "Start Date": "Jun 04 2027",
+    "End Date": "Jun 06 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-02-04T23:59:59+00:00",
+    "Notification": "",
+    "link": "https://cgs-network.org/CASAXR26/"
+  },
+  {
     "name": "ICSIP 2027",
     "sub": [
       "Security & Privacy",
@@ -10924,19 +10950,6 @@
     "Submission Deadline": "Feb 21 2027",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "CADE 2027",
-    "sub": [
-      "Computing Theory"
-    ],
-    "Location": "Nijmegen, Netherlands",
-    "Start Date": "Aug 23 2027",
-    "End Date": "Aug 26 2027",
-    "Abstract Deadline": "2027-02-15T23:59:59-12:00",
-    "Submission Deadline": "2027-02-22T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://fscd-cade.science.ru.nl/"
   },
   {
     "name": "ICFP 2026",
@@ -11434,6 +11447,19 @@
     "link": "https://cgs-network.org/cgi27/"
   },
   {
+    "name": "CADE 2027",
+    "sub": [
+      "Computing Theory"
+    ],
+    "Location": "Nijmegen, Netherlands",
+    "Start Date": "Aug 23 2027",
+    "End Date": "Aug 26 2027",
+    "Abstract Deadline": "2027-04-19T23:59:59-12:00",
+    "Submission Deadline": "2027-04-26T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://fscd-cade.science.ru.nl/"
+  },
+  {
     "name": "KR 2027 - Main track; author response period: June 15-18, 2027",
     "sub": [
       "Artificial Intelligence"
@@ -11469,6 +11495,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 30 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IEEE MMSP 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Klagenfurt, Austria",
+    "Start Date": "Oct 06 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 14 2027",
     "Notification": "",
     "link": ""
   },
