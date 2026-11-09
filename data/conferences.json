@@ -1099,19 +1099,6 @@
     "link": "https://nossdav.org/2026/"
   },
   {
-    "name": "FCCM 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Atlanta, Georgia, USA",
-    "Start Date": "May 14 2026",
-    "End Date": "May 15 2026",
-    "Abstract Deadline": "2026-01-10T23:59:59-12:00",
-    "Submission Deadline": "2026-01-17T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.fccm.org/past/2026/"
-  },
-  {
     "name": "AI-SS 2026",
     "sub": [
       "Security and Privacy",
@@ -4931,19 +4918,6 @@
     "link": "https://swc-ieee-2026.github.io/uic/"
   },
   {
-    "name": "ICMLA 2026 - Main Conference Papers DDL.",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Oakland Center, Rochester, Michigan, USA",
-    "Start Date": "Oct 05 2026",
-    "End Date": "Oct 07 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-05-31T23:59:59+00:00",
-    "Notification": "",
-    "link": "https://www.icmla-conference.org/icmla26/"
-  },
-  {
     "name": "INDEL 2026",
     "sub": [
       "Wireless/Communication"
@@ -7238,7 +7212,7 @@
       "Artificial Intelligence"
     ],
     "Location": "Disney Springs, Buena Vista, FL, USA",
-    "Start Date": "Jan 04 2027",
+    "Start Date": "Jan 06 2027",
     "End Date": "Jan 08 2027",
     "Abstract Deadline": "2026-08-21T23:59:59-12:00",
     "Submission Deadline": "2026-08-28T23:59:59-12:00",
@@ -7893,8 +7867,8 @@
     "Location": "Dresden, Germany",
     "Start Date": "Mar 22 2027",
     "End Date": "Mar 24 2027",
-    "Abstract Deadline": "2026-09-13T23:59:59-12:00",
-    "Submission Deadline": "2026-09-20T23:59:59-12:00",
+    "Abstract Deadline": "2026-09-13T23:59:00-12:00",
+    "Submission Deadline": "2026-09-20T23:59:00-12:00",
     "Notification": "",
     "link": "https://www.date-conference.com/call-for-papers"
   },
@@ -7971,7 +7945,7 @@
     ],
     "Location": "San Francisco, CA, USA",
     "Start Date": "Apr 26 2027",
-    "End Date": "Apr 30 2027",
+    "End Date": "Apr 28 2027",
     "Abstract Deadline": "2026-09-18T23:59:59-12:00",
     "Submission Deadline": "2026-09-25T23:59:59-12:00",
     "Notification": "",
@@ -10143,6 +10117,19 @@
     "link": ""
   },
   {
+    "name": "BIS 2026",
+    "sub": [
+      "Interdiscipline/Mixture/Emerging"
+    ],
+    "Location": "Poznań, Poland",
+    "Start Date": "Jun 23 2027",
+    "End Date": "Jun 25 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-10T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://bisconf.org/2026/"
+  },
+  {
     "name": "ISIT 2026",
     "sub": [
       "Computing Theory"
@@ -10154,19 +10141,6 @@
     "Submission Deadline": "2027-01-10T23:59:59-12:00",
     "Notification": "",
     "link": "https://2026.ieee-isit.org/"
-  },
-  {
-    "name": "BIS 2026",
-    "sub": [
-      "Interdiscipline/Mixture/Emerging"
-    ],
-    "Location": "Poznań, Poland",
-    "Start Date": "Jun 23 2027",
-    "End Date": "Jun 25 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2027-01-11T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://bisconf.org/2026/"
   },
   {
     "name": "IJCAI 2027 - Separate satellite event: August 15-17, 2027, Hengqin, China",
@@ -10342,6 +10316,19 @@
     "Submission Deadline": "2027-01-15T23:59:59-12:00",
     "Notification": "",
     "link": "https://www.icwsm.org/2026/index.html"
+  },
+  {
+    "name": "FCCM 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Provo, Utah, USA",
+    "Start Date": "May 10 2027",
+    "End Date": "May 11 2027",
+    "Abstract Deadline": "2027-01-10T23:59:59-12:00",
+    "Submission Deadline": "2027-01-17T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.fccm.org/past/2026/"
   },
   {
     "name": "DIS 2026",
@@ -11525,6 +11512,19 @@
     "link": "https://conferences.sigappfr.org/apweb2027/"
   },
   {
+    "name": "ICMLA 2026 - Main Conference Papers DDL.",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "University of Miami, Coral Gables Campus, Miami, Florida, USA",
+    "Start Date": "Dec 14 2027",
+    "End Date": "Dec 16 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-05-15T23:59:59+00:00",
+    "Notification": "",
+    "link": "https://www.icmla-conference.org/icmla26/"
+  },
+  {
     "name": "IEEE CoG 2027 - Full Technical Paper",
     "sub": [
       "Graphics"
@@ -12510,8 +12510,8 @@
       "Artificial Intelligence"
     ],
     "Location": "Hong Kong, China",
-    "Start Date": "Oct 02 2027",
-    "End Date": "Oct 08 2027",
+    "Start Date": "Oct 05 2027",
+    "End Date": "Oct 07 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "",
     "Notification": "",
@@ -12563,8 +12563,8 @@
       "Artificial Intelligence"
     ],
     "Location": "Riocentro, Rio de Janeiro, Brazil",
-    "Start Date": "Jul 31 2027",
-    "End Date": "Aug 06 2027",
+    "Start Date": "Aug 02 2027",
+    "End Date": "Aug 04 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "",
     "Notification": "",
