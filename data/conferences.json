@@ -5774,19 +5774,6 @@
     "link": "https://sigcse2026.sigcse.org/"
   },
   {
-    "name": "AAAC 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Hongkong, China",
-    "Start Date": "Aug 21 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 05 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "IS'26",
     "sub": [
       "Network System"
@@ -5884,19 +5871,6 @@
     ],
     "Location": "Astana, Kazakhstan",
     "Start Date": "Oct 16 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "CCET 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "Taiyuan, China",
-    "Start Date": "Aug 14 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 10 2026",
@@ -6487,20 +6461,6 @@
     ],
     "Location": "Tempe, Arizona, USA, Arizona, United States",
     "Start Date": "Nov 12 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jul 31 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICICN 2026",
-    "sub": [
-      "Network System",
-      "Wireless/Communication"
-    ],
-    "Location": "Xi'an, China",
-    "Start Date": "Sep 04 2026",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jul 31 2026",
@@ -8926,19 +8886,6 @@
     "link": ""
   },
   {
-    "name": "CAIDS-2026",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Islamabad, Pakistan",
-    "Start Date": "Dec 24 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "EEET 2026",
     "sub": [
       "Wireless/Communication"
@@ -9042,6 +8989,19 @@
     "Submission Deadline": "2026-11-12T23:59:59-12:00",
     "Notification": "",
     "link": "https://2027.refsq.org/"
+  },
+  {
+    "name": "CAIDS-2026",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Islamabad, Pakistan",
+    "Start Date": "Dec 24 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 15 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "CSAI 2026",
@@ -9293,19 +9253,6 @@
     "link": "https://dac.com/2026/call-for-contributions"
   },
   {
-    "name": "ESANN 2026",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Bruges, Belgium and Online",
-    "Start Date": "Apr 21 2027",
-    "End Date": "Apr 23 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-11-19T03:59:59-08:00",
-    "Notification": "",
-    "link": "https://www.esann.org/"
-  },
-  {
     "name": "ICAID 2027",
     "sub": [
       "Security & Privacy"
@@ -9438,6 +9385,19 @@
     "link": "https://dasfaa2027.github.io/"
   },
   {
+    "name": "ESANN 2026",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Bruges, Belgium and Online",
+    "Start Date": "Apr 21 2027",
+    "End Date": "Apr 23 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-11-26T03:59:59-08:00",
+    "Notification": "",
+    "link": "https://www.esann.org/"
+  },
+  {
     "name": "TrustSecAI 2027",
     "sub": [
       "Security & Privacy"
@@ -9526,6 +9486,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Nov 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "EAI GOODTECHS 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Heraklion, Greece",
+    "Start Date": "Apr 22 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 01 2026",
     "Notification": "",
     "link": ""
   },
@@ -10269,6 +10242,19 @@
     ],
     "Location": "Tokyo, Japan",
     "Start Date": "Jul 09 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 15 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "IntelliSecAI-2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Al-Khobar, Saudi Arabia",
+    "Start Date": "Mar 24 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jan 15 2027",
@@ -11329,6 +11315,32 @@
     "link": "http://ic-icc.cn/2027/index.php"
   },
   {
+    "name": "CCET 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Beijing, China",
+    "Start Date": "Aug 13 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 25 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "AAAC 2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Seoul, South Korea",
+    "Start Date": "Aug 20 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 30 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICIP 2026",
     "sub": [
       "Graphics"
@@ -11348,6 +11360,19 @@
     ],
     "Location": "Geneva, Switzerland",
     "Start Date": "May 03 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 05 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "INBES'2027",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Ouarzazate, Morocco",
+    "Start Date": "Apr 24 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 05 2027",
@@ -11505,6 +11530,20 @@
     ],
     "Location": "Manchester, UK",
     "Start Date": "Jul 27 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 30 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICICN 2026",
+    "sub": [
+      "Network System",
+      "Wireless/Communication"
+    ],
+    "Location": "Guangzhou, China",
+    "Start Date": "Sep 24 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Apr 30 2027",
@@ -12949,6 +12988,19 @@
     "link": "https://impgroup.org/imp-conference-2026"
   },
   {
+    "name": "Important Dates",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.cicet.org"
+  },
+  {
     "name": "INCoS-2026",
     "sub": [
       "Wireless/Communication"
@@ -13319,8 +13371,8 @@
     "sub": [
       "Wireless/Communication"
     ],
-    "Location": "Shenzhen, China",
-    "Start Date": "Feb 27 2026",
+    "Location": "Singapore, Singapore",
+    "Start Date": "Feb 26 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
@@ -13332,8 +13384,8 @@
     "sub": [
       "Wireless/Communication"
     ],
-    "Location": "Singapore, Singapore",
-    "Start Date": "Feb 20 2026",
+    "Location": "Sydney, Australia",
+    "Start Date": "Feb 19 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
