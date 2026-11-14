@@ -8306,19 +8306,6 @@
     "link": "https://algorithmiclearningtheory.org/alt2026/"
   },
   {
-    "name": "COLING 2027 - COLING commitment after ARR meta-reviews; reviewed papers only",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Macau SAR, China / Online",
-    "Start Date": "May 09 2027",
-    "End Date": "May 14 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-10-12T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2027.coling-iccl.org/"
-  },
-  {
     "name": "WISP2026",
     "sub": [
       "Security & Privacy"
@@ -9411,6 +9398,19 @@
     "link": ""
   },
   {
+    "name": "IEEE Latin-IoT 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Santiago, Chile",
+    "Start Date": "Apr 28 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 28 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "IEEE LatinIoT 2027",
     "sub": [
       "Network System",
@@ -9696,6 +9696,19 @@
     "Submission Deadline": "2026-12-02T23:59:59-12:00",
     "Notification": "",
     "link": "https://cgweek27.computational-geometry.org/"
+  },
+  {
+    "name": "CC 2027",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Salt Lake City, Utah, USA",
+    "Start Date": "Mar 20 2027",
+    "End Date": "Mar 21 2027",
+    "Abstract Deadline": "2026-12-01T23:59:59-12:00",
+    "Submission Deadline": "2026-12-03T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/CC-2027"
   },
   {
     "name": "ICSIM 2027",
@@ -9996,6 +10009,19 @@
     "Submission Deadline": "2026-12-21T23:59:59+00:00",
     "Notification": "",
     "link": "https://gmp2026.kma.zcu.cz/"
+  },
+  {
+    "name": "COLING 2027 - Commitment deadline for long and short research papers reviewed by ARR",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Macau SAR, China / Online",
+    "Start Date": "May 09 2027",
+    "End Date": "May 14 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-12-23T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2027.coling-iccl.org/"
   },
   {
     "name": "NAACL 2027 - NAACL commitment after ARR meta-reviews; reviewed papers only",
