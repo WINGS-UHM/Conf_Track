@@ -2719,9 +2719,9 @@
     "sub": [
       "Artificial Intelligence"
     ],
-    "Location": "Conference center of the School of Psychology, University of Padua, Italy",
-    "Start Date": "Sep 15 2026",
-    "End Date": "Sep 17 2026",
+    "Location": "Linköping, Sweden",
+    "Start Date": "Aug 24 2027",
+    "End Date": "Aug 27 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-03-30T23:59:59-12:00",
     "Notification": "",
@@ -9084,19 +9084,6 @@
     "link": ""
   },
   {
-    "name": "CCFL 2027",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Al Khobar, Saudi Arabia",
-    "Start Date": "Feb 02 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 16 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "PDP 2027",
     "sub": [
       "Network System"
@@ -9319,6 +9306,19 @@
     "link": "https://www.codaspy.org/2026/"
   },
   {
+    "name": "CCFL 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Al Khobar, Saudi Arabia",
+    "Start Date": "Feb 02 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 25 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICCAE 2027",
     "sub": [
       "Network System",
@@ -9400,7 +9400,8 @@
   {
     "name": "IEEE Latin-IoT 2027",
     "sub": [
-      "Wireless/Communication"
+      "Wireless/Communication",
+      "Network System"
     ],
     "Location": "Santiago, Chile",
     "Start Date": "Apr 28 2027",
