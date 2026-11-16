@@ -10462,6 +10462,19 @@
     "link": "https://conf.researchr.org/home/ease-2026"
   },
   {
+    "name": "ICML 2027",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Riocentro, Rio de Janeiro, Brazil",
+    "Start Date": "Aug 02 2027",
+    "End Date": "Aug 04 2027",
+    "Abstract Deadline": "2027-01-14T23:59:59-12:00",
+    "Submission Deadline": "2027-01-22T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://icml.cc/Conferences/2027"
+  },
+  {
     "name": "ICET 2027",
     "sub": [
       "Wireless/Communication"
@@ -12504,6 +12517,110 @@
     "link": "http://www.ietcint.com"
   },
   {
+    "name": "https://ieee-vnc.org",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://ieee-vnc.org"
+  },
+  {
+    "name": "https://infocom2025.ieee-infocom.org",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://infocom2025.ieee-infocom.org"
+  },
+  {
+    "name": "https://netsoft2026.ieee-netsoft.org",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://netsoft2026.ieee-netsoft.org"
+  },
+  {
+    "name": "https://pimrc2025.ieee-pimrc.org",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://pimrc2025.ieee-pimrc.org"
+  },
+  {
+    "name": "https://pimrc2026.ieee-pimrc.org",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://pimrc2026.ieee-pimrc.org"
+  },
+  {
+    "name": "https://sgc2025.ieee-smartgridcomm.org",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://sgc2025.ieee-smartgridcomm.org"
+  },
+  {
+    "name": "https://www.ieee-meditcom.org",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.ieee-meditcom.org"
+  },
+  {
+    "name": "https://www.ieee-netsoft.org",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://www.ieee-netsoft.org"
+  },
+  {
     "name": "https://www.ieee.org",
     "sub": [
       "Wireless/Communication"
@@ -12648,19 +12765,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://www.icin-conference.org"
-  },
-  {
-    "name": "ICML 2027",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Riocentro, Rio de Janeiro, Brazil",
-    "Start Date": "Aug 02 2027",
-    "End Date": "Aug 04 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://icml.cc/Conferences/2027"
   },
   {
     "name": "ICPHM",
