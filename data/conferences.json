@@ -2839,9 +2839,9 @@
     "sub": [
       "Graphics"
     ],
-    "Location": "Rio de Janeiro, Brazil",
-    "Start Date": "Nov 11 2026",
-    "End Date": "Nov 14 2026",
+    "Location": "Hong Kong SAR, China",
+    "Start Date": "Nov 08 2027",
+    "End Date": "Nov 12 2027",
     "Abstract Deadline": "2026-03-25T23:59:00-12:00",
     "Submission Deadline": "2026-04-01T23:59:59-12:00",
     "Notification": "",
@@ -9465,19 +9465,6 @@
     "link": "https://mcsoc-forum.org"
   },
   {
-    "name": "MIPRO 2027",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Opatija, Croatia",
-    "Start Date": "May 31 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 30 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "‎‎ICBDAIA27",
     "sub": [
       "Security & Privacy"
@@ -9986,6 +9973,19 @@
     "link": "https://2027.eswc-conferences.org/"
   },
   {
+    "name": "MIPRO 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Opatija, Croatia",
+    "Start Date": "May 31 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 21 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "PDSF 2027",
     "sub": [
       "Security & Privacy"
@@ -10410,6 +10410,19 @@
     "link": ""
   },
   {
+    "name": "langsec27",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Montreal, Canada",
+    "Start Date": "May 20 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 22 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ACNS 2026 - Cycle 1 Submission deadline",
     "sub": [
       "Network and System Security"
@@ -10473,6 +10486,19 @@
     "Submission Deadline": "2027-01-22T23:59:59-12:00",
     "Notification": "",
     "link": "https://icml.cc/Conferences/2027"
+  },
+  {
+    "name": "Radioelektronika 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Rajecké Teplice, Slovakia",
+    "Start Date": "Apr 28 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 24 2027",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "ICET 2027",
@@ -10790,6 +10816,19 @@
     "Submission Deadline": "2027-02-02T23:59:59-12:00",
     "Notification": "",
     "link": "https://conferences.sigcomm.org/sigcomm/2026/"
+  },
+  {
+    "name": "SECUTE 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "San Sebastian, Spain",
+    "Start Date": "May 17 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 04 2027",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "CASA 2026",
@@ -13668,6 +13707,19 @@
     "link": ""
   },
   {
+    "name": "SCIA-2026",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Lviv, Ukraine",
+    "Start Date": "Dec 10 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "SCN 2026",
     "sub": [
       "Network System",
@@ -13989,6 +14041,19 @@
     ],
     "Location": "Ha Noi, Viet Nam",
     "Start Date": "Oct 29 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "WDC 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Macau, Macao",
+    "Start Date": "Jul 13 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "",
