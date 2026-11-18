@@ -8741,6 +8741,19 @@
     "link": "https://fg2027.ieee-biometrics.org/"
   },
   {
+    "name": "ICSE-CHASE 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Dublin, Ireland",
+    "Start Date": "Apr 26 2027",
+    "End Date": "Apr 27 2027",
+    "Abstract Deadline": "2026-10-23T23:59:59-12:00",
+    "Submission Deadline": "2026-10-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/chase-2026"
+  },
+  {
     "name": "ICST 2026",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
@@ -9261,23 +9274,10 @@
     "Location": "Ghent, Belgium",
     "Start Date": "Mar 30 2027",
     "End Date": "Apr 02 2027",
-    "Abstract Deadline": "2026-11-12T23:59:59-12:00",
+    "Abstract Deadline": "2026-11-19T23:59:59-12:00",
     "Submission Deadline": "2026-11-19T23:59:59-12:00",
     "Notification": "",
     "link": "https://2027.acmmmsys.org"
-  },
-  {
-    "name": "PAKDD 2026",
-    "sub": [
-      "Database/Data Mining/Information Retrieval"
-    ],
-    "Location": "Wellington, New Zealand",
-    "Start Date": "Jun 29 2027",
-    "End Date": "Jul 02 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-11-20T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.pakdd2026.org/"
   },
   {
     "name": "SCSN27-AI",
@@ -9291,19 +9291,6 @@
     "Submission Deadline": "Nov 23 2026",
     "Notification": "",
     "link": ""
-  },
-  {
-    "name": "CODASPY 2026",
-    "sub": [
-      "Network and System Security"
-    ],
-    "Location": "Fort Collins, Colorado, USA",
-    "Start Date": "Jun 14 2027",
-    "End Date": "Jun 17 2027",
-    "Abstract Deadline": "2026-11-16T23:59:59-12:00",
-    "Submission Deadline": "2026-11-23T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.codaspy.org/2026/"
   },
   {
     "name": "CCFL 2027",
@@ -9739,6 +9726,19 @@
     "link": "https://www.sigmobile.org/mobisys/2026/"
   },
   {
+    "name": "PAKDD 2026",
+    "sub": [
+      "Database/Data Mining/Information Retrieval"
+    ],
+    "Location": "Wellington, New Zealand",
+    "Start Date": "Jun 29 2027",
+    "End Date": "Jul 02 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-12-04T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.pakdd2026.org/"
+  },
+  {
     "name": "RSS 2027 - Stage 1: initial 6-page extended abstract submission",
     "sub": [
       "Artificial Intelligence"
@@ -9776,6 +9776,19 @@
     "Submission Deadline": "Dec 08 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "CODASPY 2026",
+    "sub": [
+      "Network and System Security"
+    ],
+    "Location": "Fort Collins, Colorado, USA",
+    "Start Date": "Jun 14 2027",
+    "End Date": "Jun 17 2027",
+    "Abstract Deadline": "2026-11-30T23:59:59-12:00",
+    "Submission Deadline": "2026-12-07T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.codaspy.org/2026/"
   },
   {
     "name": "ICS 2026 - Cycle 1",
@@ -10382,6 +10395,19 @@
     "Submission Deadline": "2027-01-18T23:59:59-12:00",
     "Notification": "",
     "link": "https://dis.acm.org/2026/"
+  },
+  {
+    "name": "SIGOPS ATC 2027",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Rennes, France",
+    "Start Date": "Jun 28 2027",
+    "End Date": "Jul 01 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2027-01-19T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://atc.sigops.org/2027/"
   },
   {
     "name": "CAV 2026",
@@ -11706,6 +11732,19 @@
     "Submission Deadline": "2027-06-04T23:59:59-12:00",
     "Notification": "",
     "link": "https://conferences.sigcomm.org/co-next/2026/#!/home"
+  },
+  {
+    "name": "Middleware 2027 - Winter cycle",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Kyoto, Japan",
+    "Start Date": "Dec 13 2027",
+    "End Date": "Dec 17 2027",
+    "Abstract Deadline": "2027-05-28T23:59:59-12:00",
+    "Submission Deadline": "2027-06-04T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://middleware-conf.github.io/2027/"
   },
   {
     "name": "ICDM 2027 - Full papers; dates are tentative and subject to change",
