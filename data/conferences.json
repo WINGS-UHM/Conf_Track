@@ -2505,19 +2505,6 @@
     "link": "https://2026.iccbr.org/"
   },
   {
-    "name": "MoDELS 2026",
-    "sub": [
-      "Software Engineering/Operating System/Programming Language Design"
-    ],
-    "Location": "Málaga, Spain",
-    "Start Date": "Oct 07 2026",
-    "End Date": "Oct 09 2026",
-    "Abstract Deadline": "2026-03-20T23:59:59-12:00",
-    "Submission Deadline": "2026-03-27T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://conf.researchr.org/home/models-2026"
-  },
-  {
     "name": "PPSN 2026",
     "sub": [
       "Artificial Intelligence"
@@ -2741,20 +2728,6 @@
     "Submission Deadline": "2026-03-31T23:59:59-12:00",
     "Notification": "",
     "link": "https://ieeevis.org/year/2026/welcome"
-  },
-  {
-    "name": "UIST 2026",
-    "sub": [
-      "Computer-Human Interaction",
-      "Computer–Human Interaction"
-    ],
-    "Location": "GM Renaissance Center, Detroit, MI, USA",
-    "Start Date": "Nov 02 2026",
-    "End Date": "Nov 05 2026",
-    "Abstract Deadline": "2026-03-24T23:59:59-12:00",
-    "Submission Deadline": "2026-03-31T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://uist.acm.org/2026/"
   },
   {
     "name": "FOCS 2026",
@@ -7386,7 +7359,7 @@
     "sub": [
       "Computer Architecture/Parallel Programming/Storage Technology"
     ],
-    "Location": "Crete, Greece",
+    "Location": "Heraklion, Crete, Greece",
     "Start Date": "Apr 11 2027",
     "End Date": "Apr 15 2027",
     "Abstract Deadline": "",
@@ -9154,8 +9127,8 @@
       "Database/Data Mining/Information Retrieval"
     ],
     "Location": "Cordis, Hong Kong SAR, China",
-    "Start Date": "Feb 15 2027",
-    "End Date": "Feb 19 2027",
+    "Start Date": "Feb 16 2027",
+    "End Date": "Feb 18 2027",
     "Abstract Deadline": "2026-08-17T23:59:59-12:00",
     "Submission Deadline": "2026-11-17T23:59:59-12:00",
     "Notification": "",
@@ -9861,7 +9834,7 @@
       "Artificial Intelligence"
     ],
     "Location": "Columbia, SC, USA",
-    "Start Date": "Jun 27 2027",
+    "Start Date": "Jun 30 2027",
     "End Date": "Jul 02 2027",
     "Abstract Deadline": "2026-12-07T23:59:59-12:00",
     "Submission Deadline": "2026-12-14T23:59:59-12:00",
@@ -10176,7 +10149,7 @@
     ],
     "Location": "Atlanta, Georgia, USA",
     "Start Date": "Jun 07 2027",
-    "End Date": "Jun 11 2027",
+    "End Date": "Jun 10 2027",
     "Abstract Deadline": "2027-01-04T23:59:59-12:00",
     "Submission Deadline": "2027-01-11T23:59:59-12:00",
     "Notification": "",
@@ -10698,19 +10671,6 @@
     "link": "https://spaa.acm.org/"
   },
   {
-    "name": "WHC 2027",
-    "sub": [
-      "Computer–Human Interaction"
-    ],
-    "Location": "Boston, Massachusetts, USA",
-    "Start Date": "Jul 12 2027",
-    "End Date": "Jul 15 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2027-01-29T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://2027.worldhaptics.org/"
-  },
-  {
     "name": "I4CS 2026",
     "sub": [
       "Network System"
@@ -10935,6 +10895,19 @@
     "Submission Deadline": "2027-02-05T23:59:59-12:00",
     "Notification": "",
     "link": "https://conferences.graphicsinterface.org/2027"
+  },
+  {
+    "name": "WHC 2027",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Boston, Massachusetts, USA",
+    "Start Date": "Jul 13 2027",
+    "End Date": "Jul 16 2027",
+    "Abstract Deadline": "2027-01-29T23:59:59-12:00",
+    "Submission Deadline": "2027-02-05T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://2027.worldhaptics.org/"
   },
   {
     "name": "EUSIPCO 2026",
@@ -11433,6 +11406,19 @@
     "link": "http://ic-icc.cn/2027/index.php"
   },
   {
+    "name": "MoDELS 2026",
+    "sub": [
+      "Software Engineering/Operating System/Programming Language Design"
+    ],
+    "Location": "Budapest, Hungary",
+    "Start Date": "Oct 07 2026",
+    "End Date": "Oct 09 2026",
+    "Abstract Deadline": "2027-03-12T23:59:59-12:00",
+    "Submission Deadline": "2027-03-19T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://conf.researchr.org/home/models-2026"
+  },
+  {
     "name": "CCET 2026",
     "sub": [
       "Wireless/Communication"
@@ -11537,6 +11523,20 @@
     "link": "https://conf.researchr.org/track/splash-2026/oopsla-2026"
   },
   {
+    "name": "UIST 2026",
+    "sub": [
+      "Computer-Human Interaction",
+      "Computer–Human Interaction"
+    ],
+    "Location": "VIECON - Vienna Congress & Convention Center, Vienna, Austria",
+    "Start Date": "Oct 27 2027",
+    "End Date": "Oct 29 2027",
+    "Abstract Deadline": "2027-03-31T23:59:59-12:00",
+    "Submission Deadline": "2027-04-07T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://uist.acm.org/2026/"
+  },
+  {
     "name": "IJCB 2026",
     "sub": [
       "Artificial Intelligence"
@@ -11555,7 +11555,7 @@
       "Artificial Intelligence"
     ],
     "Location": "Athens, Greece",
-    "Start Date": "Oct 02 2027",
+    "Start Date": "Oct 04 2027",
     "End Date": "Oct 07 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2027-04-14T23:59:59-12:00",
@@ -12470,12 +12470,25 @@
       "Database/Data Mining/Information Retrieval"
     ],
     "Location": "Eindhoven, The Netherlands",
-    "Start Date": "Sep 20 2027",
-    "End Date": "Sep 24 2027",
+    "Start Date": "Aug 30 2027",
+    "End Date": "Sep 03 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://ecmlpkdd.org/2027/"
+  },
+  {
+    "name": "ECSCW 2027",
+    "sub": [
+      "Computer–Human Interaction"
+    ],
+    "Location": "Limassol, Cyprus",
+    "Start Date": "Jul 05 2027",
+    "End Date": "Jul 09 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://ecscw.eusset.eu/2027/"
   },
   {
     "name": "ECTI-CON 2026",
