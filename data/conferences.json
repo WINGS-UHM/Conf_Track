@@ -3968,7 +3968,7 @@
     "Location": "Sydney, Australia; Atlanta, USA; Paris, France",
     "Start Date": "Dec 06 2026",
     "End Date": "Dec 12 2026",
-    "Abstract Deadline": "2026-05-05T11:59:00+00:00",
+    "Abstract Deadline": "2026-05-05T11:59:59+00:00",
     "Submission Deadline": "2026-05-07T11:59:59+00:00",
     "Notification": "",
     "link": "https://neurips.cc/Conferences/2026"
@@ -9188,19 +9188,6 @@
     "link": "https://2027.acmmmsys.org"
   },
   {
-    "name": "SCSN27-AI",
-    "sub": [
-      "Network System"
-    ],
-    "Location": "Laguna Hills, California, United States",
-    "Start Date": "Feb 01 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 23 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "CCFL 2027",
     "sub": [
       "Security & Privacy"
@@ -9581,7 +9568,7 @@
     "link": "https://cgweek27.computational-geometry.org/"
   },
   {
-    "name": "CC 2027",
+    "name": "CC 2027 - Optional abstract registration: December 1, 2026 (AoE)",
     "sub": [
       "Software Engineering/Operating System/Programming Language Design"
     ],
@@ -9770,6 +9757,19 @@
     ],
     "Location": "Karachi, Pakistan",
     "Start Date": "Dec 18 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "SCSN27-AI",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Laguna Hills, California, United States",
+    "Start Date": "Feb 01 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Dec 10 2026",
