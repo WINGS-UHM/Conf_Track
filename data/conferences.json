@@ -822,6 +822,20 @@
     "link": "https://2026.eswc-conferences.org/"
   },
   {
+    "name": "MobiSys 2026",
+    "sub": [
+      "Network System",
+      "Uncategorized"
+    ],
+    "Location": "Cambridge, UK",
+    "Start Date": "Jun 22 2026",
+    "End Date": "Jun 24 2026",
+    "Abstract Deadline": "2025-11-28T23:59:59-12:00",
+    "Submission Deadline": "2025-12-05T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.sigmobile.org/mobisys/2026/"
+  },
+  {
     "name": "MICETC-25-1",
     "sub": [
       "Network System"
@@ -965,6 +979,19 @@
     "Submission Deadline": "Dec 30 2025",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "SECON 2026",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Pisa, Italy",
+    "Start Date": "Jun 03 2026",
+    "End Date": "Jun 05 2026",
+    "Abstract Deadline": "2025-12-30T23:59:59-12:00",
+    "Submission Deadline": "2025-12-30T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://secon2026.ieee-secon.org/important-dates"
   },
   {
     "name": "CSS 2026",
@@ -9308,6 +9335,19 @@
     "link": ""
   },
   {
+    "name": "ICA India 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Bengaluru, India",
+    "Start Date": "Jan 21 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "icABCD2027",
     "sub": [
       "Wireless/Communication"
@@ -9345,6 +9385,19 @@
     "Submission Deadline": "Nov 30 2026",
     "Notification": "",
     "link": "https://mcsoc-forum.org"
+  },
+  {
+    "name": "RSDHA 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Seoul, South Korea",
+    "Start Date": "Feb 19 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 30 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "‎‎ICBDAIA27",
@@ -9386,17 +9439,17 @@
     "link": ""
   },
   {
-    "name": "SECON 2026",
+    "name": "SECON 2027 - Acceptance results: February 15 (date-only; AoE end-of-day default converted to UTC-5).",
     "sub": [
       "Network System"
     ],
     "Location": "Lisbon, Portugal",
     "Start Date": "May 05 2027",
     "End Date": "May 07 2027",
-    "Abstract Deadline": "2025-12-30T23:59:59-12:00",
+    "Abstract Deadline": "",
     "Submission Deadline": "2026-11-30T23:59:59-05:00",
     "Notification": "",
-    "link": "https://secon2026.ieee-secon.org/important-dates"
+    "link": "https://secon2027.ieee-secon.org/"
   },
   {
     "name": "ACISP 2026 - 1st round Deadline",
@@ -9601,16 +9654,15 @@
     "Location": "Rio de Janeiro, Brazil",
     "Start Date": "Dec 07 2026",
     "End Date": "Dec 10 2026",
-    "Abstract Deadline": "2026-11-27T23:59:59-12:00",
-    "Submission Deadline": "2026-12-04T23:59:59-12:00",
+    "Abstract Deadline": "2026-11-27T23:59:00-12:00",
+    "Submission Deadline": "2026-12-04T23:59:00-12:00",
     "Notification": "",
     "link": "https://conferences.sigcomm.org/co-next/2026/#!/home"
   },
   {
-    "name": "MobiSys 2026",
+    "name": "MobiSys 2027 - Acceptance is conditional on shepherding. March 6 is date-only; clock and time zone are repository defaults.",
     "sub": [
-      "Network System",
-      "Uncategorized"
+      "Network System"
     ],
     "Location": "Ho Chi Minh City, Vietnam",
     "Start Date": "Jun 21 2027",
@@ -9618,7 +9670,7 @@
     "Abstract Deadline": "2026-11-27T23:59:59-12:00",
     "Submission Deadline": "2026-12-04T23:59:59-12:00",
     "Notification": "",
-    "link": "https://www.sigmobile.org/mobisys/2026/"
+    "link": "https://www.sigmobile.org/mobisys/2027/"
   },
   {
     "name": "PAKDD 2026",
@@ -9692,7 +9744,7 @@
     ],
     "Location": "Atlanta, Georgia, USA",
     "Start Date": "Jun 05 2027",
-    "End Date": "Jun 11 2027",
+    "End Date": "Jun 08 2027",
     "Abstract Deadline": "2026-12-01T23:59:59-12:00",
     "Submission Deadline": "2026-12-07T23:59:59-12:00",
     "Notification": "",
@@ -10671,6 +10723,19 @@
     "link": "https://spaa.acm.org/"
   },
   {
+    "name": "CYPSY30",
+    "sub": [
+      "Network System"
+    ],
+    "Location": "Montréal, Canada",
+    "Start Date": "Jul 28 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 31 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "I4CS 2026",
     "sub": [
       "Network System"
@@ -10693,6 +10758,19 @@
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Jan 31 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ACM SaT-CPS2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Fort Collins, Colorado, United States",
+    "Start Date": "Jun 14 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 01 2027",
     "Notification": "",
     "link": ""
   },
@@ -11074,6 +11152,19 @@
     ],
     "Location": "Malé, Maldives",
     "Start Date": "Mar 23 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 28 2027",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "I3CTS",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Manila city, Philippines",
+    "Start Date": "Apr 08 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Feb 28 2027",
@@ -12805,6 +12896,19 @@
     "link": ""
   },
   {
+    "name": "ICCCN2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Rome, Italy",
+    "Start Date": "Jul 12 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICCP 2026",
     "sub": [
       "Wireless/Communication"
@@ -13837,6 +13941,19 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://igs2027singapore.github.io/"
+  },
+  {
+    "name": "SIGDOC '27",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Norfolk, Virginia, United States",
+    "Start Date": "Nov 04 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "Smartcomp 2026",
