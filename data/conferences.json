@@ -6864,19 +6864,6 @@
     "link": ""
   },
   {
-    "name": "Thank you for attending ICICSP 2026!",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Aug 20 2026",
-    "Notification": "",
-    "link": "https://www.icsp.org"
-  },
-  {
     "name": "NDSS 2027 - Summer; author rebuttal date tentative; decision is final major-revision notification",
     "sub": [
       "Network and System Security",
@@ -8834,20 +8821,6 @@
     "link": ""
   },
   {
-    "name": "ICIET 2026",
-    "sub": [
-      "Security & Privacy",
-      "Network System"
-    ],
-    "Location": "Osaka, Japan",
-    "Start Date": "Apr 09 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 10 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
     "name": "ICIT 2026",
     "sub": [
       "Network System"
@@ -9058,19 +9031,6 @@
     "link": "https://caise26.polimi.it/"
   },
   {
-    "name": "CVC 2027 - Round 1",
-    "sub": [
-      "Artificial Intelligence"
-    ],
-    "Location": "Amsterdam, Netherlands",
-    "Start Date": "Apr 15 2027",
-    "End Date": "Apr 16 2027",
-    "Abstract Deadline": "",
-    "Submission Deadline": "2026-11-15T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://saiconference.com/CVC"
-  },
-  {
     "name": "CVPR 2026",
     "sub": [
       "Artificial Intelligence"
@@ -9173,33 +9133,6 @@
     "Submission Deadline": "2026-11-18T17:00:00-08:00",
     "Notification": "",
     "link": "https://dac.com/2026/call-for-contributions"
-  },
-  {
-    "name": "ICAID 2027",
-    "sub": [
-      "Security & Privacy"
-    ],
-    "Location": "Paris, France",
-    "Start Date": "Mar 17 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 20 2026",
-    "Notification": "",
-    "link": ""
-  },
-  {
-    "name": "ICGHIT 2027",
-    "sub": [
-      "Security & Privacy",
-      "Network System"
-    ],
-    "Location": "Depok, Greater Jakarta, Indonesia",
-    "Start Date": "Jan 20 2027",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 20 2026",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "MMSys 2027 - Research Track - First Round (extended)",
@@ -9504,6 +9437,19 @@
     "link": "https://www.ccgrid2026.org/"
   },
   {
+    "name": "CVC 2027 - Round 1",
+    "sub": [
+      "Artificial Intelligence"
+    ],
+    "Location": "Amsterdam, Netherlands",
+    "Start Date": "Apr 15 2027",
+    "End Date": "Apr 16 2027",
+    "Abstract Deadline": "",
+    "Submission Deadline": "2026-12-01T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://saiconference.com/CVC"
+  },
+  {
     "name": "FSE 2026 - ToSC, Volume 2026, Issue 1 Submission deadline",
     "sub": [
       "Network and System Security"
@@ -9662,7 +9608,8 @@
   {
     "name": "MobiSys 2027 - Acceptance is conditional on shepherding. March 6 is date-only; clock and time zone are repository defaults.",
     "sub": [
-      "Network System"
+      "Network System",
+      "Uncategorized"
     ],
     "Location": "Ho Chi Minh City, Vietnam",
     "Start Date": "Jun 21 2027",
@@ -9697,6 +9644,20 @@
     "Submission Deadline": "2026-12-04T23:59:59-12:00",
     "Notification": "",
     "link": "https://roboticsconference.org/"
+  },
+  {
+    "name": "ICGHIT 2027",
+    "sub": [
+      "Security & Privacy",
+      "Network System"
+    ],
+    "Location": "Depok, Greater Jakarta, Indonesia",
+    "Start Date": "Jan 20 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 06 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "CPAL 2026",
@@ -9796,6 +9757,20 @@
     ],
     "Location": "Bangkok, Thailand",
     "Start Date": "Apr 26 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 10 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
+    "name": "ICIET 2026",
+    "sub": [
+      "Security & Privacy",
+      "Network System"
+    ],
+    "Location": "Osaka, Japan",
+    "Start Date": "Apr 09 2027",
     "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Dec 10 2026",
@@ -9957,6 +9932,19 @@
     "Submission Deadline": "2026-12-18T23:59:59-12:00",
     "Notification": "",
     "link": "https://ispass.org/ispass2026/"
+  },
+  {
+    "name": "ICAID 2027",
+    "sub": [
+      "Security & Privacy"
+    ],
+    "Location": "Paris, France",
+    "Start Date": "Mar 17 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 20 2026",
+    "Notification": "",
+    "link": ""
   },
   {
     "name": "MIPRO 2027",
@@ -11707,6 +11695,19 @@
     "link": "https://cgs-network.org/cgi27/"
   },
   {
+    "name": "Thank you for attending ICICSP 2026!",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "May 25 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 25 2027",
+    "Notification": "",
+    "link": "https://www.icsp.org"
+  },
+  {
     "name": "CADE 2027",
     "sub": [
       "Computing Theory"
@@ -12898,7 +12899,8 @@
   {
     "name": "ICCCN2027",
     "sub": [
-      "Security & Privacy"
+      "Security & Privacy",
+      "Wireless/Communication"
     ],
     "Location": "Rome, Italy",
     "Start Date": "Jul 12 2027",
