@@ -7945,8 +7945,8 @@
       "Network and System Security"
     ],
     "Location": "Reykjavik, Iceland",
-    "Start Date": "Mar 23 2026",
-    "End Date": "Mar 25 2026",
+    "Start Date": "May 04 2027",
+    "End Date": "May 06 2027",
     "Abstract Deadline": "2026-09-22T23:59:59-12:00",
     "Submission Deadline": "2026-09-29T23:59:59-12:00",
     "Notification": "",
@@ -9037,7 +9037,7 @@
     ],
     "Location": "Seattle, WA, United States",
     "Start Date": "Jun 22 2027",
-    "End Date": "Jun 25 2027",
+    "End Date": "Jun 24 2027",
     "Abstract Deadline": "2026-11-10T23:59:59-12:00",
     "Submission Deadline": "2026-11-16T23:59:59-12:00",
     "Notification": "",
@@ -13394,6 +13394,19 @@
     "link": "https://cymaen.org"
   },
   {
+    "name": "International Conference on Smart Science & Technology",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://incosst.polteksci.ac.id"
+  },
+  {
     "name": "International Conference on Telecommunications (ICT)",
     "sub": [
       "Wireless/Communication"
@@ -14321,19 +14334,6 @@
     "Submission Deadline": "",
     "Notification": "",
     "link": "https://siml.ums.ac.id"
-  },
-  {
-    "name": "Welcome to The 3rd INCOSST 2026",
-    "sub": [
-      "Wireless/Communication"
-    ],
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://incosst.polteksci.ac.id"
   },
   {
     "name": "WELCOME to WiOpt 2026",
