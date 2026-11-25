@@ -5831,8 +5831,8 @@
       "Software Engineering/Operating System/Programming Language Design"
     ],
     "Location": "Mexico City",
-    "Start Date": "Jan 10 2027",
-    "End Date": "Jan 16 2027",
+    "Start Date": "Jan 13 2027",
+    "End Date": "Jan 15 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-07-09T23:59:59-12:00",
     "Notification": "",
@@ -7839,7 +7839,7 @@
       "Software Engineering/Operating System/Programming Language Design"
     ],
     "Location": "Richmond, Virginia, United States",
-    "Start Date": "Mar 09 2027",
+    "Start Date": "Mar 10 2027",
     "End Date": "Mar 12 2027",
     "Abstract Deadline": "2026-09-21T23:59:59-12:00",
     "Submission Deadline": "2026-09-25T23:59:59-12:00",
@@ -8285,7 +8285,7 @@
       "Software Engineering/Operating System/Programming Language Design"
     ],
     "Location": "Prague, Czechia",
-    "Start Date": "Oct 10 2027",
+    "Start Date": "Oct 13 2027",
     "End Date": "Oct 15 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2026-10-14T23:59:59-12:00",
@@ -9268,6 +9268,19 @@
     "link": ""
   },
   {
+    "name": "HPCAsia-RSDHA 2027",
+    "sub": [
+      "Wireless/Communication"
+    ],
+    "Location": "Seoul, South Korea",
+    "Start Date": "Feb 19 2027",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Nov 30 2026",
+    "Notification": "",
+    "link": ""
+  },
+  {
     "name": "ICA India 2027",
     "sub": [
       "Wireless/Communication"
@@ -9422,19 +9435,6 @@
     "Submission Deadline": "2026-11-30T23:59:59-12:00",
     "Notification": "",
     "link": "https://petsymposium.org/cfp26.php"
-  },
-  {
-    "name": "CCGRID 2026",
-    "sub": [
-      "Computer Architecture/Parallel Programming/Storage Technology"
-    ],
-    "Location": "Dallas-Fort Worth, Texas, USA",
-    "Start Date": "May 24 2027",
-    "End Date": "May 27 2027",
-    "Abstract Deadline": "2026-11-24T23:59:59-12:00",
-    "Submission Deadline": "2026-12-01T23:59:59-12:00",
-    "Notification": "",
-    "link": "https://www.ccgrid2026.org/"
   },
   {
     "name": "CVC 2027 - Round 1",
@@ -9749,6 +9749,19 @@
     "Submission Deadline": "Dec 09 2026",
     "Notification": "",
     "link": ""
+  },
+  {
+    "name": "CCGRID 2026",
+    "sub": [
+      "Computer Architecture/Parallel Programming/Storage Technology"
+    ],
+    "Location": "Dallas-Fort Worth, Texas, USA",
+    "Start Date": "May 24 2027",
+    "End Date": "May 27 2027",
+    "Abstract Deadline": "2026-12-01T23:59:59-12:00",
+    "Submission Deadline": "2026-12-08T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://www.ccgrid2026.org/"
   },
   {
     "name": "ICBDA2027",
@@ -10990,6 +11003,19 @@
     "link": "https://eusipco2026.org/"
   },
   {
+    "name": "SPM 2027 - First review notification: Mar 26, 2027; revised paper due: Apr 23, 2027",
+    "sub": [
+      "Graphics"
+    ],
+    "Location": "Singapore",
+    "Start Date": "Jun 21 2027",
+    "End Date": "Jun 25 2027",
+    "Abstract Deadline": "2027-01-31T23:59:59-12:00",
+    "Submission Deadline": "2027-02-07T23:59:59-12:00",
+    "Notification": "",
+    "link": "https://spmconf2027.github.io/"
+  },
+  {
     "name": "ICCSN 2026",
     "sub": [
       "Network System",
@@ -11594,7 +11620,7 @@
       "Software Engineering/Operating System/Programming Language Design"
     ],
     "Location": "Prague, Czechia",
-    "Start Date": "Oct 10 2027",
+    "Start Date": "Oct 13 2027",
     "End Date": "Oct 15 2027",
     "Abstract Deadline": "",
     "Submission Deadline": "2027-04-07T23:59:59-12:00",
